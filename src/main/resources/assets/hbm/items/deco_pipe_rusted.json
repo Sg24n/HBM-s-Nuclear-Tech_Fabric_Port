@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/81f3ee79c538bed747aed0d803998fbd"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/81f3ee79c538bed747aed0d803998fbd"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/deco_pipe_rusted"}}}

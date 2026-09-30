@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/aa22c01a4b638d00fe8b4fe19e6bbc73"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/aa22c01a4b638d00fe8b4fe19e6bbc73"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/red_cable_box"}}}

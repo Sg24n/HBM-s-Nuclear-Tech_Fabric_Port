@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/c10d98f563f80eab2b0681d1fd8a303c"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/c10d98f563f80eab2b0681d1fd8a303c"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_slag"}}}

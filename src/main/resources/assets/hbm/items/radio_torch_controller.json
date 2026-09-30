@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/59662ec28c60bdf95fcbdb541e4d5b83"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/59662ec28c60bdf95fcbdb541e4d5b83"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/radio_torch_controller"}}}

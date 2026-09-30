@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/aada0e2c1a049f73dcffa79ad201ded2"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/aada0e2c1a049f73dcffa79ad201ded2"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/ore_nether_cobalt"}}}

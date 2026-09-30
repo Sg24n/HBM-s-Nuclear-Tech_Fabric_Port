@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/2360095938c36a98f9fb2754c25e88ff"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/2360095938c36a98f9fb2754c25e88ff"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/anvil_ferrouranium"}}}

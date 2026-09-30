@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/9e7ec7216faf3d076f4c2a9bb3ac1f3e"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/9e7ec7216faf3d076f4c2a9bb3ac1f3e"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/drone_waypoint"}}}

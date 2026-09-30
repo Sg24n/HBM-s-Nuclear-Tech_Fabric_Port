@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/9bb87209d09868558205903f2bca2ff2"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/9bb87209d09868558205903f2bca2ff2"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/concrete_asbestos"}}}

@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/411ac87c7057bcf9981830c5e71bca17"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/411ac87c7057bcf9981830c5e71bca17"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/asphalt"}}}

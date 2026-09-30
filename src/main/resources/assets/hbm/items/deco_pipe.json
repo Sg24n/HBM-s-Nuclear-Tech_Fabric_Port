@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/407a05b6bfde91acbb9e34d690aa1344"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/407a05b6bfde91acbb9e34d690aa1344"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/deco_pipe"}}}

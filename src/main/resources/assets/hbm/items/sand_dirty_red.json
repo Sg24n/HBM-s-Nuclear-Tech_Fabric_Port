@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/52ce375643c2f089286252536e601703"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/52ce375643c2f089286252536e601703"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/sand_dirty_red"}}}

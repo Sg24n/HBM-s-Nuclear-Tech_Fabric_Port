@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/d17c8655d1b69998f7ef20369ed8e7fd"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/d17c8655d1b69998f7ef20369ed8e7fd"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/machine_waste_drum"}}}

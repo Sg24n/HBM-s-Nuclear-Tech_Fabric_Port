@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/db474a4747f9498992d84934369812f3"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/db474a4747f9498992d84934369812f3"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_trinitite"}}}

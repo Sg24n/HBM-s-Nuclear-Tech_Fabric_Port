@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/2ba57eda080a2d3710403dffe95fe15d"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/2ba57eda080a2d3710403dffe95fe15d"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/rail_wood"}}}

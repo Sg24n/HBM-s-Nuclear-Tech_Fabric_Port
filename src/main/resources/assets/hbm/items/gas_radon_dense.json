@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/0b35750051650aae0fbd53b278e5e14b"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/0b35750051650aae0fbd53b278e5e14b"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/gas_radon_dense"}}}

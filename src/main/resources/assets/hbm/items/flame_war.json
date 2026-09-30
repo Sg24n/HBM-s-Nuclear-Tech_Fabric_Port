@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/1ee9f2adb5f2262716b4f0dd81a8b27b"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/1ee9f2adb5f2262716b4f0dd81a8b27b"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/flame_war"}}}

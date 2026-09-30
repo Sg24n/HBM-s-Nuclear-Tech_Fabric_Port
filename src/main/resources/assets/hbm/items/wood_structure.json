@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/17c790a3a4c1eeab8e373e708c74ba46"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/17c790a3a4c1eeab8e373e708c74ba46"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/wood_structure"}}}

@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/b60134856cb7dcb474b5599792c15faa"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/b60134856cb7dcb474b5599792c15faa"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_thorium"}}}

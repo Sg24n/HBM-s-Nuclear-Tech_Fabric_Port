@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/7af99a27772db248a48443ac892a9256"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7af99a27772db248a48443ac892a9256"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/ore_cinnebar"}}}

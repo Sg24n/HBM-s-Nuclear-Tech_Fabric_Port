@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/e45865a53eeae01a02b5387895d062c3"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e45865a53eeae01a02b5387895d062c3"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/deco_beryllium"}}}

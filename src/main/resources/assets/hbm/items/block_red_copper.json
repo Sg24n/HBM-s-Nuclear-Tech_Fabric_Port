@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/0ccfea2753741affebc27b3862bbbfe6"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/0ccfea2753741affebc27b3862bbbfe6"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_red_copper"}}}

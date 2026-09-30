@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/a21cfdcc6dc5f650f3e746e30dece134"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/a21cfdcc6dc5f650f3e746e30dece134"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/pole_satellite_receiver"}}}

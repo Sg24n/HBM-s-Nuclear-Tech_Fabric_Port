@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/55b3f4c0b08ef6005ea459b3110e5a97"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/55b3f4c0b08ef6005ea459b3110e5a97"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_sulfur"}}}

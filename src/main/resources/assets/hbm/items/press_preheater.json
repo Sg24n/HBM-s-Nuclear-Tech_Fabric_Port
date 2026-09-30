@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/e50666fecf0c7a36113ed1d1de0cc820"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e50666fecf0c7a36113ed1d1de0cc820"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/press_preheater"}}}

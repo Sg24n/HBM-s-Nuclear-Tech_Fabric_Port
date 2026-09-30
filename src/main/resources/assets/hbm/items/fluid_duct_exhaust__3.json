@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/abab3de8d66cd27c26ab0b7bd9fbd348"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/abab3de8d66cd27c26ab0b7bd9fbd348"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/fluid_duct_exhaust"}}}

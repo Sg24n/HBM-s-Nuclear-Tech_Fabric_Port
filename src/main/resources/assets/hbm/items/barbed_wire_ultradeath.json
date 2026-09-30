@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/7225467aa0f1014c409371024facadf6"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7225467aa0f1014c409371024facadf6"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/barbed_wire_ultradeath"}}}

@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/d4539235a72218664e15b75cd7da4b7b"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/d4539235a72218664e15b75cd7da4b7b"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/ladder_copper"}}}

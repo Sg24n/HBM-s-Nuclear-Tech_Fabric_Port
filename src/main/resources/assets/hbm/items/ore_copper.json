@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/ac6d1c55239fa7058d86f1bb472ec0c0"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/ac6d1c55239fa7058d86f1bb472ec0c0"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/ore_copper"}}}

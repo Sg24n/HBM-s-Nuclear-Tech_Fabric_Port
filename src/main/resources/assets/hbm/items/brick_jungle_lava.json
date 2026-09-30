@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/89448d61f9fb2835ba39831a91218d59"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/89448d61f9fb2835ba39831a91218d59"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/brick_jungle_lava"}}}

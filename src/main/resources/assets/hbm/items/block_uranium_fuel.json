@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/2687c01959b71acf8347b15c0a980e6a"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/2687c01959b71acf8347b15c0a980e6a"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_uranium_fuel"}}}

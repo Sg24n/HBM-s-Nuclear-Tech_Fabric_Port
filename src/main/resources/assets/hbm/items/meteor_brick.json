@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/8a85d3fa039dd23fe876a72bcb394f66"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/8a85d3fa039dd23fe876a72bcb394f66"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/meteor_brick"}}}

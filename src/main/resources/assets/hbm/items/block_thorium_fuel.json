@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/27f214c2d6bf56a049010489e0529736"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/27f214c2d6bf56a049010489e0529736"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_thorium_fuel"}}}

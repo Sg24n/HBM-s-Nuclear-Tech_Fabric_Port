@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/dd6646ec4d80cb9b124f783ec74df7bd"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/dd6646ec4d80cb9b124f783ec74df7bd"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_plutonium_fuel"}}}

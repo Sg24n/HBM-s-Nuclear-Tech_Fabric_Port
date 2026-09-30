@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/2459445f6cd538e2ca5f262aaa510416"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/2459445f6cd538e2ca5f262aaa510416"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_schrabidium_fuel"}}}

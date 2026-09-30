@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/e205eb2e4074ddd29e80f3ffb415e318"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e205eb2e4074ddd29e80f3ffb415e318"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/hadron_coil_schrabidate"}}}

@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/05cc44bd654eafd765565b947463ac33"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/05cc44bd654eafd765565b947463ac33"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/pribris_digamma"}}}

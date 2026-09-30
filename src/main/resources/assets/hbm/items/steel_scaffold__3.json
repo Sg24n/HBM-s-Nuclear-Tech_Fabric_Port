@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/6845f06de7acf3741835d1534af26f5c"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/6845f06de7acf3741835d1534af26f5c"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/steel_scaffold"}}}

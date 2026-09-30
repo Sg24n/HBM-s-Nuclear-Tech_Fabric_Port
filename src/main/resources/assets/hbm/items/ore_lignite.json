@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/abfd268ef988ce4fd0d21c76fa229974"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/abfd268ef988ce4fd0d21c76fa229974"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/ore_lignite"}}}

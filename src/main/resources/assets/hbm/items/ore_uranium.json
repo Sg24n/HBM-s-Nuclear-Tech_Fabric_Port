@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/d515f06d72735f9219897710ae6f0c2e"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/d515f06d72735f9219897710ae6f0c2e"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/ore_uranium"}}}

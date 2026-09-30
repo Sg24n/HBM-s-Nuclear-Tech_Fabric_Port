@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/fba19f9ace87ce381dad1aa345561663"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/fba19f9ace87ce381dad1aa345561663"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/sellafield"}}}

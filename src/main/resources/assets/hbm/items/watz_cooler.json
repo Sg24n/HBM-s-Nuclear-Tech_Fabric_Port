@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/9b11eac0b551e034e1dab99ff4fefbb5"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/9b11eac0b551e034e1dab99ff4fefbb5"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/watz_cooler"}}}

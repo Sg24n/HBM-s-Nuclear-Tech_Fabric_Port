@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/006a0121eb092045d09bf4bf54ac0241"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/006a0121eb092045d09bf4bf54ac0241"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/cluster_titanium"}}}

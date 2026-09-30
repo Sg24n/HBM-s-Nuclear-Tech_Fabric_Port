@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/0262aaafbd8af8f00f85d40437d7e69f"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/0262aaafbd8af8f00f85d40437d7e69f"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_starmetal"}}}

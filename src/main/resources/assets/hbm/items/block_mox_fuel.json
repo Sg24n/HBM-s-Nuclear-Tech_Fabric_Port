@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/316f22e3423e83bbc6733b138e26641b"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/316f22e3423e83bbc6733b138e26641b"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_mox_fuel"}}}

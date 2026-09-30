@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/b4141747c81910520d955f77a5863d64"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/b4141747c81910520d955f77a5863d64"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_schrabidium"}}}

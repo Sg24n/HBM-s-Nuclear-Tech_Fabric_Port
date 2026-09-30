@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/33a73bab6e5bc4d8aa93b64e2265d05e"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/33a73bab6e5bc4d8aa93b64e2265d05e"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/pneumatic_storage_clutter"}}}

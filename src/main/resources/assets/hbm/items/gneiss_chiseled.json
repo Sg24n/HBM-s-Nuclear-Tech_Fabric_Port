@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/f674baa2ebd6484d2fc860aeaac45689"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/f674baa2ebd6484d2fc860aeaac45689"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/gneiss_chiseled"}}}

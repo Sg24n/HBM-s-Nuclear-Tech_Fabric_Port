@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/4879397ca2ce6180b81e1ce82eb2cbec"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/4879397ca2ce6180b81e1ce82eb2cbec"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/depth_nether_tiles"}}}

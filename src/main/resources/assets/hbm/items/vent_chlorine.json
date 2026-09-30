@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/bc158d6be17035707cdf47105d94c5d0"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/bc158d6be17035707cdf47105d94c5d0"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/vent_chlorine"}}}

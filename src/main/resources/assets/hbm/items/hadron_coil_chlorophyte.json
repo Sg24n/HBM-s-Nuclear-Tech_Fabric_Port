@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/4e36384f9e9bd49cde85bdaa4a2762d5"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/4e36384f9e9bd49cde85bdaa4a2762d5"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/hadron_coil_chlorophyte"}}}

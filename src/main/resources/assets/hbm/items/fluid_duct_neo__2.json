@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/5574e07a3fbaa559e43fdbb809df1fef"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/5574e07a3fbaa559e43fdbb809df1fef"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/fluid_duct_neo"}}}

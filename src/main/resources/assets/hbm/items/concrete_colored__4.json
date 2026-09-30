@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/900551c1733d1bc1711296762f7a828a"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/900551c1733d1bc1711296762f7a828a"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/concrete_colored"}}}

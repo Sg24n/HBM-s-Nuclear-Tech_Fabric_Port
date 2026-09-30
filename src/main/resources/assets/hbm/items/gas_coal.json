@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/4dacc122e8b3c1ade00a0a93e92d9b5a"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/4dacc122e8b3c1ade00a0a93e92d9b5a"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/gas_coal"}}}

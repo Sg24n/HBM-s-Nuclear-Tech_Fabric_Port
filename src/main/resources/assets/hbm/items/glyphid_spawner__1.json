@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/bb5b5c6fa4a2332c41037c768ffde02d"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/bb5b5c6fa4a2332c41037c768ffde02d"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/glyphid_spawner"}}}

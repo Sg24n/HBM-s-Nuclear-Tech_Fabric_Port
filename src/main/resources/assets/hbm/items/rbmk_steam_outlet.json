@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/96cfbdaf00b55d5ba982a514eee28e6b"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/96cfbdaf00b55d5ba982a514eee28e6b"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/rbmk_steam_outlet"}}}

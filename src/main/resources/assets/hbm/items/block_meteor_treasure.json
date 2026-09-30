@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/a842e1c0c2c2b160284ffa449e52b658"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/a842e1c0c2c2b160284ffa449e52b658"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_meteor_treasure"}}}

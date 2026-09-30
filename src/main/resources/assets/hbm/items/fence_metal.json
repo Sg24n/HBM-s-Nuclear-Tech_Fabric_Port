@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/d96f2c4735a872d335a124cfba7cea50"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/d96f2c4735a872d335a124cfba7cea50"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/fence_metal"}}}

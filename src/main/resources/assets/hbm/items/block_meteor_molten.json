@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/a3eafcb397950d9491cb15bbc611bb40"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/a3eafcb397950d9491cb15bbc611bb40"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/block_meteor_molten"}}}

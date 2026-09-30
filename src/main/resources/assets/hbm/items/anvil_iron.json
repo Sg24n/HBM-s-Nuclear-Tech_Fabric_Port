@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/b45b948d27e56dc315469771f80a709e"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/b45b948d27e56dc315469771f80a709e"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/anvil_iron"}}}

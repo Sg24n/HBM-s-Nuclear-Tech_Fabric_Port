@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/6e6a6d0cf30423fca66d6798fc6a1092"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/6e6a6d0cf30423fca66d6798fc6a1092"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/deco_lead"}}}

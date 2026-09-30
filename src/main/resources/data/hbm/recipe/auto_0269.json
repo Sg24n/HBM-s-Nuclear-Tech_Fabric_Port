@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","WSW","WSW"],"key":{"P":"#hbm:plate/steel","S":"#hbm:ingot/tungsten","C":"hbm:padlock","W":"#minecraft:planks"},"result":{"id":"hbm:machine_keyforge","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","RPY"," B "],"key":{"B":"#hbm:dust/lapis","C":"#hbm:dust/coal","R":"#hbm:dust/mingrade","Y":"#hbm:dust/gold","P":"minecraft:paper"},"result":{"id":"hbm:polaroid","count":1}}

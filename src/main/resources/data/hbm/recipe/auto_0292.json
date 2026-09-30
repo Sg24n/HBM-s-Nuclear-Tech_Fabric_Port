@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PSP","SDS","PSP"],"key":{"P":"hbm:powder_magic","S":"#hbm:ingot/starmetal","D":"hbm:circuit__11"},"result":{"id":"hbm:rune_blank","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EAE","ASA","EAE"],"key":{"E":"hbm:plate_euphemium","A":"hbm:cell_anti_schrabidium","S":"hbm:singularity"},"result":{"id":"hbm:ams_core_sing","count":1}}

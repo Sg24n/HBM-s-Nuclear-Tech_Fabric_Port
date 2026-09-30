@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","B","I"],"key":{"I":"minecraft:iron_ingot","B":"#hbm:bolt/steel"},"result":{"id":"hbm:padlock_rusty","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["AAD","CHF","AAD"],"key":{"A":"#hbm:wirefine/aluminum","C":"hbm:circuit__8","H":"#hbm:shell/aluminum","F":"hbm:fins_quad_titanium","D":"minecraft:white_dye"},"result":{"id":"hbm:bomb_multi","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe","C":"#hbm:plate/steel"},"result":{"id":"hbm:deco_pipe_rim","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["BBB","LLL","P P"],"key":{"P":"#hbm:plate/steel","L":"hbm:glass_lead","B":"hbm:glass_boron"},"result":{"id":"hbm:rbmk_lid_glass","count":4}}

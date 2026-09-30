@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["OOO","OBO","OOO"],"key":{"O":"hbm:ore_nether_uranium_scorched","B":"minecraft:water_bucket"},"result":{"id":"hbm:ore_nether_uranium","count":8}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:book","minecraft:iron_ingot"],"result":{"id":"hbm:book_guide__3","count":1}}

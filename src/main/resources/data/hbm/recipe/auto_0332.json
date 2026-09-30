@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","LLL","P P"],"key":{"P":"#hbm:plate/steel","L":"hbm:glass_lead","B":"hbm:glass_boron"},"result":{"id":"hbm:rbmk_lid_glass","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_super_heated"],"result":{"id":"hbm:rune_hagalaz","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:basalt_brick"},"result":{"id":"hbm:basalt_tiles","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:asphalt","minecraft:glowstone_dust"],"result":{"id":"hbm:asphalt_light","count":1}}

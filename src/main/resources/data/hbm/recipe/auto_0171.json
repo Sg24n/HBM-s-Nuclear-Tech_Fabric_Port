@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:gneiss_tile"],"result":{"id":"hbm:gneiss_chiseled","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:block_meteor_broken"},"result":{"id":"hbm:meteor_polished","count":4}}

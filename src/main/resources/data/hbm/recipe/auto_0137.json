@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","EIE","EEE"],"key":{"E":"hbm:powder_power","I":"#hbm:ingot/euphemium"},"result":{"id":"hbm:crystal_xen","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","ACA"," S "],"key":{"M":"hbm:motor","A":"#hbm:plate/aluminum","C":"#hbm:shell/copper","S":"#hbm:platetriple/steel"},"result":{"id":"hbm:pile_device__1","count":1}}

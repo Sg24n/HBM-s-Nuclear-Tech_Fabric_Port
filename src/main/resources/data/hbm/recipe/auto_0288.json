@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fence_metal"],"result":{"id":"hbm:fence_metal__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","STS"," D "],"key":{"S":"#hbm:plate/steel","T":"#hbm:ingot/tungsten","D":"#hbm:bolt/durasteel"},"result":{"id":"hbm:piston_selenium","count":1}}

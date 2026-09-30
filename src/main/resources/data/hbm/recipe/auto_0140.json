@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PIP"," P "],"key":{"P":"#hbm:plate/titanium","I":"#hbm:ingot/titanium"},"result":{"id":"hbm:blades_titanium","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:detonator","hbm:circuit__9"],"result":{"id":"hbm:detonator_multi","count":1}}

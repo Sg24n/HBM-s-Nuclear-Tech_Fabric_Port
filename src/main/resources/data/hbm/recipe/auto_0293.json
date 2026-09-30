@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_counter_resonant"],"result":{"id":"hbm:rune_isa","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:plate_dineutronium","P":"hbm:powder_spark_mix","S":"hbm:singularity"},"result":{"id":"hbm:ams_core_wormhole","count":1}}

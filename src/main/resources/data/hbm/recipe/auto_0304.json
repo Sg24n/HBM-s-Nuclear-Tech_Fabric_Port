@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_isa","hbm:rune_isa","hbm:rune_jera","hbm:rune_thurisaz","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum"],"result":{"id":"hbm:ams_catalyst_aluminium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LLL","MGM","LLL"],"key":{"L":"minecraft:leather","G":"#hbm:plate/weaponsteel","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:ammo_bag","count":1}}

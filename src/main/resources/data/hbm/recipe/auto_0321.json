@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SUS","SCS","SUS"],"key":{"S":"#hbm:plate/steel","U":"hbm:upgrade_template","C":"hbm:crystal_xen"},"result":{"id":"hbm:upgrade_screm","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fence_metal"],"result":{"id":"hbm:fence_metal","count":1}}

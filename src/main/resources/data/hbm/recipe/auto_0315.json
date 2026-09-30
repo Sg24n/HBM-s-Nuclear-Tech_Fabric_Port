@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IPI","I I","IPI"],"key":{"I":"#hbm:plate/steel","P":"#hbm:ingot/steel"},"result":{"id":"hbm:barrel_steel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","DCD","SSS"],"key":{"S":"hbm:steel_scaffold","D":"hbm:fluid_duct_neo","C":"hbm:red_cable"},"result":{"id":"hbm:struct_scaffold","count":8}}

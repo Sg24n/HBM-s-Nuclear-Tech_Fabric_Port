@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe","C":"#hbm:dust/iron"},"result":{"id":"hbm:deco_pipe_rusted","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["C","R","D"],"key":{"C":"hbm:circuit__9","R":"hbm:rbmk_control","D":"hbm:crt_display"},"result":{"id":"hbm:rbmk_control_auto","count":1}}

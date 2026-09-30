@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","DGD","DCD"],"key":{"B":"#hbm:ingot/boron","D":"hbm:deco_rbmk","G":"minecraft:glass_pane","C":"hbm:circuit__7"},"result":{"id":"hbm:rbmk_console","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:parts_legendary__1"],"result":{"id":"hbm:parts_legendary","count":3}}

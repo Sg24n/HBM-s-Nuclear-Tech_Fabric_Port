@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WPW","CMC","PPP"],"key":{"W":"#hbm:wirefine/tungsten","P":"#hbm:plate/lead","C":"hbm:circuit__8","M":"hbm:magnetron"},"result":{"id":"hbm:reactor_sensor","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ingot_chainsteel","#hbm:ingot/asbestos","hbm:gem_alexandrite"],"result":{"id":"hbm:parts_legendary","count":1}}

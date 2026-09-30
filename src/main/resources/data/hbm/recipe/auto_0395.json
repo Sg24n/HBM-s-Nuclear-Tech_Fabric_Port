@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["G","S","C"],"key":{"G":"minecraft:glowstone_dust","S":"#hbm:ingot/steel","C":"hbm:coil_copper"},"result":{"id":"hbm:charger","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RRR","R R","RRR"],"key":{"R":"hbm:deco_rbmk_smooth"},"result":{"id":"hbm:rbmk_blank","count":1}}

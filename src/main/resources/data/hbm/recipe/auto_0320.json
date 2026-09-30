@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PHP","CUC","DTD"],"key":{"P":"hbm:motor","H":"minecraft:hopper","C":"hbm:blades_titanium","U":"hbm:upgrade_smelter","D":"#hbm:plate/titanium","T":"hbm:machine_transformer"},"result":{"id":"hbm:upgrade_shredder","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fence_metal"],"result":{"id":"hbm:fence_metal__1","count":1}}

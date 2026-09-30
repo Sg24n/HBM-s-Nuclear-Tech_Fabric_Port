@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" R ","CCC"," B "],"key":{"R":"hbm:radio_torch_receiver","B":"hbm:rbmk_display_blank","C":"hbm:circuit__19"},"result":{"id":"hbm:rbmk_numitron","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_dagaz","hbm:rune_hagalaz","hbm:rune_thurisaz","hbm:rune_thurisaz","#hbm:dust/schrabidium","#hbm:dust/schrabidium","#hbm:dust/schrabidium","#hbm:dust/schrabidium"],"result":{"id":"hbm:ams_catalyst_schrabidium","count":1}}

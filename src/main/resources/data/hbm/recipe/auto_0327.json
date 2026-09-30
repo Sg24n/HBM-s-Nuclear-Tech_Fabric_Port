@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:hadron_coil_chlorophyte"],"result":{"id":"hbm:powder_chlorophyte","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#hbm:dust/lead"],"result":{"id":"hbm:sand_mix__1","count":8}}

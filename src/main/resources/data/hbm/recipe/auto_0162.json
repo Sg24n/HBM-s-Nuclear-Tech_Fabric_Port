@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:meteor_polished"},"result":{"id":"hbm:meteor_brick","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","CBC"," C "],"key":{"C":"hbm:concrete_smooth","B":"minecraft:clay_ball"},"result":{"id":"hbm:brick_concrete","count":4}}

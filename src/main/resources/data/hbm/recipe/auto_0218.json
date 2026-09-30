@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","SRS"," P "],"key":{"P":"minecraft:paper","S":"hbm:solid_fuel","R":"minecraft:redstone"},"result":{"id":"hbm:solid_fuel_presto","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BBB","BIB","BBB"],"key":{"B":"hbm:barbed_wire","I":"hbm:powder_poison"},"result":{"id":"hbm:barbed_wire_poison","count":8}}

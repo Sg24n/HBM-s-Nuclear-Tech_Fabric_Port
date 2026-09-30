@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:stone_gneiss"},"result":{"id":"hbm:gneiss_tile","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["DSD","SUS","DSD"],"key":{"D":"hbm:brick_ducrete","S":"hbm:plate_steel","U":"#hbm:billet/uranium238"},"result":{"id":"hbm:reinforced_ducrete","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","B"],"key":{"C":"hbm:crt_display","B":"hbm:rbmk_display_blank"},"result":{"id":"hbm:rbmk_display","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_isa","hbm:rune_isa","hbm:rune_thurisaz","hbm:rune_thurisaz","#hbm:dust/caesium","#hbm:dust/caesium","#hbm:dust/caesium","#hbm:dust/caesium"],"result":{"id":"hbm:ams_catalyst_caesium","count":1}}

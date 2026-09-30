@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","S","S"],"key":{"S":"hbm:steel_scaffold"},"result":{"id":"hbm:steel_beam","count":8}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:lightstone"],"result":{"id":"hbm:lightstone__3","count":1}}

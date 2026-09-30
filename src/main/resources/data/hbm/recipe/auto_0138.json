@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/steel","hbm:plate_polymer","#hbm:wirefine/tungsten"],"result":{"id":"hbm:fuse","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" B ","SBS","SBS"],"key":{"B":"#hbm:ingot/boron","S":"#hbm:plate/steel"},"result":{"id":"hbm:pile_device__2","count":1}}

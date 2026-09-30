@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SS","SS"],"key":{"S":"hbm:steel_beam"},"result":{"id":"hbm:steel_grate","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:lightstone"],"result":{"id":"hbm:lightstone__4","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:circuit__9"],"result":{"id":"hbm:launch_code","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","ICI","III"],"key":{"I":"#hbm:plate/steel","C":"#hbm:ingot/titanium"},"result":{"id":"hbm:gear_large__1","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe_rim","C":"minecraft:red_dye"},"result":{"id":"hbm:deco_pipe_rim_red","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":[" R ","CCC"," B "],"key":{"R":"hbm:radio_torch_receiver","B":"hbm:rbmk_display_blank","C":"hbm:circuit__19"},"result":{"id":"hbm:rbmk_numitron","count":1}}

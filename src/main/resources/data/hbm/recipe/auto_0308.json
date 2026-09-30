@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_hagalaz","hbm:rune_hagalaz","hbm:rune_jera","hbm:rune_thurisaz","#hbm:dust/cerium","#hbm:dust/cerium","#hbm:dust/cerium","#hbm:dust/cerium"],"result":{"id":"hbm:ams_catalyst_cerium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BGB","SAS","BSB"],"key":{"B":"#hbm:ingot/beryllium","G":"minecraft:iron_bars","S":"#hbm:ingot/steel","A":"hbm:rad_absorber"},"result":{"id":"hbm:decon","count":1}}

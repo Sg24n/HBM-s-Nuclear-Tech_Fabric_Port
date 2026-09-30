@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CBC","CBC","CBC"],"key":{"C":"hbm:concrete_smooth","B":"minecraft:iron_bars"},"result":{"id":"hbm:concrete_pillar","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","PBP"," P "],"key":{"P":"hbm:plate_desh","B":"hbm:blades_titanium"},"result":{"id":"hbm:blades_desh","count":1}}

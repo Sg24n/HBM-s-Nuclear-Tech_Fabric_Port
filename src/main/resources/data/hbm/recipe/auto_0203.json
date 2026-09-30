@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS"," S ","SSS"],"key":{"S":"#hbm:ingot/steel"},"result":{"id":"hbm:steel_scaffold","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:lightstone"},"result":{"id":"hbm:lightstone__2","count":4}}

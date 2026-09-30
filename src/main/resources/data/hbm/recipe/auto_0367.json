@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:deco_pipe_framed"],"result":{"id":"hbm:deco_pipe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","CCC","PPP"],"key":{"P":"#hbm:plate/steel","C":"hbm:concrete_asbestos"},"result":{"id":"hbm:rbmk_lid","count":4}}

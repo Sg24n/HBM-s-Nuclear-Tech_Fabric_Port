@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SCS","CBC","SCS"],"key":{"S":"#hbm:ingot/steel","C":"#hbm:plate/copper","B":"hbm:tank_steel"},"result":{"id":"hbm:rbmk_steam_outlet","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_dagaz","hbm:rune_hagalaz","hbm:rune_jera","hbm:rune_thurisaz","#hbm:dust/niobium","#hbm:dust/niobium","#hbm:dust/niobium","#hbm:dust/niobium"],"result":{"id":"hbm:ams_catalyst_niobium","count":1}}

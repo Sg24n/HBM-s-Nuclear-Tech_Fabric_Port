@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","C C"," C "],"key":{"C":"hbm:brick_concrete_cracked"},"result":{"id":"hbm:brick_concrete_broken","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["QBQ","CSC","QBQ"],"key":{"Q":"hbm:glass_quartz","B":"#hbm:ingot/cmbsteel","C":"#hbm:ingot/schrabidate","S":"hbm:cell_anti_schrabidium"},"result":{"id":"hbm:laser_crystal_cmb","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","ICI","IEI"],"key":{"W":"#hbm:wirefine/gold","I":"hbm:plate_polymer","E":"minecraft:redstone","C":"#hbm:dust/cobalt"},"result":{"id":"hbm:hev_battery","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["SS"],"key":{"S":"hbm:steel_grate_wide"},"result":{"id":"hbm:steel_grate","count":1}}

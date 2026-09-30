@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IAI","   ","IAI"],"key":{"I":"#hbm:plate/iron","A":"#hbm:plate/aluminum"},"result":{"id":"hbm:fluid_duct_neo__1","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","SRS"," P "],"key":{"P":"minecraft:paper","S":"hbm:solid_fuel_bf","R":"minecraft:redstone"},"result":{"id":"hbm:solid_fuel_presto_bf","count":1}}

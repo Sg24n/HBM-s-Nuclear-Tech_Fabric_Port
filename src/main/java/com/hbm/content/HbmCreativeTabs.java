@@ -10,12 +10,19 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.resources.Identifier;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.ItemStack;
 
+import java.util.HashSet;
+import java.util.Set;
 import java.util.Locale;
 
 public final class HbmCreativeTabs {
 
 	private HbmCreativeTabs() {
+	}
+
+	private static String stackKey(ItemStack stack) {
+		return BuiltInRegistries.ITEM.getKey(stack.getItem()) + "|" + stack.getComponents();
 	}
 
 	public static void initialize() {
@@ -25,8 +32,12 @@ public final class HbmCreativeTabs {
 					.title(Component.translatable(tab.titleKey()))
 					.icon(() -> PlaceholderContent.iconStack(tab))
 					.displayItems((context, output) -> {
+						Set<String> seen = new HashSet<>();
 						for (PlaceholderContent.Stack stack : PlaceholderContent.tab(tab.key())) {
-							output.accept(PlaceholderContent.stack(stack));
+							ItemStack itemStack = PlaceholderContent.stack(stack);
+							if (seen.add(stackKey(itemStack))) {
+								output.accept(itemStack);
+							}
 						}
 					})
 					.build();
@@ -45,8 +56,12 @@ public final class HbmCreativeTabs {
 
 	private static void addTo(ResourceKey<CreativeModeTab> tab, String key) {
 		CreativeModeTabEvents.modifyOutputEvent(tab).register(output -> {
+			Set<String> seen = new HashSet<>();
 			for (PlaceholderContent.Stack stack : PlaceholderContent.tab(key)) {
-				output.accept(PlaceholderContent.stack(stack));
+				ItemStack itemStack = PlaceholderContent.stack(stack);
+				if (seen.add(stackKey(itemStack))) {
+					output.accept(itemStack);
+				}
 			}
 		});
 	}

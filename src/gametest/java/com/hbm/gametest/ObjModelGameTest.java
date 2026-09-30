@@ -18,6 +18,7 @@ public class ObjModelGameTest implements FabricClientGameTest {
 	@Override
 	public void runTest(ClientGameTestContext context) {
 		try (TestSingleplayerContext world = context.worldBuilder().create()) {
+			world.getServer().runCommand("gamemode creative @a");
 			context.waitTicks(60);
 			world.getServer().runCommand("give @a " + PRESS);
 			world.getServer().runCommand("give @a " + THRUSTER);

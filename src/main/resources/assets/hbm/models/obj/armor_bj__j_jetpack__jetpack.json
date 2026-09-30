@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/armor/BJ.obj","texture":"hbm:item/armor/bj_jetpack","parts":["Jetpack"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/armor/bj.obj","texture":"hbm:item/armor/bj_jetpack","parts":["Jetpack"]}

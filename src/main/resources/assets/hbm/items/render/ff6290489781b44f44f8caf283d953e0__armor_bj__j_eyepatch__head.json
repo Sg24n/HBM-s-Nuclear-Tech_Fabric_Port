@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/ff6290489781b44f44f8caf283d953e0"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_bj__j_eyepatch__head"}}}

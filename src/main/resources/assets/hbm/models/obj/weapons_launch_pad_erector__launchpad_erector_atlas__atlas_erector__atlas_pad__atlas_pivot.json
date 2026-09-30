@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/weapons/launch_pad_erector.obj","texture":"hbm:item/models/launchpad/erector_atlas","parts":["Atlas_Erector","Atlas_Pad","Atlas_Pivot"]}

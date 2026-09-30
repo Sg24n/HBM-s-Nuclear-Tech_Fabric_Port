@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/19a8ba72f92505365491a596723b36fb"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_panzerschreck__weapons_panzerschreck__shield__tube"}}}

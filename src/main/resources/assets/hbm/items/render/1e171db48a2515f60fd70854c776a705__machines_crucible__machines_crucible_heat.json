@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/1e171db48a2515f60fd70854c776a705"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_crucible__machines_crucible_heat"}}}

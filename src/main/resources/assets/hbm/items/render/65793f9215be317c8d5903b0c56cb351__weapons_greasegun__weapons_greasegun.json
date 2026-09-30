@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/65793f9215be317c8d5903b0c56cb351"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_greasegun__weapons_greasegun"}}}

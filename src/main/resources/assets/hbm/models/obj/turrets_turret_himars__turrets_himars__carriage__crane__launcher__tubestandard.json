@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/turrets/turret_himars.obj","texture":"hbm:item/models/turrets/himars","parts":["Carriage","Crane","Launcher","TubeStandard"]}

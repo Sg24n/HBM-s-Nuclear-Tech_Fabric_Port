@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/ca864c9b42d63829af58bba9ed7a8a38"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/bombs_marelet__bombs_mine_marelet"}}}

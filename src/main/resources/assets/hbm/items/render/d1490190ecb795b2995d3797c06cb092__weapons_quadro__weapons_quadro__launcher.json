@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/d1490190ecb795b2995d3797c06cb092"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_quadro__weapons_quadro__launcher"}}}

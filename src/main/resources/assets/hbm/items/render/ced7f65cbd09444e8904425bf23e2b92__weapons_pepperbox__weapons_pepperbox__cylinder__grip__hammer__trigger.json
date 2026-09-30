@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/ced7f65cbd09444e8904425bf23e2b92"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_pepperbox__weapons_pepperbox__cylinder__grip__hammer__trigger"}}}

@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/weapons/amat.obj","texture":"hbm:item/models/weapons/amat","parts":["BipodHingeLeft","BipodHingeRight","BipodLeft","BipodRight","Bolt","Gun","Magazine","MuzzleBrake","Scope"]}

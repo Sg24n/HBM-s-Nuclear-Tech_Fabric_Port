@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/49087c2c26a0f76d1f993c88af3ae916"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_trenchmaster__renchmaster_helmet__helmet__light"}}}

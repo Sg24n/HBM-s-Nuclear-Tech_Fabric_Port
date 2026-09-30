@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/2911630fa26d72c3deaae9a16561c889"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_lasrifle__weapons_lasrifle__barrel__battery__gun__lever__scope__stock"}}}

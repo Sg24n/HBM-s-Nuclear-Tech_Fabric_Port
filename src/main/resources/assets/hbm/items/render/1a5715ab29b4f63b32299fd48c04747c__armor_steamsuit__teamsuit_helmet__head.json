@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/1a5715ab29b4f63b32299fd48c04747c"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_steamsuit__teamsuit_helmet__head"}}}

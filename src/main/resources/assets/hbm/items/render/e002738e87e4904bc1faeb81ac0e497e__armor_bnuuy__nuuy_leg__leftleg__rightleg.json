@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e002738e87e4904bc1faeb81ac0e497e"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_bnuuy__nuuy_leg__leftleg__rightleg"}}}

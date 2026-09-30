@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "hbm",
+	"version": "${version}",
+	"name": "Hbm's Nuclear Tech",
+	"description": "A mod that adds weapons, nuclear themed stuff and machines. Unofficial Fabric port of the original 1.7.10 mod.",
+	"authors": [
+		"Hbm"
+	],
+	"contact": {
+		"homepage": "https://nucleartech.wiki/wiki/Main_Page",
+		"sources": "https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT"
+	},
+	"license": "GPL-3.0",
+	"icon": "assets/hbm/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.hbm.main.MainRegistry"
+		],
+		"client": [
+			"com.hbm.client.HbmClient"
+		]
+	},
+	"mixins": [
+		"hbm.mixins.json",
+		{
+			"config": "hbm.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

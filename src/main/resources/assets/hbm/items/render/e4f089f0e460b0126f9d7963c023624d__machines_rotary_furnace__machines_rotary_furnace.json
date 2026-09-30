@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e4f089f0e460b0126f9d7963c023624d"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_rotary_furnace__machines_rotary_furnace"}}}

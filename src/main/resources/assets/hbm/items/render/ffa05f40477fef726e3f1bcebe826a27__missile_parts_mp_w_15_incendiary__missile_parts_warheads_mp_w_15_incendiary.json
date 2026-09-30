@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/ffa05f40477fef726e3f1bcebe826a27"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_parts_mp_w_15_incendiary__missile_parts_warheads_mp_w_15_incendiary"}}}

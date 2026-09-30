@@ -1,0 +1,11 @@
+{
+  "hbm.itemGroup.tabBlocks": "Руды и блоки NTM",
+  "hbm.itemGroup.tabConsumable": "Расходные материалы и снаряжение NTM",
+  "hbm.itemGroup.tabControl": "Топливо и элементы механизмов NTM",
+  "hbm.itemGroup.tabMachine": "Механизмы NTM",
+  "hbm.itemGroup.tabMissile": "Ракеты и спутники NTM",
+  "hbm.itemGroup.tabNuke": "Бомбы NTM",
+  "hbm.itemGroup.tabParts": "Ресурсы и детали NTM",
+  "hbm.itemGroup.tabTemplate": "Шаблоны NTM",
+  "hbm.itemGroup.tabWeapon": "Оружие и турели NTM"
+}

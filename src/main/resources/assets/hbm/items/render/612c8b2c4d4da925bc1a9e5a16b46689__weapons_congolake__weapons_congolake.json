@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/612c8b2c4d4da925bc1a9e5a16b46689"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_congolake__weapons_congolake"}}}

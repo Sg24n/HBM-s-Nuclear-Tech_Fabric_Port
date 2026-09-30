@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e06c917364662ba68a081a0eb108f09c"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/pheodoors_seal_door__pheodoors_seal_door"}}}

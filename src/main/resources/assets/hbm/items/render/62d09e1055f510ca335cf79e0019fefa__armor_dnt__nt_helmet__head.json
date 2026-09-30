@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/62d09e1055f510ca335cf79e0019fefa"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_dnt__nt_helmet__head"}}}

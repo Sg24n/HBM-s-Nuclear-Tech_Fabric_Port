@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/818019d52b811a22f7681b25661551db"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_henry__weapons_henry"}}}

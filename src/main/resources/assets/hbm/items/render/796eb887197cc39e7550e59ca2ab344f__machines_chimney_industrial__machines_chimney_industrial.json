@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/796eb887197cc39e7550e59ca2ab344f"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_chimney_industrial__machines_chimney_industrial"}}}

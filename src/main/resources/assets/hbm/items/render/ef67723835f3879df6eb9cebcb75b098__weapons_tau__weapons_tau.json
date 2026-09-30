@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/ef67723835f3879df6eb9cebcb75b098"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_tau__weapons_tau"}}}

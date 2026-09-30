@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/ca73162b8206733823c4b1241a274ce9"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_g3__weapons_g3__flash_hider__guide_and_bolt__handle__magazine__rifle__selector__stock__trigger"}}}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/94aa7b74397329697215732fbbc79b2f"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_stirling__machines_stirling_steel__cog"}}}

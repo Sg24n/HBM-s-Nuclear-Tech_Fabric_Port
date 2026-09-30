@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7b74f17cde8e4ba4451e73a192850493"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/rbmk_autoloader__machines_rbmk_autoloader__base__piston"}}}

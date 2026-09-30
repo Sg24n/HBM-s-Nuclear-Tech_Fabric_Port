@@ -1,0 +1,9 @@
+12:tabParts	item.ingot_uranium	hbm.itemGroup.tabParts
+13:tabControl	item.pellet_rtg	hbm.itemGroup.tabControl
+14:tabTemplate	item.blueprints	hbm.itemGroup.tabTemplate
+15:tabBlocks	tile.ore_uranium	hbm.itemGroup.tabBlocks
+16:tabMachine	tile.pwr_controller	hbm.itemGroup.tabMachine
+17:tabNuke	tile.nuke_man	hbm.itemGroup.tabNuke
+18:tabMissile	item.missile_nuclear	hbm.itemGroup.tabMissile
+19:tabWeapon	item.gun_greasegun	hbm.itemGroup.tabWeapon
+20:tabConsumable	item.bottle_nuka	hbm.itemGroup.tabConsumable

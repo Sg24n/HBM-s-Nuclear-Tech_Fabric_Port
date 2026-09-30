@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/939ff1b5e7def925ffae7609a035e277"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_atlas__missile_missile_atlas_doomsday_weathered"}}}

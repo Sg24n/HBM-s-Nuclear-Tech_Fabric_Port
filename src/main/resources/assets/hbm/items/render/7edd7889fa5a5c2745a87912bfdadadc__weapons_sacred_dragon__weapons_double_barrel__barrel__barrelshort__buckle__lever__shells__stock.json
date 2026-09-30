@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7edd7889fa5a5c2745a87912bfdadadc"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_sacred_dragon__weapons_double_barrel__barrel__barrelshort__buckle__lever__shells__stock"}}}

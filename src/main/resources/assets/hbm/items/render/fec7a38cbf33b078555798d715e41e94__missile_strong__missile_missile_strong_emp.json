@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/fec7a38cbf33b078555798d715e41e94"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_strong__missile_missile_strong_emp"}}}

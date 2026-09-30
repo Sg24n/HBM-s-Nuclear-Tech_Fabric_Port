@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/6da213eb02cacf7a21f8f73a56e5041f"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_chemthrower__weapons_chemthrower__gauge__gun__hose__nozzle"}}}

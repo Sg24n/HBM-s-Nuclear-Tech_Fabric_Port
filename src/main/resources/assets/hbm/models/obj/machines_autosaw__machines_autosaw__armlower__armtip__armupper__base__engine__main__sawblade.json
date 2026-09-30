@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/autosaw.obj","texture":"hbm:item/models/machines/autosaw","parts":["ArmLower","ArmTip","ArmUpper","Base","Engine","Main","Sawblade"]}

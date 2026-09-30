@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/f7f5bdc18e23140235d7de1ab910f47a"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_parts_mp_w_15_nuclear__missile_parts_warheads_mp_w_15_nuclear_shark"}}}

@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/thresher.obj","texture":"hbm:item/models/machines/thresher","parts":["ArmLower","ArmUpper","Base","Engine","Front","Wheel"]}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7df0a1fa8d565bd64e2dbacbfeae46a1"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/fusion_breeder__fusion_breeder__breeder"}}}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/b617859fafefc5c8ad74cbb11e2bb352"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/bombs_fleija__bombs_fleija"}}}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/94b185a023a59f48f98bcf55563397b8"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/turrets_turret_himars__projectiles_himars_standard__rocketstandard__tubestandard"}}}

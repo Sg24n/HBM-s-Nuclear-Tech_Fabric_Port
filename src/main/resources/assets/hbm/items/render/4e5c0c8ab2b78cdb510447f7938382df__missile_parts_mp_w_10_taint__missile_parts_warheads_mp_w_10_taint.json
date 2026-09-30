@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/4e5c0c8ab2b78cdb510447f7938382df"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_parts_mp_w_10_taint__missile_parts_warheads_mp_w_10_taint"}}}

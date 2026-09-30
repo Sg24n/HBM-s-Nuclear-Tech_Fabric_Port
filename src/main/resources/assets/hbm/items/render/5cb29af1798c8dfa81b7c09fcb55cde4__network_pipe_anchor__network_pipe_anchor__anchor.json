@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/5cb29af1798c8dfa81b7c09fcb55cde4"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/network_pipe_anchor__network_pipe_anchor__anchor"}}}

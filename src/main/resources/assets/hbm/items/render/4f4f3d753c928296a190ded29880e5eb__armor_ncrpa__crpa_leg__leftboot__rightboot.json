@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/4f4f3d753c928296a190ded29880e5eb"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_ncrpa__crpa_leg__leftboot__rightboot"}}}

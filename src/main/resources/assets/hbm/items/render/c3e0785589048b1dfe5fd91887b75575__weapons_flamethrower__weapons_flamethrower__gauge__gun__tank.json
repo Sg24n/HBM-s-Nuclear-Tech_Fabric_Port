@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/c3e0785589048b1dfe5fd91887b75575"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_flamethrower__weapons_flamethrower__gauge__gun__tank"}}}

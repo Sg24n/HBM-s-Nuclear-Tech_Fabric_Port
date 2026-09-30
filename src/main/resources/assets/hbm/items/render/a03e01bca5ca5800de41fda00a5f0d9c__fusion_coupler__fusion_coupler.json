@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/a03e01bca5ca5800de41fda00a5f0d9c"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/fusion_coupler__fusion_coupler"}}}

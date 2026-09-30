@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/167e0dc30ce381115d8b41cb8f110863"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_drill__weapons_drill"}}}

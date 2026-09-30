@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/b85c6d33919df29df48d5c5d3a6af713"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_spas-12__weapons_spas-12__mainbody__pumpgrip"}}}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/c409c62c055892cfa688bc300222507d"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_boltgun__weapons_boltgun__barrel__gun"}}}

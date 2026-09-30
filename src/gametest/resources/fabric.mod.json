@@ -1,0 +1,15 @@
+{
+	"schemaVersion": 1,
+	"id": "hbm-test",
+	"version": "1.0.0",
+	"name": "HBM Client Tests",
+	"environment": "client",
+	"entrypoints": {
+		"fabric-client-gametest": [
+			"com.hbm.gametest.ObjModelGameTest"
+		]
+	},
+	"depends": {
+		"hbm": "*"
+	}
+}

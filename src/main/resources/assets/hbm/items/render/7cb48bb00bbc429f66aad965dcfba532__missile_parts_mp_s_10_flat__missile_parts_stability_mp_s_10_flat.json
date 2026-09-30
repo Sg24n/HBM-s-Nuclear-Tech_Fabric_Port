@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7cb48bb00bbc429f66aad965dcfba532"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_parts_mp_s_10_flat__missile_parts_stability_mp_s_10_flat"}}}

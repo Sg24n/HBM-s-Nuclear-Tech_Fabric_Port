@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/2ca1b110db9b9804796bb569d730169f"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/particleaccelerator_beamline__particleaccelerator_beamline__beamline"}}}

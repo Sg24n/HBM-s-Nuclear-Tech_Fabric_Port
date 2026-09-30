@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/f0c9b84060c52f3bca3ad15336458479"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_n_i_4_n_i__weapons_n_i_4_n_i__barrel__coin1__coin2__coin3__coin4__cylinder__cylinderhighlights__framedark__framelight__grip"}}}

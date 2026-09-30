@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/da808b91385a559e5d43819ebc4621c0"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_am180__weapons_am180__bolt__gun__mag__magplate__trigger"}}}

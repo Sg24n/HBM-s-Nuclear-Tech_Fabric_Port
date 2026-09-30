@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/84dd038811a93c0a81f16e8440907c67"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_laser_pistol__weapons_laser_pistol__gun__latch"}}}

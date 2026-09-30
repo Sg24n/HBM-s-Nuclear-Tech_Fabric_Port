@@ -1,0 +1,11 @@
+{
+  "hbm.itemGroup.tabBlocks": "NTM Ores and Blocks",
+  "hbm.itemGroup.tabConsumable": "NTM Consumables and Gear",
+  "hbm.itemGroup.tabControl": "NTM Machine Items and Fuel",
+  "hbm.itemGroup.tabMachine": "NTM Machines",
+  "hbm.itemGroup.tabMissile": "NTM Missiles and Satellites",
+  "hbm.itemGroup.tabNuke": "NTM Bombs",
+  "hbm.itemGroup.tabParts": "NTM Resources and Parts",
+  "hbm.itemGroup.tabTemplate": "NTM Templates",
+  "hbm.itemGroup.tabWeapon": "NTM Weapons and Turrets"
+}

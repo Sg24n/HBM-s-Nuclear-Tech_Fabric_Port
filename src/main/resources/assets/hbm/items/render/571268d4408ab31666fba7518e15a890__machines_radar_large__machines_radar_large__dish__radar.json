@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/571268d4408ab31666fba7518e15a890"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_radar_large__machines_radar_large__dish__radar"}}}

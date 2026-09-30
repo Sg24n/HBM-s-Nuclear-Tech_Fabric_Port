@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/12de981d983ae72338ac43e498a8ad87"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_drain__machines_drain"}}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:solid_fuel_presto","hbm:solid_fuel_presto","hbm:solid_fuel_presto","hbm:ball_dynamite"],"result":{"id":"hbm:solid_fuel_presto_triplet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["AAA"," B ","SSS"],"key":{"A":"#hbm:plate/aluminum","B":"hbm:steel_beam","S":"#hbm:ingot/steel"},"result":{"id":"hbm:solar_mirror","count":3}}

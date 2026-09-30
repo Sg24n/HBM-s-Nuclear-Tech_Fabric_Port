@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" G ","IPI"," C "],"key":{"G":"minecraft:glass_pane","I":"hbm:plate_polymer","P":"#hbm:billet/silicon","C":"hbm:circuit__3"},"result":{"id":"hbm:photo_panel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","SCS","SSS"],"key":{"C":"hbm:singularity","S":"hbm:crystal_xen"},"result":{"id":"hbm:black_hole","count":1}}

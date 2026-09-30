@@ -8,8 +8,11 @@ import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.Identifier;
 import net.minecraft.resources.ResourceKey;
+import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.state.BlockBehaviour;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -59,7 +62,29 @@ public final class ItemRegistry {
 				registered++;
 			}
 		}
+		initializeBlocks();
 		MainRegistry.LOGGER.info("Item registry: {} items registered", registered);
+	}
+
+	private static void initializeBlocks() {
+		for (String line : readLines("/hbm/legacy/block-items.tsv")) {
+			String[] parts = line.split("\t", -1);
+			if (parts.length < 3) {
+				continue;
+			}
+			String path = "tile." + parts[0];
+			int meta = Integer.parseInt(parts[1]);
+			String idPath = parts[2].contains(":") ? parts[2].split(":", 2)[1] : parts[2];
+			Identifier id = Identifier.fromNamespaceAndPath(MainRegistry.MOD_ID, idPath);
+			ResourceKey<Block> blockKey = ResourceKey.create(Registries.BLOCK, id);
+			Block block = new Block(BlockBehaviour.Properties.of().setId(blockKey));
+			Registry.register(BuiltInRegistries.BLOCK, blockKey, block);
+			ResourceKey<Item> itemKey = ResourceKey.create(Registries.ITEM, id);
+			BlockItem item = new BlockItem(block, new Item.Properties().setId(itemKey));
+			Registry.register(BuiltInRegistries.ITEM, itemKey, item);
+			BY_LEGACY.put(key(path, meta), new Entry(path, meta, item));
+			registered++;
+		}
 	}
 
 	public static Item get(String legacyPath, int meta) {

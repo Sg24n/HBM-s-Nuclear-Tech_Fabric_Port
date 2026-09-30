@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/steel"},"result":{"id":"hbm:plate_steel","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["S S","S S","S S"],"key":{"S":"hbm:steel_beam"},"result":{"id":"hbm:rail_narrow","count":64}}

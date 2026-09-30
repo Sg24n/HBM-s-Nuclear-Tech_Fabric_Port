@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/8580619b3a67f4ac1585713df6e8d3d9"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_fracking_tower__machines_fracking_tower"}}}

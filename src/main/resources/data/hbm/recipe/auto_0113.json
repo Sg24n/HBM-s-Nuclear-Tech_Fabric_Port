@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_hagalaz","hbm:rune_hagalaz","hbm:rune_jera","hbm:rune_jera","#hbm:dust/tungsten","#hbm:dust/tungsten","#hbm:dust/tungsten","#hbm:dust/tungsten"],"result":{"id":"hbm:ams_catalyst_tungsten","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DD","DD"],"key":{"D":"hbm:ducrete_smooth"},"result":{"id":"hbm:ducrete","count":4}}

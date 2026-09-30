@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_super_heated"],"result":{"id":"hbm:rune_hagalaz","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["FBF","BFB","FBF"],"key":{"F":"minecraft:cobblestone","B":"minecraft:stone"},"result":{"id":"hbm:reinforced_stone","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_dagaz","hbm:rune_dagaz","hbm:rune_jera","hbm:rune_thurisaz","#hbm:dust/strontium","#hbm:dust/strontium","#hbm:dust/strontium","#hbm:dust/strontium"],"result":{"id":"hbm:ams_catalyst_strontium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DSD","SUS","DSD"],"key":{"D":"hbm:brick_ducrete","S":"hbm:plate_steel","U":"#hbm:billet/uranium238"},"result":{"id":"hbm:reinforced_ducrete","count":4}}

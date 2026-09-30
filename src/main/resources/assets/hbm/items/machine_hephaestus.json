@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/937d55c7fe1995f77070d436daefa196"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_hephaestus__machines_hephaestus__core__main__rotor"}}}

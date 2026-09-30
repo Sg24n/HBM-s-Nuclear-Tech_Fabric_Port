@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e7896edc2dd004c8eb59ae6617b53ef6"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/trinkets_hundun__trinkets_hundun__goober_posed"}}}

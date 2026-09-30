@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/093b2294e151ad59a7a837123cb95216"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_industrial_boiler__machines_industrial_boiler"}}}

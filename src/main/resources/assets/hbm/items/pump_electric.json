@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/a78d03cb95e37e6f0cba03516b193f36"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_pump__machines_pump_electric__arms__base__piston__rotor"}}}

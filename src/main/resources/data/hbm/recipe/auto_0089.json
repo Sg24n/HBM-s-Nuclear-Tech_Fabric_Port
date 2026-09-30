@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BPB","PTP","BPB"],"key":{"B":"hbm:inf_water","P":"#hbm:ntmpipe/steel","T":"#hbm:shell/steel"},"result":{"id":"hbm:inf_water_mk2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" B ","SBS","SBS"],"key":{"B":"#hbm:ingot/boron","S":"#hbm:plate/steel"},"result":{"id":"hbm:pile_device__2","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","T","C"],"key":{"C":"#hbm:ingot/graphite","T":"#hbm:bolt/steel"},"result":{"id":"hbm:arc_electrode","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPC"],"key":{"C":"hbm:conveyor_wand","D":"hbm:conveyor_wand__2","P":"#hbm:plate/steel"},"result":{"id":"hbm:conveyor_wand__3","count":1}}

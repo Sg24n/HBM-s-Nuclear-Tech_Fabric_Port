@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PBP"," P "],"key":{"P":"hbm:plate_desh","B":"hbm:blades_titanium"},"result":{"id":"hbm:blades_desh","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","SGM","IDI"],"key":{"I":"hbm:plate_polymer","S":"#hbm:plate/steel","G":"minecraft:glass_pane","M":"hbm:magnetron","D":"hbm:motor"},"result":{"id":"hbm:machine_microwave","count":1}}

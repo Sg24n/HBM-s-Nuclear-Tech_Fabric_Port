@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/f463a2dbd08ae90cfe40927667de3b83"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_solar_boiler__machines_solar_boiler__base"}}}

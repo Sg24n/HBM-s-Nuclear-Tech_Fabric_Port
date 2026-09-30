@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/f690882343d30699b18964093d791052"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_condenser__machines_condenser"}}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/cmbsteel"},"result":{"id":"hbm:plate_combine_steel","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:solid_fuel_presto","hbm:solid_fuel_presto","hbm:solid_fuel_presto","hbm:ball_dynamite"],"result":{"id":"hbm:solid_fuel_presto_triplet","count":1}}

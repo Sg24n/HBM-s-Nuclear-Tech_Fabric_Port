@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" L ","LGL"," L "],"key":{"L":"minecraft:leather","G":"#hbm:plate/gunmetal"},"result":{"id":"hbm:casing_bag","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/steel","hbm:plate_polymer","#hbm:wirefine/tungsten"],"result":{"id":"hbm:fuse","count":1}}

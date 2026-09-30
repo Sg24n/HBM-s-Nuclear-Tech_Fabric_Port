@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:circuit__9"],"result":{"id":"hbm:launch_code","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PDP","DTD","PDP"],"key":{"P":"#hbm:plate/steel","D":"hbm:det_cord","T":"#hbm:ingot/anyplasticexplosive"},"result":{"id":"hbm:det_charge","count":1}}

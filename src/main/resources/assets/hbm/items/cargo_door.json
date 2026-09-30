@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/bcaa9a84f48f524c7ba38200de79157e"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/pheodoors_cargo_door__pheodoors_cargo_door__doorbot__doortop__frame"}}}

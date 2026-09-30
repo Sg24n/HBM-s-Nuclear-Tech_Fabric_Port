@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/dc472499bc4555df235af3f15b2b313e"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_assembly_factory__machines_assembly_factory"}}}

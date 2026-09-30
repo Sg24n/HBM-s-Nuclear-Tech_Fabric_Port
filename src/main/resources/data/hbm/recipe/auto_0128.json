@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","PUP"," C "],"key":{"C":"hbm:plate_gold","P":"hbm:motor","U":"hbm:upgrade_ejector"},"result":{"id":"hbm:upgrade_ejector__1","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:gneiss_tile"],"result":{"id":"hbm:gneiss_chiseled","count":1}}

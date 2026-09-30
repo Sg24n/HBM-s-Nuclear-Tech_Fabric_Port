@@ -11,8 +11,6 @@
 
 </div>
 
-Bring the world of HBM's Nuclear Tech to Fabric. This repository contains the mod source and a ready-to-use development build.
-
 > This is an unofficial community port. It is not affiliated with or endorsed by the original mod authors.
 
 ## Download

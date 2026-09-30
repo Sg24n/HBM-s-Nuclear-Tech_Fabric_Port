@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/cm_engine_standard","down":"hbm:block/cm_engine_standard","north":"hbm:block/cm_engine_standard","south":"hbm:block/cm_engine_standard","east":"hbm:block/cm_engine_standard","west":"hbm:block/cm_engine_standard","particle":"hbm:block/cm_engine_standard"}}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/cm_circuit_red_copper","down":"hbm:block/cm_circuit_red_copper","north":"hbm:block/cm_circuit_red_copper","south":"hbm:block/cm_circuit_red_copper","east":"hbm:block/cm_circuit_red_copper","west":"hbm:block/cm_circuit_red_copper","particle":"hbm:block/cm_circuit_red_copper"}}

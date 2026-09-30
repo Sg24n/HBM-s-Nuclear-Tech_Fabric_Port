@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/86befa08a4c2f0cc723ed90f04766c25"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/86befa08a4c2f0cc723ed90f04766c25"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/cm_block__2"}}}

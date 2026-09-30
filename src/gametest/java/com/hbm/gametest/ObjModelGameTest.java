@@ -12,6 +12,8 @@ public class ObjModelGameTest implements FabricClientGameTest {
 	private static final String ORDINARY_BLOCK = "hbm:block_steel";
 	private static final String RBMK_BLOCK = "hbm:rbmk_absorber";
 	private static final String C4_BLOCK = "hbm:c4";
+	private static final String LIGHTSTONE_BLOCK = "hbm:lightstone__4";
+	private static final String CONCRETE_BLOCK = "hbm:concrete_colored_ext__2";
 
 	@Override
 	public void runTest(ClientGameTestContext context) {
@@ -23,6 +25,8 @@ public class ObjModelGameTest implements FabricClientGameTest {
 			world.getServer().runCommand("give @a " + ORDINARY_BLOCK);
 			world.getServer().runCommand("give @a " + RBMK_BLOCK);
 			world.getServer().runCommand("give @a " + C4_BLOCK);
+			world.getServer().runCommand("give @a " + LIGHTSTONE_BLOCK);
+			world.getServer().runCommand("give @a " + CONCRETE_BLOCK);
 			context.waitTicks(20);
 
 			select(context, 0);
@@ -70,6 +74,22 @@ public class ObjModelGameTest implements FabricClientGameTest {
 			context.getInput().pressKey(options -> options.keyInventory);
 			context.waitTicks(20);
 			context.takeScreenshot("c4_inventory");
+			context.getInput().pressKey(options -> options.keyInventory);
+			context.waitTicks(20);
+
+			select(context, 6);
+			context.takeScreenshot("lightstone_chiseled_first_person");
+			context.getInput().pressKey(options -> options.keyInventory);
+			context.waitTicks(20);
+			context.takeScreenshot("lightstone_chiseled_inventory");
+			context.getInput().pressKey(options -> options.keyInventory);
+			context.waitTicks(20);
+
+			select(context, 7);
+			context.takeScreenshot("concrete_indigo_first_person");
+			context.getInput().pressKey(options -> options.keyInventory);
+			context.waitTicks(20);
+			context.takeScreenshot("concrete_indigo_inventory");
 			context.getInput().pressKey(options -> options.keyInventory);
 			context.waitTicks(20);
 		}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/cm_circuit_aluminium","down":"hbm:block/cm_circuit_aluminium","north":"hbm:block/cm_circuit_aluminium","south":"hbm:block/cm_circuit_aluminium","east":"hbm:block/cm_circuit_aluminium","west":"hbm:block/cm_circuit_aluminium","particle":"hbm:block/cm_circuit_aluminium"}}

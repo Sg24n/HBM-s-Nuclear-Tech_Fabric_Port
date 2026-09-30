@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/ore_basalt_sulfur_top","down":"hbm:block/ore_basalt_sulfur_top","north":"hbm:block/ore_basalt_sulfur","south":"hbm:block/ore_basalt_sulfur","east":"hbm:block/ore_basalt_sulfur","west":"hbm:block/ore_basalt_sulfur","particle":"hbm:block/ore_basalt_sulfur"}}

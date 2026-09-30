@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/lightstone.chiseled.top","down":"hbm:block/lightstone.chiseled.top","north":"hbm:block/lightstone.chiseled","south":"hbm:block/lightstone.chiseled","east":"hbm:block/lightstone.chiseled","west":"hbm:block/lightstone.chiseled","particle":"hbm:block/lightstone.chiseled"}}

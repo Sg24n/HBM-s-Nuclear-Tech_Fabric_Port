@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/cm_block_alloy","down":"hbm:block/cm_block_alloy","north":"hbm:block/cm_block_alloy","south":"hbm:block/cm_block_alloy","east":"hbm:block/cm_block_alloy","west":"hbm:block/cm_block_alloy","particle":"hbm:block/cm_block_alloy"}}

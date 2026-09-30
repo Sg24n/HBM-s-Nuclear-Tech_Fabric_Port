@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/e911ef810966aba270c20ff8c81b6175"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e911ef810966aba270c20ff8c81b6175"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/platemetal__11"}}}

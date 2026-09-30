@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/cm_circuit_schrabidium","down":"hbm:block/cm_circuit_schrabidium","north":"hbm:block/cm_circuit_schrabidium","south":"hbm:block/cm_circuit_schrabidium","east":"hbm:block/cm_circuit_schrabidium","west":"hbm:block/cm_circuit_schrabidium","particle":"hbm:block/cm_circuit_schrabidium"}}

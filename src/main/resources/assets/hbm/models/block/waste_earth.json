@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/waste_grass_top","down":"hbm:block/waste_earth_bottom","north":"hbm:block/waste_grass_side","south":"hbm:block/waste_grass_side","east":"hbm:block/waste_grass_side","west":"hbm:block/waste_grass_side","particle":"hbm:block/waste_grass_side"}}

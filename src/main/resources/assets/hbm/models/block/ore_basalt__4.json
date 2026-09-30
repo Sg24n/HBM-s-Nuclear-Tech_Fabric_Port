@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/ore_basalt_molysite_top","down":"hbm:block/ore_basalt_molysite_top","north":"hbm:block/ore_basalt_molysite","south":"hbm:block/ore_basalt_molysite","east":"hbm:block/ore_basalt_molysite","west":"hbm:block/ore_basalt_molysite","particle":"hbm:block/ore_basalt_molysite"}}

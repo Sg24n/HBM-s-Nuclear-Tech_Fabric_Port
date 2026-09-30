@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/a3fe3357da9bbc98515854053ee0ed29"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/a3fe3357da9bbc98515854053ee0ed29"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/vinyl_tile"}}}

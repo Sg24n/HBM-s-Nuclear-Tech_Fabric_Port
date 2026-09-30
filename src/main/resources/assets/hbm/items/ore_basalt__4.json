@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/a5d48f51d3a6ee3726c08de57b45fa4f"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/a5d48f51d3a6ee3726c08de57b45fa4f"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/ore_basalt__4"}}}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/cm_circuit_gold","down":"hbm:block/cm_circuit_gold","north":"hbm:block/cm_circuit_gold","south":"hbm:block/cm_circuit_gold","east":"hbm:block/cm_circuit_gold","west":"hbm:block/cm_circuit_gold","particle":"hbm:block/cm_circuit_gold"}}

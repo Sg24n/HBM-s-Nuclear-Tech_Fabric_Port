@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/cm_tank_tcalloy","down":"hbm:block/cm_tank_tcalloy","north":"hbm:block/cm_tank_tcalloy","south":"hbm:block/cm_tank_tcalloy","east":"hbm:block/cm_tank_tcalloy","west":"hbm:block/cm_tank_tcalloy","particle":"hbm:block/cm_tank_tcalloy"}}

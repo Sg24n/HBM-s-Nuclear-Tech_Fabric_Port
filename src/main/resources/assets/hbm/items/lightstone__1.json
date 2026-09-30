@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/a262be1124b948a768c9fb86fccca0cb"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/a262be1124b948a768c9fb86fccca0cb"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/lightstone__1"}}}

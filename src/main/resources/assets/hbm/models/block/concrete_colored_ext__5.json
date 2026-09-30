@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/concrete_colored_ext.hazard","down":"hbm:block/concrete_colored_ext.hazard","north":"hbm:block/concrete_colored_ext.hazard","south":"hbm:block/concrete_colored_ext.hazard","east":"hbm:block/concrete_colored_ext.hazard","west":"hbm:block/concrete_colored_ext.hazard","particle":"hbm:block/concrete_colored_ext.hazard"}}

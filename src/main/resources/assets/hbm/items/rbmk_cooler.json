@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/79827070e6bec226f60e8e39e779d65e"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/79827070e6bec226f60e8e39e779d65e"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/rbmk_cooler"}}}

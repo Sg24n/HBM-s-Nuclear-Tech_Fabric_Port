@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/619d76792b13b35f0e1bc27404e8b082"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/619d76792b13b35f0e1bc27404e8b082"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/drone_crate_provider"}}}

@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/4c48350b055292af75caccb773e6fea4"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/4c48350b055292af75caccb773e6fea4"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/rbmk_absorber"}}}

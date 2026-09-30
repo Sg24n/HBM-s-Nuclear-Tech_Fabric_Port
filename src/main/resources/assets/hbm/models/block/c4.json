@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/c4_top","down":"hbm:block/c4_bottom","north":"hbm:block/c4_side","south":"hbm:block/c4_side","east":"hbm:block/c4_side","west":"hbm:block/c4_side","particle":"hbm:block/c4_side"}}

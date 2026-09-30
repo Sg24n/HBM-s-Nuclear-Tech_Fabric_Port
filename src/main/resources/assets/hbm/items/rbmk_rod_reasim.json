@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:model","model":"hbm:render/7ff0c684c6dc19b937eba804fcb88442"}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7ff0c684c6dc19b937eba804fcb88442"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/rbmk_rod_reasim"}}}

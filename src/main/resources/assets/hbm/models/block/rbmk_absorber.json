@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/rbmk/rbmk_absorber_top","down":"hbm:block/rbmk/rbmk_absorber_top","north":"hbm:block/rbmk/rbmk_absorber_side","south":"hbm:block/rbmk/rbmk_absorber_side","east":"hbm:block/rbmk/rbmk_absorber_side","west":"hbm:block/rbmk/rbmk_absorber_side","particle":"hbm:block/rbmk/rbmk_absorber_side"}}

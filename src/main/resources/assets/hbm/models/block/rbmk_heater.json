@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/rbmk/rbmk_heater_top","down":"hbm:block/rbmk/rbmk_heater_top","north":"hbm:block/rbmk/rbmk_heater_side","south":"hbm:block/rbmk/rbmk_heater_side","east":"hbm:block/rbmk/rbmk_heater_side","west":"hbm:block/rbmk/rbmk_heater_side","particle":"hbm:block/rbmk/rbmk_heater_side"}}

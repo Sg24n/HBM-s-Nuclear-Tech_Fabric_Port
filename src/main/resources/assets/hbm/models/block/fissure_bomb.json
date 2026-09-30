@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/fissure_bomb_top","down":"hbm:block/fissure_bomb_bottom","north":"hbm:block/fissure_bomb_side","south":"hbm:block/fissure_bomb_side","east":"hbm:block/fissure_bomb_side","west":"hbm:block/fissure_bomb_side","particle":"hbm:block/fissure_bomb_side"}}

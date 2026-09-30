@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"up":"hbm:block/drone_dock_top","down":"hbm:block/drone_dock_bottom","north":"hbm:block/drone_dock_side","south":"hbm:block/drone_dock_side","east":"hbm:block/drone_dock_side","west":"hbm:block/drone_dock_side","particle":"hbm:block/drone_dock_side"}}

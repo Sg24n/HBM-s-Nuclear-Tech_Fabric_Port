@@ -1,5 +1,6 @@
 package com.hbm.main;
 
+import com.hbm.component.HbmDataComponents;
 import com.hbm.content.HbmCreativeTabs;
 import com.hbm.content.ItemRegistry;
 import com.hbm.core.placeholder.PlaceholderContent;
@@ -15,6 +16,7 @@ public class MainRegistry implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		HbmDataComponents.initialize();
 		ItemRegistry.initialize();
 		PlaceholderContent.initialize();
 		HbmCreativeTabs.initialize();

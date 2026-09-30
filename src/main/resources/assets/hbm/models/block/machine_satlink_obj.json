@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/satlink.obj","texture":"hbm:block/models/machines/satlink","normalize":false,"parts":["Base","Dish","Rotor"]}

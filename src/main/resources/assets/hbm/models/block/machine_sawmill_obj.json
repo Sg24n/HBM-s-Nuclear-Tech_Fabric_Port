@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/sawmill.obj","texture":"hbm:block/models/machines/sawmill","normalize":false,"parts":["Blade","GearLeft","GearRight","Main"]}

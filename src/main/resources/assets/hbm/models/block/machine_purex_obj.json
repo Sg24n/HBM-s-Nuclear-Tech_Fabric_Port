@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/purex.obj","texture":"hbm:block/models/machines/purex","normalize":false,"parts":["Base","Fan","Frame","Pump"]}

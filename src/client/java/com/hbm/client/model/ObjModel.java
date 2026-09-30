@@ -31,6 +31,10 @@ public final class ObjModel {
 	}
 
 	public static ObjModel parse(Reader reader) throws IOException {
+		return parse(reader, true);
+	}
+
+	public static ObjModel parse(Reader reader, boolean normalize) throws IOException {
 		List<Vector3f> positions = new ArrayList<>();
 		List<float[]> uvs = new ArrayList<>();
 		List<Polygon> polygons = new ArrayList<>();
@@ -56,7 +60,9 @@ public final class ObjModel {
 			throw new IOException("empty OBJ");
 		}
 		float[] bounds = bounds(positions);
-		normalize(positions, bounds);
+		if (normalize) {
+			normalize(positions, bounds);
+		}
 		List<Face> faces = new ArrayList<>(polygons.size());
 		for (Polygon polygon : polygons) {
 			List<Corner> corners = polygon.corners();

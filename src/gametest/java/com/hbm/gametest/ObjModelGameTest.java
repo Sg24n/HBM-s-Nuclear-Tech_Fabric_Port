@@ -92,6 +92,13 @@ public class ObjModelGameTest implements FabricClientGameTest {
 			context.takeScreenshot("concrete_indigo_inventory");
 			context.getInput().pressKey(options -> options.keyInventory);
 			context.waitTicks(20);
+
+			world.getServer().runCommand("execute at @a run setblock ^-1 ^ ^8 hbm:charger replace");
+			world.getServer().runCommand("execute at @a run setblock ^ ^ ^8 hbm:machine_press replace");
+			world.getServer().runCommand("execute at @a run setblock ^1 ^ ^8 hbm:furnace_steel replace");
+			world.getServer().runCommand("execute at @a run setblock ^ ^ ^5 hbm:nuke_boy replace");
+			context.waitTicks(40);
+			context.takeScreenshot("special_blocks_placed");
 		}
 	}
 

@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/mobs/horse.obj","texture":"hbm:block/models/horse/numbernine","normalize":false,"parts":["Body","Head","LeftBackLeg","LeftFrontLeg","Mane","NoseFemale","RightBackLeg","RightFrontLeg","Tail"]}

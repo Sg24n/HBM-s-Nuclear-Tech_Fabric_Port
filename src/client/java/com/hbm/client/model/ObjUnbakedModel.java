@@ -72,19 +72,21 @@ public final class ObjUnbakedModel implements UnbakedModel {
 	}
 
 	public static ObjModel load(String path) {
-		return CACHE.computeIfAbsent(path, key -> {
-			String[] parts = key.split(":", 2);
+		return load(path, true);
+	}
+
+	public static ObjModel load(String path, boolean normalize) {
+		return CACHE.computeIfAbsent(path + "|" + normalize, key -> {
+			String[] parts = path.split(":", 2);
 			String namespace = parts.length > 1 ? parts[0] : "hbm";
 			String resource = parts.length > 1 ? parts[1] : parts[0];
 			Path file = FabricLoader.getInstance().getModContainer(namespace)
 					.flatMap(container -> container.findPath("assets/" + namespace + "/" + resource))
-					.orElseThrow(() -> new IllegalStateException("missing OBJ resource " + key));
+					.orElseThrow(() -> new IllegalStateException("missing OBJ resource " + path));
 			try (Reader reader = Files.newBufferedReader(file)) {
-				ObjModel model = ObjModel.parse(reader);
-				com.hbm.main.MainRegistry.LOGGER.info("OBJ model {}: {} faces", key, model.faces().size());
-				return model;
+				return ObjModel.parse(reader, normalize);
 			} catch (IOException exception) {
-				throw new IllegalStateException("failed to parse OBJ resource " + key, exception);
+				throw new IllegalStateException("failed to parse OBJ resource " + path, exception);
 			}
 		});
 	}
@@ -95,13 +97,14 @@ public final class ObjUnbakedModel implements UnbakedModel {
 		public UnbakedModel deserialize(JsonObject json, JsonDeserializationContext context) {
 			String obj = json.get("obj").getAsString();
 			Identifier texture = Identifier.parse(json.get("texture").getAsString());
+			boolean normalize = !json.has("normalize") || json.get("normalize").getAsBoolean();
 			List<String> parts = new ArrayList<>();
 			if (json.has("parts")) {
 				for (JsonElement element : json.getAsJsonArray("parts")) {
 					parts.add(element.getAsString());
 				}
 			}
-			return new ObjUnbakedModel(load(obj), texture, parts);
+			return new ObjUnbakedModel(load(obj, normalize), texture, parts);
 		}
 	}
 }

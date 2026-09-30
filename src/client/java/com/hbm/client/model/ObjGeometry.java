@@ -66,8 +66,6 @@ public final class ObjGeometry implements UnbakedGeometry {
 					UVPair.pack(sprite.getU(face.u3()), sprite.getV(face.v3())), direction, info));
 		}
 		QuadCollection collection = builder.build();
-		com.hbm.main.MainRegistry.LOGGER.info("OBJ bake {}: {} quads, sprite={}", texture,
-				collection.getAll().size(), sprite);
 		return collection;
 	}
 }

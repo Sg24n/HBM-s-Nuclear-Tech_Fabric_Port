@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/pump.obj","texture":"hbm:block/models/machines/pump_steam","normalize":false,"parts":["Arms","Base","Piston","Rotor"]}

@@ -1,0 +1,1 @@
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/industrial_turbine.obj","texture":"hbm:block/models/machines/industrial_turbine","normalize":false,"parts":["Flywheel","Gauge","Turbine"]}

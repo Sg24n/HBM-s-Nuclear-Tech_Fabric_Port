@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:egg_balefire"},"result":{"id":"hbm:egg_balefire_shard","count":9}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:powder_cerium_tiny"},"result":{"id":"hbm:powder_cerium","count":1}}

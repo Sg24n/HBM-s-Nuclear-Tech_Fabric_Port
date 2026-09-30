@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","S","F"],"key":{"C":"hbm:circuit","S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" WP","SEP"," WP"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:plate/weaponsteel","S":"#hbm:shell/weaponsteel","E":"hbm:ball_tatb"},"result":{"id":"hbm:assembly_nuke","count":1}}

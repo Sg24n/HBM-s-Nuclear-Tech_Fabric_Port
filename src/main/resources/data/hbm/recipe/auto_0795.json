@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:nitra_small","hbm:nitra_small","hbm:nitra_small","hbm:syringe_metal_empty"],"result":{"id":"hbm:syringe_metal_stimpak","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" G ","G G","G G"],"key":{"G":"minecraft:glass_pane"},"result":{"id":"hbm:bottle2_empty","count":6}}

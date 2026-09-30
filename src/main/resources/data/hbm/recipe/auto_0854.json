@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MWM","WBW","MWM"],"key":{"M":"hbm:bottle_mercury","W":"hbm:nuclear_waste","B":"hbm:bathwater"},"result":{"id":"hbm:bathwater_mk2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MBM","PSP","MBM"],"key":{"M":"hbm:motor_desh","B":"#hbm:bolt/durasteel","P":"hbm:plate_desh","S":"hbm:servo_set"},"result":{"id":"hbm:servo_set_desh","count":1}}

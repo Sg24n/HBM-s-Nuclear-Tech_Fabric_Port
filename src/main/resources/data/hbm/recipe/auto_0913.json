@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_ra226","hbm:billet_ra226","hbm:billet_ra226","hbm:billet_beryllium","hbm:billet_beryllium","hbm:billet_beryllium"],"result":{"id":"hbm:billet_ra226be","count":6}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/np237","#hbm:nugget/np237","#hbm:nugget/u238","#hbm:nugget/u238","#hbm:nugget/u238","#hbm:nugget/u238"],"result":{"id":"hbm:billet_neptunium_fuel","count":1}}

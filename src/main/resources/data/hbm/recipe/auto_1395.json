@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","RCR","PPP"],"key":{"P":"#hbm:ingot/anyhardplastic","R":"hbm:crystal_redstone","C":"hbm:circuit__9"},"result":{"id":"hbm:weapon_mod_special__13","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/gunmetal","#hbm:platetriple/durasteel","#hbm:platetriple/durasteel","#hbm:platetriple/durasteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__4","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB"," T ","BBB"],"key":{"B":"#hbm:bolt/steel","T":"hbm:ducttape"},"result":{"id":"hbm:grenade_extra","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DSD","SCS","DSD"],"key":{"D":"hbm:neutron_reflector","S":"hbm:ammo_arty","C":"hbm:det_cord"},"result":{"id":"hbm:ammo_arty__6","count":1}}

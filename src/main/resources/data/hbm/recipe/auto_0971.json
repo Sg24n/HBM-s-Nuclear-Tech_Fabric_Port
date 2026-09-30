@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_dura_steel"},"result":{"id":"hbm:block_dura_steel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_lead"},"result":{"id":"hbm:block_lead","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DDD","DSD","DDD"],"key":{"D":"hbm:stick_c4","S":"hbm:safety_fuse"},"result":{"id":"hbm:c4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" S ","CMC"," S "],"key":{"C":"hbm:circuit__9","M":"#hbm:gunmechanism/weaponsteel","S":"#hbm:shell/weaponsteel"},"result":{"id":"hbm:grenade_shell","count":2}}

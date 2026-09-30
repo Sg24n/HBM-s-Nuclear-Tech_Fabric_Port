@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SMS"," B ","SMS"],"key":{"S":"#hbm:ingot/steel","M":"hbm:horseshoe_magnet","B":"#hbm:wiredense/mingrade"},"result":{"id":"hbm:industrial_magnet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["YIY","IYI","YIY"],"key":{"Y":"hbm:billet_yharonite","I":"hbm:insert_du"},"result":{"id":"hbm:insert_yharonite","count":1}}

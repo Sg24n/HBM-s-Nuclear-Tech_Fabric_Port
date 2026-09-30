@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PIP"," P "],"key":{"P":"#hbm:plate/steel","I":"hbm:plate_polymer"},"result":{"id":"hbm:filing_cabinet__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GGG","PMP","PTP"],"key":{"G":"hbm:steel_grate","P":"#hbm:plate/steel","M":"hbm:motor","T":"hbm:tank_steel"},"result":{"id":"hbm:machine_intake","count":1}}

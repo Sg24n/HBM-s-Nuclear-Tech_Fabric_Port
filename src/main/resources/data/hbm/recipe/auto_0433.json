@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SPS","PUP","SPS"],"key":{"S":"#hbm:plate/steel","P":"hbm:powder_fire","U":"hbm:upgrade_template"},"result":{"id":"hbm:upgrade_nullifier","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PCP","PBP","PCP"],"key":{"P":"#hbm:ingot/anyhardplastic","C":"#hbm:dust/cobalt","B":"#hbm:ingot/anybismoid"},"result":{"id":"hbm:catalytic_converter","count":1}}

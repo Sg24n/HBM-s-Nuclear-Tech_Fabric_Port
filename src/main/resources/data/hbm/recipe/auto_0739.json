@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TTT","TRT","TTT"],"key":{"T":"hbm:pellet_gas","R":"hbm:rangefinder"},"result":{"id":"hbm:bomb_caller__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","III"," I "],"key":{"I":"#hbm:plate/iron"},"result":{"id":"hbm:mask_of_infamy","count":1}}

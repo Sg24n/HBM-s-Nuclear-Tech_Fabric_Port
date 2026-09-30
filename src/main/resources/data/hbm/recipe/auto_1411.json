@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ammo_standard__34","hbm:item_secret__2"],"result":{"id":"hbm:ammo_secret__4","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["BBS","BHS"],"key":{"B":"#hbm:bolt/steel","S":"minecraft:stick","H":"#hbm:plate/durasteel"},"result":{"id":"hbm:weapon_mod_special__2","count":1}}

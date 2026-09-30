@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["III","CBC","III"],"key":{"I":"#hbm:ingot/anyrubber","C":"hbm:cladding_lead","B":"hbm:hazmat_helmet_grey"},"result":{"id":"hbm:liquidator_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","E E","E E"],"key":{"E":"hbm:hazmat_cloth_grey"},"result":{"id":"hbm:hazmat_legs_grey","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CBC","BHB","CBC"],"key":{"C":"hbm:circuit__9","B":"#hbm:platetriple/anyresistantalloy","H":"hbm:watz_cooler"},"result":{"id":"hbm:struct_watz_core","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","PIP","WTW"],"key":{"C":"hbm:coil_copper","I":"minecraft:iron_ingot","P":"#hbm:ingot/anyplastic","T":"hbm:machine_transformer","W":"#minecraft:planks"},"result":{"id":"hbm:tesla","count":1}}

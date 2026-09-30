@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ICI","CPC","ICI"],"key":{"I":"#hbm:ingot/saturnite","C":"hbm:powder_nitan_mix","P":"hbm:rad_absorber"},"result":{"id":"hbm:rad_absorber__3","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ICI","CPC","ICI"],"key":{"I":"#hbm:ingot/anyplastic","C":"hbm:powder_desh_mix","P":"hbm:rad_absorber"},"result":{"id":"hbm:rad_absorber__2","count":1}}

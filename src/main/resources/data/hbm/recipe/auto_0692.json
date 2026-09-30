@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TCT","MJM","B B"],"key":{"C":"hbm:circuit__9","T":"hbm:tank_steel","J":"hbm:jetpack_break","M":"hbm:motor","B":"#hbm:bolt/durasteel"},"result":{"id":"hbm:jetpack_vector","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["T T","TCT","RRR"],"key":{"T":"#hbm:plate/titanium","C":"#hbm:platetriple/titanium","R":"#hbm:ingot/rubber"},"result":{"id":"hbm:envsuit_plate","count":1}}

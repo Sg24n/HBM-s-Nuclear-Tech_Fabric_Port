@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PWP","PCP","PWP"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:battery_pack","W":"#hbm:wiredense/mingrade"},"result":{"id":"hbm:armor_battery_mk2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PKP","DPD","PKP"],"key":{"P":"#hbm:ingot/anyplastic","K":"hbm:insert_kevlar","D":"hbm:ducttape"},"result":{"id":"hbm:insert_sapi","count":1}}

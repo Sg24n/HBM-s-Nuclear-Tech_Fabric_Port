@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ZZZ","ZCZ","ZZZ"],"key":{"Z":"#hbm:nugget/zirconium","C":"hbm:catalyst_clay"},"result":{"id":"hbm:gas_mask_filter_mono","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DGD","GTG","DGD"],"key":{"D":"hbm:ducttape","G":"#hbm:wirefine/gold","T":"hbm:tesla"},"result":{"id":"hbm:back_tesla","count":1}}

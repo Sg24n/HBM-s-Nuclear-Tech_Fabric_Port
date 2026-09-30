@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["VVV","CSC","GGG"],"key":{"V":"hbm:circuit","C":"hbm:circuit__1","S":"hbm:circuit__12","G":"#hbm:plate/gold"},"result":{"id":"hbm:ore_density_scanner","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_desh","D":"hbm:powder_dineutronium","A":"hbm:plate_paa","P":"hbm:chlorophyte_pickaxe","F":"hbm:shimmer_handle"},"result":{"id":"hbm:mese_pickaxe","count":1}}

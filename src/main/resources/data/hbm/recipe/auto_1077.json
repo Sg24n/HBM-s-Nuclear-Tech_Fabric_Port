@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:ingot_plutonium_fuel"},"result":{"id":"hbm:nugget_plutonium_fuel","count":9}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:nugget_polonium"},"result":{"id":"hbm:ingot_polonium","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BCB","BMB","GG "],"key":{"B":"#hbm:barrelheavy/ferrouranium","C":"hbm:circuit__9","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_quadro","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","PGP"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","P":"#hbm:platetriple/gold","G":"hbm:gun_henry"},"result":{"id":"hbm:gun_henry_lincoln","count":1}}

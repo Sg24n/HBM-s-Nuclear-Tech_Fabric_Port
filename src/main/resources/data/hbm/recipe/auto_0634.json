@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["KWK","IKI","WKW"],"key":{"K":"hbm:plate_kevlar","I":"#hbm:ingot/anyplastic","W":"minecraft:white_wool"},"result":{"id":"hbm:security_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["X X","XXX","XXX"],"key":{"X":"#hbm:ingot/titanium"},"result":{"id":"hbm:titanium_plate","count":1}}

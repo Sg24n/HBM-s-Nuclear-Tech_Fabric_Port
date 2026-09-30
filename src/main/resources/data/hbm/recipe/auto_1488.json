@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","PTP"],"key":{"C":"hbm:circuit__8","P":"#hbm:plate/steel","T":"#hbm:ingot/anyhighexplosive"},"result":{"id":"hbm:mine_he","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S","F","F"],"key":{"S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}

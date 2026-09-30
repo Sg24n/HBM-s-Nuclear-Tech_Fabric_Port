@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MMM","BBL","GG "],"key":{"M":"#hbm:gunmechanism/gunmetal","B":"#hbm:barrelheavy/steel","G":"#hbm:grip/steel","L":"minecraft:leather"},"result":{"id":"hbm:gun_charge_thrower","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRS"," GM"],"key":{"B":"#hbm:barrellight/workersalloy","R":"#hbm:receiverlight/workersalloy","S":"#hbm:stock/anyplastic","G":"#hbm:grip/anyplastic","M":"#hbm:gunmechanism/gunmetal"},"result":{"id":"hbm:gun_uzi","count":1}}

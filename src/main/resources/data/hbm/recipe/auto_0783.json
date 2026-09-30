@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle2_empty","minecraft:potion","minecraft:sugar","#hbm:dust/copper"],"result":{"id":"hbm:bottle2_korl","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:can_empty","minecraft:potion","minecraft:sugar","hbm:pellet_cluster"],"result":{"id":"hbm:can_redbomb","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DSD","PPP","DSD"],"key":{"D":"#hbm:platetriple/anybismoidbronze","P":"hbm:piston_selenium","S":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:weapon_mod_special__25","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/saturnite","#hbm:platetriple/saturnite","#hbm:platetriple/saturnite","#hbm:platetriple/saturnite","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__14","count":1}}

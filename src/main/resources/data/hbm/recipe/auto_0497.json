@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe","C":"#hbm:dust/iron"},"result":{"id":"hbm:deco_pipe_rusted","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe_rim","C":"minecraft:iron_bars"},"result":{"id":"hbm:deco_pipe_framed","count":8}}

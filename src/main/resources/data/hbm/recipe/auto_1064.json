@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:nugget_polonium"},"result":{"id":"hbm:ingot_polonium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:ingot_pu240"},"result":{"id":"hbm:nugget_pu240","count":9}}

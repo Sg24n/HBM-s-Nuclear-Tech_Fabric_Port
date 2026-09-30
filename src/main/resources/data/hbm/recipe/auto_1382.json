@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","B","P"],"key":{"P":"#hbm:ingot/anyplastic","B":"#hbm:barrellight/steel"},"result":{"id":"hbm:weapon_mod_special","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MMM","BBL","GG "],"key":{"M":"#hbm:gunmechanism/gunmetal","B":"#hbm:barrelheavy/steel","G":"#hbm:grip/steel","L":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:gun_charge_thrower","count":1}}

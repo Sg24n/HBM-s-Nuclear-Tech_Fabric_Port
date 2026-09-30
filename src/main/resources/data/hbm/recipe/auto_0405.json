@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_counter_resonant"],"result":{"id":"hbm:rune_isa","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PSP","SDS","PSP"],"key":{"P":"hbm:powder_magic","S":"#hbm:ingot/starmetal","D":"hbm:circuit__11"},"result":{"id":"hbm:rune_blank","count":1}}

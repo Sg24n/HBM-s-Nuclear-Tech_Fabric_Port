@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/th232","#hbm:nugget/th232","#hbm:nugget/th232","#hbm:nugget/th232","#hbm:nugget/th232","#hbm:nugget/u233"],"result":{"id":"hbm:billet_thorium_fuel","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_pu239","hbm:billet_pu239","hbm:billet_pu240"],"result":{"id":"hbm:billet_pu_mix","count":3}}

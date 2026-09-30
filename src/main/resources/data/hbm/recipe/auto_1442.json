@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","GIG","CCC"],"key":{"I":"#hbm:ingot/tungsten","G":"hbm:cordite","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__2","count":6}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:missile_assembly","hbm:ducttape","hbm:emp_bomb"],"result":{"id":"hbm:missile_emp","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["II"," I"," I"],"key":{"I":"#hbm:ingot/steel"},"result":{"id":"hbm:crowbar","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["XX","X#"," #"],"key":{"X":"#hbm:ingot/steel","#":"minecraft:stick"},"result":{"id":"hbm:steel_axe","count":1}}

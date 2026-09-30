@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/aluminum","I":"minecraft:iron_ingot"},"result":{"id":"hbm:mirror_tool","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["I","S"],"key":{"I":"#hbm:dust/sulfur","S":"minecraft:stick"},"result":{"id":"hbm:matchstick","count":16}}

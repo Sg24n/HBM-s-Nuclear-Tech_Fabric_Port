@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","LUL","LUL"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","U":"#hbm:ingot/uranium235"},"result":{"id":"hbm:custom_nuke","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:ingot/whitephosphorus","I":"hbm:plate_polymer"},"result":{"id":"hbm:grenade_filling","count":4}}

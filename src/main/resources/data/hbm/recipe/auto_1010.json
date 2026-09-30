@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_waste"},"result":{"id":"hbm:nuclear_waste","count":9}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_cobalt"},"result":{"id":"hbm:block_cobalt","count":1}}

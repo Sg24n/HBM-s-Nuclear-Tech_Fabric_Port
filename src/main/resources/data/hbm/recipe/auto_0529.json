@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","CPC"," I "],"key":{"I":"minecraft:iron_ingot","C":"#hbm:ingot/copper","P":"#hbm:plate/iron"},"result":{"id":"hbm:part_generic","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:holotape_image","hbm:screwdriver","hbm:ducttape","hbm:armor_polish"],"result":{"id":"hbm:holotape_image__1","count":1}}

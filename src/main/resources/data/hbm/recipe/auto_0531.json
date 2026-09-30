@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WWW","WPW","CCC"],"key":{"W":"#minecraft:planks","P":"hbm:part_generic","C":"hbm:conveyor_wand"},"result":{"id":"hbm:crane_boxer","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","CPC"," I "],"key":{"I":"#hbm:ingot/anyresistantalloy","C":"#hbm:ingot/anyplastic","P":"hbm:motor"},"result":{"id":"hbm:part_generic__2","count":4}}

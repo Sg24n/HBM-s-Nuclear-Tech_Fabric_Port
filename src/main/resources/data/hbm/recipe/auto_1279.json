@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["  C"," R ","P  "],"key":{"C":"hbm:circuit__5","R":"#hbm:ingot/rubber","P":"hbm:pipette_boron"},"result":{"id":"hbm:pipette_laboratory","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S","P"],"key":{"S":"#hbm:plate/steel","P":"#minecraft:planks"},"result":{"id":"hbm:bottle_opener","count":1}}

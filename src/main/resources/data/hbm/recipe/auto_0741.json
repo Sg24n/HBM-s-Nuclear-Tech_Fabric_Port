@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WEW","MPM","WEW"],"key":{"W":"minecraft:wheat","E":"minecraft:egg","M":"minecraft:milk_bucket","P":"hbm:man_core"},"result":{"id":"hbm:bomb_waffle","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RRR"],"key":{"R":"hbm:rag_damp"},"result":{"id":"hbm:mask_rag","count":1}}

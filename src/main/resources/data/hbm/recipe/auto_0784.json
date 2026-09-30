@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle2_empty","minecraft:potion","minecraft:sugar","#hbm:dust/tungsten"],"result":{"id":"hbm:bottle2_fritz","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:can_empty","minecraft:potion","minecraft:sugar","#hbm:dust/fluorite"],"result":{"id":"hbm:can_mrsugar","count":1}}

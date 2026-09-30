@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MBM","PBP","MBM"],"key":{"M":"hbm:motor","B":"#hbm:bolt/steel","P":"#hbm:plate/iron"},"result":{"id":"hbm:servo_set","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPD","PRP","DPD"],"key":{"R":"hbm:cladding_lead","P":"hbm:plate_desh","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_desh","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_u238","hbm:billet_u238","hbm:billet_u238","hbm:billet_u238","hbm:billet_u238","hbm:billet_u235"],"result":{"id":"hbm:billet_uranium_fuel","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","MDM"," M "],"key":{"M":"hbm:fragment_meteorite","D":"minecraft:diamond"},"result":{"id":"hbm:protection_charm","count":1}}

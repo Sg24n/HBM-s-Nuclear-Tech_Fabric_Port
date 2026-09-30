@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","CTC","CCC"],"key":{"C":"#hbm:ingot/anyrubber","T":"hbm:mp_fuselage_10_solid"},"result":{"id":"hbm:mp_fuselage_10_solid_insulation","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" IP","IIM"," IP"],"key":{"I":"#hbm:ingot/durasteel","P":"#hbm:ingot/anyplastic","M":"#hbm:gunmechanism/gunmetal"},"result":{"id":"hbm:weapon_mod_special__18","count":1}}

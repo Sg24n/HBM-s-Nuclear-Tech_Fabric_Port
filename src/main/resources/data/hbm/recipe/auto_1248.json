@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_steel","D":"hbm:powder_chlorophyte","A":"#hbm:ingot/fiberglass","P":"hbm:bismuth_axe","F":"#hbm:bolt/durasteel"},"result":{"id":"hbm:chlorophyte_axe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["Z Z","ZBZ","Z Z"],"key":{"Z":"#hbm:nugget/zirconium","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:rod_zirnox_empty","count":4}}

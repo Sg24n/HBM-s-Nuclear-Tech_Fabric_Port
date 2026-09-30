@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" T ","GHG","CCC"],"key":{"T":"#hbm:ingot/anyplasticexplosive","G":"hbm:cordite","H":"#hbm:shell/steel","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__1","count":6}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:missile_assembly","hbm:ducttape","hbm:ammo_standard__75"],"result":{"id":"hbm:missile_micro","count":1}}

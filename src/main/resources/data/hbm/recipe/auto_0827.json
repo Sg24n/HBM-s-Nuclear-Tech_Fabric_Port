@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PRP","DPD"],"key":{"R":"hbm:cladding_lead","P":"hbm:plate_desh","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_desh","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LLL","SIS","LLL"],"key":{"L":"minecraft:leather","S":"hbm:syringe_metal_stimpak","I":"hbm:pill_iodine"},"result":{"id":"hbm:med_bag","count":1}}

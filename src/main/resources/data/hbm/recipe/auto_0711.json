@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E E","EEE","EEE"],"key":{"E":"hbm:plate_paa"},"result":{"id":"hbm:hazmat_paa_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","IEI","EFE"],"key":{"E":"hbm:hazmat_cloth_red","I":"minecraft:glass_pane","F":"#hbm:plate/iron"},"result":{"id":"hbm:hazmat_helmet_red","count":1}}

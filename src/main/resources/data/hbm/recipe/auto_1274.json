@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BIB","P P","B B"],"key":{"B":"#hbm:bolt/tungsten","I":"#hbm:ingot/tungsten","P":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:reacher","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" BM","BPB","TB "],"key":{"B":"hbm:gem_volcanic","M":"hbm:ingot_meteorite","P":"hbm:starmetal_axe","T":"#hbm:bolt/tungsten"},"result":{"id":"hbm:volcanic_axe","count":1}}

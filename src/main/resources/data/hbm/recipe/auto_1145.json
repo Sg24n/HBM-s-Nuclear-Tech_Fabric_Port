@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:redstone","#hbm:dust/copper"],"result":{"id":"hbm:powder_red_copper","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/workersalloy","#hbm:dust/euphemium","hbm:powder_power"],"result":{"id":"hbm:powder_spark_mix","count":3}}

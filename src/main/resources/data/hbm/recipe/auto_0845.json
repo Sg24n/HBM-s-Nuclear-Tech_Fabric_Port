@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SPS","DSD","SPS"],"key":{"S":"minecraft:slime_ball","P":"hbm:pads_rubber","D":"hbm:ducttape"},"result":{"id":"hbm:pads_slime","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:ducttape","P":"#hbm:ingot/ghiorsium336","S":"#hbm:ingot/uranium238"},"result":{"id":"hbm:insert_ghiorsium","count":1}}

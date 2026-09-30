@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:redstone","#hbm:dust/diamond","minecraft:wheat","#hbm:bolt/steel","#hbm:wirefine/copper","#hbm:plate/steel"],"result":{"id":"hbm:pancake","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"#hbm:ingot/schrabidium","A":"minecraft:apple"},"result":{"id":"hbm:apple_schrabidium__1","count":1}}

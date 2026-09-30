@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/gunmetal","#hbm:platetriple/durasteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__5","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BCB","BMB","GG "],"key":{"B":"#hbm:barrelheavy/ferrouranium","C":"hbm:circuit__9","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_quadro","count":1}}

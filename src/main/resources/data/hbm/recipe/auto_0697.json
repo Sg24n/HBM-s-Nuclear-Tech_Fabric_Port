@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E E","E E"],"key":{"E":"hbm:hazmat_cloth"},"result":{"id":"hbm:hazmat_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["FSF","   ","FSF"],"key":{"F":"hbm:rag","S":"hbm:ring_starmetal"},"result":{"id":"hbm:bismuth_legs","count":1}}

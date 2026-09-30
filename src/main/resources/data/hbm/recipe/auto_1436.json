@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" WP","SEP"," WP"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:plate/weaponsteel","S":"#hbm:shell/weaponsteel","E":"hbm:ball_tatb"},"result":{"id":"hbm:assembly_nuke","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ammo_standard__13","hbm:item_secret__2"],"result":{"id":"hbm:ammo_secret__2","count":6}}

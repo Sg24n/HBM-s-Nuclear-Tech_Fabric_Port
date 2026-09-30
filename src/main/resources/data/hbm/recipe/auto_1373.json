@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/weaponsteel","#hbm:platetriple/weaponsteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__9","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","BRB","MGE"],"key":{"C":"hbm:coil_copper","B":"#hbm:barrelheavy/anyresistantalloy","R":"#hbm:receiverheavy/anyresistantalloy","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic","E":"hbm:circuit__9"},"result":{"id":"hbm:gun_tesla_cannon","count":1}}

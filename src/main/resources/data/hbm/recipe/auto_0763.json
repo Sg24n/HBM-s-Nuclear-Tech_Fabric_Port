@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:coffee","#hbm:nugget/radium226"],"result":{"id":"hbm:coffee_radium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","EAE","EEE"],"key":{"E":"#hbm:nugget/euphemium","A":"minecraft:apple"},"result":{"id":"hbm:apple_euphemium","count":1}}

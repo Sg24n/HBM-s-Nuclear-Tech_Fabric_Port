@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","TCT","TST"],"key":{"P":"#hbm:plate/gunmetal","T":"#hbm:ingot/steel","C":"minecraft:crafting_table","S":"hbm:block_steel"},"result":{"id":"hbm:machine_weapon_table","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/aluminum","I":"minecraft:iron_ingot"},"result":{"id":"hbm:mirror_tool","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/asbestos","minecraft:gold_nugget"],"result":{"id":"hbm:siox","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":[" N ","NSN"," N "],"key":{"N":"minecraft:quartz","S":"hbm:syringe_metal_empty"},"result":{"id":"hbm:syringe_metal_medx","count":1}}

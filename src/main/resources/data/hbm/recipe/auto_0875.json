@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_pu239","hbm:billet_pu239","hbm:billet_pu240"],"result":{"id":"hbm:billet_pu_mix","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["PSP","SCS","PSP"],"key":{"P":"#hbm:ingot/anyplastic","S":"#hbm:ingot/starmetal","C":"hbm:circuit__11"},"result":{"id":"hbm:neutrino_lens","count":1}}

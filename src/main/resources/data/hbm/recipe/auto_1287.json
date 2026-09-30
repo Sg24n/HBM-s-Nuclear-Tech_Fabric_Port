@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" D","S "," S"],"key":{"D":"#hbm:ingot/durasteel","S":"minecraft:stick"},"result":{"id":"hbm:hand_drill","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rangefinder","hbm:designator","#hbm:ingot/anyplastic"],"result":{"id":"hbm:designator_range","count":1}}

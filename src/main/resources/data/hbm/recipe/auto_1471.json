@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","KWK"],"key":{"C":"hbm:circuit__8","K":"hbm:coil_gold","W":"#hbm:plate/weaponsteel"},"result":{"id":"hbm:grenade_filling","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","GIG","CCC"],"key":{"I":"#hbm:ingot/uranium238","G":"hbm:ballistite","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__3","count":4}}

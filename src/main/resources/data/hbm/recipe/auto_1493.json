@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","DTD","DSD"],"key":{"W":"#hbm:wiredense/magnetizedtungsten","D":"#hbm:platetriple/saturnite","S":"hbm:powder_power","T":"hbm:crystal_trixite"},"result":{"id":"hbm:battery_trixite","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:ingot/anyhighexplosive","I":"hbm:plate_polymer"},"result":{"id":"hbm:grenade_filling","count":4}}

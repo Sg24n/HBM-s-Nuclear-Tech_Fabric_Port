@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","GCG"],"key":{"P":"#hbm:ingot/anyplastic","G":"minecraft:glass","C":"hbm:circuit__8"},"result":{"id":"hbm:night_vision","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["HAH","ACA","HAH"],"key":{"H":"hbm:heart_piece","A":"#hbm:ingot/aluminum","C":"hbm:coin_creeper"},"result":{"id":"hbm:heart_container","count":1}}

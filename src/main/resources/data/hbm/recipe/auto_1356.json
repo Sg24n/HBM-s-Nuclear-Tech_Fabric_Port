@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" GL","IBP"," GL"],"key":{"G":"#hbm:ingot/gunmetal","L":"#hbm:ingot/anyrubber","I":"#hbm:ingot/titanium","B":"hbm:block_steel","P":"hbm:piston_selenium"},"result":{"id":"hbm:gun_drill","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRM","BGS"],"key":{"B":"#hbm:barrellight/workersalloy","R":"#hbm:receiverlight/workersalloy","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/anyplastic","S":"#hbm:stock/workersalloy"},"result":{"id":"hbm:gun_spas12","count":1}}

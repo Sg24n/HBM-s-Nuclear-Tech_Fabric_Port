@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GNG","RUR","GMG"],"key":{"R":"#hbm:ingot/rubber","M":"hbm:motor","G":"hbm:coil_gold","N":"#hbm:ingot/niobium","U":"hbm:upgrade_template"},"result":{"id":"hbm:upgrade_gc_speed","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SUS","SCS","SUS"],"key":{"S":"#hbm:plate/steel","U":"hbm:upgrade_template","C":"hbm:crystal_xen"},"result":{"id":"hbm:upgrade_screm","count":1}}

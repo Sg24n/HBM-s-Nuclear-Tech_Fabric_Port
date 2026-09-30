@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/anyresistantalloy","R":"#hbm:receiverlight/anyresistantalloy","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_lag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRS","SMG"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/steel","S":"#hbm:bolt/steel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/steel"},"result":{"id":"hbm:gun_greasegun","count":1}}

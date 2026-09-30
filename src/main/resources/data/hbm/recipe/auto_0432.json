@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","PBP","PCP"],"key":{"P":"#hbm:ingot/anyhardplastic","C":"#hbm:dust/cobalt","B":"#hbm:ingot/anybismoid"},"result":{"id":"hbm:catalytic_converter","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CBC","BHB","CBC"],"key":{"C":"hbm:circuit__9","B":"#hbm:platetriple/anyresistantalloy","H":"hbm:watz_cooler"},"result":{"id":"hbm:struct_watz_core","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","P"],"key":{"S":"#hbm:plate/steel","P":"#minecraft:planks"},"result":{"id":"hbm:bottle_opener","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["X","#","#"],"key":{"X":"#hbm:ingot/steel","#":"minecraft:stick"},"result":{"id":"hbm:steel_shovel","count":1}}

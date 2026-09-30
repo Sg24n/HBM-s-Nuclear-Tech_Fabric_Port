@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_plutonium"},"result":{"id":"hbm:block_plutonium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_australium"},"result":{"id":"hbm:block_australium","count":1}}

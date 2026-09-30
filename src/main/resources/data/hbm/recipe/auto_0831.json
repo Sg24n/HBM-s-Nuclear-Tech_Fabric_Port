@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:ducttape","P":"#hbm:plate/iron","S":"hbm:block_steel"},"result":{"id":"hbm:insert_steel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LL","SI","LL"],"key":{"L":"#hbm:ingot/anyrubber","S":"hbm:syringe_metal_super","I":"hbm:radaway"},"result":{"id":"hbm:med_bag","count":1}}

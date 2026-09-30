@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","B","I"],"key":{"I":"#hbm:ingot/starmetal","B":"hbm:cobalt_decorated_shovel"},"result":{"id":"hbm:starmetal_shovel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" PS","P P"," P "],"key":{"P":"#hbm:ingot/anyplastic","S":"#hbm:plate/steel"},"result":{"id":"hbm:defuser","count":1}}

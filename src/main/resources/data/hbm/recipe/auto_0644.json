@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MPM","PBP","P P"],"key":{"M":"hbm:motor","P":"hbm:plate_armor_titanium","B":"hbm:titanium_legs"},"result":{"id":"hbm:t51_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ECE","E E"],"key":{"E":"#hbm:billet/cobalt","C":"hbm:steel_legs"},"result":{"id":"hbm:cobalt_legs","count":1}}

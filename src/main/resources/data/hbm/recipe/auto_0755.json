@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:bowl","hbm:egg_balefire"],"result":{"id":"hbm:balefire_scrambled","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RWR","WPW","RWR"],"key":{"W":"hbm:nuclear_waste","R":"minecraft:sugar_cane","P":"minecraft:pumpkin_seeds"},"result":{"id":"hbm:schnitzel_vegan","count":3}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MAM"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","A":"hbm:gun_light_revolver"},"result":{"id":"hbm:gun_light_revolver_atlas","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["  I"," I ","S  "],"key":{"S":"#hbm:ingot/anyplastic","I":"#hbm:ingot/workersalloy"},"result":{"id":"hbm:screwdriver_desh","count":1}}

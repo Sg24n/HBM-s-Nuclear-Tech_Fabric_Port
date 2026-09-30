@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SPS","NCN","SPS"],"key":{"C":"hbm:syringe_empty","S":"#hbm:dust/sulfur","P":"#hbm:nugget/plutonium239","N":"#hbm:nugget/plutonium238"},"result":{"id":"hbm:syringe_awesome","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle_empty","minecraft:potion","minecraft:sugar","minecraft:redstone"],"result":{"id":"hbm:bottle_cherry","count":1}}

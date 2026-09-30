@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:holotape_image","hbm:screwdriver","hbm:ducttape","hbm:armor_polish"],"result":{"id":"hbm:holotape_image__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ICI","CAC","ICI"],"key":{"I":"#hbm:ingot/starmetal","C":"hbm:circuit__11","A":"hbm:gem_alexandrite"},"result":{"id":"hbm:field_disturber","count":1}}

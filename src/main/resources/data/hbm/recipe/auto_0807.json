@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/euphemium","hbm:canteen_vodka"],"result":{"id":"hbm:five_htp","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" N ","NSN"," N "],"key":{"N":"minecraft:nether_wart","S":"hbm:syringe_metal_empty"},"result":{"id":"hbm:syringe_metal_stimpak","count":1}}

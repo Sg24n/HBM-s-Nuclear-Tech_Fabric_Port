@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","BBB","P P"],"key":{"P":"#hbm:plate/steel","L":"hbm:glass_lead","B":"hbm:glass_boron"},"result":{"id":"hbm:rbmk_lid_glass","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","CCC","PPP"],"key":{"P":"#hbm:plate/steel","C":"hbm:concrete_asbestos"},"result":{"id":"hbm:rbmk_lid","count":4}}

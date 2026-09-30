@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CDN"],"key":{"C":"hbm:circuit__7","D":"hbm:ducttape","N":"hbm:ammo_standard__74"},"result":{"id":"hbm:mine_fat","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" S "," F ","FFF"],"key":{"S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}

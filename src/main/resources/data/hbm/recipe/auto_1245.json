@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_desh","D":"hbm:powder_dineutronium","A":"hbm:plate_paa","P":"hbm:chlorophyte_pickaxe","F":"hbm:shimmer_handle"},"result":{"id":"hbm:mese_pickaxe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["NFN","NIN","NBN"],"key":{"F":"hbm:billet_am_mix","I":"hbm:plate_polymer","B":"#hbm:billet/bismuth","N":"hbm:nugget_plutonium_fuel"},"result":{"id":"hbm:pwr_fuel__13","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"hbm:block_lead","A":"minecraft:apple"},"result":{"id":"hbm:apple_lead__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","ESE","EPE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_legs","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_legs","count":1}}

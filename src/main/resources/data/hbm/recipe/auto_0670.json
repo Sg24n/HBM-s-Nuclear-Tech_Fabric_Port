@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DCD","CXC"," F "],"key":{"D":"#hbm:ingot/workersalloy","C":"#hbm:plate/copper","X":"hbm:steel_helmet","F":"hbm:gas_mask_filter"},"result":{"id":"hbm:steamsuit_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["N N","BSB"],"key":{"N":"hbm:plate_armor_lunar","S":"hbm:starmetal_boots","B":"hbm:block_starmetal"},"result":{"id":"hbm:bj_boots","count":1}}

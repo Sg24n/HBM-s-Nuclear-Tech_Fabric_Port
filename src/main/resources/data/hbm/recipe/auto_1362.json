@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","P","G"],"key":{"C":"minecraft:iron_ingot","P":"minecraft:paper","G":"minecraft:gunpowder"},"result":{"id":"hbm:ammo_standard__2","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["BBB","PGM"],"key":{"B":"#hbm:barrelheavy/weaponsteel","P":"hbm:circuit__9","G":"#hbm:grip/weaponsteel","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:gun_stinger","count":1}}

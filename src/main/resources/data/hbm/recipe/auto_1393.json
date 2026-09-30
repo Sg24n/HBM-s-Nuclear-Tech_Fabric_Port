@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","P P","PMP"],"key":{"P":"#hbm:plate/weaponsteel","M":"#hbm:gunmechanism/saturnite"},"result":{"id":"hbm:weapon_mod_special__11","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/gunmetal","#hbm:platetriple/steel","#hbm:platetriple/steel","#hbm:platetriple/steel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__2","count":1}}

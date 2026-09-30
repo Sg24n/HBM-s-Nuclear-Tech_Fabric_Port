@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:brick_fire"],"result":{"id":"hbm:ingot_firebrick","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BB","BB"],"key":{"B":"hbm:ingot_firebrick"},"result":{"id":"hbm:brick_fire","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:ducttape","P":"#hbm:plate/iron","S":"hbm:ingot_semtex"},"result":{"id":"hbm:insert_era","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:iv_empty","hbm:powder_magic"],"result":{"id":"hbm:iv_xp_empty","count":1}}

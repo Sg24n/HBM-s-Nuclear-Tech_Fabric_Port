@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["T","C"],"key":{"T":"hbm:drone_waypoint","C":"hbm:crate_steel"},"result":{"id":"hbm:drone_crate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["G","T","C"],"key":{"G":"minecraft:green_dye","T":"minecraft:redstone_torch","C":"hbm:circuit__8"},"result":{"id":"hbm:drone_waypoint","count":4}}

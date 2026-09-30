@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EPE","ESE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_boots","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","GPG"," F "],"key":{"G":"minecraft:glass_pane","P":"minecraft:leather","F":"minecraft:iron_ingot"},"result":{"id":"hbm:gas_mask_olde","count":1}}

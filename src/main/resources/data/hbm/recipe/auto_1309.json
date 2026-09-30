@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:casing__1"},"result":{"id":"hbm:casing__5","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["WRW"," I "," B "],"key":{"W":"#hbm:wirefine/mingrade","R":"minecraft:redstone","I":"minecraft:iron_ingot","B":"hbm:battery_pack__1"},"result":{"id":"hbm:power_net_tool","count":1}}

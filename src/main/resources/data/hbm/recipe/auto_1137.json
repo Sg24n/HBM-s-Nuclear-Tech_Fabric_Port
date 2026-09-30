@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:coal","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/limestone","minecraft:clay_ball","minecraft:clay_ball","minecraft:clay_ball"],"result":{"id":"hbm:powder_cement","count":4}}

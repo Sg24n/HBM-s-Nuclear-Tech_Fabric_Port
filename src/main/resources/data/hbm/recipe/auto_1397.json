@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","RFR"," C "],"key":{"C":"hbm:circuit__6","R":"hbm:crystal_redstone","F":"#hbm:receiverheavy/anybismoidbronze"},"result":{"id":"hbm:weapon_mod_special__15","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/gunmetal","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__6","count":1}}

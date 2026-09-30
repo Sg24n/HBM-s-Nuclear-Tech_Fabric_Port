@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","EAE","EEE"],"key":{"E":"#hbm:nugget/euphemium","A":"minecraft:apple"},"result":{"id":"hbm:apple_euphemium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EPE","ESE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_boots","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_boots","count":1}}

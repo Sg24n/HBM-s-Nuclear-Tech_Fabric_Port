@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:pellet_rtg_depleted"],"result":{"id":"hbm:billet_bismuth","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["ZZZ","ZCZ","ZZZ"],"key":{"Z":"#hbm:nugget/zirconium","C":"hbm:catalyst_clay"},"result":{"id":"hbm:gas_mask_filter_mono","count":1}}

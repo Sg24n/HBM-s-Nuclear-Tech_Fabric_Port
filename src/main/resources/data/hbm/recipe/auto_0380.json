@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W"],"key":{"W":"hbm:pink_log"},"result":{"id":"hbm:pink_planks","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BGB","SAS","BSB"],"key":{"B":"#hbm:ingot/beryllium","G":"minecraft:iron_bars","S":"#hbm:ingot/steel","A":"hbm:rad_absorber"},"result":{"id":"hbm:decon","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:ingot_uranium"},"result":{"id":"hbm:nugget_uranium","count":9}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_fiberglass"},"result":{"id":"hbm:ingot_fiberglass","count":9}}

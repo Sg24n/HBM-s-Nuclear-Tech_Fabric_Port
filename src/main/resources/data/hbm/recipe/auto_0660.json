@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MPM","IBI","P P"],"key":{"P":"hbm:plate_armor_hev","B":"hbm:titanium_legs","I":"#hbm:ingot/anyplastic","M":"hbm:motor_desh"},"result":{"id":"hbm:hev_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MPM","TBT","PPP"],"key":{"M":"hbm:motor_desh","P":"hbm:plate_armor_ajr","T":"hbm:gas_empty","B":"hbm:titanium_plate"},"result":{"id":"hbm:ajr_plate","count":1}}

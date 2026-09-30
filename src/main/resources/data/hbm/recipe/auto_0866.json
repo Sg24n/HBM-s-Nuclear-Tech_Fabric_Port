@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" B","LI","LC"],"key":{"B":"minecraft:stone_button","L":"minecraft:leather","I":"#hbm:ingot/steel","C":"hbm:circuit__8"},"result":{"id":"hbm:stealth_boy","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GHG","MCM","GHG"],"key":{"G":"minecraft:gold_ingot","H":"hbm:heart_container","M":"hbm:morning_glory","C":"hbm:coin_maskman"},"result":{"id":"hbm:heart_booster","count":1}}

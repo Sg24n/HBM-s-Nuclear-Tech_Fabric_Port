@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IW"," S"," S"],"key":{"I":"#hbm:ingot/schrabidium","W":"hbm:desh_hoe","S":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_hoe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["  C"," R ","P  "],"key":{"C":"hbm:circuit__5","R":"#hbm:ingot/rubber","P":"hbm:pipette_boron"},"result":{"id":"hbm:pipette_laboratory","count":1}}

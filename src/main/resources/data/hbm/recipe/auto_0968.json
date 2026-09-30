@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_combine_steel"},"result":{"id":"hbm:block_combine_steel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_tungsten"},"result":{"id":"hbm:block_tungsten","count":1}}

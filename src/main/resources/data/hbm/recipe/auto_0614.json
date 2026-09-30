@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" B ","BGB"," B "],"key":{"B":"hbm:cm_block","G":"minecraft:glass"},"result":{"id":"hbm:cm_tank","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BB","BB"],"key":{"B":"hbm:cm_block"},"result":{"id":"hbm:cm_sheet","count":16}}

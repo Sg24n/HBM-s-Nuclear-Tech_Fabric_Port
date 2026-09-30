@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","C","P"],"key":{"S":"hbm:crt_display","C":"hbm:circuit__8","P":"#hbm:plate/steel"},"result":{"id":"hbm:radar_linker","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PCP","SRS","PCP"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:circuit__8","S":"#hbm:plate/steel","R":"hbm:crt_display"},"result":{"id":"hbm:radar_screen","count":1}}

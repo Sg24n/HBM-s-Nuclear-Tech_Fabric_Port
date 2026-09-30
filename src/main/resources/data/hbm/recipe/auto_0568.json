@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","T  ","PPP"],"key":{"P":"#hbm:platetriple/steel","T":"hbm:tank_steel"},"result":{"id":"hbm:machine_drain","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:brick_fire"],"result":{"id":"hbm:ingot_firebrick","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","PBP","PSP"],"key":{"P":"hbm:plate_armor_dnt","S":"hbm:ingot_chainsteel","B":"hbm:bj_plate_jetpack","C":"hbm:singularity_spark"},"result":{"id":"hbm:dns_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SBS"," C "," I "],"key":{"S":"minecraft:string","B":"minecraft:white_wool","C":"hbm:circuit__9","I":"#hbm:ingot/starmetal"},"result":{"id":"hbm:bj_helmet","count":1}}

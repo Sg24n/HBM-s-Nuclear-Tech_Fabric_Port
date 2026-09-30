@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","MMM","AAA"],"key":{"C":"#hbm:plate/copper","A":"#hbm:plate/aluminum","M":"hbm:cell_antimatter"},"result":{"id":"hbm:custom_amat","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"hbm:pellet_cluster","I":"#hbm:plate/weaponsteel"},"result":{"id":"hbm:grenade_filling","count":1}}

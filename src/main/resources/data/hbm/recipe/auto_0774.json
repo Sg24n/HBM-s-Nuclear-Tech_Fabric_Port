@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:potion","minecraft:sugar","minecraft:sugar","minecraft:orange_dye"],"result":{"id":"hbm:mucho_mango","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:loops","hbm:can_smart","minecraft:bowl"],"result":{"id":"hbm:loop_stew","count":1}}

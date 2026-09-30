@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BIB","BIB"],"key":{"B":"minecraft:iron_bars","I":"minecraft:iron_ingot"},"result":{"id":"hbm:fence_metal","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["P","I","S"],"key":{"P":"hbm:polaroid","I":"hbm:flame_pony","S":"#hbm:plate/steel"},"result":{"id":"hbm:obj_tester","count":1}}

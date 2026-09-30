@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","WLW","WLW"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","W":"hbm:nuclear_waste"},"result":{"id":"hbm:custom_dirty","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","KWK"],"key":{"C":"hbm:circuit__8","K":"hbm:coil_gold","W":"#hbm:plate/weaponsteel"},"result":{"id":"hbm:grenade_filling","count":4}}

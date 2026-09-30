@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_cobalt"},"result":{"id":"hbm:block_cobalt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_pu239"},"result":{"id":"hbm:block_pu239","count":1}}

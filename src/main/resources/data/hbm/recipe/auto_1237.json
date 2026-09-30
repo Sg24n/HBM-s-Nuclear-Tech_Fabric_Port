@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" DP","RRM"," PB"],"key":{"P":"#hbm:ingot/anyplastic","D":"#hbm:ingot/durasteel","R":"#hbm:bolt/durasteel","M":"hbm:motor","B":"hbm:battery_pack__1"},"result":{"id":"hbm:elec_axe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"hbm:billet_mox_fuel","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__5","count":1}}

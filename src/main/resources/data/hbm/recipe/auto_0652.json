@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ajr_legs","minecraft:red_dye","minecraft:black_dye"],"result":{"id":"hbm:ajro_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EE ","EEE","E E"],"key":{"E":"#hbm:ingot/dineutronium"},"result":{"id":"hbm:dnt_legs","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_isa","hbm:rune_isa","hbm:rune_jera","hbm:rune_thurisaz","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum"],"result":{"id":"hbm:ams_catalyst_aluminium","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_hagalaz","hbm:rune_hagalaz","hbm:rune_jera","hbm:rune_jera","#hbm:dust/tungsten","#hbm:dust/tungsten","#hbm:dust/tungsten","#hbm:dust/tungsten"],"result":{"id":"hbm:ams_catalyst_tungsten","count":1}}

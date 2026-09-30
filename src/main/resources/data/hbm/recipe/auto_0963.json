@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_beryllium"},"result":{"id":"hbm:block_beryllium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:niter"},"result":{"id":"hbm:block_niter","count":1}}

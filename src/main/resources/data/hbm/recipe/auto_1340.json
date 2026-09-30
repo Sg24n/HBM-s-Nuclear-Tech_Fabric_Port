@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","G G"],"key":{"B":"#hbm:barrelheavy/ferrouranium","R":"#hbm:receiverheavy/ferrouranium","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_autoshotgun","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","MAM"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","A":"hbm:gun_light_revolver"},"result":{"id":"hbm:gun_light_revolver_atlas","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" BM","BPB","TB "],"key":{"B":"hbm:gem_volcanic","M":"hbm:ingot_meteorite","P":"hbm:starmetal_pickaxe","T":"#hbm:bolt/tungsten"},"result":{"id":"hbm:volcanic_pickaxe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:billet/americium242","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__10","count":1}}

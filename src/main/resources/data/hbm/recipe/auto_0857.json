@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:five_htp","hbm:circuit__8","#hbm:plate/saturnite"],"result":{"id":"hbm:injector_5htp","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P P","IDI","P P"],"key":{"P":"#hbm:ingot/anyrubber","I":"#hbm:plate/iron","D":"hbm:ducttape"},"result":{"id":"hbm:pads_rubber","count":1}}

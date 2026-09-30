@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye","hbm:chemical_dye__15"],"result":{"id":"hbm:chemical_dye__8","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":2}}

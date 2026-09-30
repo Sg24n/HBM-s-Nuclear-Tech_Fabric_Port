@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BSB"," W "," P "],"key":{"B":"hbm:blades_desh","S":"hbm:block_schrabidium","W":"hbm:desh_pickaxe","P":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_pickaxe","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:sat_chip","hbm:ducttape","hbm:radar_linker"],"result":{"id":"hbm:sat_relay","count":1}}

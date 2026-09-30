@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle_empty","minecraft:potion","minecraft:sugar","#hbm:dust/coal"],"result":{"id":"hbm:bottle_nuka","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:wheat","hbm:marshmallow","minecraft:brown_dye"],"result":{"id":"hbm:ingot_smore","count":1}}

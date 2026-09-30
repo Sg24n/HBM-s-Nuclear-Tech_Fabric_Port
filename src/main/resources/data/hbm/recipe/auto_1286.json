@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["  I"," I ","S  "],"key":{"S":"#hbm:ingot/anyplastic","I":"#hbm:ingot/workersalloy"},"result":{"id":"hbm:screwdriver_desh","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["  A","#B#","#B#"],"key":{"#":"#hbm:ingot/anyplastic","A":"#hbm:plate/steel","B":"hbm:circuit__8"},"result":{"id":"hbm:designator","count":1}}

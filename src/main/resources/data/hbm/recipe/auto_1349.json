@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" D ","BRS","GGM"],"key":{"D":"hbm:weapon_mod_special__1","B":"#hbm:barrellight/saturnite","R":"#hbm:receiverlight/saturnite","S":"#hbm:stock/anyhardplastic","G":"#hbm:grip/anyhardplastic","M":"#hbm:gunmechanism/saturnite"},"result":{"id":"hbm:gun_stg77","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BM ","BRS","G  "],"key":{"B":"#hbm:barrelheavy/durasteel","M":"#hbm:gunmechanism/gunmetal","R":"#hbm:receiverlight/durasteel","S":"#hbm:stock/wood","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_congolake","count":1}}

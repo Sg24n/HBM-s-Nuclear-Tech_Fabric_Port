@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:gold_ingot","minecraft:gold_ingot","minecraft:gold_nugget","minecraft:gold_nugget","minecraft:paper"],"result":{"id":"hbm:tem_flakes__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["TRC"],"key":{"T":"hbm:ammo_standard__75","R":"hbm:rangefinder","C":"hbm:circuit__13"},"result":{"id":"hbm:bomb_caller__4","count":1}}

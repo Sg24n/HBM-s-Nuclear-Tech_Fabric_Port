@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" N ","NSN"," N "],"key":{"N":"minecraft:glowstone_dust","S":"hbm:syringe_metal_empty"},"result":{"id":"hbm:syringe_metal_psycho","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle2_empty","minecraft:potion","minecraft:sugar","#hbm:dust/tungsten"],"result":{"id":"hbm:bottle2_fritz","count":1}}

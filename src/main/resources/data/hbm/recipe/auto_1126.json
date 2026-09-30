@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/sulfur","#hbm:dust/saltpeter","minecraft:coal"],"result":{"id":"minecraft:gunpowder","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:nitra"},"result":{"id":"hbm:nitra_small","count":4}}

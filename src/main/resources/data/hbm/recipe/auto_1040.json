@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_insulator"},"result":{"id":"hbm:plate_polymer","count":9}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_polonium"},"result":{"id":"hbm:ingot_polonium","count":9}}

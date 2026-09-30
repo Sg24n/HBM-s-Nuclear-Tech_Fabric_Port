@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SIS","ICI","BEB"],"key":{"S":"hbm:circuit__9","I":"minecraft:iron_bars","C":"hbm:circuit__9","B":"hbm:struct_launcher","E":"hbm:battery_pack"},"result":{"id":"hbm:struct_launcher_core_large","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SCS","SIS","BEB"],"key":{"S":"hbm:steel_scaffold","I":"minecraft:iron_bars","C":"hbm:circuit__8","B":"hbm:struct_launcher","E":"hbm:battery_pack"},"result":{"id":"hbm:struct_launcher_core","count":1}}

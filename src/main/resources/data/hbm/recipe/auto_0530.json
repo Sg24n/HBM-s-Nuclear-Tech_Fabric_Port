@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","CPC"," I "],"key":{"I":"#hbm:ingot/anyresistantalloy","C":"#hbm:ingot/anyplastic","P":"hbm:motor"},"result":{"id":"hbm:part_generic__2","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","CPC"," I "],"key":{"I":"minecraft:iron_ingot","C":"#hbm:ingot/copper","P":"#hbm:plate/iron"},"result":{"id":"hbm:part_generic","count":4}}

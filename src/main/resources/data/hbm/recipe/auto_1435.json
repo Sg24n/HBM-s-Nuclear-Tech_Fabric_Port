@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["HB"," T"],"key":{"H":"#hbm:ntmpipe/steel","B":"#hbm:bolt/steel","T":"hbm:tank_steel"},"result":{"id":"hbm:gun_fireext","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" R ","CCC","SSS"],"key":{"R":"#hbm:ntmpipe/rubber","C":"hbm:canister_empty","S":"#hbm:plate/steel"},"result":{"id":"hbm:weapon_mod_special__28","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["R"],"key":{"R":"hbm:rbmk_blank"},"result":{"id":"hbm:deco_rbmk","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["R","C","S"],"key":{"R":"hbm:radio_torch_receiver","C":"hbm:circuit__8","S":"#hbm:plate/steel"},"result":{"id":"hbm:rtty_pager","count":1}}

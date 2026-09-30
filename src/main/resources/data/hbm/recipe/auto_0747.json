@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"#hbm:nugget/lead","A":"minecraft:apple"},"result":{"id":"hbm:apple_lead","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","ESE"," P "],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_helmet","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_helmet","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:iv_empty","hbm:powder_magic"],"result":{"id":"hbm:iv_xp_empty","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/euphemium","hbm:canteen_vodka"],"result":{"id":"hbm:five_htp","count":1}}

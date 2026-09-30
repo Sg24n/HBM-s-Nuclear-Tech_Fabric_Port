@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PSP","SCS","PSP"],"key":{"P":"#hbm:ingot/anyplastic","S":"#hbm:ingot/starmetal","C":"hbm:circuit__11"},"result":{"id":"hbm:neutrino_lens","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PWP","PCP","PWP"],"key":{"P":"#hbm:plate/gold","C":"hbm:battery_pack","W":"#hbm:wiredense/mingrade"},"result":{"id":"hbm:armor_battery_mk3","count":1}}

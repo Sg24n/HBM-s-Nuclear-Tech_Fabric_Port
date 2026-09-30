@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","PUP"," C "],"key":{"C":"hbm:circuit","P":"hbm:part_generic","U":"hbm:upgrade_template"},"result":{"id":"hbm:upgrade_stack","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GNG","RUR","GMG"],"key":{"R":"#hbm:ingot/rubber","M":"hbm:motor","G":"hbm:coil_gold","N":"#hbm:ingot/niobium","U":"hbm:upgrade_template"},"result":{"id":"hbm:upgrade_gc_speed","count":1}}

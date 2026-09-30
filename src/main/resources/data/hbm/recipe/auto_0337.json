@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","W"],"key":{"S":"minecraft:redstone","W":"hbm:fluid_duct_paintable"},"result":{"id":"hbm:fluid_switch","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fluid_duct_paintable","#hbm:ingot/steel","hbm:circuit__8"],"result":{"id":"hbm:fluid_duct_gauge","count":1}}

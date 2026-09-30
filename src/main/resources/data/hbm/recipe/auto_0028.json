@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:particle_empty","#hbm:dust/copper","hbm:pellet_charged"],"result":{"id":"hbm:particle_copper","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["STS","G G","STS"],"key":{"S":"#hbm:platetriple/lead","T":"hbm:coil_gold","G":"minecraft:glass_pane"},"result":{"id":"hbm:particle_empty","count":2}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["  P","BBB"],"key":{"P":"#hbm:plate/steel","B":"#hbm:bolt/steel"},"result":{"id":"hbm:weapon_mod_special__10","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRM","P G"],"key":{"B":"#hbm:barrellight/weaponsteel","R":"#hbm:receiverlight/weaponsteel","M":"#hbm:gunmechanism/weaponsteel","P":"#hbm:plate/durasteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:weapon_mod_special__3","count":1}}

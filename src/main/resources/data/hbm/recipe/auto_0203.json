@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["FBF","BFB","FBF"],"key":{"F":"minecraft:iron_bars","B":"minecraft:obsidian"},"result":{"id":"hbm:brick_obsidian","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CDC","DLD","CDC"],"key":{"D":"hbm:ducrete","C":"minecraft:clay_ball","L":"hbm:plate_lead"},"result":{"id":"hbm:brick_ducrete","count":4}}

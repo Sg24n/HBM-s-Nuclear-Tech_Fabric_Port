@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:parts_legendary__1"],"result":{"id":"hbm:parts_legendary","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["T","C","B"],"key":{"T":"hbm:drone_waypoint_request","C":"hbm:crate_steel","B":"hbm:circuit__9"},"result":{"id":"hbm:drone_dock","count":1}}

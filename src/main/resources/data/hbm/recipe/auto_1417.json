@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PDS","  G"],"key":{"P":"#hbm:ingot/anyplastic","D":"minecraft:green_dye","S":"#hbm:stock/anyplastic","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:weapon_mod_special__8","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BBS","BHS"],"key":{"B":"#hbm:bolt/steel","S":"minecraft:stick","H":"#hbm:plate/durasteel"},"result":{"id":"hbm:weapon_mod_special__2","count":1}}

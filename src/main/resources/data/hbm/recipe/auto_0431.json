@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","PIP","WTW"],"key":{"C":"hbm:coil_copper","I":"minecraft:iron_ingot","P":"#hbm:ingot/anyplastic","T":"hbm:machine_transformer","W":"#minecraft:planks"},"result":{"id":"hbm:tesla","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IPI","I I","IPI"],"key":{"I":"#hbm:ingot/tcalloy","P":"#hbm:plate/titanium"},"result":{"id":"hbm:barrel_tcalloy","count":1}}

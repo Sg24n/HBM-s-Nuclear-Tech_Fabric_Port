@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","E E"],"key":{"E":"hbm:plate_euphemium"},"result":{"id":"hbm:euphemium_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["FSF","   ","FSF"],"key":{"F":"hbm:rag","S":"hbm:ring_starmetal"},"result":{"id":"hbm:bismuth_legs","count":1}}

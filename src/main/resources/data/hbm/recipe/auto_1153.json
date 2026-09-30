@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/lead","#hbm:dust/sulfur","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":8}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/boron","#hbm:dust/boron","#hbm:dust/lanthanum","#hbm:dust/lanthanum","#hbm:dust/cerium","#hbm:dust/cobalt","#hbm:dust/lithium","#hbm:dust/neodymium","#hbm:dust/niobium"],"result":{"id":"hbm:powder_desh_mix","count":9}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S "," F ","FFF"],"key":{"S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" N ","NFN"," N "],"key":{"N":"#hbm:dust/saltpeter","F":"hbm:ammo_fireext"},"result":{"id":"hbm:ammo_fireext__1","count":1}}

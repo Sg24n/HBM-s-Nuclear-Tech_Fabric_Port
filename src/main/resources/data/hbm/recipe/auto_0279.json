@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["B B","SSS","W W"],"key":{"B":"hbm:bolt_spike","S":"hbm:steel_beam","W":"#minecraft:slabs"},"result":{"id":"hbm:rail_large_straight","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["S S","SIS","S S"],"key":{"S":"#hbm:ingot/steel","I":"#hbm:plate/iron"},"result":{"id":"hbm:rail_highspeed","count":16}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","IDI","P P"],"key":{"P":"#hbm:ingot/anyrubber","I":"#hbm:plate/iron","D":"hbm:ducttape"},"result":{"id":"hbm:pads_rubber","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MBM","PBP","MBM"],"key":{"M":"hbm:motor","B":"#hbm:bolt/steel","P":"#hbm:plate/iron"},"result":{"id":"hbm:servo_set","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","LUL","LUL"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","U":"#hbm:ingot/uranium235"},"result":{"id":"hbm:custom_nuke","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DDD","DSD","DDD"],"key":{"D":"hbm:stick_c4","S":"hbm:safety_fuse"},"result":{"id":"hbm:c4","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ICI","CAC","ICI"],"key":{"I":"#hbm:ingot/starmetal","C":"hbm:circuit__11","A":"hbm:gem_alexandrite"},"result":{"id":"hbm:field_disturber","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SS","HC","SS"],"key":{"S":"#hbm:plate/titanium","H":"hbm:part_generic__1","C":"hbm:circuit__8"},"result":{"id":"hbm:refueler","count":1}}

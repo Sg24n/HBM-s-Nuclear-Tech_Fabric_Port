@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BGB","GRG","BGB"],"key":{"G":"hbm:block_graphite","R":"hbm:rbmk_control","B":"hbm:nugget_bismuth"},"result":{"id":"hbm:rbmk_control_mod","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GGG","GRG","GGG"],"key":{"G":"hbm:neutron_reflector","R":"hbm:rbmk_blank"},"result":{"id":"hbm:rbmk_reflector","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I I","ICI","GGG"],"key":{"I":"#hbm:plate/iron","G":"#hbm:plate/gold","C":"hbm:circuit__9"},"result":{"id":"hbm:linker","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["  A","#B#","#B#"],"key":{"#":"#hbm:ingot/anyplastic","A":"#hbm:plate/steel","B":"hbm:circuit__8"},"result":{"id":"hbm:designator","count":1}}

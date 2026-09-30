@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","B","P"],"key":{"P":"#hbm:plate/weaponsteel","B":"#hbm:barrellight/durasteel"},"result":{"id":"hbm:weapon_mod_special__6","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SPS","G G","SPS"],"key":{"P":"#hbm:ingot/anyplastic","S":"#hbm:plate/steel","G":"minecraft:glass_pane"},"result":{"id":"hbm:weapon_mod_special__1","count":1}}

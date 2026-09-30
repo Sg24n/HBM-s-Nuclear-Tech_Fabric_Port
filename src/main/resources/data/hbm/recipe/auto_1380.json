@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:gun_double_barrel","hbm:item_secret__2"],"result":{"id":"hbm:gun_double_barrel_sacred_dragon","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CRM","GG "],"key":{"C":"hbm:crystal_redstone","R":"#hbm:receiverlight/saturnite","M":"#hbm:gunmechanism/saturnite","G":"#hbm:grip/anyhardplastic"},"result":{"id":"hbm:gun_laser_pistol","count":1}}

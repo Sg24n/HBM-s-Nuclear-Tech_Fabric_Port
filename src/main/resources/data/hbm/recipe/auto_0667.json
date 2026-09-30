@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SBS"," C "," I "],"key":{"S":"minecraft:string","B":"minecraft:white_wool","C":"hbm:circuit__9","I":"#hbm:ingot/starmetal"},"result":{"id":"hbm:bj_helmet","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ajr_legs","minecraft:red_dye","minecraft:black_dye"],"result":{"id":"hbm:ajro_legs","count":1}}

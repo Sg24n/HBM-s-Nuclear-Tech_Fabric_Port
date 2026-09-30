@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["NFN","NIN","NBN"],"key":{"F":"#hbm:billet/plutonium241","I":"hbm:plate_polymer","B":"#hbm:billet/bismuth","N":"hbm:nugget_uranium_fuel"},"result":{"id":"hbm:pwr_fuel__14","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:billet/americium242","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__10","count":1}}

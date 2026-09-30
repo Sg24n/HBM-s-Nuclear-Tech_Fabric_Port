@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","RRR"," W "],"key":{"W":"hbm:plate_polymer","R":"#hbm:wirefine/mingrade"},"result":{"id":"hbm:red_cable","count":16}}
+{"type":"minecraft:crafting_shaped","pattern":[" Q ","CAC"," Q "],"key":{"Q":"#hbm:nugget/silicon","C":"hbm:red_cable","A":"#hbm:ingot/aluminum"},"result":{"id":"hbm:cable_diode","count":1}}

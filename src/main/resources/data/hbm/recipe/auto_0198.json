@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","C C"," C "],"key":{"C":"hbm:brick_concrete_cracked"},"result":{"id":"hbm:brick_concrete_broken","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","CVC","CCC"],"key":{"C":"hbm:brick_concrete","V":"minecraft:vine"},"result":{"id":"hbm:brick_concrete_mossy","count":8}}

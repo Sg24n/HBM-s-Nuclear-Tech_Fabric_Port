@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" D ","DID"," F "],"key":{"D":"hbm:ducttape","I":"#hbm:ingot/anyrubber","F":"#hbm:plate/iron"},"result":{"id":"hbm:attachment_mask_mono","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["WSW","PAP","SPS"],"key":{"S":"#hbm:platesextuple/steel","P":"#hbm:ingot/anyplastic","A":"#hbm:ingot/australium","W":"#hbm:wiredense/gold"},"result":{"id":"hbm:australium_iii","count":1}}

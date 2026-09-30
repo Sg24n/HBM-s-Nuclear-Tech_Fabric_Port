@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","GIG","CCC"],"key":{"I":"#hbm:ingot/tungsten","G":"hbm:cordite","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__2","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":[" WP","SEP"," WP"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:plate/weaponsteel","S":"#hbm:shell/weaponsteel","E":"hbm:ball_tatb"},"result":{"id":"hbm:assembly_nuke","count":1}}

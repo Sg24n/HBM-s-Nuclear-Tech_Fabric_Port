@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:injector_5htp","minecraft:iron_sword"],"result":{"id":"hbm:injector_knife","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MWM","WBW","MWM"],"key":{"M":"hbm:bottle_mercury","W":"hbm:nuclear_waste","B":"hbm:bathwater"},"result":{"id":"hbm:bathwater_mk2","count":1}}

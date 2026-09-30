@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TRC"],"key":{"T":"hbm:ammo_standard__75","R":"hbm:rangefinder","C":"hbm:circuit__13"},"result":{"id":"hbm:bomb_caller__4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["TTT","TRT","TTT"],"key":{"T":"minecraft:tnt","R":"hbm:rangefinder"},"result":{"id":"hbm:bomb_caller","count":1}}

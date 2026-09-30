@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRS","SMG"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/steel","S":"#hbm:bolt/steel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/steel"},"result":{"id":"hbm:gun_greasegun","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:casing__3"},"result":{"id":"hbm:casing__6","count":2}}

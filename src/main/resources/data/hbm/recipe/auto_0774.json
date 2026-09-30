@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:loops","hbm:can_smart","minecraft:bowl"],"result":{"id":"hbm:loop_stew","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:redstone","#hbm:dust/emerald","minecraft:wheat","#hbm:bolt/steel","#hbm:wirefine/copper","#hbm:plate/steel"],"result":{"id":"hbm:pancake","count":1}}

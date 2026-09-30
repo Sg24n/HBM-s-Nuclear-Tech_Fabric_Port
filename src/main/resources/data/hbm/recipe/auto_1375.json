@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MPM"," M "],"key":{"M":"#hbm:gunmechanism/saturnite","P":"hbm:gun_laser_pistol"},"result":{"id":"hbm:gun_laser_pistol_pew_pew","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BCB","BMB","GG "],"key":{"B":"#hbm:barrelheavy/ferrouranium","C":"hbm:circuit__9","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_quadro","count":1}}

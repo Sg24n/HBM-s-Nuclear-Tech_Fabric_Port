@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PLP","PSP","PLP"],"key":{"P":"#hbm:plate/steel","S":"hbm:ring_starmetal","L":"#hbm:plate/durasteel"},"result":{"id":"hbm:radiobox","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SII","SCA","SPP"],"key":{"I":"#hbm:ingot/steel","S":"#hbm:ingot/starmetal","P":"hbm:plate_polymer","C":"hbm:sat_chip","A":"hbm:circuit__9"},"result":{"id":"hbm:sat_coord","count":1}}

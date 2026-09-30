@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/steel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_light_revolver","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IW"," S"," S"],"key":{"I":"#hbm:ingot/schrabidium","W":"hbm:desh_hoe","S":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_hoe","count":1}}

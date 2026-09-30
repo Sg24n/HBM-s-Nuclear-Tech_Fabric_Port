@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IAI","W W"],"key":{"I":"hbm:plate_polymer","A":"#hbm:dust/aluminum","W":"#hbm:wirefine/aluminum"},"result":{"id":"hbm:circuit__1","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["I","N","W"],"key":{"I":"hbm:plate_polymer","N":"#hbm:nugget/niobium","W":"#hbm:wirefine/copper"},"result":{"id":"hbm:circuit__1","count":1}}

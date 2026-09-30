@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/gunmetal","#hbm:platetriple/steel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__3","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C","P","G"],"key":{"C":"minecraft:gravel","P":"minecraft:paper","G":"minecraft:gunpowder"},"result":{"id":"hbm:ammo_standard__3","count":6}}

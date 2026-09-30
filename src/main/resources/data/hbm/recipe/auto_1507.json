@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S ","PDP","PDP"],"key":{"S":"hbm:safety_fuse","P":"minecraft:paper","D":"hbm:ball_dynamite"},"result":{"id":"hbm:stick_dynamite","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","KWK"],"key":{"C":"hbm:circuit__8","K":"hbm:coil_gold","W":"#hbm:plate/weaponsteel"},"result":{"id":"hbm:grenade_filling","count":4}}

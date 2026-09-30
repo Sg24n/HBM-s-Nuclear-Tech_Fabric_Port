@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/copper"},"result":{"id":"hbm:plate_copper","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/aluminum"},"result":{"id":"hbm:plate_aluminium","count":4}}

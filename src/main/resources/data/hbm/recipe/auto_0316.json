@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PKP","DTD","PKP"],"key":{"P":"#hbm:plate/gold","K":"hbm:key","D":"#hbm:dust/workersalloy","T":"hbm:screwdriver"},"result":{"id":"hbm:key_kit","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" W","SC","CE"],"key":{"S":"#hbm:plate/steel","W":"#hbm:wirefine/schrabidium","C":"hbm:circuit__9","E":"#hbm:ingot/euphemium"},"result":{"id":"hbm:igniter","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","IPI"," I "],"key":{"I":"#hbm:ingot/anybismoidbronze","P":"#hbm:platetriple/anybismoidbronze"},"result":{"id":"hbm:cm_block__1","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","IPI"," I "],"key":{"I":"#hbm:ingot/workersalloy","P":"#hbm:platetriple/workersalloy"},"result":{"id":"hbm:cm_block__2","count":4}}

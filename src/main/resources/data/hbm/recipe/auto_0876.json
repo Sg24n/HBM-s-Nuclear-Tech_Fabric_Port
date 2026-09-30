@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["G","C","I"],"key":{"G":"#hbm:plate/gold","C":"hbm:circuit","I":"#hbm:plate/iron"},"result":{"id":"hbm:gas_tester","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["NIN","IGI","NIN"],"key":{"N":"#hbm:nugget/gold198","I":"hbm:ink","G":"#hbm:gem/volcanic"},"result":{"id":"hbm:black_diamond","count":1}}

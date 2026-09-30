@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WWW","WPW","CCC"],"key":{"W":"#minecraft:planks","P":"hbm:part_generic","C":"hbm:conveyor_wand"},"result":{"id":"hbm:crane_boxer","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","CPC"," I "],"key":{"I":"minecraft:iron_ingot","C":"#hbm:ingot/copper","P":"#hbm:plate/iron"},"result":{"id":"hbm:part_generic","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_counter_resonant"],"result":{"id":"hbm:rune_isa","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#minecraft:sand","#minecraft:sand","#hbm:dust/netherquartz","#hbm:dust/netherquartz"],"result":{"id":"hbm:sand_mix__4","count":1}}

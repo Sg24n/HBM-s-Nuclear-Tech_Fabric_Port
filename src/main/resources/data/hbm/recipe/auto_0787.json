@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:potion","minecraft:sugar","minecraft:sugar","minecraft:orange_dye"],"result":{"id":"hbm:mucho_mango","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:can_empty","minecraft:potion","minecraft:sugar","#hbm:dust/sulfur"],"result":{"id":"hbm:can_overcharge","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PSP","SCS","PSP"],"key":{"P":"#hbm:ingot/anyresistantalloy","S":"#hbm:ingot/anyplastic","C":"hbm:sat_chip"},"result":{"id":"hbm:machine_satlinker","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["NSN","NGN","G G"],"key":{"N":"minecraft:gold_nugget","G":"minecraft:gold_ingot","S":"hbm:battery_pack"},"result":{"id":"hbm:ams_core_thingy","count":1}}

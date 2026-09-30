@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["R","C","B"],"key":{"R":"hbm:radio_torch_sender","B":"hbm:rbmk_display_blank","C":"#hbm:ingot/copper"},"result":{"id":"hbm:rbmk_lever","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" R ","CCC"," B "],"key":{"R":"hbm:radio_torch_receiver","B":"hbm:rbmk_display_blank","C":"hbm:circuit__19"},"result":{"id":"hbm:rbmk_numitron","count":1}}

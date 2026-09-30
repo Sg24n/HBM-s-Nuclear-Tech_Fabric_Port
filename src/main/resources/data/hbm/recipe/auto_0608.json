@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IGI","GCG","IGI"],"key":{"C":"hbm:rbmk_blank","I":"hbm:plate_polymer","G":"hbm:steel_grate"},"result":{"id":"hbm:rbmk_cooler","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CPC","CRC","CPC"],"key":{"C":"#hbm:ntmpipe/copper","P":"#hbm:shell/copper","R":"hbm:rbmk_blank"},"result":{"id":"hbm:rbmk_boiler","count":1}}

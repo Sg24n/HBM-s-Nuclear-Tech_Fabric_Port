@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:can_empty","minecraft:potion","minecraft:sugar","hbm:pellet_cluster"],"result":{"id":"hbm:can_redbomb","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P","P"],"key":{"P":"#hbm:plate/aluminum"},"result":{"id":"hbm:can_empty","count":1}}

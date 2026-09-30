@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["AIA","I I","AIA"],"key":{"A":"#hbm:wirefine/steel","I":"minecraft:iron_ingot"},"result":{"id":"hbm:barbed_wire","count":16}}
+{"type":"minecraft:crafting_shaped","pattern":["G","B","S"],"key":{"G":"minecraft:glass_pane","B":"hbm:powder_bromine","S":"#hbm:plate/steel"},"result":{"id":"hbm:spotlight_halogen","count":8}}

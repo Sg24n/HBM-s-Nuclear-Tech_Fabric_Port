@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["FSF","   ","FSF"],"key":{"F":"hbm:rag","S":"hbm:ring_starmetal"},"result":{"id":"hbm:bismuth_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GPP","P  ","FPP"],"key":{"G":"minecraft:gold_ingot","P":"hbm:plate_bismuth","F":"hbm:rag"},"result":{"id":"hbm:bismuth_helmet","count":1}}

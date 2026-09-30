@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SWS"," R "," R "],"key":{"S":"#minecraft:slabs","W":"#minecraft:logs","R":"minecraft:stick"},"result":{"id":"hbm:wood_gavel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["II"," I"," I"],"key":{"I":"#hbm:ingot/steel"},"result":{"id":"hbm:crowbar","count":1}}

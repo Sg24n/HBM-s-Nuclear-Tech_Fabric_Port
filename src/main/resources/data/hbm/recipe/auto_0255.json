@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plate_polymer","#minecraft:sand","#minecraft:sand","#minecraft:sand"],"result":{"id":"hbm:sandbags","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BBB","BIB","BBB"],"key":{"B":"hbm:barbed_wire","I":"hbm:powder_poison"},"result":{"id":"hbm:barbed_wire_poison","count":8}}

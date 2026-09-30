@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","W","S"],"key":{"I":"hbm:block_schrabidium","W":"hbm:desh_sword","S":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_sword","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["L L","LLL"],"key":{"L":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:boat_rubber","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRS"," GM"],"key":{"B":"#hbm:barrellight/workersalloy","R":"#hbm:receiverlight/workersalloy","S":"#hbm:stock/anyplastic","G":"#hbm:grip/anyplastic","M":"#hbm:gunmechanism/gunmetal"},"result":{"id":"hbm:gun_uzi","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BB ","BBM","G G"],"key":{"B":"#hbm:barrellight/durasteel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_liberator","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","GCG"],"key":{"P":"#hbm:ingot/anyplastic","G":"minecraft:glass","C":"hbm:circuit__8"},"result":{"id":"hbm:night_vision","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","MDM"," M "],"key":{"M":"hbm:fragment_meteorite","D":"#hbm:gem/volcanic"},"result":{"id":"hbm:meteor_charm","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PSP","SCS","PSP"],"key":{"P":"#hbm:ingot/anyplastic","S":"#hbm:ingot/starmetal","C":"hbm:circuit__11"},"result":{"id":"hbm:neutrino_lens","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:injector_5htp","minecraft:iron_sword"],"result":{"id":"hbm:injector_knife","count":1}}

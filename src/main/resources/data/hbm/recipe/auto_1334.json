@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","TCT","TST"],"key":{"P":"#hbm:plate/gunmetal","T":"#hbm:ingot/steel","C":"minecraft:crafting_table","S":"hbm:block_steel"},"result":{"id":"hbm:machine_weapon_table","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IS"," B"," I"],"key":{"I":"#hbm:ingot/starmetal","S":"hbm:ring_starmetal","B":"hbm:cobalt_decorated_hoe"},"result":{"id":"hbm:starmetal_hoe","count":1}}

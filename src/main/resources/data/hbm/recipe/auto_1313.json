@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["  I"," I ","S  "],"key":{"S":"#hbm:ingot/anyplastic","I":"#hbm:ingot/workersalloy"},"result":{"id":"hbm:screwdriver_desh","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/aluminum","I":"minecraft:iron_ingot"},"result":{"id":"hbm:mirror_tool","count":1}}

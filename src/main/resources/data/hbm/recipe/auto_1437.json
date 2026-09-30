@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ammo_standard__44","hbm:item_secret__2"],"result":{"id":"hbm:ammo_secret__3","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["DSD","PPP","DSD"],"key":{"D":"#hbm:ingot/anyplastic","P":"#hbm:wiredense/gold","S":"hbm:battery_pack"},"result":{"id":"hbm:weapon_mod_special__24","count":1}}

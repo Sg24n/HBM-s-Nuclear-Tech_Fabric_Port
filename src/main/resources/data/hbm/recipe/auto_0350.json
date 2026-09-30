@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS","STS"," D "],"key":{"S":"#hbm:plate/steel","T":"#hbm:ingot/tungsten","D":"#hbm:bolt/durasteel"},"result":{"id":"hbm:piston_selenium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["121","1G1","121"],"key":{"1":"#hbm:plate/steel","2":"#hbm:plate/aluminum","G":"minecraft:glass_pane"},"result":{"id":"hbm:fluid_barrel_empty","count":2}}

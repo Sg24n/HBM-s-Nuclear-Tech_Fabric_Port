@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:dust"},"result":{"id":"hbm:block_scrap","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_lead"},"result":{"id":"hbm:block_lead","count":1}}

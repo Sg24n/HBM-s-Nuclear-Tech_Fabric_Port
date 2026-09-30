@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/tungsten"},"result":{"id":"hbm:neutron_reflector","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/saturnite"},"result":{"id":"hbm:plate_saturnite","count":4}}

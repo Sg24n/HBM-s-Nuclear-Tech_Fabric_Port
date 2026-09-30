@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","DTD","DSD"],"key":{"W":"#hbm:wiredense/magnetizedtungsten","D":"#hbm:platetriple/saturnite","S":"hbm:powder_power","T":"hbm:crystal_trixite"},"result":{"id":"hbm:battery_trixite","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DDD","DSD","DDD"],"key":{"D":"hbm:stick_dynamite","S":"hbm:safety_fuse"},"result":{"id":"hbm:dynamite","count":1}}

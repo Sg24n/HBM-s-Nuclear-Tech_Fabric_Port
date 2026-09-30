@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["QBQ","CSC","QBQ"],"key":{"Q":"hbm:glass_quartz","B":"#hbm:ingot/cmbsteel","C":"#hbm:ingot/schrabidate","S":"hbm:cell_anti_schrabidium"},"result":{"id":"hbm:laser_crystal_cmb","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PIP"],"key":{"P":"#hbm:plate/titanium","I":"hbm:blades_titanium"},"result":{"id":"hbm:blades_titanium","count":1}}

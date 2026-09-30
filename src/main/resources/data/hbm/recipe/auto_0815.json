@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle2_empty","hbm:syringe_metal_empty","hbm:ducttape","hbm:powder_magic","#hbm:nugget/schrabidium","minecraft:potion"],"result":{"id":"hbm:syringe_taint","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" N ","PSP","L L"],"key":{"N":"hbm:bottle_cherry","P":"#hbm:plate/steel","S":"hbm:syringe_metal_stimpak","L":"minecraft:leather"},"result":{"id":"hbm:syringe_metal_super","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" R ","ICI","ITI"],"key":{"R":"#hbm:wirefine/mingrade","T":"hbm:coil_copper_torus","I":"#hbm:plate/iron","C":"hbm:coil_copper"},"result":{"id":"hbm:motor","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["STS","S S","STS"],"key":{"S":"#hbm:plate/steel","T":"#hbm:plate/titanium"},"result":{"id":"hbm:tank_steel","count":2}}

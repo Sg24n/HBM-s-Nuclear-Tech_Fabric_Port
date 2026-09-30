@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","D","W"],"key":{"S":"minecraft:iron_sword","D":"hbm:ducttape","W":"hbm:wrench"},"result":{"id":"hbm:wrench_flipped","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" S "," IS","I  "],"key":{"S":"#hbm:ingot/steel","I":"minecraft:iron_ingot"},"result":{"id":"hbm:wrench","count":1}}

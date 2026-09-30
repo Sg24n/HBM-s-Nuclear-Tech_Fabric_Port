@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WIW","PCP","WIW"],"key":{"W":"#hbm:wirefine/copper","I":"#hbm:ingot/anyplastic","C":"hbm:circuit__8","P":"hbm:plate_polymer"},"result":{"id":"hbm:upgrade_template","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","IWI","III"],"key":{"I":"#hbm:ingot/anyrubber","W":"minecraft:white_wool"},"result":{"id":"hbm:upgrade_muffler","count":16}}

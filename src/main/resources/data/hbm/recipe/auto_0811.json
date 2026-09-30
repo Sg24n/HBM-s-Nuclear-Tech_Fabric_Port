@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" N ","PSP","L L"],"key":{"N":"hbm:bottle_nuka","P":"#hbm:plate/steel","S":"hbm:syringe_metal_stimpak","L":"minecraft:leather"},"result":{"id":"hbm:syringe_metal_super","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" N ","NSN"," N "],"key":{"N":"minecraft:quartz","S":"hbm:syringe_metal_empty"},"result":{"id":"hbm:syringe_metal_medx","count":1}}

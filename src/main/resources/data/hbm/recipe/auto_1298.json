@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SFS","SCS"," S "],"key":{"S":"#hbm:plate/steel","F":"hbm:filter_coal","C":"hbm:circuit"},"result":{"id":"hbm:pollution_detector","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GPP","WCS","WBB"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:ingot/anyrubber","C":"hbm:circuit__8","G":"minecraft:gold_ingot","S":"#hbm:plate/steel","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:geiger_counter","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","PTP"],"key":{"C":"hbm:circuit__8","P":"#hbm:plate/steel","T":"#hbm:ingot/anyhighexplosive"},"result":{"id":"hbm:mine_he","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BBB"," T ","BBB"],"key":{"B":"#hbm:bolt/steel","T":"hbm:ducttape"},"result":{"id":"hbm:grenade_extra","count":1}}

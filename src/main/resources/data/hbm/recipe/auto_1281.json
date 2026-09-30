@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","S"],"key":{"I":"#hbm:dust/redphosphorus","S":"minecraft:stick"},"result":{"id":"hbm:matchstick","count":24}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_desh","D":"hbm:powder_dineutronium","A":"hbm:plate_paa","P":"hbm:chlorophyte_axe","F":"hbm:shimmer_handle"},"result":{"id":"hbm:mese_axe","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DDD","SSC","  R"],"key":{"D":"hbm:plate_dineutronium","S":"#hbm:ingot/starmetal","C":"hbm:circuit__11","R":"hbm:gun_lasrifle"},"result":{"id":"hbm:gun_b92","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","CTC","CCC"],"key":{"C":"#hbm:ingot/anyrubber","T":"hbm:mp_fuselage_15_solid"},"result":{"id":"hbm:mp_fuselage_15_solid_insulation","count":1}}

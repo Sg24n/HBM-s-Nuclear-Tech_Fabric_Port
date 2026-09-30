@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:ingot/gunmetal","minecraft:iron_ingot","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C","P","G"],"key":{"C":"minecraft:cobblestone","P":"minecraft:paper","G":"minecraft:gunpowder"},"result":{"id":"hbm:ammo_standard","count":6}}

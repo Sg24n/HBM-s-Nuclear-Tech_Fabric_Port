@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye__2","hbm:chemical_dye__15"],"result":{"id":"hbm:chemical_dye__10","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["BN","NB"],"key":{"B":"minecraft:brick","N":"minecraft:nether_brick"},"result":{"id":"hbm:ingot_firebrick","count":4}}

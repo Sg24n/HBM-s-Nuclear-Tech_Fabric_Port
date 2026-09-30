@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PRP","DPD"],"key":{"R":"hbm:cladding_lead","P":"hbm:plate_desh","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_desh","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RCR","CDC","RCR"],"key":{"R":"#hbm:ingot/anyrubber","C":"#hbm:dust/coal","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_rubber","count":1}}

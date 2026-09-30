@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SPS","DSD","SPS"],"key":{"S":"minecraft:slime_ball","P":"hbm:pads_rubber","D":"hbm:ducttape"},"result":{"id":"hbm:pads_slime","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MBM","PSP","MBM"],"key":{"M":"hbm:motor_desh","B":"#hbm:bolt/durasteel","P":"hbm:plate_desh","S":"hbm:servo_set"},"result":{"id":"hbm:servo_set_desh","count":1}}

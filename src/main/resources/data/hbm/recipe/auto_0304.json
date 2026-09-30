@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LML","LCL","LML"],"key":{"L":"#hbm:plate/lead","M":"hbm:magnetron","C":"hbm:circuit__9"},"result":{"id":"hbm:emp_bomb","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["FFF","ITI","ITI"],"key":{"F":"minecraft:flint","I":"#hbm:plate/iron","T":"hbm:ball_dynamite"},"result":{"id":"hbm:det_miner","count":4}}

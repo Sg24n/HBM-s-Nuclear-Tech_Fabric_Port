@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS","IGI"],"key":{"S":"#hbm:plate/steel","I":"#hbm:ingot/anyrubber","G":"minecraft:glass_pane"},"result":{"id":"hbm:security_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ECE","E E"],"key":{"E":"#hbm:billet/cobalt","C":"hbm:steel_legs"},"result":{"id":"hbm:cobalt_legs","count":1}}

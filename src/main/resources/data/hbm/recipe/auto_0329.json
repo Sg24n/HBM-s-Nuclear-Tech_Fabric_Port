@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["STS","THT","STS"],"key":{"S":"hbm:cell_uf6","T":"#hbm:dust/aluminum","H":"hbm:crystal_charred"},"result":{"id":"hbm:crystal_pulsar","count":32}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/neptunium237","#hbm:dust/iodine","#hbm:dust/thorium232","#hbm:dust/astatine","#hbm:dust/neodymium","#hbm:dust/caesium","hbm:block_meteor","hbm:gravel_obsidian","minecraft:water_bucket"],"result":{"id":"hbm:crystal_horn","count":1}}

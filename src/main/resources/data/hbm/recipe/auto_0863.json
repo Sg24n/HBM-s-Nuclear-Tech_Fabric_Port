@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["L L","I I","ILI"],"key":{"L":"hbm:lodestone","I":"minecraft:iron_ingot"},"result":{"id":"hbm:horseshoe_magnet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CDC","ISI","CDC"],"key":{"C":"#hbm:ingot/copper","D":"hbm:ducttape","I":"#hbm:ingot/anyrubber","S":"hbm:pads_slime"},"result":{"id":"hbm:pads_static","count":1}}

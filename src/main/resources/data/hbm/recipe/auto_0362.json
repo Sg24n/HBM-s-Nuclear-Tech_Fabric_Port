@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SCS","MDM","SCS"],"key":{"S":"minecraft:iron_ingot","D":"#hbm:ingot/mingrade","M":"hbm:coil_copper","C":"hbm:circuit__1"},"result":{"id":"hbm:machine_transformer","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:geiger"],"result":{"id":"hbm:geiger_counter","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","I I","LLL"],"key":{"L":"minecraft:leather","I":"minecraft:iron_ingot"},"result":{"id":"hbm:conveyor_wand","count":16}}
+{"type":"minecraft:crafting_shaped","pattern":["SCR","W#W","WWW"],"key":{"S":"hbm:radio_torch_sender","C":"hbm:crt_display","R":"hbm:radio_torch_receiver","W":"#minecraft:planks","#":"hbm:circuit__7"},"result":{"id":"hbm:radio_telex","count":2}}

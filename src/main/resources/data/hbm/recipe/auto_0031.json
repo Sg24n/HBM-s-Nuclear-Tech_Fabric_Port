@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S ","AA","AA"],"key":{"A":"#hbm:plate/steel","S":"#hbm:plate/copper"},"result":{"id":"hbm:gas_empty","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["S ","AA","AA"],"key":{"S":"#hbm:plate/steel","A":"#hbm:plate/aluminum"},"result":{"id":"hbm:canister_empty","count":2}}

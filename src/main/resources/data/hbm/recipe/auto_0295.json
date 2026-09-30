@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","SRS"," P "],"key":{"P":"minecraft:paper","S":"hbm:solid_fuel","R":"minecraft:redstone"},"result":{"id":"hbm:solid_fuel_presto","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","IPI"," I "],"key":{"P":"minecraft:paper","I":"minecraft:black_dye"},"result":{"id":"hbm:flame_politics","count":1}}

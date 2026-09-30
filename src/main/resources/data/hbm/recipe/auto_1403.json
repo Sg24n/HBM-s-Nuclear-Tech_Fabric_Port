@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/weaponsteel","#hbm:platetriple/anyresistantalloy","#hbm:platetriple/anyresistantalloy","#hbm:platetriple/anyresistantalloy","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__12","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/gunmetal","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__6","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRP","BMS"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/gunmetal","M":"#hbm:gunmechanism/gunmetal","S":"#hbm:stock/wood","P":"#hbm:plate/gunmetal"},"result":{"id":"hbm:gun_henry","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:plate/gunmetal","C":"hbm:casing__1"},"result":{"id":"hbm:casing__4","count":2}}

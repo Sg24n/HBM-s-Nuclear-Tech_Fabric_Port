@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PRP","DPD"],"key":{"R":"hbm:cladding_rubber","P":"#hbm:plate/lead","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_lead","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","minecraft:clay_ball","minecraft:glass_bottle"],"result":{"id":"hbm:cladding_paint","count":1}}

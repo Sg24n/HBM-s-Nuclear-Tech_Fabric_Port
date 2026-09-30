@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:bolt/steel","hbm:wrench"],"result":{"id":"hbm:cbt_device","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S","D","W"],"key":{"S":"minecraft:iron_sword","D":"hbm:ducttape","W":"hbm:wrench"},"result":{"id":"hbm:wrench_flipped","count":1}}

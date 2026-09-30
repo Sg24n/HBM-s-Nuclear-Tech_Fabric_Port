@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:lightstone"],"result":{"id":"hbm:lightstone__3","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:lightstone"},"result":{"id":"hbm:lightstone__1","count":4}}

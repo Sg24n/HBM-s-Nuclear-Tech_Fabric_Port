@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["G","W","I"],"key":{"G":"minecraft:glass_pane","W":"#hbm:wirefine/tungsten","I":"hbm:plate_polymer"},"result":{"id":"hbm:circuit","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BB"],"key":{"B":"minecraft:nether_brick"},"result":{"id":"hbm:plate_polymer","count":4}}

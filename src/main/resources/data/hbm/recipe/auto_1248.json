@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["Z Z","ZBZ","Z Z"],"key":{"Z":"#hbm:nugget/zirconium","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:rod_zirnox_empty","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:billet/solinium","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__12","count":1}}

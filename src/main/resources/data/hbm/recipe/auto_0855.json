@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DID","IGI"," F "],"key":{"D":"hbm:ducttape","I":"#hbm:ingot/anyrubber","G":"minecraft:glass_pane","F":"#hbm:plate/iron"},"result":{"id":"hbm:attachment_mask","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["YIY","IYI","YIY"],"key":{"Y":"hbm:billet_yharonite","I":"hbm:insert_du"},"result":{"id":"hbm:insert_yharonite","count":1}}

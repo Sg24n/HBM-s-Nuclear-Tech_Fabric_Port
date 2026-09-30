@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:concrete_smooth"},"result":{"id":"hbm:concrete","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["FBF","BFB","FBF"],"key":{"F":"minecraft:oak_fence","B":"minecraft:bricks"},"result":{"id":"hbm:brick_light","count":4}}

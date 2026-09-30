@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TAR","PAP","PAP"],"key":{"T":"hbm:radio_torch_sender","R":"hbm:radio_torch_receiver","A":"hbm:circuit__7","P":"#hbm:platetriple/copper"},"result":{"id":"hbm:radio_autocal","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" G ","IRI"],"key":{"G":"minecraft:glowstone_dust","R":"minecraft:redstone_torch","I":"hbm:circuit__5"},"result":{"id":"hbm:radio_torch_controller","count":4}}

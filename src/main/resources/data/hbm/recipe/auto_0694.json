@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["R R","T T"],"key":{"T":"#hbm:plate/titanium","R":"#hbm:ingot/rubber"},"result":{"id":"hbm:envsuit_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["T T","TCT","RRR"],"key":{"T":"#hbm:plate/titanium","C":"#hbm:platetriple/titanium","R":"#hbm:ingot/rubber"},"result":{"id":"hbm:envsuit_plate","count":1}}

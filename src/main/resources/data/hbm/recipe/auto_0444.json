@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","PUP"," C "],"key":{"C":"hbm:plate_gold","P":"hbm:motor","U":"hbm:upgrade_ejector"},"result":{"id":"hbm:upgrade_ejector__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","PUP"," C "],"key":{"C":"hbm:circuit__5","P":"hbm:part_generic__2","U":"hbm:upgrade_stack"},"result":{"id":"hbm:upgrade_stack__2","count":1}}

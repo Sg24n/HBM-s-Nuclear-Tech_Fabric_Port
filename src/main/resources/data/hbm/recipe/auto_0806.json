@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","C","B"],"key":{"B":"minecraft:iron_bars","C":"hbm:rod_empty","P":"#hbm:plate/iron"},"result":{"id":"hbm:syringe_metal_empty","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["SPS","NCN","SPS"],"key":{"C":"hbm:syringe_empty","S":"#hbm:dust/sulfur","P":"#hbm:nugget/plutonium239","N":"#hbm:nugget/plutonium238"},"result":{"id":"hbm:syringe_awesome","count":1}}

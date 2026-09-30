@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:blueprints","hbm:blueprints","hbm:blueprints"],"result":{"id":"hbm:blueprint_folder","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" D","S "," S"],"key":{"D":"#hbm:ingot/workersalloy","S":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:hand_drill_desh","count":1}}

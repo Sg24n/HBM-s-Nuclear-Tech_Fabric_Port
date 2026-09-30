@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/saltpeter","minecraft:sugar","minecraft:sand","hbm:chemistry_set"],"result":{"id":"hbm:ball_dynamite","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"hbm:powder_balefire"},"result":{"id":"hbm:egg_balefire_shard","count":1}}

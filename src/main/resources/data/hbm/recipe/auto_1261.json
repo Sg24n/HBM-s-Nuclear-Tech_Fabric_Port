@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RPR","RPR"," B "],"key":{"P":"#hbm:ingot/anyplastic","R":"#hbm:bolt/durasteel","B":"hbm:battery_pack__1"},"result":{"id":"hbm:elec_sword","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["X","#","#"],"key":{"X":"#hbm:ingot/titanium","#":"minecraft:stick"},"result":{"id":"hbm:titanium_shovel","count":1}}

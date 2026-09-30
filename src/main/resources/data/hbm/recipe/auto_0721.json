@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","E E","E E"],"key":{"E":"hbm:asbestos_cloth"},"result":{"id":"hbm:asbestos_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","EIE"],"key":{"E":"hbm:asbestos_cloth","I":"#hbm:plate/gold"},"result":{"id":"hbm:asbestos_helmet","count":1}}

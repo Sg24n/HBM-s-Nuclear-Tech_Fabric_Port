@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","R","D"],"key":{"C":"hbm:circuit__9","R":"hbm:rbmk_control","D":"hbm:crt_display"},"result":{"id":"hbm:rbmk_control_auto","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" B ","GRG"," B "],"key":{"G":"#hbm:ingot/graphite","B":"hbm:motor","R":"hbm:rbmk_absorber"},"result":{"id":"hbm:rbmk_control","count":1}}

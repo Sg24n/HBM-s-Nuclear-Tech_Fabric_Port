@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","PBP","PCP"],"key":{"P":"#hbm:ingot/anyhardplastic","C":"#hbm:dust/cobalt","B":"#hbm:ingot/anybismoid"},"result":{"id":"hbm:catalytic_converter","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","PIP","WTW"],"key":{"C":"hbm:coil_copper","I":"minecraft:iron_ingot","P":"#hbm:ingot/anyplastic","T":"hbm:machine_transformer","W":"#minecraft:planks"},"result":{"id":"hbm:tesla","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","C C"," C "],"key":{"C":"hbm:tile_lab"},"result":{"id":"hbm:tile_lab_cracked","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["MSM","MWM","MSM"],"key":{"M":"hbm:meteor_polished","S":"hbm:block_starmetal","W":"#hbm:wirefine/schrabidium"},"result":{"id":"hbm:meteor_battery","count":1}}

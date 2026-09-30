@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","S","S"],"key":{"S":"#hbm:ingot/steel"},"result":{"id":"hbm:steel_beam","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["T T","TRT","BBB"],"key":{"T":"#hbm:ingot/tungsten","B":"#hbm:ingot/beryllium","R":"#hbm:ingot/mingrade"},"result":{"id":"hbm:pole_top","count":1}}

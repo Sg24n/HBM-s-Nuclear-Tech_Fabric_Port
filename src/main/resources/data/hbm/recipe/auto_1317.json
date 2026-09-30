@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GIG","GCG"],"key":{"G":"hbm:glass_boron","I":"#hbm:ingot/steel","C":"#hbm:ingot/cobalt"},"result":{"id":"hbm:chemistry_set_boron","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","CIC"],"key":{"C":"#hbm:plate/copper","I":"minecraft:iron_ingot"},"result":{"id":"hbm:toolbox","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/am241","#hbm:nugget/am241","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242"],"result":{"id":"hbm:billet_am_mix","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/pu239","#hbm:nugget/pu239","#hbm:nugget/pu239","#hbm:nugget/pu239","#hbm:nugget/pu240","#hbm:nugget/pu240"],"result":{"id":"hbm:billet_pu_mix","count":1}}

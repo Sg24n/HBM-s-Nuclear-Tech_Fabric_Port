@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RWR","WPW","RWR"],"key":{"W":"hbm:nuclear_waste","R":"minecraft:sugar_cane","P":"minecraft:pumpkin_seeds"},"result":{"id":"hbm:schnitzel_vegan","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["TRC"],"key":{"T":"hbm:ammo_standard__75","R":"hbm:rangefinder","C":"hbm:circuit__13"},"result":{"id":"hbm:bomb_caller__4","count":1}}

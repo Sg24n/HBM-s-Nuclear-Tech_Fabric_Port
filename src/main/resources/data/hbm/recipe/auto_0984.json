@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_dura_steel"},"result":{"id":"hbm:block_dura_steel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_magnetized_tungsten"},"result":{"id":"hbm:block_magnetized_tungsten","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/u238","#hbm:nugget/u238","#hbm:nugget/u238","#hbm:nugget/u238","#hbm:nugget/u238","#hbm:nugget/u235"],"result":{"id":"hbm:billet_uranium_fuel","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:clay_ball","minecraft:clay_ball","hbm:stone_resource__4","#minecraft:sand"],"result":{"id":"hbm:ball_fireclay","count":4}}

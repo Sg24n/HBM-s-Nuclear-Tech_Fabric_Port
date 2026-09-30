@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ammo_standard__91","hbm:ammo_standard__91","hbm:ammo_standard__91","hbm:ammo_standard__91","hbm:ammo_standard__91","hbm:ammo_standard__91","hbm:ammo_standard__91","hbm:ducttape","hbm:ducttape"],"result":{"id":"hbm:ammo_standard__92","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","MWM"],"key":{"C":"hbm:circuit__8","M":"hbm:motor","W":"#hbm:wiredense/gold"},"result":{"id":"hbm:gun_pa_melee","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","L#L","LLL"],"key":{"L":"minecraft:ladder","#":"#minecraft:planks"},"result":{"id":"hbm:ladder_sturdy","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["RRR","R R","RRR"],"key":{"R":"hbm:deco_rbmk"},"result":{"id":"hbm:rbmk_blank","count":1}}

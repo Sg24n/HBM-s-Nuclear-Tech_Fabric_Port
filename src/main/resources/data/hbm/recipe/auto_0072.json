@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","BSB","BBB"],"key":{"B":"hbm:blade_tungsten","S":"#hbm:ingot/durasteel"},"result":{"id":"hbm:turbine_tungsten","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:ingot/anyrubber","minecraft:wheat","minecraft:rotten_flesh","minecraft:wheat_seeds","minecraft:wheat_seeds","minecraft:wheat_seeds"],"result":{"id":"hbm:definitelyfood","count":4}}

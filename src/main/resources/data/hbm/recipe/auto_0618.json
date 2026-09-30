@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","IMI"," I "],"key":{"I":"#hbm:ingot/steel","M":"hbm:motor_desh"},"result":{"id":"hbm:cm_engine__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P","B","P"],"key":{"B":"hbm:cm_block","P":"#hbm:plate/iron"},"result":{"id":"hbm:cm_port","count":1}}

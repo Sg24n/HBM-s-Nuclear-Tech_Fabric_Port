@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MDM"," M "],"key":{"M":"hbm:fragment_meteorite","D":"#hbm:gem/volcanic"},"result":{"id":"hbm:meteor_charm","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:five_htp","hbm:circuit__8","#hbm:plate/saturnite"],"result":{"id":"hbm:injector_5htp","count":1}}

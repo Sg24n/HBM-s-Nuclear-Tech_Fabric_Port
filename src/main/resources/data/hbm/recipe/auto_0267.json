@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SS"],"key":{"S":"hbm:steel_grate"},"result":{"id":"hbm:steel_grate_wide","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["S","S","S"],"key":{"S":"hbm:steel_scaffold"},"result":{"id":"hbm:steel_beam","count":8}}

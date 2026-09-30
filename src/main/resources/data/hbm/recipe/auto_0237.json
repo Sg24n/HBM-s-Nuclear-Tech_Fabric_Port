@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:lightstone"},"result":{"id":"hbm:lightstone__1","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:basalt_brick"},"result":{"id":"hbm:basalt_tiles","count":4}}

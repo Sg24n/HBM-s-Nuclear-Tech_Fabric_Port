@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IF"],"key":{"I":"#hbm:dust/iodine","F":"#hbm:dust/fluorite"},"result":{"id":"hbm:pill_iodine","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":[" N ","PSP","L L"],"key":{"N":"hbm:bottle_cherry","P":"#hbm:plate/steel","S":"hbm:syringe_metal_stimpak","L":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:syringe_metal_super","count":1}}

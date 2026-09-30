@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SAS","   ","SAS"],"key":{"S":"#hbm:plate/steel","A":"#hbm:plate/aluminum"},"result":{"id":"hbm:fluid_duct_neo","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["STS","THT","STS"],"key":{"S":"hbm:particle_strange","T":"#hbm:dust/tungsten","H":"hbm:crystal_horn"},"result":{"id":"hbm:crystal_virus","count":1}}

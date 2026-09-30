@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PP","PP"],"key":{"P":"hbm:deco_pipe"},"result":{"id":"hbm:deco_pipe_quad","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:deco_pipe_quad"],"result":{"id":"hbm:deco_pipe","count":1}}

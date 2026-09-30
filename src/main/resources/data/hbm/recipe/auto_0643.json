@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" E ","ECE"," E "],"key":{"E":"#hbm:billet/cobalt","C":"hbm:steel_plate"},"result":{"id":"hbm:cobalt_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["R R","P P"],"key":{"R":"hbm:rag","P":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:robes_boots","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:geiger"],"result":{"id":"hbm:geiger_counter","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PSP","SCS","PSP"],"key":{"P":"#hbm:ingot/anyresistantalloy","S":"#hbm:ingot/anyplastic","C":"hbm:sat_chip"},"result":{"id":"hbm:machine_satlinker","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM"," P "],"key":{"B":"#hbm:barrellight/saturnite","R":"#hbm:receiverlight/saturnite","M":"#hbm:gunmechanism/saturnite","P":"#hbm:plate/saturnite"},"result":{"id":"hbm:weapon_mod_special__12","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I "," M ","I I"],"key":{"I":"#hbm:ingot/weaponsteel","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:weapon_mod_special__4","count":1}}

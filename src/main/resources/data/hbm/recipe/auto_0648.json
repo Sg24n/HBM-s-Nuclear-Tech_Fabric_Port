@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IWI","K K","W W"],"key":{"K":"hbm:plate_kevlar","I":"#hbm:ingot/anyplastic","W":"minecraft:white_wool"},"result":{"id":"hbm:security_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","IGI"],"key":{"S":"#hbm:plate/steel","I":"#hbm:ingot/anyrubber","G":"minecraft:glass_pane"},"result":{"id":"hbm:security_helmet","count":1}}

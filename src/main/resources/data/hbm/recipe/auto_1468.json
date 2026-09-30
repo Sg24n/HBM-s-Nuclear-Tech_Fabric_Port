@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","GIG","CCC"],"key":{"I":"#hbm:ingot/tungsten","G":"hbm:ballistite","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__2","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["HB"," T"],"key":{"H":"#hbm:ntmpipe/steel","B":"#hbm:bolt/steel","T":"hbm:tank_steel"},"result":{"id":"hbm:gun_fireext","count":1}}

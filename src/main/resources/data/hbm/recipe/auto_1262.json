@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RDM"," PB"," P "],"key":{"P":"#hbm:ingot/anyplastic","D":"#hbm:ingot/durasteel","R":"#hbm:bolt/durasteel","M":"hbm:motor","B":"hbm:battery_pack__1"},"result":{"id":"hbm:elec_pickaxe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["XX"," #"," #"],"key":{"X":"#hbm:ingot/titanium","#":"minecraft:stick"},"result":{"id":"hbm:titanium_hoe","count":1}}

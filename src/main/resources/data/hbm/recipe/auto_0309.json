@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","IEI","ICI"],"key":{"W":"#hbm:wirefine/gold","I":"hbm:plate_polymer","E":"minecraft:redstone","C":"#hbm:dust/cobalt"},"result":{"id":"hbm:hev_battery","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:stick_semtex","hbm:stick_semtex","hbm:stick_semtex","hbm:ducttape"],"result":{"id":"hbm:charge_semtex","count":1}}

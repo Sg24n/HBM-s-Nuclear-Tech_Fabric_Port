@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MSM","MWM","MSM"],"key":{"M":"hbm:meteor_polished","S":"hbm:block_starmetal","W":"#hbm:wirefine/schrabidium"},"result":{"id":"hbm:meteor_battery","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","CVC","CCC"],"key":{"C":"hbm:meteor_brick","V":"minecraft:vine"},"result":{"id":"hbm:meteor_brick_mossy","count":8}}

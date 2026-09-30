@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BCB","TST","BCB"],"key":{"B":"#hbm:platetriple/cmbsteel","C":"hbm:circuit__13","T":"hbm:ball_tatb","S":"hbm:cell_sas3"},"result":{"id":"hbm:grenade_filling","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:dust/redphosphorus","I":"hbm:plate_polymer"},"result":{"id":"hbm:grenade_filling","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:casing__1"},"result":{"id":"hbm:casing__5","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["BSB"," W "," P "],"key":{"B":"hbm:blades_desh","S":"hbm:block_schrabidium","W":"hbm:desh_pickaxe","P":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_pickaxe","count":1}}

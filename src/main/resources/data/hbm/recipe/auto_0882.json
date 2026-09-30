@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ZCZ","CFC","ZCZ"],"key":{"Z":"#hbm:ingot/zirconium","C":"hbm:catalyst_clay","F":"hbm:gas_mask_filter"},"result":{"id":"hbm:gas_mask_filter_combo","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P P","GCG"],"key":{"P":"#hbm:ingot/anyplastic","G":"minecraft:glass","C":"hbm:circuit__8"},"result":{"id":"hbm:night_vision","count":1}}

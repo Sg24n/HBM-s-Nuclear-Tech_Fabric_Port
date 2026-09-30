@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W","W","W"],"key":{"W":"hbm:plant_flower__3"},"result":{"id":"hbm:plant_item__1","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:string","minecraft:string","minecraft:string"],"result":{"id":"hbm:plant_item__1","count":1}}

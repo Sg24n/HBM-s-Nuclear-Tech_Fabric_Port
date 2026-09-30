@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" G ","G G","GGG"],"key":{"G":"minecraft:glass_pane"},"result":{"id":"hbm:bottle_empty","count":6}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:potion","minecraft:sugar","minecraft:sugar","minecraft:orange_dye"],"result":{"id":"hbm:mucho_mango","count":1}}

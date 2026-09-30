@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ammo_arty","hbm:boy_bullet","hbm:boy_target","hbm:boy_shielding","hbm:circuit__13","hbm:ducttape"],"result":{"id":"hbm:ammo_arty__4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CIC","CSC","CCC"],"key":{"C":"hbm:cordite","I":"minecraft:iron_block","S":"#hbm:shell/copper"},"result":{"id":"hbm:ammo_arty","count":1}}

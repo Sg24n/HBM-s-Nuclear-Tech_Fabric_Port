@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/coal","#hbm:dust/fluorite"],"result":{"id":"hbm:radx","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IF"],"key":{"I":"#hbm:dust/iodine","F":"#hbm:dust/fluorite"},"result":{"id":"hbm:pill_iodine","count":8}}

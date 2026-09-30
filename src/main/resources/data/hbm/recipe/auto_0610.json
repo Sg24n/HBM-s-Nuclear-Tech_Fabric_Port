@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","IPI"," I "],"key":{"I":"#hbm:ingot/steel","P":"#hbm:platetriple/steel"},"result":{"id":"hbm:cm_block","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["IGI","GCG","IGI"],"key":{"C":"hbm:rbmk_blank","I":"hbm:plate_polymer","G":"hbm:steel_grate"},"result":{"id":"hbm:rbmk_cooler","count":1}}

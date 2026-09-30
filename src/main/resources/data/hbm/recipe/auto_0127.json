@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:battery_sc","#hbm:billet/radium226","#hbm:billet/radium226"],"result":{"id":"hbm:battery_sc__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PGP","L L","PGP"],"key":{"P":"#hbm:ingot/anyplastic","G":"#hbm:wirefine/gold","L":"#hbm:plate/lead"},"result":{"id":"hbm:battery_sc","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","P","G"],"key":{"C":"minecraft:gravel","P":"minecraft:paper","G":"minecraft:gunpowder"},"result":{"id":"hbm:ammo_standard__3","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["MMM","BBL","GG "],"key":{"M":"#hbm:gunmechanism/gunmetal","B":"#hbm:barrelheavy/steel","G":"#hbm:grip/steel","L":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:gun_charge_thrower","count":1}}

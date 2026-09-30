@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" B","LI","LC"],"key":{"B":"minecraft:stone_button","L":"minecraft:leather","I":"#hbm:ingot/steel","C":"hbm:circuit__8"},"result":{"id":"hbm:stealth_boy","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PSP","SCS","PSP"],"key":{"P":"#hbm:ingot/anyplastic","S":"#hbm:ingot/starmetal","C":"hbm:circuit__11"},"result":{"id":"hbm:neutrino_lens","count":1}}

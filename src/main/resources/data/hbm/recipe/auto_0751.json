@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TTT","TRT","TTT"],"key":{"T":"minecraft:tnt","R":"hbm:rangefinder"},"result":{"id":"hbm:bomb_caller","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","ESE","EPE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_legs","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_legs","count":1}}

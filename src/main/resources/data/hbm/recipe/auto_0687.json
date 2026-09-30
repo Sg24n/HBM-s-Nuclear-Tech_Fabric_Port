@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W W","W W","SCS"],"key":{"W":"minecraft:white_wool","S":"#hbm:ingot/steel","C":"hbm:circuit__7"},"result":{"id":"hbm:dieselsuit_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","DXD","C C"],"key":{"D":"#hbm:ingot/workersalloy","C":"#hbm:plate/copper","X":"hbm:steel_legs"},"result":{"id":"hbm:steamsuit_legs","count":1}}

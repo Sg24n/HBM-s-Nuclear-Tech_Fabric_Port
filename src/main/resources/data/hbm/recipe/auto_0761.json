@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"#hbm:ingot/lead","A":"minecraft:apple"},"result":{"id":"hbm:apple_lead__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"hbm:block_schrabidium","A":"minecraft:apple"},"result":{"id":"hbm:apple_schrabidium__2","count":1}}

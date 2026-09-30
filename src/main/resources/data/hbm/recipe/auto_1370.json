@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/anyresistantalloy","R":"#hbm:receiverlight/anyresistantalloy","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_lag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MHW","PSS"],"key":{"M":"#hbm:gunmechanism/weaponsteel","H":"#hbm:ntmpipe/rubber","W":"hbm:wrench","P":"#hbm:barrelheavy/weaponsteel","S":"#hbm:shell/weaponsteel"},"result":{"id":"hbm:gun_chemthrower","count":1}}

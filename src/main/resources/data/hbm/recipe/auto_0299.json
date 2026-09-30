@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PGP"," P "],"key":{"P":"minecraft:paper","G":"minecraft:gunpowder"},"result":{"id":"hbm:det_cord","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","SRS"," P "],"key":{"P":"minecraft:paper","S":"hbm:solid_fuel_bf","R":"minecraft:redstone"},"result":{"id":"hbm:solid_fuel_presto_bf","count":1}}

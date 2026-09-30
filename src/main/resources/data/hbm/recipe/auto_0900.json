@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/thorium232","#hbm:nugget/thorium232","#hbm:nugget/thorium232","#hbm:nugget/thorium232","#hbm:nugget/thorium232","#hbm:nugget/uranium233"],"result":{"id":"hbm:billet_thorium_fuel","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:pellet_rtg_depleted"],"result":{"id":"hbm:billet_neptunium","count":3}}

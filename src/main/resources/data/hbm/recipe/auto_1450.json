@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","CTC","CCC"],"key":{"C":"#hbm:ingot/anyrubber","T":"hbm:mp_fuselage_10_long_kerosene"},"result":{"id":"hbm:mp_fuselage_10_long_kerosene_insulation","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ASA"," S ","PSP"],"key":{"A":"#hbm:plate/titanium","P":"#hbm:plate/steel","S":"hbm:steel_scaffold"},"result":{"id":"hbm:mp_stability_10_cruise","count":1}}

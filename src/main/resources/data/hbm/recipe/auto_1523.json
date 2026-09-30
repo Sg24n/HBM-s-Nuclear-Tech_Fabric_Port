@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","LTL","LIL"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","I":"#hbm:plate/iron","T":"hbm:cell_tritium"},"result":{"id":"hbm:custom_hydro","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SUS","RPR","SUS"],"key":{"S":"hbm:semtex","U":"hbm:block_u238","R":"#hbm:ingot/tantalum","P":"#hbm:billet/plutonium239"},"result":{"id":"hbm:fissure_bomb","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:stone_depth"},"result":{"id":"hbm:depth_brick","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:gneiss_tile"},"result":{"id":"hbm:gneiss_brick","count":4}}

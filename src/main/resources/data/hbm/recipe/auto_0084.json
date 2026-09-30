@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["F","P","S"],"key":{"F":"minecraft:string","S":"minecraft:slime_ball","P":"minecraft:paper"},"result":{"id":"hbm:ducttape","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CGC","PSP","IAI"],"key":{"C":"hbm:powder_yellowcake","G":"hbm:block_thorium","P":"hbm:photo_panel","S":"hbm:steel_shovel","I":"hbm:plate_polymer","A":"#hbm:ingot/australium"},"result":{"id":"hbm:memespoon","count":1}}

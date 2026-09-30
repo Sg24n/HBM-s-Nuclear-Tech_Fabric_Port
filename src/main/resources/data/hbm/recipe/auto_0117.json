@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RRR","WWW","III"],"key":{"R":"hbm:circuit__1","W":"minecraft:redstone","I":"#hbm:ingot/steel"},"result":{"id":"hbm:machine_converter_he_rf","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_pylon_medium_steel","hbm:plate_polymer","hbm:coil_copper"],"result":{"id":"hbm:red_pylon_medium_steel_transformer","count":1}}

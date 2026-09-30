@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:asphalt_light"],"result":{"id":"hbm:asphalt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","C C"," C "],"key":{"C":"hbm:tile_lab_cracked"},"result":{"id":"hbm:tile_lab_broken","count":6}}

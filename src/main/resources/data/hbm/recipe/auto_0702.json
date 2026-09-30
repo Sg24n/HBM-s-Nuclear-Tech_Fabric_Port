@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E E","E E"],"key":{"E":"hbm:plate_euphemium"},"result":{"id":"hbm:euphemium_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EWE","EEE","EEE"],"key":{"E":"hbm:plate_euphemium","W":"hbm:watch"},"result":{"id":"hbm:euphemium_plate","count":1}}

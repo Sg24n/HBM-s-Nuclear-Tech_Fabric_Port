@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WRW","RIR","WRW"],"key":{"W":"#hbm:plate/steel","I":"#hbm:ingot/mingrade","R":"#hbm:wirefine/mingrade"},"result":{"id":"hbm:red_cable_paintable","count":16}}
+{"type":"minecraft:crafting_shaped","pattern":["DPC"],"key":{"C":"hbm:conveyor_wand","D":"hbm:conveyor_wand__2","P":"#hbm:plate/steel"},"result":{"id":"hbm:conveyor_wand__3","count":1}}

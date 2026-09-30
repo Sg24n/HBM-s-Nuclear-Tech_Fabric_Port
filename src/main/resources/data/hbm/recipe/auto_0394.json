@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","I","S"],"key":{"P":"hbm:polaroid","I":"hbm:flame_pony","S":"#hbm:plate/steel"},"result":{"id":"hbm:obj_tester","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PP","SS","BB"],"key":{"P":"#hbm:plate/titanium","S":"hbm:steel_scaffold","B":"hbm:steel_beam"},"result":{"id":"hbm:seg_15","count":1}}

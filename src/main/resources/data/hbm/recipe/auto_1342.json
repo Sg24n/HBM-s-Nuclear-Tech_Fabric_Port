@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","PGP"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","P":"#hbm:platetriple/gold","G":"hbm:gun_henry"},"result":{"id":"hbm:gun_henry_lincoln","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:casing__1"},"result":{"id":"hbm:casing__5","count":2}}

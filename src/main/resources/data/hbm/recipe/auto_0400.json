@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#hbm:dust/uranium"],"result":{"id":"hbm:sand_mix__2","count":8}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:sand","hbm:trinitite"],"result":{"id":"hbm:waste_trinitite","count":1}}

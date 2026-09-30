@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","T","C"],"key":{"C":"#hbm:ingot/lanthanum","T":"minecraft:brick"},"result":{"id":"hbm:arc_electrode__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["WIW","PCP","WIW"],"key":{"W":"#hbm:wirefine/copper","I":"#hbm:ingot/anyplastic","C":"hbm:circuit__8","P":"hbm:plate_polymer"},"result":{"id":"hbm:upgrade_template","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/aluminum","I":"minecraft:iron_ingot"},"result":{"id":"hbm:mirror_tool","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:sat_chip","hbm:ducttape","hbm:radar_linker"],"result":{"id":"hbm:sat_relay","count":1}}

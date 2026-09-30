@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RRR"],"key":{"R":"hbm:rag_damp"},"result":{"id":"hbm:mask_rag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","III"," I "],"key":{"I":"#hbm:plate/iron"},"result":{"id":"hbm:mask_of_infamy","count":1}}

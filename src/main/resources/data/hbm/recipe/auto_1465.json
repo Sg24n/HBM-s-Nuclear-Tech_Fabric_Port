@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" T ","GHG","CCC"],"key":{"T":"#hbm:ingot/anyplasticexplosive","G":"hbm:ballistite","H":"#hbm:shell/steel","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__1","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["PPL"," MD"," SC"],"key":{"P":"#hbm:plate/steel","M":"hbm:motor","L":"#hbm:gunmechanism/gunmetal","S":"hbm:steel_scaffold","C":"hbm:circuit__8","D":"hbm:crt_display"},"result":{"id":"hbm:turret_sentry","count":1}}

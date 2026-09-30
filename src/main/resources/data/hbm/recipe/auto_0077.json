@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:string","minecraft:string","minecraft:string"],"result":{"id":"hbm:plant_item__1","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:syringe_metal_empty","minecraft:carrot","hbm:plant_flower"],"result":{"id":"hbm:syringe_metal_stimpak","count":1}}

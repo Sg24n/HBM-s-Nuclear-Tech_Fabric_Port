@@ -362,6 +362,8 @@ powder_cerium	0	hbm:powder_cerium	Cerium
 powder_cerium_tiny	0	hbm:powder_cerium_tiny	Cerium
 powder_chlorocalcite	0	hbm:powder_chlorocalcite	Chlorocalcite
 powder_co60	0	hbm:powder_co60	Cobalt60
+powder_coal	0	hbm:powder_coal	Coal
+powder_coal_tiny	0	hbm:powder_coal_tiny	Coal
 powder_cobalt	0	hbm:powder_cobalt	Cobalt
 powder_cobalt_tiny	0	hbm:powder_cobalt_tiny	Cobalt
 powder_coltan_ore	0	hbm:powder_coltan_ore	Coltan

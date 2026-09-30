@@ -4,7 +4,9 @@ import com.hbm.component.HbmDataComponents;
 import com.hbm.content.HbmCreativeTabs;
 import com.hbm.content.ItemRegistry;
 import com.hbm.core.placeholder.PlaceholderContent;
+import com.hbm.recipe.PressRecipes;
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents;
 import net.minecraft.resources.Identifier;
 
 import org.slf4j.Logger;
@@ -20,6 +22,8 @@ public class MainRegistry implements ModInitializer {
 		ItemRegistry.initialize();
 		PlaceholderContent.initialize();
 		HbmCreativeTabs.initialize();
+		// Recipes build ItemStacks, which need bound components: defer to server start.
+		ServerLifecycleEvents.SERVER_STARTING.register(server -> PressRecipes.initialize());
 		LOGGER.info("Hbm's Nuclear Tech initialized");
 	}
 

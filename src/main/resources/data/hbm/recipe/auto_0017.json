@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":[" A ","SGS"," T "],"key":{"A":"#hbm:dust/aluminum","S":"#hbm:plate/steel","G":"minecraft:glass_pane","T":"hbm:circuit"},"result":{"id":"hbm:crt_display","count":4}}

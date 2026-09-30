@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SAS","A A","SAS"],"key":{"S":"#hbm:plate/steel","A":"hbm:pneumatic_tube"},"result":{"id":"hbm:pneumatic_tube_paintable","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:basalt_brick"},"result":{"id":"hbm:basalt_tiles","count":4}}

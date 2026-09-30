@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","B"],"key":{"C":"hbm:crt_display","B":"hbm:rbmk_display_blank"},"result":{"id":"hbm:rbmk_display","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BPB","PTP","BPB"],"key":{"B":"hbm:inf_water","P":"#hbm:ntmpipe/steel","T":"#hbm:shell/steel"},"result":{"id":"hbm:inf_water_mk2","count":1}}

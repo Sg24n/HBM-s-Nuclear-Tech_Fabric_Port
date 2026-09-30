@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IGI","GCG","IGI"],"key":{"C":"hbm:rbmk_blank","I":"hbm:plate_polymer","G":"hbm:steel_grate"},"result":{"id":"hbm:rbmk_cooler","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" B ","GRG"," B "],"key":{"G":"#hbm:ingot/graphite","B":"hbm:motor","R":"hbm:rbmk_absorber"},"result":{"id":"hbm:rbmk_control_reasim","count":1}}

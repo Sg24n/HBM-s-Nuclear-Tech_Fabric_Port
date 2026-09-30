@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" PP","III"," PP"],"key":{"P":"#hbm:plate/titanium","I":"#hbm:ingot/titanium"},"result":{"id":"hbm:fins_quad_titanium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["STS","S S","STS"],"key":{"S":"#hbm:plate/steel","T":"#hbm:plate/titanium"},"result":{"id":"hbm:tank_steel","count":2}}

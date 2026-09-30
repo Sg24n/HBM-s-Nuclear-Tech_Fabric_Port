@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["STS","S S","STS"],"key":{"S":"#hbm:plate/steel","T":"#hbm:plate/titanium"},"result":{"id":"hbm:tank_steel","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:sugar","hbm:powder_sawdust","hbm:powder_sawdust","minecraft:rotten_flesh","minecraft:rotten_flesh","minecraft:rotten_flesh"],"result":{"id":"hbm:biomass","count":4}}

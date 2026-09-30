@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["WPW","CMC","PPP"],"key":{"W":"#hbm:wirefine/tungsten","P":"#hbm:plate/lead","C":"hbm:circuit__8","M":"hbm:magnetron"},"result":{"id":"hbm:reactor_sensor","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:stone_depth"},"result":{"id":"hbm:depth_brick","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" B ","SBS","SBS"],"key":{"B":"#hbm:ingot/boron","S":"#hbm:plate/steel"},"result":{"id":"hbm:pile_device__2","count":1}}

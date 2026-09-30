@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["R"],"key":{"R":"hbm:deco_rbmk"},"result":{"id":"hbm:deco_rbmk_smooth","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SII","SCA","SPP"],"key":{"I":"#hbm:ingot/steel","S":"#hbm:ingot/starmetal","P":"hbm:plate_polymer","C":"hbm:sat_chip","A":"hbm:circuit__9"},"result":{"id":"hbm:sat_coord","count":1}}

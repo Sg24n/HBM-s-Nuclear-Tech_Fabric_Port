@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" L ","LGL"," L "],"key":{"L":"minecraft:leather","G":"#hbm:plate/gunmetal"},"result":{"id":"hbm:casing_bag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SS ","SCR","SS "],"key":{"S":"#hbm:ingot/steel","C":"hbm:circuit","R":"#hbm:wirefine/mingrade"},"result":{"id":"hbm:pole_satellite_receiver","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:asphalt_light"],"result":{"id":"hbm:asphalt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C","T","C"],"key":{"C":"#hbm:ingot/workersalloy","T":"#hbm:ingot/tungsten"},"result":{"id":"hbm:arc_electrode__2","count":1}}

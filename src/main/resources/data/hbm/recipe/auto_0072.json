@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PRP"],"key":{"P":"#hbm:plate/steel","R":"#hbm:ingot/mingrade"},"result":{"id":"hbm:machine_battery_socket","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" G ","IRI"],"key":{"G":"minecraft:glowstone_dust","R":"minecraft:redstone_torch","I":"hbm:circuit"},"result":{"id":"hbm:radio_torch_reader","count":4}}

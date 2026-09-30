@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fluid_duct_paintable","#hbm:ingot/steel","hbm:circuit__8"],"result":{"id":"hbm:fluid_duct_gauge","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:depth_nether_brick"},"result":{"id":"hbm:depth_nether_tiles","count":4}}

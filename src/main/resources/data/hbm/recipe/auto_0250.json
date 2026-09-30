@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GGG","GRG","GGG"],"key":{"G":"hbm:neutron_reflector","R":"hbm:rbmk_blank"},"result":{"id":"hbm:rbmk_reflector","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fluid_duct_paintable","#hbm:ingot/steel","hbm:circuit__8"],"result":{"id":"hbm:fluid_duct_gauge","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:sugar","hbm:powder_sawdust","hbm:powder_sawdust","#minecraft:leaves","#minecraft:leaves","#minecraft:leaves","#minecraft:leaves","#minecraft:leaves","#minecraft:leaves"],"result":{"id":"hbm:biomass","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"#hbm:wirefine/carbon"},"result":{"id":"hbm:ingot_graphite","count":1}}

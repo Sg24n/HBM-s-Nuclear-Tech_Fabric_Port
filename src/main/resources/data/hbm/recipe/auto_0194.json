@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SII","SCA","SPP"],"key":{"I":"#hbm:ingot/steel","S":"#hbm:ingot/starmetal","P":"hbm:plate_polymer","C":"hbm:sat_chip","A":"hbm:circuit__9"},"result":{"id":"hbm:sat_coord","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plate_polymer","#minecraft:sand","#minecraft:sand","#minecraft:sand"],"result":{"id":"hbm:sandbags","count":4}}

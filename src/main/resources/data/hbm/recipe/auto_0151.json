@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PGP"," P "],"key":{"P":"minecraft:paper","G":"minecraft:gunpowder"},"result":{"id":"hbm:det_cord","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","CBC"," C "],"key":{"C":"hbm:concrete_smooth","B":"minecraft:clay_ball"},"result":{"id":"hbm:brick_concrete","count":4}}

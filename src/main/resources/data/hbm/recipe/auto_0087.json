@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" A ","CBS"],"key":{"A":"#hbm:plate/aluminum","C":"#hbm:platetriple/steel","B":"#hbm:ingot/boron","S":"#hbm:shell/steel"},"result":{"id":"hbm:pile_device","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_cable"],"result":{"id":"hbm:red_cable_classic","count":1}}

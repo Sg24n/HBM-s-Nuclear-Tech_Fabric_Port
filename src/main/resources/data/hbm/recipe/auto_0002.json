@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BB","B ","B "],"key":{"B":"#hbm:bolt/steel"},"result":{"id":"hbm:bolt_spike","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["SCS","CPC","SCS"],"key":{"S":"minecraft:string","P":"#hbm:dust/bromine","C":"minecraft:white_wool"},"result":{"id":"hbm:asbestos_cloth","count":8}}

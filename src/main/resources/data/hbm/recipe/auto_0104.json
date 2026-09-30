@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["QDQ","SBS","QDQ"],"key":{"Q":"hbm:glass_quartz","D":"#hbm:ingot/dineutronium","B":"hbm:egg_balefire","S":"hbm:powder_spark_mix"},"result":{"id":"hbm:laser_crystal_dnt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" L ","ICI"," I "],"key":{"I":"#hbm:ingot/titanium","C":"hbm:crate_steel","L":"hbm:circuit"},"result":{"id":"hbm:mass_storage","count":1}}

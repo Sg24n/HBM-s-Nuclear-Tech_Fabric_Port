@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/steel"},"result":{"id":"hbm:plate_steel","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:hadron_coil_chlorophyte"],"result":{"id":"hbm:powder_chlorophyte","count":2}}

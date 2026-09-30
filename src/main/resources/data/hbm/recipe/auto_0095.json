@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CTC","TST","CTC"],"key":{"C":"#hbm:plate/saturnite","T":"hbm:powder_power","S":"hbm:singularity"},"result":{"id":"hbm:singularity_super_heated","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CCW","IIW","  S"],"key":{"C":"hbm:coil_copper","W":"#hbm:ntmpipe/steel","I":"hbm:plate_polymer","S":"minecraft:cobblestone"},"result":{"id":"hbm:red_pylon_medium_steel","count":2}}

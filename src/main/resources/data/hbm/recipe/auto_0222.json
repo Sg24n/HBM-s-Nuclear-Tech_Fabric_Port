@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_hagalaz","hbm:rune_hagalaz","hbm:rune_jera","hbm:rune_jera","#hbm:dust/tungsten","#hbm:dust/tungsten","#hbm:dust/tungsten","#hbm:dust/tungsten"],"result":{"id":"hbm:ams_catalyst_tungsten","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","PGP"," P "],"key":{"P":"minecraft:paper","G":"minecraft:gunpowder"},"result":{"id":"hbm:det_cord","count":4}}

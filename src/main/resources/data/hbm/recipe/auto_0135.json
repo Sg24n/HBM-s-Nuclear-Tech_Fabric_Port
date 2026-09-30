@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:basalt_brick"},"result":{"id":"hbm:basalt_tiles","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CTC","TST","CTC"],"key":{"C":"#hbm:plate/saturnite","T":"hbm:powder_power","S":"hbm:singularity"},"result":{"id":"hbm:singularity_super_heated","count":1}}

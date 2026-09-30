@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:plate_dineutronium","P":"hbm:powder_spark_mix","S":"hbm:singularity"},"result":{"id":"hbm:ams_core_wormhole","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["AIA","I I","AIA"],"key":{"A":"#hbm:wirefine/steel","I":"minecraft:iron_ingot"},"result":{"id":"hbm:barbed_wire","count":16}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SCS","CPC","SCS"],"key":{"S":"minecraft:string","P":"#hbm:dust/bromine","C":"minecraft:white_wool"},"result":{"id":"hbm:asbestos_cloth","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["C","R","C"],"key":{"C":"hbm:hazmat_cloth","R":"minecraft:redstone"},"result":{"id":"hbm:hazmat_cloth_red","count":1}}

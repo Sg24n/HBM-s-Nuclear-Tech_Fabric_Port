@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","EIE","EEE"],"key":{"E":"hbm:powder_power","I":"#hbm:ingot/euphemium"},"result":{"id":"hbm:crystal_xen","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","CFC","I I"],"key":{"P":"#hbm:plate/steel","C":"hbm:coil_copper","I":"minecraft:iron_ingot","F":"minecraft:furnace"},"result":{"id":"hbm:machine_wood_burner","count":1}}

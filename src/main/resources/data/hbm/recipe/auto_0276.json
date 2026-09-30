@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:deco_pipe_rim"],"result":{"id":"hbm:deco_pipe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LUL","UCU","LUL"],"key":{"L":"#hbm:plate/lead","U":"#hbm:ingot/ferrouranium","C":"hbm:crate_steel"},"result":{"id":"hbm:containment_box","count":1}}

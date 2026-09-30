@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:circuit__9"],"result":{"id":"hbm:launch_code","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C","R","D"],"key":{"C":"hbm:circuit__9","R":"hbm:rbmk_control","D":"hbm:crt_display"},"result":{"id":"hbm:rbmk_control_reasim_auto","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","BIB","BBB"],"key":{"B":"hbm:barbed_wire","I":"hbm:powder_poison"},"result":{"id":"hbm:barbed_wire_poison","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","PBP"," P "],"key":{"P":"hbm:plate_desh","B":"hbm:blades_titanium"},"result":{"id":"hbm:blades_desh","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","BIB","BBB"],"key":{"B":"hbm:barbed_wire","I":"#hbm:dust/redphosphorus"},"result":{"id":"hbm:barbed_wire_fire","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","PIP"," P "],"key":{"P":"#hbm:plate/titanium","I":"#hbm:ingot/titanium"},"result":{"id":"hbm:blades_titanium","count":1}}

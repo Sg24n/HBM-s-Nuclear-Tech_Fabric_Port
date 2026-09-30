@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_pylon_medium_steel","hbm:plate_polymer","hbm:coil_copper"],"result":{"id":"hbm:red_pylon_medium_steel_transformer","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["G","R","I"],"key":{"G":"minecraft:glowstone_dust","R":"minecraft:redstone_torch","I":"minecraft:iron_ingot"},"result":{"id":"hbm:radio_torch_receiver","count":4}}

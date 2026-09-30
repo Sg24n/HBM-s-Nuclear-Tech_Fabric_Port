@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:stone","minecraft:stone","minecraft:stone","hbm:powder_limestone"],"result":{"id":"hbm:lightstone","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","SCS","SSS"],"key":{"C":"hbm:singularity","S":"hbm:crystal_xen"},"result":{"id":"hbm:black_hole","count":1}}

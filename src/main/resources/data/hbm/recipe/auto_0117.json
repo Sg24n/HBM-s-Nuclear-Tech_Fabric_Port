@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:block_meteor_broken"},"result":{"id":"hbm:meteor_polished","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["III","I I","BBB"],"key":{"I":"minecraft:brick","B":"minecraft:stone"},"result":{"id":"hbm:machine_furnace_brick_off","count":1}}

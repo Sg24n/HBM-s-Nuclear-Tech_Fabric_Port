@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:geiger"],"result":{"id":"hbm:geiger_counter","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BCB","CIC","BCB"],"key":{"B":"hbm:barbed_wire","C":"hbm:powder_yellowcake","I":"hbm:nuclear_waste"},"result":{"id":"hbm:barbed_wire_ultradeath","count":4}}

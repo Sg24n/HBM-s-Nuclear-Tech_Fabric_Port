@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WRW","RIR","WRW"],"key":{"W":"hbm:plate_polymer","I":"#hbm:ingot/mingrade","R":"#hbm:wirefine/mingrade"},"result":{"id":"hbm:red_wire_coated","count":16}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plant_flower__2"],"result":{"id":"hbm:powder_poison","count":1}}

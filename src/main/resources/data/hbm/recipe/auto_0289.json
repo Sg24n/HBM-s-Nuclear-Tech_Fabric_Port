@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SW","WS"],"key":{"S":"minecraft:string","W":"minecraft:white_wool"},"result":{"id":"hbm:rag","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fence_metal"],"result":{"id":"hbm:fence_metal","count":1}}

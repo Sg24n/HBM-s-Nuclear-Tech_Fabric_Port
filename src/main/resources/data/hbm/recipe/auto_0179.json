@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","P","S"],"key":{"P":"#hbm:ntmpipe/steel","S":"#hbm:ingot/steel"},"result":{"id":"hbm:pipe_anchor","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:stone","minecraft:stone","minecraft:stone","hbm:powder_limestone"],"result":{"id":"hbm:lightstone","count":4}}

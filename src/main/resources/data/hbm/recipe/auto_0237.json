@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SPS","PUP","SPS"],"key":{"S":"#hbm:plate/steel","P":"hbm:powder_fire","U":"hbm:upgrade_template"},"result":{"id":"hbm:upgrade_nullifier","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" W","SC","CE"],"key":{"S":"#hbm:plate/steel","W":"#hbm:wirefine/schrabidium","C":"hbm:circuit__9","E":"#hbm:ingot/euphemium"},"result":{"id":"hbm:igniter","count":1}}

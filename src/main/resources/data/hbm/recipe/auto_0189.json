@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EAE","ASA","EAE"],"key":{"E":"hbm:plate_euphemium","A":"hbm:cell_anti_schrabidium","S":"hbm:singularity"},"result":{"id":"hbm:ams_core_sing","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CSC","TST","G G"],"key":{"C":"hbm:circuit__1","S":"#hbm:plate/steel","T":"hbm:coil_tungsten","G":"minecraft:glass_pane"},"result":{"id":"hbm:floodlight","count":2}}

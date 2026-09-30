@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","BCB"],"key":{"M":"hbm:circuit__5","B":"hbm:conveyor_wand","C":"hbm:crate_steel"},"result":{"id":"hbm:crane_partitioner","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PSP","SDS","PSP"],"key":{"P":"hbm:powder_magic","S":"#hbm:ingot/starmetal","D":"hbm:circuit__11"},"result":{"id":"hbm:rune_blank","count":1}}

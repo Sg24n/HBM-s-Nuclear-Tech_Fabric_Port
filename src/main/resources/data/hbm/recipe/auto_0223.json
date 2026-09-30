@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_isa","hbm:rune_isa","hbm:rune_jera","hbm:rune_thurisaz","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum"],"result":{"id":"hbm:ams_catalyst_aluminium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PDP","DTD","PDP"],"key":{"P":"#hbm:plate/steel","D":"hbm:det_cord","T":"#hbm:ingot/anyplasticexplosive"},"result":{"id":"hbm:det_charge","count":1}}

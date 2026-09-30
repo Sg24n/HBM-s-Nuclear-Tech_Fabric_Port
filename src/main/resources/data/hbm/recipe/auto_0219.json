@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_isa","hbm:rune_dagaz","hbm:rune_jera","hbm:rune_jera","#hbm:dust/beryllium","#hbm:dust/beryllium","#hbm:dust/beryllium","#hbm:dust/beryllium"],"result":{"id":"hbm:ams_catalyst_beryllium","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:solid_fuel_presto","hbm:solid_fuel_presto","hbm:solid_fuel_presto","hbm:ball_dynamite"],"result":{"id":"hbm:solid_fuel_presto_triplet","count":1}}

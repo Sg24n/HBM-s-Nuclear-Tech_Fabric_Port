@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","BBB","TTT"],"key":{"B":"#hbm:bolt/steel","T":"#hbm:ingot/steel"},"result":{"id":"hbm:spikes","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["S S","SSS","S S"],"key":{"S":"#hbm:ingot/steel"},"result":{"id":"hbm:steel_poles","count":16}}

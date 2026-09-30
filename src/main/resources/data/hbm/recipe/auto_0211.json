@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PSP","SDS","PSP"],"key":{"P":"hbm:powder_magic","S":"#hbm:ingot/starmetal","D":"hbm:circuit__11"},"result":{"id":"hbm:rune_blank","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S S","S S","S S"],"key":{"S":"hbm:steel_beam"},"result":{"id":"hbm:rail_narrow","count":64}}

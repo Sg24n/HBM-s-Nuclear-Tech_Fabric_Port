@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CDC","DLD","CDC"],"key":{"D":"hbm:ducrete","C":"minecraft:clay_ball","L":"hbm:plate_lead"},"result":{"id":"hbm:brick_ducrete","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["H","G","H"],"key":{"H":"#hbm:platesextuple/steel","G":"hbm:steel_grate"},"result":{"id":"hbm:machine_fraction_tower","count":1}}

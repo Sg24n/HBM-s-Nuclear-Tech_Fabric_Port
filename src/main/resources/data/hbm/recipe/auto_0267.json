@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["R","C","B"],"key":{"R":"hbm:radio_torch_receiver","B":"hbm:rbmk_display_blank","C":"hbm:coil_tungsten"},"result":{"id":"hbm:rbmk_indicator","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:plate_dineutronium","P":"hbm:powder_spark_mix","S":"hbm:singularity"},"result":{"id":"hbm:ams_core_wormhole","count":1}}

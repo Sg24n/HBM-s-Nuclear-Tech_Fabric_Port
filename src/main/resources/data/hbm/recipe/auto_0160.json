@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:stick_c4","hbm:stick_c4","hbm:stick_c4","hbm:ducttape"],"result":{"id":"hbm:charge_c4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:block_meteor_broken"},"result":{"id":"hbm:meteor_polished","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S ","AA","AA"],"key":{"A":"#hbm:plate/steel","S":"#hbm:plate/copper"},"result":{"id":"hbm:gas_empty","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:particle_empty","#hbm:dust/lead","hbm:pellet_charged"],"result":{"id":"hbm:particle_lead","count":1}}

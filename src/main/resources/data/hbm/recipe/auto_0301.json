@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["STS","THT","STS"],"key":{"S":"hbm:cell_uf6","T":"#hbm:dust/aluminum","H":"hbm:crystal_charred"},"result":{"id":"hbm:crystal_pulsar","count":32}}
+{"type":"minecraft:crafting_shaped","pattern":[" F ","FCF"," F "],"key":{"F":"minecraft:flint","C":"hbm:charge_dynamite"},"result":{"id":"hbm:charge_miner","count":1}}

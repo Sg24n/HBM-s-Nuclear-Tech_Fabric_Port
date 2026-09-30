@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","SRS"," P "],"key":{"P":"minecraft:paper","S":"hbm:solid_fuel","R":"minecraft:redstone"},"result":{"id":"hbm:solid_fuel_presto","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","F F","F F"],"key":{"S":"#minecraft:slabs","F":"minecraft:oak_fence"},"result":{"id":"hbm:wood_structure__1","count":4}}

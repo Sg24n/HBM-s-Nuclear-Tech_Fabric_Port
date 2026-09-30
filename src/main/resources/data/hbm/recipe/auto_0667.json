@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","GPG"],"key":{"G":"minecraft:glass_pane","P":"#hbm:plate/steel"},"result":{"id":"hbm:goggles","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["W W","P P"],"key":{"W":"#hbm:wirefine/gold","P":"hbm:plate_bismuth"},"result":{"id":"hbm:bismuth_boots","count":1}}

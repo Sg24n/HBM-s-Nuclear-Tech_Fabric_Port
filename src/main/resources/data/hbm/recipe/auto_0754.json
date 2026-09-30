@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SMS"," B ","SMS"],"key":{"S":"#hbm:ingot/steel","M":"hbm:horseshoe_magnet","B":"#hbm:wiredense/mingrade"},"result":{"id":"hbm:industrial_magnet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["O","P"],"key":{"O":"minecraft:potato","P":"#hbm:plate/steel"},"result":{"id":"hbm:canteen_vodka","count":1}}

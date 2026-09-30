@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_actinium","hbm:billet_actinium","hbm:billet_actinium","#hbm:plate/iron"],"result":{"id":"hbm:pellet_rtg_actinium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["OOO","PDP","OOO"],"key":{"O":"minecraft:obsidian","P":"#hbm:plate/steel","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_obsidian","count":1}}

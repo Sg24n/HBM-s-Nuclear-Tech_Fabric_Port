@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WWW","CPC","WWW"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:ingot/anyplastic","C":"hbm:circuit__9"},"result":{"id":"hbm:turret_chip","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/steel","#hbm:dust/cobalt"],"result":{"id":"hbm:powder_dura_steel","count":2}}

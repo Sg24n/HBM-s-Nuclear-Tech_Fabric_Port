@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","PIP","PPP"],"key":{"P":"#minecraft:planks","I":"#hbm:plate/iron"},"result":{"id":"hbm:mass_storage__3","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:battery_sc","#hbm:billet/technetium99","#hbm:billet/technetium99"],"result":{"id":"hbm:battery_sc__3","count":1}}

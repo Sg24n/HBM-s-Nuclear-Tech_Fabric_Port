@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MDM"," M "],"key":{"M":"hbm:fragment_meteorite","D":"#hbm:gem/volcanic"},"result":{"id":"hbm:meteor_charm","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle2_empty","minecraft:potion","minecraft:sugar","#hbm:dust/tungsten"],"result":{"id":"hbm:bottle2_fritz","count":1}}

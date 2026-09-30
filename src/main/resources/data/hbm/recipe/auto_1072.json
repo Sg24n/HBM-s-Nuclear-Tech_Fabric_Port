@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["A A","PSP","PSP"],"key":{"A":"#hbm:plate/aluminum","P":"#hbm:plate/steel","S":"hbm:steel_scaffold"},"result":{"id":"hbm:mp_stability_15_thin","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:casing__3"},"result":{"id":"hbm:casing__6","count":2}}

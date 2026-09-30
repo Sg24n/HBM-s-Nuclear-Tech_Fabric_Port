@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"#hbm:wirefine/aluminum"},"result":{"id":"hbm:ingot_aluminium","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:yellow_dye","hbm:block_waste"],"result":{"id":"hbm:block_waste_painted","count":1}}

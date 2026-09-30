@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/weaponsteel","#hbm:platetriple/ferrouranium","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__11","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["WGW","WCW","WBW"],"key":{"W":"#minecraft:planks","G":"minecraft:glass_pane","C":"hbm:circuit","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:dosimeter","count":1}}

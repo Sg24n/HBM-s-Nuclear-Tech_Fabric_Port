@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["KWK","IKI","WKW"],"key":{"K":"hbm:plate_kevlar","I":"#hbm:ingot/anyplastic","W":"minecraft:white_wool"},"result":{"id":"hbm:security_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BGB","GAG","BGB"],"key":{"B":"hbm:egg_balefire_shard","G":"minecraft:gold_ingot","A":"minecraft:book"},"result":{"id":"hbm:book_of_","count":1}}

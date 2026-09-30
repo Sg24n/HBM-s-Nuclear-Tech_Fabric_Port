@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E E","E E"],"key":{"E":"hbm:asbestos_cloth"},"result":{"id":"hbm:asbestos_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C C","DXD"],"key":{"D":"#hbm:ingot/workersalloy","C":"#hbm:plate/copper","X":"hbm:steel_boots"},"result":{"id":"hbm:steamsuit_boots","count":1}}

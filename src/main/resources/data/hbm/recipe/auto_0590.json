@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MPM","PBP","P P"],"key":{"M":"hbm:motor","P":"hbm:plate_armor_titanium","B":"hbm:titanium_legs"},"result":{"id":"hbm:t51_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IGI","GCG","IGI"],"key":{"C":"hbm:rbmk_blank","I":"hbm:plate_polymer","G":"hbm:steel_grate"},"result":{"id":"hbm:rbmk_cooler","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","S","F"],"key":{"C":"hbm:circuit","S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/anyresistantalloy","R":"#hbm:receiverlight/anyresistantalloy","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_lag","count":1}}

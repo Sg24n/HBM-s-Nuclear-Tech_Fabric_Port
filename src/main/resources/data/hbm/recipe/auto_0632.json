@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","E E"],"key":{"E":"hbm:plate_euphemium"},"result":{"id":"hbm:euphemium_helmet","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ajr_helmet","minecraft:red_dye","minecraft:black_dye"],"result":{"id":"hbm:ajro_helmet","count":1}}

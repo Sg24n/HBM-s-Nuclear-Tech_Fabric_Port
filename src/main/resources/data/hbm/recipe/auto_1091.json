@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["D","S","D"],"key":{"D":"#hbm:ingot/whitephosphorus","S":"hbm:ammo_arty"},"result":{"id":"hbm:ammo_arty__5","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRM","BGS"],"key":{"B":"#hbm:barrellight/workersalloy","R":"#hbm:receiverlight/workersalloy","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/anyplastic","S":"#hbm:stock/workersalloy"},"result":{"id":"hbm:gun_spas12","count":1}}

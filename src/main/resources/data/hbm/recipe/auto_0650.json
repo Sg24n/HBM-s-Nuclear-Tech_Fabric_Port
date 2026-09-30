@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","E E","E E"],"key":{"E":"hbm:hazmat_cloth_grey"},"result":{"id":"hbm:hazmat_legs_grey","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PCP","PBP","PSP"],"key":{"P":"hbm:plate_armor_dnt","S":"hbm:ingot_chainsteel","B":"hbm:bj_legs","C":"hbm:coin_worm"},"result":{"id":"hbm:dns_legs","count":1}}

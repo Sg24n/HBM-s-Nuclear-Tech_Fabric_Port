@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PGP"," S "," S "],"key":{"P":"minecraft:glass_pane","G":"minecraft:glowstone_dust","S":"hbm:steel_beam"},"result":{"id":"hbm:lantern","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:depth_nether_brick"},"result":{"id":"hbm:depth_nether_tiles","count":4}}

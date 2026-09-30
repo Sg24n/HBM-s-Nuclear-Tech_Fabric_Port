@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" N ","PSP","L L"],"key":{"N":"hbm:bottle_nuka","P":"#hbm:plate/steel","S":"hbm:syringe_metal_stimpak","L":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:syringe_metal_super","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","GPG"," F "],"key":{"G":"minecraft:glass_pane","P":"minecraft:leather","F":"minecraft:iron_ingot"},"result":{"id":"hbm:gas_mask_olde","count":1}}

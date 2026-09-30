@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/coal","#hbm:dust/fluorite"],"result":{"id":"hbm:radx","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RRR"],"key":{"R":"hbm:rag_piss"},"result":{"id":"hbm:mask_piss","count":1}}

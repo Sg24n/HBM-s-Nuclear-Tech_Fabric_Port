@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CRC"],"key":{"C":"#hbm:platesextuple/copper","R":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:pneumatic_tube","count":24}}
+{"type":"minecraft:crafting_shaped","pattern":["I","B","I"],"key":{"I":"minecraft:iron_ingot","B":"#hbm:bolt/steel"},"result":{"id":"hbm:padlock_rusty","count":1}}

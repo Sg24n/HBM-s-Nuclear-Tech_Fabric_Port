@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WWW"],"key":{"W":"hbm:pink_planks"},"result":{"id":"hbm:pink_slab","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["PSP","SCS","PSP"],"key":{"P":"#hbm:ingot/anyresistantalloy","S":"#hbm:ingot/anyplastic","C":"hbm:sat_chip"},"result":{"id":"hbm:machine_satlinker","count":1}}

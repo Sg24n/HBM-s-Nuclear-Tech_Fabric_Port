@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:radaway_strong","#hbm:dust/iodine"],"result":{"id":"hbm:radaway_flush","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"hbm:block_schrabidium","A":"minecraft:apple"},"result":{"id":"hbm:apple_schrabidium__2","count":1}}

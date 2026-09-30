@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ZRZ","Z Z","ZRZ"],"key":{"Z":"#hbm:ingot/zirconium","R":"hbm:rod_quad_empty"},"result":{"id":"hbm:rbmk_fuel_empty","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_pb209","hbm:billet_pb209","hbm:billet_pb209","#hbm:plate/iron"],"result":{"id":"hbm:pellet_rtg_lead","count":1}}

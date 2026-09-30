@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","BSR","G M"],"key":{"P":"#hbm:plate/saturnite","B":"#hbm:barrelheavy/saturnite","S":"#hbm:shell/saturnite","R":"#hbm:receiverheavy/saturnite","G":"#hbm:grip/anyhardplastic","M":"#hbm:gunmechanism/saturnite"},"result":{"id":"hbm:gun_fatman","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_desh","D":"hbm:powder_dineutronium","A":"hbm:plate_paa","P":"hbm:chlorophyte_axe","F":"hbm:shimmer_handle"},"result":{"id":"hbm:mese_axe","count":1}}

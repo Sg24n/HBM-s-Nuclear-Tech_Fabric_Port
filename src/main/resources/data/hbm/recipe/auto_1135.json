@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","LUL","LUL"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","U":"#hbm:ingot/uranium235"},"result":{"id":"hbm:custom_nuke","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/saturnite","#hbm:platetriple/saturnite","#hbm:platetriple/saturnite","#hbm:platetriple/saturnite","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__14","count":1}}

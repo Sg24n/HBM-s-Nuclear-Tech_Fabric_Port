@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:foundry_channel","minecraft:stone_bricks"],"result":{"id":"hbm:foundry_slagtap","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ODO","EAE","ODO"],"key":{"O":"minecraft:obsidian","D":"minecraft:diamond","E":"hbm:powder_magic","A":"hbm:gem_alexandrite"},"result":{"id":"hbm:teleanchor","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","M","S"],"key":{"C":"hbm:circuit__8","M":"#hbm:gunmechanism/weaponsteel","S":"#hbm:shell/weaponsteel"},"result":{"id":"hbm:grenade_shell","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","BRS"," MG"],"key":{"G":"#hbm:grip/wood","B":"#hbm:barrelheavy/ferrouranium","R":"#hbm:receiverheavy/ferrouranium","M":"#hbm:gunmechanism/weaponsteel","C":"hbm:weapon_mod_special__1","S":"#hbm:stock/wood"},"result":{"id":"hbm:gun_amat","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","KWK"],"key":{"C":"hbm:circuit__8","K":"hbm:coil_gold","W":"#hbm:plate/weaponsteel"},"result":{"id":"hbm:grenade_filling","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" RD","CTT","GMS"],"key":{"D":"hbm:circuit__11","C":"#hbm:ntmpipe/copper","T":"hbm:coil_copper_torus","G":"#hbm:grip/anyhardplastic","R":"#hbm:receiverlight/saturnite","M":"#hbm:gunmechanism/saturnite","S":"#hbm:stock/anyhardplastic"},"result":{"id":"hbm:gun_tau","count":1}}

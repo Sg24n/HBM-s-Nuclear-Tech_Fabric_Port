@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","PGM"],"key":{"B":"#hbm:barrelheavy/weaponsteel","P":"hbm:circuit__9","G":"#hbm:grip/weaponsteel","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:gun_stinger","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["NFN","NIN","NBN"],"key":{"F":"#hbm:billet/plutonium241","I":"hbm:plate_polymer","B":"#hbm:billet/bismuth","N":"hbm:nugget_uranium_fuel"},"result":{"id":"hbm:pwr_fuel__14","count":1}}

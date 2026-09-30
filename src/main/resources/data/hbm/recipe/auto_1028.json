@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/gunmetal","#hbm:platetriple/workersalloy","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__7","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["W I","WCI","PPP"],"key":{"W":"#hbm:wirefine/gold","I":"#hbm:ingot/copper","C":"hbm:circuit__7","P":"#hbm:plate/steel"},"result":{"id":"hbm:oil_detector","count":1}}

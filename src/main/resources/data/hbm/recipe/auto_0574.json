@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["R R","P P"],"key":{"R":"hbm:rag","P":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:robes_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/lead"},"result":{"id":"hbm:plate_lead","count":4}}

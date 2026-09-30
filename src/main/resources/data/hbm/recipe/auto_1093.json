@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","NSN"," P "],"key":{"P":"#hbm:nugget/plutonium239","N":"hbm:neutron_reflector","S":"hbm:ammo_arty"},"result":{"id":"hbm:ammo_arty__3","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/weaponsteel","R":"#hbm:receiverlight/weaponsteel","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_star_f","count":1}}

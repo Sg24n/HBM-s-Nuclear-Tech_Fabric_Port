@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PP"],"key":{"P":"#hbm:ntmpipe/steel"},"result":{"id":"hbm:deco_pipe","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["BGB","GRG","BGB"],"key":{"G":"hbm:block_graphite","R":"hbm:rbmk_rod_reasim","B":"#hbm:ingot/anyresistantalloy"},"result":{"id":"hbm:rbmk_rod_reasim_mod","count":1}}

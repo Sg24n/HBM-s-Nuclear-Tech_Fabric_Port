@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","ICI","IEI"],"key":{"W":"#hbm:wirefine/gold","I":"hbm:plate_polymer","E":"minecraft:redstone","C":"#hbm:dust/cobalt"},"result":{"id":"hbm:hev_battery","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rail_large_switch_flipped"],"result":{"id":"hbm:rail_large_switch","count":1}}

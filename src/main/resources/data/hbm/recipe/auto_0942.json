@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SFS","SCS"," S "],"key":{"S":"#hbm:plate/steel","F":"hbm:filter_coal","C":"hbm:circuit"},"result":{"id":"hbm:pollution_detector","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye__1","hbm:chemical_dye__11"],"result":{"id":"hbm:chemical_dye__14","count":2}}

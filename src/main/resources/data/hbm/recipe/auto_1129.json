@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["L","M"],"key":{"M":"hbm:mine_ap","L":"hbm:pellet_buckshot"},"result":{"id":"hbm:mine_shrap","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/weaponsteel","#hbm:platetriple/weaponsteel","#hbm:platetriple/weaponsteel","#hbm:platetriple/weaponsteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__8","count":1}}

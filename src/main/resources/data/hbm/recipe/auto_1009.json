@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" CM","BBB","G  "],"key":{"C":"hbm:circuit__9","M":"#hbm:gunmechanism/weaponsteel","B":"#hbm:barrelheavy/anyresistantalloy","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_missile_launcher","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_desh","D":"hbm:powder_dineutronium","A":"hbm:plate_paa","P":"hbm:chlorophyte_pickaxe","F":"hbm:shimmer_handle"},"result":{"id":"hbm:mese_pickaxe","count":1}}

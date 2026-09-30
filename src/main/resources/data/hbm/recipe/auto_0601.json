@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["N N","MSM","NCN"],"key":{"N":"hbm:plate_armor_lunar","M":"hbm:motor_desh","S":"hbm:starmetal_plate","C":"hbm:circuit__9"},"result":{"id":"hbm:bj_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","IMI"," I "],"key":{"I":"#hbm:ingot/steel","M":"hbm:motor_bismuth"},"result":{"id":"hbm:cm_engine__2","count":1}}

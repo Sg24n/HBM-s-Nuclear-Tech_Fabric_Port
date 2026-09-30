@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","1 2","CCC"],"key":{"C":"hbm:concrete_smooth","1":"minecraft:yellow_dye","2":"minecraft:black_dye"},"result":{"id":"hbm:concrete_colored_ext__5","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","C C"," C "],"key":{"C":"hbm:meteor_brick"},"result":{"id":"hbm:meteor_brick_cracked","count":6}}

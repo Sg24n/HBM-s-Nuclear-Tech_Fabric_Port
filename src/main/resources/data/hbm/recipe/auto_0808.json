@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_polonium","hbm:billet_polonium","hbm:billet_polonium","#hbm:plate/iron"],"result":{"id":"hbm:pellet_rtg_polonium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["OOO","PDP","OOO"],"key":{"O":"#hbm:plate/iron","P":"hbm:plate_polymer","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_iron","count":1}}

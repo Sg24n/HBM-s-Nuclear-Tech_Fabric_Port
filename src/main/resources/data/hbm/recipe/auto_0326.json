@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:plate_dineutronium","P":"hbm:powder_spark_mix","S":"hbm:singularity"},"result":{"id":"hbm:ams_core_wormhole","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ASA","   ","ASA"],"key":{"S":"#hbm:plate/steel","A":"#hbm:plate/aluminum"},"result":{"id":"hbm:fluid_duct_neo__2","count":8}}

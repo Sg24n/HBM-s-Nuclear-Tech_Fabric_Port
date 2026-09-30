@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:solid_fuel","hbm:cordite","#hbm:dust/saltpeter"],"result":{"id":"hbm:powder_semtex_mix","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["P P","IDI","P P"],"key":{"P":"#hbm:ingot/anyrubber","I":"#hbm:plate/iron","D":"hbm:ducttape"},"result":{"id":"hbm:pads_rubber","count":1}}

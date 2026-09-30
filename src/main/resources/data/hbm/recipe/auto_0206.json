@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:stone_gneiss"},"result":{"id":"hbm:gneiss_tile","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","C C"," C "],"key":{"C":"hbm:tile_lab"},"result":{"id":"hbm:tile_lab_cracked","count":6}}

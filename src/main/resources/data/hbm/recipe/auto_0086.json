@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","I I","LLL"],"key":{"L":"#hbm:ingot/anyrubber","I":"minecraft:iron_ingot"},"result":{"id":"hbm:conveyor_wand","count":64}}
+{"type":"minecraft:crafting_shaped","pattern":[" G ","IRI"],"key":{"G":"minecraft:glowstone_dust","R":"minecraft:redstone_torch","I":"hbm:circuit"},"result":{"id":"hbm:radio_torch_reader","count":4}}

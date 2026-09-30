@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IW"," S"," S"],"key":{"I":"#hbm:ingot/schrabidium","W":"hbm:desh_hoe","S":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_hoe","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_dual"],"result":{"id":"hbm:lithium","count":2}}

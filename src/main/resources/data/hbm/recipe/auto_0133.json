@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SHS","DHD","SHS"],"key":{"S":"#hbm:ingot/steel","H":"#hbm:shell/steel","D":"minecraft:black_dye"},"result":{"id":"hbm:machine_solar_boiler","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","PIP","PPP"],"key":{"P":"#minecraft:planks","I":"#hbm:plate/iron"},"result":{"id":"hbm:mass_storage__3","count":1}}

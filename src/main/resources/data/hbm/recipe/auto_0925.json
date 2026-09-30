@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","P"],"key":{"S":"#hbm:plate/steel","P":"#minecraft:planks"},"result":{"id":"hbm:bottle_opener","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/boron","#hbm:dust/boron","#hbm:dust/lanthanum","#hbm:dust/lanthanum","#hbm:dust/cerium","#hbm:dust/cobalt","#hbm:dust/lithium","#hbm:dust/neodymium","#hbm:dust/niobium"],"result":{"id":"hbm:powder_desh_mix","count":9}}

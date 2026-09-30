@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_cable_classic"],"result":{"id":"hbm:red_cable","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S","W"],"key":{"S":"minecraft:lever","W":"hbm:red_wire_coated"},"result":{"id":"hbm:cable_switch","count":1}}

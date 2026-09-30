@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" R ","ICI","ITI"],"key":{"R":"#hbm:wirefine/mingrade","T":"hbm:coil_copper_torus","I":"#hbm:plate/iron","C":"hbm:coil_copper"},"result":{"id":"hbm:motor","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:sugar","hbm:powder_sawdust","hbm:powder_sawdust","minecraft:wheat","minecraft:wheat","minecraft:wheat","minecraft:wheat","minecraft:wheat","minecraft:wheat"],"result":{"id":"hbm:biomass","count":4}}

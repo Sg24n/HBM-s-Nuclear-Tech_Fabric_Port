@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/lead","#hbm:dust/sulfur","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["PSP","SCS","PSP"],"key":{"P":"#hbm:ingot/anyplastic","S":"#hbm:ingot/starmetal","C":"hbm:circuit__11"},"result":{"id":"hbm:neutrino_lens","count":1}}

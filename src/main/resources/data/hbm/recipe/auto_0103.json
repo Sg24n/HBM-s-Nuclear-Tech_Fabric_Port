@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCW","IIW","  S"],"key":{"C":"hbm:coil_copper","W":"#minecraft:planks","I":"hbm:plate_polymer","S":"minecraft:cobblestone"},"result":{"id":"hbm:red_pylon_medium_wood","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_cable_classic"],"result":{"id":"hbm:red_cable","count":1}}

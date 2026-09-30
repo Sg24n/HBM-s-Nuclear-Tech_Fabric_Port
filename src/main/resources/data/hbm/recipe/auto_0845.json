@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/steel","#hbm:dust/tungsten"],"result":{"id":"hbm:powder_dura_steel","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["ZZZ","ZCZ","ZZZ"],"key":{"Z":"#hbm:nugget/zirconium","C":"hbm:catalyst_clay"},"result":{"id":"hbm:gas_mask_filter_mono","count":1}}

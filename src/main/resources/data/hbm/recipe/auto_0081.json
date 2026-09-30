@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" G ","IRI"],"key":{"G":"minecraft:glowstone_dust","R":"minecraft:redstone_torch","I":"hbm:circuit__5"},"result":{"id":"hbm:radio_torch_controller","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["F","P","S"],"key":{"F":"minecraft:string","S":"minecraft:slime_ball","P":"minecraft:paper"},"result":{"id":"hbm:ducttape","count":4}}

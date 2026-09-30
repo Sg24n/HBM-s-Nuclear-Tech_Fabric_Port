@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","EIE"],"key":{"E":"hbm:asbestos_cloth","I":"#hbm:plate/gold"},"result":{"id":"hbm:asbestos_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DCD","CXC"," F "],"key":{"D":"#hbm:ingot/workersalloy","C":"#hbm:plate/copper","X":"hbm:steel_helmet","F":"hbm:gas_mask_filter"},"result":{"id":"hbm:steamsuit_helmet","count":1}}

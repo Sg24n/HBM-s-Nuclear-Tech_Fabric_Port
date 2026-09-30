@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PIP","I I","PIP"],"key":{"P":"#hbm:plate/steel","I":"#hbm:ingot/steel"},"result":{"id":"hbm:sphere_steel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" PP","PII"," PP"],"key":{"P":"#hbm:plate/steel","I":"#hbm:ingot/steel"},"result":{"id":"hbm:fins_small_steel","count":1}}

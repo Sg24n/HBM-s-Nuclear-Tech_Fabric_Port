@@ -1,2 +1,14 @@
+item.ammo_secret	2	hbm:ammo_secret__2
+item.ammo_secret	3	hbm:ammo_secret__3
+item.ammo_secret	4	hbm:ammo_secret__4
 item.crucible	3	hbm:crucible__3
 item.holotape_image	1	hbm:holotape_image__1
+item.item_secret	2	hbm:item_secret__2
+item.page_of_	0	hbm:page_of___0
+item.page_of_	1	hbm:page_of___1
+item.page_of_	2	hbm:page_of___2
+item.page_of_	3	hbm:page_of___3
+item.page_of_	4	hbm:page_of___4
+item.page_of_	5	hbm:page_of___5
+item.page_of_	6	hbm:page_of___6
+item.page_of_	7	hbm:page_of___7

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BHB"],"key":{"H":"#hbm:shell/steel","B":"minecraft:iron_bars"},"result":{"id":"hbm:fraction_spacer","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S S"," S "],"key":{"S":"#hbm:ingot/steel"},"result":{"id":"minecraft:bucket","count":1}}

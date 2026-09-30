@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","C","B"],"key":{"B":"minecraft:iron_bars","C":"hbm:rod_empty","P":"#hbm:plate/iron"},"result":{"id":"hbm:syringe_metal_empty","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["III","CBC","I I"],"key":{"I":"#hbm:ingot/anyrubber","C":"hbm:cladding_lead","B":"hbm:hazmat_legs_grey"},"result":{"id":"hbm:liquidator_legs","count":1}}

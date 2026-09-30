@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" D ","BRS","GGM"],"key":{"D":"hbm:weapon_mod_special__1","B":"#hbm:barrellight/saturnite","R":"#hbm:receiverlight/saturnite","S":"#hbm:stock/anyhardplastic","G":"#hbm:grip/anyhardplastic","M":"#hbm:gunmechanism/saturnite"},"result":{"id":"hbm:gun_stg77","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_steel","D":"hbm:powder_chlorophyte","A":"#hbm:ingot/fiberglass","P":"hbm:volcanic_axe","F":"#hbm:bolt/durasteel"},"result":{"id":"hbm:chlorophyte_axe","count":1}}

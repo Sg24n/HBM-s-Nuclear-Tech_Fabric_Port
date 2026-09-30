@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/uranium235","#hbm:nugget/plutonium240","#hbm:nugget/plutonium241"],"result":{"id":"hbm:billet_zfb_pu241","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LL","SI","LL"],"key":{"L":"#hbm:ingot/anyrubber","S":"hbm:syringe_metal_super","I":"hbm:radaway"},"result":{"id":"hbm:med_bag","count":1}}

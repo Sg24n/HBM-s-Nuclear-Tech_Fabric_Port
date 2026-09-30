@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SCS","MWM","SCS"],"key":{"S":"#hbm:plate/steel","C":"hbm:circuit","M":"hbm:motor","W":"minecraft:crafting_table"},"result":{"id":"hbm:machine_autocrafter","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:battery_sc","#hbm:billet/cobalt60","#hbm:billet/cobalt60"],"result":{"id":"hbm:battery_sc__4","count":1}}

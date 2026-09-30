@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S ","PDP","PDP"],"key":{"S":"hbm:det_cord","P":"minecraft:paper","D":"hbm:ingot_semtex"},"result":{"id":"hbm:stick_semtex","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/gunmetal","#hbm:platetriple/steel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__3","count":1}}

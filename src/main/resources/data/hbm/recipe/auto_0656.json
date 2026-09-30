@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","IEI"," P "],"key":{"E":"hbm:plate_paa","I":"minecraft:glass_pane","P":"#hbm:plate/iron"},"result":{"id":"hbm:hazmat_paa_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["W W","W W","SCS"],"key":{"W":"minecraft:white_wool","S":"#hbm:ingot/steel","C":"hbm:circuit__7"},"result":{"id":"hbm:dieselsuit_helmet","count":1}}

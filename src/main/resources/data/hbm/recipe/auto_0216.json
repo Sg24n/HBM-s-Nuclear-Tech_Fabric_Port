@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:stone","minecraft:stone","minecraft:stone","hbm:powder_limestone"],"result":{"id":"hbm:lightstone","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","1 2","CCC"],"key":{"C":"hbm:concrete_smooth","1":"minecraft:purple_dye","2":"minecraft:purple_dye"},"result":{"id":"hbm:concrete_colored_ext__3","count":6}}

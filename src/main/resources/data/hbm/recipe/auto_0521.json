@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PIP"," P "],"key":{"P":"#hbm:plate/steel","I":"hbm:plate_polymer"},"result":{"id":"hbm:filing_cabinet__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","HCH"," B "],"key":{"P":"#hbm:ingot/anyplastic","H":"#hbm:ntmpipe/steel","C":"hbm:circuit","B":"#hbm:shell/steel"},"result":{"id":"hbm:drone","count":2}}

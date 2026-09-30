@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","RPY"," B "],"key":{"B":"#hbm:dust/lapis","C":"#hbm:dust/coal","R":"#hbm:dust/mingrade","Y":"#hbm:dust/gold","P":"minecraft:paper"},"result":{"id":"hbm:polaroid","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["FFF","ITI","ITI"],"key":{"F":"minecraft:flint","I":"#hbm:plate/steel","T":"#hbm:ingot/anyplasticexplosive"},"result":{"id":"hbm:det_miner","count":12}}

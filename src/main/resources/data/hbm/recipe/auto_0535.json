@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"minecraft:iron_ingot"},"result":{"id":"hbm:plate_iron","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:parts_legendary__1"],"result":{"id":"hbm:parts_legendary","count":3}}

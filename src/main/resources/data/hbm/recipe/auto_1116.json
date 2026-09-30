@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" T ","CPC"," T "],"key":{"T":"hbm:ball_tatb","C":"#hbm:plate/weaponsteel","P":"#hbm:nugget/plutonium239"},"result":{"id":"hbm:grenade_filling","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MMM","BBL","GG "],"key":{"M":"#hbm:gunmechanism/gunmetal","B":"#hbm:barrelheavy/steel","G":"#hbm:grip/steel","L":"minecraft:leather"},"result":{"id":"hbm:gun_charge_thrower","count":1}}

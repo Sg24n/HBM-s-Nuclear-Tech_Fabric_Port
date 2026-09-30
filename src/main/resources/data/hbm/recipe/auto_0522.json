@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","IBI"," I "],"key":{"I":"hbm:plate_polymer","B":"hbm:brick_light"},"result":{"id":"hbm:vinyl_tile","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["E","D"],"key":{"E":"minecraft:ender_pearl","D":"hbm:drone"},"result":{"id":"hbm:drone__1","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W W","S S"],"key":{"W":"minecraft:white_wool","S":"#hbm:ingot/steel"},"result":{"id":"hbm:dieselsuit_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","E E","E E"],"key":{"E":"#hbm:ingot/zirconium"},"result":{"id":"hbm:zirconium_legs","count":1}}

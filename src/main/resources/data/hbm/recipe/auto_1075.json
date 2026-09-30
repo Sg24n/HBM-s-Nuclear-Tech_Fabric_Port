@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","CTC","CCC"],"key":{"C":"#hbm:ingot/anyrubber","T":"hbm:mp_fuselage_10_long_kerosene"},"result":{"id":"hbm:mp_fuselage_10_long_kerosene_insulation","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","MAM"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","A":"hbm:gun_light_revolver"},"result":{"id":"hbm:gun_light_revolver_atlas","count":1}}

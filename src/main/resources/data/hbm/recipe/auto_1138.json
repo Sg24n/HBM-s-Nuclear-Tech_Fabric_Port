@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","WLW","WLW"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","W":"hbm:nuclear_waste"},"result":{"id":"hbm:custom_dirty","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/saturnite","#hbm:platetriple/anybismoidbronze","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__17","count":1}}

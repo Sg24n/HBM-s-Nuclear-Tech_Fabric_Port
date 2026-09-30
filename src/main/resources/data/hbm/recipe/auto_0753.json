@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["L L","I I","ILI"],"key":{"L":"hbm:lodestone","I":"minecraft:iron_ingot"},"result":{"id":"hbm:horseshoe_magnet","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:potion","minecraft:sugar","minecraft:sugar","minecraft:orange_dye"],"result":{"id":"hbm:mucho_mango","count":1}}

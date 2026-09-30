@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:nugget_am_mix","hbm:nugget_am_mix","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238"],"result":{"id":"hbm:billet_americium_fuel","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle2_empty","hbm:syringe_metal_empty","hbm:ducttape","hbm:powder_magic","#hbm:nugget/schrabidium","minecraft:potion"],"result":{"id":"hbm:syringe_taint","count":1}}

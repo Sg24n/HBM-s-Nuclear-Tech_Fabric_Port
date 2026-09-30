@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBS","BHS"],"key":{"B":"#hbm:bolt/steel","S":"minecraft:stick","H":"#hbm:plate/durasteel"},"result":{"id":"hbm:weapon_mod_special__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","PCP","III"],"key":{"P":"#hbm:plate/iron","C":"hbm:circuit__7","I":"hbm:plate_polymer"},"result":{"id":"hbm:settings_tool","count":1}}

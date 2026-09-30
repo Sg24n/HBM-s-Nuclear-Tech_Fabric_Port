@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/iron","#hbm:dust/iron","#hbm:dust/iron","#hbm:dust/aluminum"],"result":{"id":"hbm:powder_thermite","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["DGD","GTG","DGD"],"key":{"D":"hbm:ducttape","G":"#hbm:wirefine/gold","T":"hbm:tesla"},"result":{"id":"hbm:back_tesla","count":1}}

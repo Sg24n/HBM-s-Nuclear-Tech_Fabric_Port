@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PBP"," P "],"key":{"P":"hbm:plate_desh","B":"hbm:blades_titanium"},"result":{"id":"hbm:blades_desh","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" B ","SBS","SBS"],"key":{"B":"#hbm:ingot/boron","S":"#hbm:plate/steel"},"result":{"id":"hbm:pile_device__2","count":1}}

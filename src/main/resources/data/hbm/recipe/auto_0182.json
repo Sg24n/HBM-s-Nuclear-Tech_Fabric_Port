@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CDC","DLD","CDC"],"key":{"D":"hbm:ducrete_smooth","C":"minecraft:clay_ball","L":"hbm:plate_lead"},"result":{"id":"hbm:brick_ducrete","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["QBQ","CSC","QBQ"],"key":{"Q":"hbm:glass_quartz","B":"#hbm:ingot/cmbsteel","C":"#hbm:ingot/schrabidate","S":"hbm:cell_anti_schrabidium"},"result":{"id":"hbm:laser_crystal_cmb","count":1}}

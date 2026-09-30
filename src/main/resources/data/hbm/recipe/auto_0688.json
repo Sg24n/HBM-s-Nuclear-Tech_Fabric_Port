@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:med_ipecac"],"result":{"id":"hbm:med_ptsd","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","EIE"],"key":{"E":"hbm:asbestos_cloth","I":"#hbm:plate/gold"},"result":{"id":"hbm:asbestos_helmet","count":1}}

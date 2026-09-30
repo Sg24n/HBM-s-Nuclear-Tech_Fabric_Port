@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ICI","IBI"],"key":{"I":"#hbm:ingot/anyrubber","C":"hbm:cladding_lead","B":"hbm:hazmat_boots_grey"},"result":{"id":"hbm:liquidator_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["FSF","   ","FSF"],"key":{"F":"hbm:rag","S":"hbm:ring_starmetal"},"result":{"id":"hbm:bismuth_legs","count":1}}

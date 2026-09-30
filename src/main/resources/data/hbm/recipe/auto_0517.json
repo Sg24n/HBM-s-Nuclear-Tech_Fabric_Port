@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BB","BB"],"key":{"B":"hbm:ingot_firebrick"},"result":{"id":"hbm:brick_fire","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","BCB"],"key":{"M":"hbm:circuit__5","B":"hbm:conveyor_wand","C":"hbm:crate_steel"},"result":{"id":"hbm:crane_partitioner","count":1}}

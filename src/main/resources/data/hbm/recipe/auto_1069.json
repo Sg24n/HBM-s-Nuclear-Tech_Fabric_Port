@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ASA"," S ","PSP"],"key":{"A":"#hbm:plate/titanium","P":"#hbm:plate/steel","S":"hbm:steel_scaffold"},"result":{"id":"hbm:mp_stability_10_cruise","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","TCT","TST"],"key":{"P":"#hbm:plate/gunmetal","T":"#hbm:ingot/steel","C":"minecraft:crafting_table","S":"hbm:block_steel"},"result":{"id":"hbm:machine_weapon_table","count":1}}

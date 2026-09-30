@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:missile_assembly","hbm:ducttape","hbm:cell_anti_schrabidium","hbm:circuit__15"],"result":{"id":"hbm:missile_schrabidium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BS","BW"," P"],"key":{"B":"hbm:blades_desh","S":"hbm:block_schrabidium","W":"hbm:desh_axe","P":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_axe","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","LUL","LUL"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","U":"#hbm:ingot/schrabidium"},"result":{"id":"hbm:custom_schrab","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P","B","P"],"key":{"P":"#hbm:ingot/anyplastic","B":"#hbm:barrellight/steel"},"result":{"id":"hbm:weapon_mod_special","count":1}}

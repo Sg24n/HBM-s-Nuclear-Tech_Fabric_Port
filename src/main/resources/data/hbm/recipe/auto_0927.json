@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","S"],"key":{"I":"#hbm:dust/redphosphorus","S":"minecraft:stick"},"result":{"id":"hbm:matchstick","count":24}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":2}}

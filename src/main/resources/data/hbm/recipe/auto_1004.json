@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","G G"],"key":{"B":"#hbm:barrelheavy/ferrouranium","R":"#hbm:receiverheavy/ferrouranium","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_autoshotgun","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CIC"," S "," S "],"key":{"C":"#hbm:ingot/copper","I":"minecraft:iron_ingot","S":"minecraft:stick"},"result":{"id":"hbm:dwarven_pickaxe","count":1}}

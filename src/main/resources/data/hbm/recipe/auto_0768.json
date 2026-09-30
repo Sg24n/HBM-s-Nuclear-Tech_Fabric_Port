@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" B","LI","LC"],"key":{"B":"minecraft:stone_button","L":"minecraft:leather","I":"#hbm:ingot/steel","C":"hbm:circuit__8"},"result":{"id":"hbm:stealth_boy","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SLS","LCL","SLS"],"key":{"C":"hbm:syringe_empty","S":"minecraft:spider_eye","L":"#hbm:dust/lead"},"result":{"id":"hbm:syringe_poison","count":1}}

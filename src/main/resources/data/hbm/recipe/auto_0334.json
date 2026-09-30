@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S S","LIL","LIL"],"key":{"S":"#hbm:plate/steel","L":"minecraft:leather","I":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:jackt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CRC"],"key":{"C":"#hbm:platetriple/copper","R":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:pneumatic_tube","count":8}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["OOO","OBO","OOO"],"key":{"O":"hbm:ore_gneiss_uranium_scorched","B":"minecraft:water_bucket"},"result":{"id":"hbm:ore_gneiss_uranium","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["T","C","B"],"key":{"T":"hbm:drone_waypoint_request","C":"hbm:crate_steel","B":"minecraft:orange_dye"},"result":{"id":"hbm:drone_crate_provider","count":1}}

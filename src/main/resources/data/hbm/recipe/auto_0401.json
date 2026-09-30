@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CBC","BHB","CBC"],"key":{"C":"hbm:circuit__9","B":"#hbm:platetriple/anyresistantalloy","H":"hbm:watz_cooler"},"result":{"id":"hbm:struct_watz_core","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_spark"],"result":{"id":"hbm:rune_jera","count":1}}

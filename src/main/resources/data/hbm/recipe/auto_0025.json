@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DDD","DTD","DDD"],"key":{"D":"hbm:cell_empty","T":"hbm:mike_deut"},"result":{"id":"hbm:cell_deuterium","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":[" S ","G G"," S "],"key":{"S":"#hbm:plate/steel","G":"minecraft:glass_pane"},"result":{"id":"hbm:cell_empty","count":6}}

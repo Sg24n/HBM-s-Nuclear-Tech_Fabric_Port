@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BIB","BIB"],"key":{"B":"minecraft:iron_bars","I":"minecraft:iron_ingot"},"result":{"id":"hbm:fence_metal","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":[" L ","LGL"," L "],"key":{"L":"minecraft:leather","G":"#hbm:plate/gunmetal"},"result":{"id":"hbm:casing_bag","count":1}}

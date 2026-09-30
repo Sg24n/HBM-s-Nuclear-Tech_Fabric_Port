@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_co60","hbm:billet_co60","hbm:billet_co60","#hbm:plate/iron"],"result":{"id":"hbm:pellet_rtg_cobalt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPD","PRP","DPD"],"key":{"R":"hbm:cladding_desh","P":"hbm:ingot_gh336","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_ghiorsium","count":1}}

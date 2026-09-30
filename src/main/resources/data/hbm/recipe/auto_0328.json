@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PSP","SCS","PSP"],"key":{"P":"#hbm:ingot/anyresistantalloy","S":"#hbm:ingot/anyplastic","C":"hbm:sat_chip"},"result":{"id":"hbm:machine_satlinker","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SAS","A A","SAS"],"key":{"S":"minecraft:iron_ingot","A":"hbm:plate_polymer"},"result":{"id":"hbm:fluid_duct_paintable_block_exhaust","count":8}}

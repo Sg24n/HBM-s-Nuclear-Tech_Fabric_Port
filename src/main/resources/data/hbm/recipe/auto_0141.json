@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BPB","PRP","BPB"],"key":{"B":"#hbm:bolt/steel","P":"#hbm:plate/iron","R":"minecraft:redstone"},"result":{"id":"hbm:fan","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SIS","ICI","SRS"],"key":{"S":"#hbm:plate/steel","I":"#hbm:ingot/anyrubber","C":"hbm:circuit","R":"minecraft:redstone"},"result":{"id":"hbm:machine_siren","count":1}}

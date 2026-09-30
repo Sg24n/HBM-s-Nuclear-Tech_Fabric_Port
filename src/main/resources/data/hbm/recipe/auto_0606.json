@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MPM","IBI","P P"],"key":{"P":"hbm:plate_armor_hev","B":"hbm:titanium_legs","I":"#hbm:ingot/anyplastic","M":"hbm:motor_desh"},"result":{"id":"hbm:hev_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","IMI"," I "],"key":{"I":"#hbm:ingot/steel","M":"hbm:circuit__11"},"result":{"id":"hbm:cm_circuit__4","count":1}}

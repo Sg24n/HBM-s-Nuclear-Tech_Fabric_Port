@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/iron","minecraft:clay_ball"],"result":{"id":"hbm:catalyst_clay","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["STS","THT","STS"],"key":{"S":"hbm:particle_strange","T":"#hbm:dust/tungsten","H":"hbm:crystal_horn"},"result":{"id":"hbm:crystal_virus","count":1}}

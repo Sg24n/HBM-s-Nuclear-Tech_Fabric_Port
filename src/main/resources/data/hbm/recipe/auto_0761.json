@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["NIN","IGI","NIN"],"key":{"N":"#hbm:nugget/gold198","I":"hbm:ink","G":"#hbm:gem/volcanic"},"result":{"id":"hbm:black_diamond","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" G ","G G","G G"],"key":{"G":"minecraft:glass_pane"},"result":{"id":"hbm:bottle2_empty","count":6}}

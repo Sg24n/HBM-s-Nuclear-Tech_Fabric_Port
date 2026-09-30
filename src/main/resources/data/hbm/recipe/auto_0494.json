@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E","D"],"key":{"E":"hbm:circuit__5","D":"hbm:drone"},"result":{"id":"hbm:drone__4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe_framed","C":"minecraft:green_dye"},"result":{"id":"hbm:deco_pipe_framed_green","count":8}}

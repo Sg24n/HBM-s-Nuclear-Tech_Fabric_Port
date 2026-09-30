@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MCM","PBP","PSP"],"key":{"M":"hbm:motor_desh","C":"hbm:demon_core_closed","P":"hbm:plate_armor_fau","B":"hbm:starmetal_plate","S":"hbm:ancient_scrap"},"result":{"id":"hbm:fau_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","TCT","TST"],"key":{"P":"#hbm:plate/steel","T":"#hbm:ingot/tungsten","C":"minecraft:crafting_table","S":"hbm:block_steel"},"result":{"id":"hbm:machine_armor_table","count":1}}

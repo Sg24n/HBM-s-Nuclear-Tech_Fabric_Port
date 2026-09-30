@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RCR","CDC","RCR"],"key":{"R":"#hbm:ingot/anyrubber","C":"#hbm:dust/coal","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_rubber","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"#hbm:ingot/lead","A":"minecraft:apple"},"result":{"id":"hbm:apple_lead__1","count":1}}

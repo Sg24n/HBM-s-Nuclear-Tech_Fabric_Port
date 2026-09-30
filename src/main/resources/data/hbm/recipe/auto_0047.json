@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plant_flower__3","hbm:plant_flower__3","hbm:plant_flower__3","hbm:plant_flower__3","hbm:plant_flower__3","hbm:plant_flower__3"],"result":{"id":"hbm:biomass","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:sugar","hbm:powder_sawdust","hbm:powder_sawdust","#minecraft:saplings","#minecraft:saplings","#minecraft:saplings","#minecraft:saplings","#minecraft:saplings","#minecraft:saplings"],"result":{"id":"hbm:biomass","count":4}}

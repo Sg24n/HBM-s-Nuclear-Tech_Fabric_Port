@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","MGM","LLL"],"key":{"L":"minecraft:leather","G":"#hbm:plate/weaponsteel","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:ammo_bag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","STS"," D "],"key":{"S":"#hbm:plate/steel","T":"#hbm:ingot/tungsten","D":"#hbm:bolt/durasteel"},"result":{"id":"hbm:piston_selenium","count":1}}

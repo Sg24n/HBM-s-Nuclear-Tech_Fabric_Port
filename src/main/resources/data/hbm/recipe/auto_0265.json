@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:water_bucket","minecraft:glowstone_dust","#hbm:plate/steel"],"result":{"id":"hbm:pellet_gas","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["SFS","SFS"],"key":{"S":"#minecraft:slabs","F":"minecraft:oak_fence"},"result":{"id":"hbm:wood_barrier","count":8}}

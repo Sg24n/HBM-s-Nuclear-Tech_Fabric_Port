@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/neptunium237","#hbm:dust/iodine","#hbm:dust/thorium232","#hbm:dust/astatine","#hbm:dust/neodymium","#hbm:dust/caesium","hbm:block_meteor","hbm:gravel_obsidian","minecraft:water_bucket"],"result":{"id":"hbm:crystal_horn","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LML","LCL","LML"],"key":{"L":"#hbm:plate/lead","M":"hbm:magnetron","C":"hbm:circuit__9"},"result":{"id":"hbm:emp_bomb","count":1}}

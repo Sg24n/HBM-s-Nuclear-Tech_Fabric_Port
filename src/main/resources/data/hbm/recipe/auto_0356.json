@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["II","SS","II"],"key":{"I":"#hbm:plate/steel","S":"#hbm:plate/lead"},"result":{"id":"hbm:door_bunker","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["  W","PCP","PIP"],"key":{"W":"#hbm:wirefine/copper","P":"#hbm:plate/steel","C":"hbm:circuit","I":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:radiorec","count":1}}

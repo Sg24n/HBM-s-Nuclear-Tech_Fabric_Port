@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TST","SCS","TST"],"key":{"T":"#hbm:ingot/anyresistantalloy","S":"#hbm:dust/sulfur","C":"hbm:catalyst_clay"},"result":{"id":"hbm:deuterium_filter","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" R ","ICI"," T "],"key":{"R":"#hbm:wirefine/mingrade","T":"hbm:coil_copper_torus","I":"#hbm:plate/steel","C":"hbm:coil_copper"},"result":{"id":"hbm:motor","count":2}}

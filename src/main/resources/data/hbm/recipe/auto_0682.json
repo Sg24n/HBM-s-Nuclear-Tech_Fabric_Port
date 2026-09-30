@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","ESE","EPE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_legs","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","E E","E E"],"key":{"E":"hbm:hazmat_cloth_red"},"result":{"id":"hbm:hazmat_legs_red","count":1}}

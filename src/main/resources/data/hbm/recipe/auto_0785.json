@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:nugget_schrabidium","hbm:nugget_schrabidium","#hbm:nugget/neptunium237","#hbm:nugget/neptunium237","hbm:nugget_beryllium","hbm:nugget_beryllium"],"result":{"id":"hbm:billet_schrabidium_fuel","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/euphemium","hbm:canteen_vodka"],"result":{"id":"hbm:five_htp","count":1}}

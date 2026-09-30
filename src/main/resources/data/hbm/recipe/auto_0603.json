@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["N N","BSB"],"key":{"N":"hbm:plate_armor_lunar","S":"hbm:starmetal_boots","B":"hbm:block_starmetal"},"result":{"id":"hbm:bj_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","IMI"," I "],"key":{"I":"#hbm:ingot/steel","M":"hbm:circuit__7"},"result":{"id":"hbm:cm_circuit__1","count":1}}

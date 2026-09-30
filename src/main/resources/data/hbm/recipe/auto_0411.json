@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","PUP"," C "],"key":{"C":"hbm:plate_saturnite","P":"hbm:motor","U":"hbm:upgrade_ejector"},"result":{"id":"hbm:upgrade_ejector__2","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_dagaz","hbm:rune_dagaz","hbm:rune_jera","hbm:rune_thurisaz","#hbm:dust/strontium","#hbm:dust/strontium","#hbm:dust/strontium","#hbm:dust/strontium"],"result":{"id":"hbm:ams_catalyst_strontium","count":1}}

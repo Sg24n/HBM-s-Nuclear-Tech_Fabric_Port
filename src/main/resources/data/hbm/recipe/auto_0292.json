@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PBP","PPP"],"key":{"P":"#hbm:plate/steel","B":"#hbm:bolt/steel"},"result":{"id":"hbm:padlock","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","SRS"," P "],"key":{"P":"minecraft:paper","S":"hbm:solid_fuel_bf","R":"minecraft:redstone"},"result":{"id":"hbm:solid_fuel_presto_bf","count":1}}

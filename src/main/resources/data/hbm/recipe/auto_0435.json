@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["R","C","B"],"key":{"R":"hbm:radio_torch_receiver","B":"hbm:rbmk_display_blank","C":"hbm:circuit"},"result":{"id":"hbm:rbmk_gauge","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MCM","MKM","MMM"],"key":{"M":"hbm:ingot_meteorite_forged","C":"hbm:coin_maskman","K":"hbm:key"},"result":{"id":"hbm:mech_key","count":1}}

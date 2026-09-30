@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","PBP"],"key":{"P":"hbm:plate_armor_titanium","B":"hbm:titanium_boots"},"result":{"id":"hbm:t51_boots","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:circuit__9"],"result":{"id":"hbm:launch_code","count":1}}

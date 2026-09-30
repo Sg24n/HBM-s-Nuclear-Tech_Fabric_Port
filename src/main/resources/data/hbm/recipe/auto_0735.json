@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:ducttape","P":"#hbm:ingot/ghiorsium336","S":"#hbm:ingot/uranium238"},"result":{"id":"hbm:insert_ghiorsium","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:bowl","hbm:mush","hbm:mush"],"result":{"id":"hbm:glowing_stew","count":1}}

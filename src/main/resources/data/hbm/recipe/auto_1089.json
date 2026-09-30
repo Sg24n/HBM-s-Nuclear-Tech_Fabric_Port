@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" D ","DSD"," D "],"key":{"D":"hbm:ball_dynamite","S":"hbm:ammo_arty"},"result":{"id":"hbm:ammo_arty__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRS"," GM"],"key":{"B":"#hbm:barrellight/workersalloy","R":"#hbm:receiverlight/workersalloy","S":"#hbm:stock/anyplastic","G":"#hbm:grip/anyplastic","M":"#hbm:gunmechanism/gunmetal"},"result":{"id":"hbm:gun_uzi","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:book","minecraft:gold_nugget","minecraft:string","minecraft:blue_dye"],"result":{"id":"hbm:bobmazon","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","L L","SSS"],"key":{"S":"#hbm:plate/steel","L":"#hbm:plate/lead"},"result":{"id":"hbm:rod_empty","count":16}}

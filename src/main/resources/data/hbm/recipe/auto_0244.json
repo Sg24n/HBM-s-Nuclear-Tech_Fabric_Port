@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS"," S ","SSS"],"key":{"S":"#hbm:ingot/steel"},"result":{"id":"hbm:steel_scaffold","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["G","B","S"],"key":{"G":"minecraft:glass_pane","B":"hbm:powder_bromine","S":"#hbm:plate/steel"},"result":{"id":"hbm:spotlight_halogen","count":8}}

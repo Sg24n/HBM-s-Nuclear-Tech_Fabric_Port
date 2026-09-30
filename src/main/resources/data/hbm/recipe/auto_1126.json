@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DDD","DSD","DDD"],"key":{"D":"hbm:stick_dynamite","S":"hbm:safety_fuse"},"result":{"id":"hbm:dynamite","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/gunmetal","#hbm:platetriple/durasteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__5","count":1}}

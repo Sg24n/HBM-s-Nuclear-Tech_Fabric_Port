@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BIB","P P","B B"],"key":{"B":"#hbm:bolt/tungsten","I":"#hbm:ingot/tungsten","P":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:reacher","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye__1","hbm:chemical_dye__4"],"result":{"id":"hbm:chemical_dye__5","count":2}}

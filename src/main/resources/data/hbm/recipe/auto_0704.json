@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" N ","NSN"," N "],"key":{"N":"minecraft:glowstone_dust","S":"hbm:syringe_metal_empty"},"result":{"id":"hbm:syringe_metal_psycho","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","GPG"," F "],"key":{"G":"minecraft:glass_pane","P":"#hbm:plate/steel","F":"#hbm:plate/iron"},"result":{"id":"hbm:gas_mask","count":1}}

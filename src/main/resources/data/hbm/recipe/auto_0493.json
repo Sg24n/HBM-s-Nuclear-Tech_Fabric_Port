@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:drone"],"result":{"id":"hbm:drone__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe_quad","C":"minecraft:green_dye"},"result":{"id":"hbm:deco_pipe_quad_green","count":8}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" IP","IIM"," IP"],"key":{"I":"#hbm:ingot/saturnite","P":"#hbm:ingot/anyhardplastic","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:weapon_mod_special__21","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["L L","LLL"],"key":{"L":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:boat_rubber","count":1}}

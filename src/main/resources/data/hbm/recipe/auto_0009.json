@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SWS"],"key":{"S":"minecraft:string","W":"minecraft:white_wool"},"result":{"id":"hbm:plate_polymer","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["DD"],"key":{"D":"#hbm:ingot/asbestos"},"result":{"id":"hbm:plate_polymer","count":16}}

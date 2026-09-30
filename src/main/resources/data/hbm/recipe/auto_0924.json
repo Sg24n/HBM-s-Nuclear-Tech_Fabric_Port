@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["II"," I"," I"],"key":{"I":"#hbm:ingot/steel"},"result":{"id":"hbm:crowbar","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dusttiny/boron","#hbm:dusttiny/boron","#hbm:dusttiny/lanthanum","#hbm:dusttiny/lanthanum","#hbm:dusttiny/cerium","#hbm:dusttiny/cobalt","#hbm:dusttiny/lithium","#hbm:dusttiny/neodymium","#hbm:dusttiny/niobium"],"result":{"id":"hbm:powder_desh_mix","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["G","C","I"],"key":{"G":"#hbm:plate/gold","C":"hbm:circuit","I":"#hbm:plate/iron"},"result":{"id":"hbm:gas_tester","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SPS","SMS","SPS"],"key":{"S":"hbm:syringe_empty","P":"minecraft:pumpkin_seeds","M":"minecraft:milk_bucket"},"result":{"id":"hbm:syringe_antidote","count":6}}

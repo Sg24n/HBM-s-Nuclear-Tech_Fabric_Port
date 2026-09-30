@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PRP","DPD"],"key":{"R":"hbm:cladding_lead","P":"hbm:plate_desh","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_desh","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","EAE","EEE"],"key":{"E":"#hbm:nugget/euphemium","A":"minecraft:apple"},"result":{"id":"hbm:apple_euphemium","count":1}}

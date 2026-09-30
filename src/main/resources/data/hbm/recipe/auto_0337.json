@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ISI","SCS","ISI"],"key":{"I":"#hbm:ingot/saturnite","S":"#hbm:ingot/starmetal","C":"hbm:chlorine_pinwheel"},"result":{"id":"hbm:vent_chlorine_seal","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P","P","S"],"key":{"P":"#hbm:ntmpipe/steel","S":"#hbm:ingot/steel"},"result":{"id":"hbm:pipe_anchor","count":2}}

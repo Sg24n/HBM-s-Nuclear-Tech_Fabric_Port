@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S ","PDP","PDP"],"key":{"S":"hbm:safety_fuse","P":"minecraft:paper","D":"hbm:ball_dynamite"},"result":{"id":"hbm:stick_dynamite","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:ingot/gunmetal","minecraft:iron_ingot","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__1","count":1}}

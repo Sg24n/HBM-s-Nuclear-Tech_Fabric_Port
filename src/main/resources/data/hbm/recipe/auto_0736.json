@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:ducttape","P":"#hbm:plate/iron","S":"hbm:ingot_semtex"},"result":{"id":"hbm:insert_era","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:bowl","hbm:egg_balefire"],"result":{"id":"hbm:balefire_scrambled","count":1}}

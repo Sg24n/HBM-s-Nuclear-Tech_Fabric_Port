@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["QUQ","UEU","QUQ"],"key":{"Q":"hbm:glass_quartz","U":"hbm:undefined","E":"hbm:ingot_electronium"},"result":{"id":"hbm:laser_crystal_digamma","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ESE","SBS","ESE"],"key":{"E":"#hbm:nugget/euphemium","S":"hbm:cell_anti_schrabidium","B":"hbm:block_schrabidium"},"result":{"id":"hbm:singularity","count":1}}

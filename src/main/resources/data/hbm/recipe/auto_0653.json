@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E E","EEE","EEE"],"key":{"E":"hbm:asbestos_cloth"},"result":{"id":"hbm:asbestos_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C C","DXD","CFC"],"key":{"D":"#hbm:ingot/workersalloy","C":"#hbm:plate/copper","X":"hbm:steel_plate","F":"hbm:tank_steel"},"result":{"id":"hbm:steamsuit_plate","count":1}}

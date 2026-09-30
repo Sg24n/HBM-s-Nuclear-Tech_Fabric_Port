@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","hbm:nugget_uranium_fuel","hbm:nugget_uranium_fuel","hbm:nugget_uranium_fuel","hbm:nugget_uranium_fuel"],"result":{"id":"hbm:billet_mox_fuel","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/polonium210","#hbm:dust/strontium"],"result":{"id":"hbm:fmn","count":1}}

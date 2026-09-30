@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/saturnite","#hbm:platetriple/anybismoidbronze","#hbm:platetriple/anybismoidbronze","#hbm:platetriple/anybismoidbronze","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__16","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" PS","P P"," P "],"key":{"P":"#hbm:ingot/anyplastic","S":"#hbm:plate/steel"},"result":{"id":"hbm:defuser","count":1}}

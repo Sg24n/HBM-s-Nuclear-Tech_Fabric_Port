@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EE ","EEE","E E"],"key":{"E":"#hbm:ingot/dineutronium"},"result":{"id":"hbm:dnt_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BCD","DDD"],"key":{"B":"#hbm:ingot/boron","D":"hbm:deco_rbmk","C":"hbm:circuit__7"},"result":{"id":"hbm:rbmk_crane_console","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_counter_resonant"],"result":{"id":"hbm:rune_isa","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["W  ","WW ","WWW"],"key":{"W":"hbm:pink_planks"},"result":{"id":"hbm:pink_stairs","count":6}}

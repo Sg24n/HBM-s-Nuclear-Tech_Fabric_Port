@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRS","SMG"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/steel","S":"#hbm:bolt/steel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/steel"},"result":{"id":"hbm:gun_greasegun","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_dual"],"result":{"id":"hbm:nugget_lead","count":12}}

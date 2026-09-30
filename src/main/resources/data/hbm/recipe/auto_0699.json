@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SPS","NCN","SPS"],"key":{"C":"hbm:syringe_empty","S":"#hbm:dust/sulfur","P":"#hbm:nugget/plutonium239","N":"#hbm:nugget/plutonium238"},"result":{"id":"hbm:syringe_awesome","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","CBC","III"],"key":{"I":"#hbm:ingot/anyrubber","C":"hbm:cladding_lead","B":"hbm:hazmat_helmet_grey"},"result":{"id":"hbm:liquidator_helmet","count":1}}

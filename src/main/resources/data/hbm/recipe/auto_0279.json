@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" F ","FCF"," F "],"key":{"F":"minecraft:flint","C":"hbm:charge_dynamite"},"result":{"id":"hbm:charge_miner","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RR"," R"],"key":{"R":"hbm:rail_large_straight"},"result":{"id":"hbm:rail_large_curve_7","count":1}}

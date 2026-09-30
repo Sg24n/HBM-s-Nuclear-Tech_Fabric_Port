@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["  G","BRM","  G"],"key":{"G":"#hbm:grip/wood","B":"#hbm:barrelheavy/ferrouranium","R":"#hbm:receiverheavy/ferrouranium","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:gun_m2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["  B","GB ","SG "],"key":{"B":"hbm:blade_meteorite","G":"#hbm:plate/gold","S":"minecraft:stick"},"result":{"id":"hbm:meteorite_sword","count":1}}

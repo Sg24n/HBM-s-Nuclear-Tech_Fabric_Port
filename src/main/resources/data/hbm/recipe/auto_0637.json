@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ICI","TJT","I I"],"key":{"C":"hbm:circuit__8","T":"hbm:ingot_dura_steel","J":"hbm:jetpack_fly","I":"hbm:plate_polymer"},"result":{"id":"hbm:jetpack_break","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["N N","MSM","NCN"],"key":{"N":"hbm:plate_armor_lunar","M":"hbm:motor_desh","S":"hbm:starmetal_plate","C":"hbm:circuit__9"},"result":{"id":"hbm:bj_plate","count":1}}

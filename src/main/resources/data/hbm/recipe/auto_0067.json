@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plant_flower__2"],"result":{"id":"hbm:powder_poison","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["H","G","G"],"key":{"G":"hbm:shimmer_handle","H":"hbm:shimmer_head"},"result":{"id":"hbm:shimmer_sledge","count":1}}

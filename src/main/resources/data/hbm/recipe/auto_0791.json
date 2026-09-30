@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_ra226","hbm:billet_beryllium"],"result":{"id":"hbm:billet_ra226be","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["LLL","SIS","LLL"],"key":{"L":"minecraft:leather","S":"hbm:syringe_metal_stimpak","I":"hbm:syringe_antidote"},"result":{"id":"hbm:med_bag","count":1}}

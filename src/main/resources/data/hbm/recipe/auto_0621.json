@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W W","CDC","SWS"],"key":{"W":"minecraft:white_wool","S":"#hbm:ingot/steel","C":"hbm:circuit__7","D":"hbm:machine_diesel"},"result":{"id":"hbm:dieselsuit_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EE ","EEE","E E"],"key":{"E":"#hbm:ingot/dineutronium"},"result":{"id":"hbm:dnt_legs","count":1}}

@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/dud_balefire.obj","texture":"hbm:block/models/bombs/dud_balefire","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/dud_balefire.obj","texture":"hbm:block/models/bombs/dud_balefire","normalize":false,"alpha":"translucent"}

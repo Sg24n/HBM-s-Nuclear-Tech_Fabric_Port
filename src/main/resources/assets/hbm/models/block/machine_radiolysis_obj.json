@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/radiolysis.obj","texture":"hbm:block/models/radiolysis","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/radiolysis.obj","texture":"hbm:block/models/radiolysis","normalize":false,"alpha":"translucent"}

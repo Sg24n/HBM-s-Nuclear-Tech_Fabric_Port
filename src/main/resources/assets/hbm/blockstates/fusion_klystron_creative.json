@@ -1,1 +1,1 @@
-{"variants":{"facing=north":{"model":"hbm:block/fusion_klystron_creative_obj","y":0},"facing=east":{"model":"hbm:block/fusion_klystron_creative_obj","y":90},"facing=south":{"model":"hbm:block/fusion_klystron_creative_obj","y":180},"facing=west":{"model":"hbm:block/fusion_klystron_creative_obj","y":270}}}
+{"variants":{"":{"model":"hbm:block/fusion_klystron_creative_obj"}}}

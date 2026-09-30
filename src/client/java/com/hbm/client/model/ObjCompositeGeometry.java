@@ -25,9 +25,11 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 	}
 
 	private final List<Layer> layers;
+	private final Transparency transparency;
 
-	public ObjCompositeGeometry(List<Layer> layers) {
+	public ObjCompositeGeometry(List<Layer> layers, Transparency transparency) {
 		this.layers = layers;
+		this.transparency = transparency;
 	}
 
 	private static Direction direction(ObjModel.Face face) {
@@ -56,7 +58,7 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 		QuadCollection.Builder builder = new QuadCollection.Builder();
 		for (Layer layer : layers) {
 			Material.Baked baked = baker.materials().get(new Material(layer.texture()), name);
-			BakedQuad.MaterialInfo info = BakedQuad.MaterialInfo.of(baked, Transparency.TRANSPARENT, -1, null, 0);
+			BakedQuad.MaterialInfo info = BakedQuad.MaterialInfo.of(baked, transparency, -1, null, 0);
 			var sprite = baked.sprite();
 			float factor = layer.scale();
 			for (ObjModel.Face face : layer.model().faces()) {

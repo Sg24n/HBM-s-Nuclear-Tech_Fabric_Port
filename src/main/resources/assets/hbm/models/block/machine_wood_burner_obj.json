@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/wood_burner.obj","texture":"hbm:block/models/machines/wood_burner","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/wood_burner.obj","texture":"hbm:block/models/machines/wood_burner","normalize":false,"alpha":"translucent"}

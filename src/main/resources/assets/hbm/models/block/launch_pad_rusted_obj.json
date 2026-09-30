@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/weapons/launch_pad_silo.obj","texture":"hbm:block/models/launchpad/silo_rusted","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/weapons/launch_pad_silo.obj","texture":"hbm:block/models/launchpad/silo_rusted","normalize":false,"alpha":"translucent"}

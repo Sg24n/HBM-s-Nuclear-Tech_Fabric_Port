@@ -32,9 +32,11 @@ public final class ObjUnbakedModel implements UnbakedModel {
 	private static final ItemTransforms TRANSFORMS = defaultTransforms();
 
 	private final List<ObjCompositeGeometry.Layer> layers;
+	private final com.mojang.blaze3d.platform.Transparency transparency;
 
-	public ObjUnbakedModel(List<ObjCompositeGeometry.Layer> layers) {
+	public ObjUnbakedModel(List<ObjCompositeGeometry.Layer> layers, com.mojang.blaze3d.platform.Transparency transparency) {
 		this.layers = layers;
+		this.transparency = transparency;
 	}
 
 	@Override
@@ -49,7 +51,7 @@ public final class ObjUnbakedModel implements UnbakedModel {
 
 	@Override
 	public UnbakedGeometry geometry() {
-		return new ObjCompositeGeometry(layers);
+		return new ObjCompositeGeometry(layers, transparency);
 	}
 
 	@Override
@@ -120,7 +122,17 @@ public final class ObjUnbakedModel implements UnbakedModel {
 						Identifier.parse(json.get("texture").getAsString()),
 						List.copyOf(readParts(json)), defaultScale));
 			}
-			return new ObjUnbakedModel(List.copyOf(layers));
+			return new ObjUnbakedModel(List.copyOf(layers), transparency(json));
 		}
+	}
+
+	private static com.mojang.blaze3d.platform.Transparency transparency(JsonObject json) {
+		String alpha = json.has("alpha") ? json.get("alpha").getAsString() : "transparent";
+		return switch (alpha) {
+			case "translucent" -> com.mojang.blaze3d.platform.Transparency.TRANSLUCENT;
+			case "both" -> com.mojang.blaze3d.platform.Transparency.TRANSPARENT_AND_TRANSLUCENT;
+			case "none" -> com.mojang.blaze3d.platform.Transparency.NONE;
+			default -> com.mojang.blaze3d.platform.Transparency.TRANSPARENT;
+		};
 	}
 }

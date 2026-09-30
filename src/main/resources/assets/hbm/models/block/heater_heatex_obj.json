@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/heatex.obj","texture":"hbm:block/models/machines/heater_heatex","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/heatex.obj","texture":"hbm:block/models/machines/heater_heatex","normalize":false,"alpha":"translucent"}

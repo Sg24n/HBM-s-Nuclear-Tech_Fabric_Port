@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/gadget.obj","texture":"hbm:block/models/bombs/gadget","normalize":false,"parts":["Body","Wires"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/gadget.obj","texture":"hbm:block/models/bombs/gadget","normalize":false,"parts":["Body","Wires"],"alpha":"translucent"}

@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e0257a7e282c9624f2f37614038a2f26"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/trinkets_yomi__trinkets_yomi"}}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/e0257a7e282c9624f2f37614038a2f26"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/plushie__1_obj"}}}

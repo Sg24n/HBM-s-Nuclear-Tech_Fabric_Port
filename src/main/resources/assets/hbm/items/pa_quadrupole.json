@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7a152c8d531065fc6b00f62125002b76"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/particleaccelerator_quadrupole__particleaccelerator_quadrupole"}}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7a152c8d531065fc6b00f62125002b76"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/pa_quadrupole_obj"}}}

@@ -1,5 +1,12 @@
 package com.hbm.content;
 
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
+import com.hbm.block.HbmBlockShapes;
+import com.hbm.block.HbmDirectionalBlock;
+import com.hbm.block.HbmShapedBlock;
 import com.hbm.main.MainRegistry;
 import com.hbm.material.Mats;
 import com.hbm.material.NTMMaterial;
@@ -13,6 +20,7 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.phys.AABB;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -39,12 +47,16 @@ public final class ItemRegistry {
 
 	private static final Map<String, Entry> BY_LEGACY = new HashMap<>();
 	private static final Map<Item, NTMMaterial> MATERIAL_OF = new HashMap<>();
+	private static final Map<String, int[]> BLOCK_PROPS = new HashMap<>();
+	private static final Map<String, List<AABB>> BLOCK_SHAPES = new HashMap<>();
 	private static int registered;
 
 	private ItemRegistry() {
 	}
 
 	public static void initialize() {
+		loadBlockProperties();
+		loadBlockShapes();
 		for (String table : TABLES) {
 			for (String line : readLines(table)) {
 				String[] parts = line.split("\t", -1);
@@ -84,14 +96,62 @@ public final class ItemRegistry {
 				String idPath = parts[2].contains(":") ? parts[2].split(":", 2)[1] : parts[2];
 				Identifier id = Identifier.fromNamespaceAndPath(MainRegistry.MOD_ID, idPath);
 				ResourceKey<Block> blockKey = ResourceKey.create(Registries.BLOCK, id);
-				Block block = new Block(BlockBehaviour.Properties.of().setId(blockKey));
+				int[] properties = BLOCK_PROPS.getOrDefault(parts[0], new int[] { 0, 0 });
+				BlockBehaviour.Properties behaviour = BlockBehaviour.Properties.of().setId(blockKey);
+				if (properties[0] > 0) {
+					int light = properties[0];
+					behaviour = behaviour.lightLevel(state -> light);
+				}
+				Block block;
+				if (properties[1] == 1) {
+					block = new HbmDirectionalBlock(behaviour);
+				} else if (BLOCK_SHAPES.containsKey(parts[0])) {
+					block = new HbmShapedBlock(behaviour);
+				} else {
+					block = new Block(behaviour);
+				}
 				Registry.register(BuiltInRegistries.BLOCK, blockKey, block);
+				List<AABB> boxes = BLOCK_SHAPES.get(parts[0]);
+				if (boxes != null) {
+					HbmBlockShapes.put(block, boxes);
+				}
 				ResourceKey<Item> itemKey = ResourceKey.create(Registries.ITEM, id);
 				BlockItem item = new BlockItem(block, new Item.Properties().setId(itemKey));
 				Registry.register(BuiltInRegistries.ITEM, itemKey, item);
 				BY_LEGACY.put(key(path, meta), new Entry(path, meta, item));
 				registered++;
 			}
+		}
+	}
+
+	private static void loadBlockProperties() {
+		for (String line : readLines("/hbm/legacy/block-properties.tsv")) {
+			String[] parts = line.split("\t", -1);
+			if (parts.length >= 3) {
+				BLOCK_PROPS.put(parts[0], new int[] { Integer.parseInt(parts[1]), Integer.parseInt(parts[2]) });
+			}
+		}
+	}
+
+	private static void loadBlockShapes() {
+		try (InputStream in = ItemRegistry.class.getResourceAsStream("/hbm/legacy/block-shapes.json")) {
+			if (in == null) {
+				return;
+			}
+			JsonObject root = JsonParser.parseString(new String(in.readAllBytes(), StandardCharsets.UTF_8)).getAsJsonObject();
+			for (Map.Entry<String, JsonElement> entry : root.entrySet()) {
+				List<AABB> boxes = new ArrayList<>();
+				for (JsonElement element : entry.getValue().getAsJsonArray()) {
+					JsonArray pair = element.getAsJsonArray();
+					JsonArray min = pair.get(0).getAsJsonArray();
+					JsonArray max = pair.get(1).getAsJsonArray();
+					boxes.add(new AABB(min.get(0).getAsDouble(), min.get(1).getAsDouble(), min.get(2).getAsDouble(),
+							max.get(0).getAsDouble(), max.get(1).getAsDouble(), max.get(2).getAsDouble()));
+				}
+				BLOCK_SHAPES.put(entry.getKey(), boxes);
+			}
+		} catch (Exception exception) {
+			MainRegistry.LOGGER.error("Failed to load block shapes", exception);
 		}
 	}
 

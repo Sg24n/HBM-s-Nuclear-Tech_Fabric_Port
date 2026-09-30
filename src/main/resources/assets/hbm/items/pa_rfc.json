@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/1397531bc2d86f4844336e648467cbb8"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/particleaccelerator_rfc__particleaccelerator_rfc"}}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/1397531bc2d86f4844336e648467cbb8"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/pa_rfc_obj"}}}

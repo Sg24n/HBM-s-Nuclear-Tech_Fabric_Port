@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/2321308a7a4cef448ccb7ab9e69ca912"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/trinkets_derg__trinkets_derg__colonthree__derg"}}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/2321308a7a4cef448ccb7ab9e69ca912"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/plushie__4_obj"}}}

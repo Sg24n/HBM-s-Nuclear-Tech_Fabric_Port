@@ -94,9 +94,12 @@ public class ObjModelGameTest implements FabricClientGameTest {
 			context.waitTicks(20);
 
 			world.getServer().runCommand("execute at @a run setblock ^-1 ^ ^8 hbm:charger replace");
-			world.getServer().runCommand("execute at @a run setblock ^ ^ ^8 hbm:machine_press replace");
-			world.getServer().runCommand("execute at @a run setblock ^1 ^ ^8 hbm:furnace_steel replace");
-			world.getServer().runCommand("execute at @a run setblock ^ ^ ^5 hbm:nuke_boy replace");
+			world.getServer().runCommand("execute at @a run setblock ^ ^ ^8 hbm:furnace_steel replace");
+			world.getServer().runCommand("execute at @a run setblock ^1 ^ ^8 hbm:nuke_boy replace");
+			world.getServer().runCommand("execute at @a run setblock ^-3 ^ ^12 hbm:machine_press[facing=north] replace");
+			world.getServer().runCommand("execute at @a run setblock ^-1 ^ ^12 hbm:machine_press[facing=east] replace");
+			world.getServer().runCommand("execute at @a run setblock ^1 ^ ^12 hbm:machine_press[facing=south] replace");
+			world.getServer().runCommand("execute at @a run setblock ^3 ^ ^12 hbm:machine_press[facing=west] replace");
 			context.waitTicks(40);
 			context.takeScreenshot("special_blocks_placed");
 		}

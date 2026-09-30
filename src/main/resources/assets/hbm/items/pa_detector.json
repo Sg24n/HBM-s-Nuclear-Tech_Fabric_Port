@@ -1,1 +1,1 @@
-{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/0d054aba3cbf8af592b263b141059082"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/particleaccelerator_detector__particleaccelerator_detector"}}}
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/0d054aba3cbf8af592b263b141059082"}}],"fallback":{"type":"minecraft:model","model":"hbm:block/pa_detector_obj"}}}

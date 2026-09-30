@@ -1,1 +1,1 @@
-{"variants":{"":{"model":"hbm:block/red_pylon_medium_wood_obj"}}}
+{"variants":{"facing=north":{"model":"hbm:block/red_pylon_medium_wood_obj","y":0},"facing=east":{"model":"hbm:block/red_pylon_medium_wood_obj","y":90},"facing=south":{"model":"hbm:block/red_pylon_medium_wood_obj","y":180},"facing=west":{"model":"hbm:block/red_pylon_medium_wood_obj","y":270}}}

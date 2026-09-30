@@ -29,7 +29,27 @@ class ItemModelMappingTest {
 	private static final Path ITEM_MODELS_SOURCE = DATA.resolve("item-models-source.tsv");
 	private static final Path ITEM_MODELS_RUNTIME = DATA.resolve("item-models-runtime-source.tsv");
 	private static final Path CREATIVE = Path.of("src", "main", "resources", "hbm", "legacy", "creative.tsv");
+	private static final Path DUMP = DATA.resolve("legacy-items.json");
 	private static final Path ASSETS = Path.of("src", "main", "resources", "assets", "hbm");
+
+	// Creative stacks with a custom IItemRenderer that draws no OBJ (flat 2D icon
+	// transformers / inventory-only glow) or renders a block (conveyor wand). These
+	// are intentionally not mapped to an item OBJ model.
+	private static final Set<String> NON_OBJ_RENDERERS = Set.of(
+			"hbm:item.alloy_sword", "hbm:item.bismuth_axe", "hbm:item.bismuth_pickaxe",
+			"hbm:item.blade_meteorite", "hbm:item.chlorophyte_axe", "hbm:item.chlorophyte_pickaxe",
+			"hbm:item.cmb_sword", "hbm:item.cobalt_decorated_sword", "hbm:item.cobalt_sword",
+			"hbm:item.conveyor_wand", "hbm:item.desh_sword", "hbm:item.dnt_sword",
+			"hbm:item.ingot_chainsteel", "hbm:item.ingot_meteorite", "hbm:item.ingot_meteorite_forged",
+			"hbm:item.ingot_steel_dusted", "hbm:item.mese_axe", "hbm:item.mese_pickaxe",
+			"hbm:item.meteorite_sword_alloyed", "hbm:item.meteorite_sword_baleful",
+			"hbm:item.meteorite_sword_bred", "hbm:item.meteorite_sword_etched",
+			"hbm:item.meteorite_sword_fused", "hbm:item.meteorite_sword_hardened",
+			"hbm:item.meteorite_sword_irradiated", "hbm:item.meteorite_sword_machined",
+			"hbm:item.meteorite_sword_reforged", "hbm:item.meteorite_sword_seared",
+			"hbm:item.meteorite_sword_treated", "hbm:item.schrabidium_sword", "hbm:item.starmetal_sword",
+			"hbm:item.steel_sword", "hbm:item.titanium_sword", "hbm:item.volcanic_axe",
+			"hbm:item.volcanic_pickaxe");
 
 	private record Layer(String obj, String texture, List<String> parts) {
 	}
@@ -124,6 +144,36 @@ class ItemModelMappingTest {
 						"missing texture resource: " + layer.texture());
 			}
 		}
+	}
+
+	@Test
+	void rendererStacksAreMappedOrKnownNonObj() throws IOException {
+		Assumptions.assumeTrue(Files.exists(DUMP), "legacy dump missing");
+		Set<String> mappedIdMeta = new HashSet<>();
+		for (Mapping mapping : mappings) {
+			String[] parts = mapping.key().split("\\|", -1);
+			mappedIdMeta.add(parts[1] + "|" + parts[2]);
+		}
+		JsonObject dump = new Gson().fromJson(Files.readString(DUMP, StandardCharsets.UTF_8), JsonObject.class);
+		int renderer = 0;
+		int unmapped = 0;
+		for (var element : dump.getAsJsonArray("items")) {
+			JsonObject item = element.getAsJsonObject();
+			if (!item.has("renderer") || !item.get("renderer").getAsBoolean()) {
+				continue;
+			}
+			String id = item.get("id").getAsString();
+			if (!id.startsWith("hbm:")) {
+				continue;
+			}
+			renderer++;
+			if (!mappedIdMeta.contains(id + "|" + item.get("meta").getAsInt())) {
+				unmapped++;
+				assertTrue(NON_OBJ_RENDERERS.contains(id), "unmapped custom renderer without OBJ classification: " + id);
+			}
+		}
+		assertTrue(renderer > 0, "no custom-renderer stacks found");
+		assertTrue(unmapped > 0, "expected some known non-OBJ renderers");
 	}
 
 	@Test

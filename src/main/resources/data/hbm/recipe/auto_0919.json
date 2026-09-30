@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ICI","CTC","ICI"],"key":{"C":"#hbm:plate/steel","I":"#hbm:plate/iron","T":"hbm:mp_fuselage_10_kerosene"},"result":{"id":"hbm:mp_fuselage_10_kerosene_metal","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:ingot/gunmetal","minecraft:iron_ingot","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__1","count":1}}

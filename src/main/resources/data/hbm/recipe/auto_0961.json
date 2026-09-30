@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S ","PDP","PDP"],"key":{"S":"hbm:det_cord","P":"minecraft:paper","D":"hbm:ingot_semtex"},"result":{"id":"hbm:stick_semtex","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["HB"," T"],"key":{"H":"#hbm:ntmpipe/steel","B":"#hbm:bolt/steel","T":"hbm:tank_steel"},"result":{"id":"hbm:gun_fireext","count":1}}

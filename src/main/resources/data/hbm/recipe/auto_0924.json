@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PSP","ESE","PSP"],"key":{"P":"#hbm:plate/steel","S":"#hbm:ingot/starmetal","E":"hbm:powder_spark_mix"},"result":{"id":"hbm:gun_b92_ammo","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/gunmetal","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__6","count":1}}

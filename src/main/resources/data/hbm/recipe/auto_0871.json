@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" MG","BBR"," GM"],"key":{"M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/durasteel","B":"#hbm:barrelheavy/durasteel","R":"#hbm:receiverheavy/durasteel"},"result":{"id":"hbm:gun_flamer","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/aluminum","I":"minecraft:iron_ingot"},"result":{"id":"hbm:mirror_tool","count":1}}

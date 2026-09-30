@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:stone","minecraft:stone","minecraft:stone","hbm:powder_limestone"],"result":{"id":"hbm:lightstone","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:basalt_brick"},"result":{"id":"hbm:basalt_tiles","count":4}}

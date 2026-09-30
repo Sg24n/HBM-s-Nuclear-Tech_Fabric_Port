@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS","L L","SSS"],"key":{"S":"#hbm:plate/steel","L":"#hbm:plate/lead"},"result":{"id":"hbm:rod_empty","count":16}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/steel","#hbm:dust/tungsten"],"result":{"id":"hbm:powder_dura_steel","count":2}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PSP","SDS","PSP"],"key":{"P":"hbm:powder_magic","S":"#hbm:ingot/starmetal","D":"hbm:circuit__11"},"result":{"id":"hbm:rune_blank","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["II","SS","II"],"key":{"I":"#hbm:plate/steel","S":"#hbm:plate/lead"},"result":{"id":"hbm:door_bunker","count":1}}

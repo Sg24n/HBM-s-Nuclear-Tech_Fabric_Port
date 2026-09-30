@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["N N","BSB"],"key":{"N":"hbm:plate_armor_lunar","S":"hbm:starmetal_boots","B":"hbm:block_starmetal"},"result":{"id":"hbm:bj_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" E ","ECE"," E "],"key":{"E":"#hbm:billet/cobalt","C":"hbm:steel_plate"},"result":{"id":"hbm:cobalt_plate","count":1}}

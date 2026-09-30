@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SNS","PCP","SNS"],"key":{"C":"hbm:syringe_empty","S":"#hbm:dust/sulfur","P":"#hbm:nugget/plutonium239","N":"#hbm:nugget/plutonium238"},"result":{"id":"hbm:syringe_awesome","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","III"," I "],"key":{"I":"#hbm:plate/iron"},"result":{"id":"hbm:mask_of_infamy","count":1}}

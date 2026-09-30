@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SW","WS"],"key":{"S":"minecraft:string","W":"minecraft:white_wool"},"result":{"id":"hbm:rag","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe_rim","C":"#hbm:dust/iron"},"result":{"id":"hbm:deco_pipe_rim_rusted","count":8}}

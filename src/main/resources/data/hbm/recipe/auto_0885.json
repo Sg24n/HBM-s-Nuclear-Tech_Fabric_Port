@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/gunmetal","#hbm:platetriple/steel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__3","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IS","IB"," I"],"key":{"I":"#hbm:ingot/starmetal","S":"hbm:ring_starmetal","B":"hbm:cobalt_decorated_axe"},"result":{"id":"hbm:starmetal_axe","count":1}}

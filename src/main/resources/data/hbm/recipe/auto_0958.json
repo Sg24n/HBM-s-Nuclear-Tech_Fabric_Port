@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB"," T ","BBB"],"key":{"B":"#hbm:bolt/steel","T":"hbm:ducttape"},"result":{"id":"hbm:grenade_extra","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPL"," MD"," SC"],"key":{"P":"#hbm:plate/steel","M":"hbm:motor","L":"#hbm:gunmechanism/gunmetal","S":"hbm:steel_scaffold","C":"hbm:circuit__8","D":"hbm:crt_display"},"result":{"id":"hbm:turret_sentry","count":1}}

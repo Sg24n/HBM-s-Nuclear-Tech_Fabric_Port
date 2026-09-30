@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","IEI","EFE"],"key":{"E":"hbm:hazmat_cloth_red","I":"minecraft:glass_pane","F":"#hbm:plate/iron"},"result":{"id":"hbm:hazmat_helmet_red","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C C","DXD"],"key":{"D":"#hbm:ingot/workersalloy","C":"#hbm:plate/copper","X":"hbm:steel_boots"},"result":{"id":"hbm:steamsuit_boots","count":1}}

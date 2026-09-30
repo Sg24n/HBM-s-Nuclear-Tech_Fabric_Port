@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" Q ","CAC"," Q "],"key":{"Q":"#hbm:nugget/silicon","C":"hbm:red_cable","A":"#hbm:ingot/aluminum"},"result":{"id":"hbm:cable_diode","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S","W"],"key":{"S":"minecraft:redstone","W":"hbm:red_wire_coated"},"result":{"id":"hbm:cable_detector","count":1}}

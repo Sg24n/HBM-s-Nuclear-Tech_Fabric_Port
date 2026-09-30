@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TST","SSS"],"key":{"T":"#hbm:ingot/tungsten","S":"#hbm:ingot/steel"},"result":{"id":"hbm:tape_recorder","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plate_polymer","#minecraft:sand","#minecraft:sand","#minecraft:sand"],"result":{"id":"hbm:sandbags","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_au198","hbm:billet_au198","hbm:billet_au198","#hbm:plate/iron"],"result":{"id":"hbm:pellet_rtg_gold","count":1}}

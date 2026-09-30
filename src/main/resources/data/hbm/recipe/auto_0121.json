@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SHS","DHD","SHS"],"key":{"S":"#hbm:ingot/steel","H":"#hbm:shell/steel","D":"minecraft:black_dye"},"result":{"id":"hbm:machine_solar_boiler","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","SGM","IDI"],"key":{"I":"hbm:plate_polymer","S":"#hbm:plate/steel","G":"minecraft:glass_pane","M":"hbm:magnetron","D":"hbm:motor"},"result":{"id":"hbm:machine_microwave","count":1}}

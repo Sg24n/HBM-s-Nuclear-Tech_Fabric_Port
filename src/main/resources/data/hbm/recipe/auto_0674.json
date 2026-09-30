@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","F"],"key":{"F":"hbm:rag_damp","I":"minecraft:iron_ingot"},"result":{"id":"hbm:gas_mask_filter_rag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["OOO","PDP","OOO"],"key":{"O":"#hbm:plate/iron","P":"hbm:plate_polymer","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_iron","count":1}}

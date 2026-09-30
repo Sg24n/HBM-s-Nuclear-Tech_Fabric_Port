@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","B","I"],"key":{"I":"minecraft:iron_ingot","B":"#hbm:bolt/steel"},"result":{"id":"hbm:padlock_rusty","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:stick_semtex","hbm:stick_semtex","hbm:stick_semtex","hbm:ducttape"],"result":{"id":"hbm:charge_semtex","count":1}}

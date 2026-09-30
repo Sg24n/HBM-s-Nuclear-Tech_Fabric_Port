@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:sat_chip","hbm:ducttape","hbm:radar_linker"],"result":{"id":"hbm:sat_relay","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["Z Z","ZBZ","Z Z"],"key":{"Z":"#hbm:nugget/zirconium","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:rod_zirnox_empty","count":4}}

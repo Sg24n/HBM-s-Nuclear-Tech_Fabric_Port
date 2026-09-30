@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:clay"],"result":{"id":"minecraft:clay_ball","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/plutonium241","#hbm:nugget/plutonium241","#hbm:nugget/americiumrg"],"result":{"id":"hbm:billet_zfb_am_mix","count":1}}

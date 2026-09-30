@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:five_htp","hbm:circuit__8","#hbm:plate/saturnite"],"result":{"id":"hbm:injector_5htp","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LLL","SIS","LLL"],"key":{"L":"minecraft:leather","S":"hbm:syringe_metal_stimpak","I":"hbm:pill_iodine"},"result":{"id":"hbm:med_bag","count":1}}

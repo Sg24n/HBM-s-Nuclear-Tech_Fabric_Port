@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe_rim","C":"minecraft:red_dye"},"result":{"id":"hbm:deco_pipe_rim_red","count":8}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:deco_pipe_framed"],"result":{"id":"hbm:deco_pipe","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" N ","NSN"," N "],"key":{"N":"minecraft:quartz","S":"hbm:syringe_metal_empty"},"result":{"id":"hbm:syringe_metal_medx","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","ECE"],"key":{"E":"#hbm:ingot/starmetal","C":"hbm:cobalt_helmet"},"result":{"id":"hbm:starmetal_helmet","count":1}}

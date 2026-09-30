@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/euphemium","hbm:canteen_vodka"],"result":{"id":"hbm:five_htp","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["TTT","TRT","TTT"],"key":{"T":"hbm:pellet_gas","R":"hbm:rangefinder"},"result":{"id":"hbm:bomb_caller__2","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","LUL","LUL"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","U":"#hbm:ingot/schrabidium"},"result":{"id":"hbm:custom_schrab","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S","F","F"],"key":{"S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}

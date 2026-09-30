@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GHG","MCM","GHG"],"key":{"G":"minecraft:gold_ingot","H":"hbm:heart_container","M":"hbm:morning_glory","C":"hbm:coin_maskman"},"result":{"id":"hbm:heart_booster","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/saltpeter","#hbm:dust/netherquartz"],"result":{"id":"hbm:xanax","count":1}}

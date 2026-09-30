@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:geiger"],"result":{"id":"hbm:geiger_counter","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P","P","S"],"key":{"P":"#hbm:ntmpipe/steel","S":"#hbm:ingot/steel"},"result":{"id":"hbm:pipe_anchor","count":2}}

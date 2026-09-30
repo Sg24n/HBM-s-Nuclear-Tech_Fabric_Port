@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["L","M"],"key":{"M":"hbm:mine_ap","L":"hbm:pellet_buckshot"},"result":{"id":"hbm:mine_shrap","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DSD","SCS","DSD"],"key":{"D":"#hbm:ingot/whitephosphorus","S":"hbm:ammo_arty","C":"hbm:det_cord"},"result":{"id":"hbm:ammo_arty__7","count":1}}

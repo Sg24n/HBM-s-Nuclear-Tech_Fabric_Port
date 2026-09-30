@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["M M","S S","W W"],"key":{"W":"minecraft:white_wool","S":"#hbm:ingot/steel","M":"hbm:motor"},"result":{"id":"hbm:dieselsuit_legs","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ajr_legs","minecraft:red_dye","minecraft:black_dye"],"result":{"id":"hbm:ajro_legs","count":1}}

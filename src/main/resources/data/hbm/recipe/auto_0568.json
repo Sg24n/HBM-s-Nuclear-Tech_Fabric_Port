@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","DJD","PAP"],"key":{"C":"hbm:circuit__9","P":"#hbm:plate/saturnite","D":"#hbm:ingot/workersalloy","J":"hbm:jetpack_vector","A":"#hbm:platetriple/copper"},"result":{"id":"hbm:jetpack_boost","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PCP","PBP","PSP"],"key":{"P":"hbm:plate_armor_dnt","S":"hbm:ingot_chainsteel","B":"hbm:bj_legs","C":"hbm:coin_worm"},"result":{"id":"hbm:dns_legs","count":1}}

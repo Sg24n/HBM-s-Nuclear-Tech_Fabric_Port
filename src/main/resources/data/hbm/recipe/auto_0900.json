@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","B","P"],"key":{"P":"#hbm:plate/weaponsteel","B":"#hbm:barrellight/durasteel"},"result":{"id":"hbm:weapon_mod_special__6","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BM ","BRS","G  "],"key":{"B":"#hbm:barrelheavy/durasteel","M":"#hbm:gunmechanism/gunmetal","R":"#hbm:receiverlight/durasteel","S":"#hbm:stock/wood","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_congolake","count":1}}

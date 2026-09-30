@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium235"],"result":{"id":"hbm:billet_uranium_fuel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MBM","PBP","MBM"],"key":{"M":"hbm:motor","B":"#hbm:bolt/steel","P":"#hbm:plate/iron"},"result":{"id":"hbm:servo_set","count":1}}

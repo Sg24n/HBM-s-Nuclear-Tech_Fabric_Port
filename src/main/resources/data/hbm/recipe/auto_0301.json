@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","BBB","TTT"],"key":{"B":"#hbm:bolt/steel","T":"#hbm:ingot/steel"},"result":{"id":"hbm:spikes","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BPB","PTP","BPB"],"key":{"B":"hbm:inf_water","P":"#hbm:ntmpipe/steel","T":"#hbm:shell/steel"},"result":{"id":"hbm:inf_water_mk2","count":1}}

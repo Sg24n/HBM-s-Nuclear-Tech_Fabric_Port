@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["OOO","OBO","OOO"],"key":{"O":"hbm:ore_nether_uranium_scorched","B":"minecraft:water_bucket"},"result":{"id":"hbm:ore_nether_uranium","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["B B","B B","BSB"],"key":{"B":"hbm:ingot_firebrick","S":"minecraft:smooth_stone_slab"},"result":{"id":"hbm:foundry_basin","count":1}}

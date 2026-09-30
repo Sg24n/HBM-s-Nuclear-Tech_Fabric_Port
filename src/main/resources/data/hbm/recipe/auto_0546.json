@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","PBP","PSP"],"key":{"P":"hbm:plate_armor_dnt","S":"hbm:ingot_chainsteel","B":"hbm:bj_plate_jetpack","C":"hbm:singularity_spark"},"result":{"id":"hbm:dns_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","E E","E E"],"key":{"E":"#hbm:ingot/zirconium"},"result":{"id":"hbm:zirconium_legs","count":1}}

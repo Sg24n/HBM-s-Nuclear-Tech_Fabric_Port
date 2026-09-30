@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GIG","GCG"],"key":{"G":"hbm:glass_boron","I":"#hbm:ingot/steel","C":"#hbm:ingot/cobalt"},"result":{"id":"hbm:chemistry_set_boron","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_steel","D":"hbm:powder_chlorophyte","A":"#hbm:ingot/fiberglass","P":"hbm:volcanic_axe","F":"#hbm:bolt/durasteel"},"result":{"id":"hbm:chlorophyte_axe","count":1}}

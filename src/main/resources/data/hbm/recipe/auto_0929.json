@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["D","S","D"],"key":{"D":"#hbm:ingot/whitephosphorus","S":"hbm:ammo_arty"},"result":{"id":"hbm:ammo_arty__5","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/weaponsteel","#hbm:platetriple/ferrouranium","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__11","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DDD","SSC","  R"],"key":{"D":"hbm:plate_dineutronium","S":"#hbm:ingot/starmetal","C":"hbm:circuit__11","R":"hbm:gun_lasrifle"},"result":{"id":"hbm:gun_b92","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/gunmetal","#hbm:platetriple/durasteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__5","count":1}}

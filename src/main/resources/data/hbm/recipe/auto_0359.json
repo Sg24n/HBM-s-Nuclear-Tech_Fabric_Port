@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GNG","RUR","GMG"],"key":{"R":"#hbm:ingot/rubber","M":"hbm:motor","G":"hbm:coil_gold","N":"#hbm:ingot/niobium","U":"hbm:upgrade_template"},"result":{"id":"hbm:upgrade_gc_speed","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_isa","hbm:rune_isa","hbm:rune_jera","hbm:rune_thurisaz","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum"],"result":{"id":"hbm:ams_catalyst_aluminium","count":1}}

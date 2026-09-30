@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/weaponsteel","#hbm:platetriple/weaponsteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__9","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","MAM"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","A":"hbm:gun_light_revolver"},"result":{"id":"hbm:gun_light_revolver_atlas","count":1}}

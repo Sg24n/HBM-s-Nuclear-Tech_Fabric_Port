@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["AIA","I I","AIA"],"key":{"A":"#hbm:wirefine/steel","I":"minecraft:iron_ingot"},"result":{"id":"hbm:barbed_wire","count":16}}
+{"type":"minecraft:crafting_shaped","pattern":["CSC","TST","G G"],"key":{"C":"hbm:circuit__1","S":"#hbm:plate/steel","T":"hbm:coil_tungsten","G":"minecraft:glass_pane"},"result":{"id":"hbm:floodlight","count":2}}

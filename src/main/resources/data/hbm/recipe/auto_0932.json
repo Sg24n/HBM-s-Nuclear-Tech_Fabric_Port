@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DSD","SCS","DSD"],"key":{"D":"hbm:neutron_reflector","S":"hbm:ammo_arty","C":"hbm:det_cord"},"result":{"id":"hbm:ammo_arty__6","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BBS","BHS"],"key":{"B":"#hbm:bolt/steel","S":"minecraft:stick","H":"#hbm:plate/durasteel"},"result":{"id":"hbm:weapon_mod_special__2","count":1}}

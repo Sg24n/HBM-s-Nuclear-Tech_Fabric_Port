@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I I","ICI","GGG"],"key":{"I":"#hbm:plate/iron","G":"#hbm:plate/gold","C":"hbm:circuit__9"},"result":{"id":"hbm:linker","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:billet/plutonium241","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__8","count":1}}

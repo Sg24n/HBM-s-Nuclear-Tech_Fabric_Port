@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IS"," B"," I"],"key":{"I":"#hbm:ingot/starmetal","S":"hbm:ring_starmetal","B":"hbm:cobalt_decorated_hoe"},"result":{"id":"hbm:starmetal_hoe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["W I","WCI","PPP"],"key":{"W":"#hbm:wirefine/gold","I":"#hbm:ingot/copper","C":"hbm:circuit__7","P":"#hbm:plate/steel"},"result":{"id":"hbm:oil_detector","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PP","SS","BB"],"key":{"P":"#hbm:plate/titanium","S":"hbm:steel_scaffold","B":"hbm:steel_beam"},"result":{"id":"hbm:seg_15","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" L ","LGL"," L "],"key":{"L":"minecraft:leather","G":"#hbm:plate/gunmetal"},"result":{"id":"hbm:casing_bag","count":1}}

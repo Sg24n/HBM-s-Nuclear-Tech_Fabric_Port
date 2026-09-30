@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TTT","TST","TTT"],"key":{"T":"hbm:ball_tnt","S":"hbm:ammo_arty"},"result":{"id":"hbm:ammo_arty__2","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/weaponsteel","#hbm:platetriple/ferrouranium","#hbm:platetriple/ferrouranium","#hbm:platetriple/ferrouranium","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__10","count":1}}

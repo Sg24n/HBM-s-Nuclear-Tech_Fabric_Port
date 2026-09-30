@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["OOO","PDP","OOO"],"key":{"O":"#hbm:plate/iron","P":"hbm:plate_polymer","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_iron","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SNS","PCP","SNS"],"key":{"C":"hbm:syringe_empty","S":"#hbm:dust/sulfur","P":"#hbm:nugget/plutonium239","N":"#hbm:nugget/plutonium238"},"result":{"id":"hbm:syringe_awesome","count":1}}

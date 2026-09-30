@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BM ","BRS","G  "],"key":{"B":"#hbm:barrelheavy/durasteel","M":"#hbm:gunmechanism/gunmetal","R":"#hbm:receiverlight/durasteel","S":"#hbm:stock/wood","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_congolake","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["  C"," R ","P  "],"key":{"C":"hbm:circuit__5","R":"#hbm:ingot/rubber","P":"hbm:pipette_boron"},"result":{"id":"hbm:pipette_laboratory","count":1}}

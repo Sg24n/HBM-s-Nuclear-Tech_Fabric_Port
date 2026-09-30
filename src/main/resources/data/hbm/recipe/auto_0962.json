@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S ","PDP","PDP"],"key":{"S":"hbm:det_cord","P":"minecraft:paper","D":"hbm:ingot_c4"},"result":{"id":"hbm:stick_c4","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" WP","SEP"," WP"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:plate/weaponsteel","S":"#hbm:shell/weaponsteel","E":"hbm:ball_tatb"},"result":{"id":"hbm:assembly_nuke","count":1}}

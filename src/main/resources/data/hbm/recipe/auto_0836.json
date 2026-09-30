@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:geiger_counter","#hbm:billet/polonium210","#hbm:ingot/asbestos"],"result":{"id":"hbm:digamma_diagnostic","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:billet/solinium","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__12","count":1}}

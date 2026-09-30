@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#hbm:dust/lead"],"result":{"id":"hbm:sand_mix__1","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["II","SS","II"],"key":{"I":"#hbm:plate/iron","S":"#hbm:plate/steel"},"result":{"id":"hbm:door_metal","count":1}}

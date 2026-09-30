@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BCD","DDD"],"key":{"B":"#hbm:ingot/boron","D":"hbm:deco_rbmk","C":"hbm:circuit__7"},"result":{"id":"hbm:rbmk_crane_console","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["OOO","OBO","OOO"],"key":{"O":"hbm:ore_nether_uranium_scorched","B":"minecraft:water_bucket"},"result":{"id":"hbm:ore_nether_uranium","count":8}}

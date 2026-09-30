@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" BM","BPB","TB "],"key":{"B":"#hbm:ingot/bismuth","M":"hbm:ingot_meteorite","P":"hbm:starmetal_axe","T":"#hbm:bolt/tungsten"},"result":{"id":"hbm:bismuth_axe","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_quad"],"result":{"id":"hbm:nugget_lead","count":24}}

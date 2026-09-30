@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:billet/americium242","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__10","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_empty","#hbm:ingot/lithium"],"result":{"id":"hbm:rod","count":1}}

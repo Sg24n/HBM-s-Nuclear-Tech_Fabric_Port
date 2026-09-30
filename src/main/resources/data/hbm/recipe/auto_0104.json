@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:battery_sc","hbm:billet_nuclear_waste","hbm:billet_nuclear_waste"],"result":{"id":"hbm:battery_sc__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PRP"],"key":{"P":"#hbm:plate/steel","R":"#hbm:ingot/mingrade"},"result":{"id":"hbm:machine_battery_socket","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","TIT","TIT"],"key":{"C":"#hbm:plate/copper","I":"#hbm:plate/iron","T":"#hbm:ingot/anyhighexplosive"},"result":{"id":"hbm:custom_tnt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["B","P","S"],"key":{"B":"#hbm:bolt/steel","P":"#hbm:plate/aluminum","S":"#hbm:shell/steel"},"result":{"id":"hbm:grenade_shell","count":4}}

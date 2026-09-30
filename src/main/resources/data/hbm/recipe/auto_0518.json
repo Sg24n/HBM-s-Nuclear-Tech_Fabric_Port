@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" E ","ECE"," E "],"key":{"E":"#hbm:billet/cobalt","C":"hbm:steel_plate"},"result":{"id":"hbm:cobalt_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BCD","DDD"],"key":{"B":"#hbm:ingot/boron","D":"hbm:deco_rbmk","C":"hbm:circuit__7"},"result":{"id":"hbm:rbmk_crane_console","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["QDQ","SBS","QDQ"],"key":{"Q":"hbm:glass_quartz","D":"#hbm:ingot/dineutronium","B":"hbm:egg_balefire","S":"hbm:powder_spark_mix"},"result":{"id":"hbm:laser_crystal_dnt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["QBQ","CSC","QBQ"],"key":{"Q":"hbm:glass_quartz","B":"#hbm:ingot/cmbsteel","C":"#hbm:ingot/schrabidate","S":"hbm:cell_anti_schrabidium"},"result":{"id":"hbm:laser_crystal_cmb","count":1}}

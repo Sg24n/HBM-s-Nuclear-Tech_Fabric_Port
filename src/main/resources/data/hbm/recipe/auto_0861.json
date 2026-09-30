@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:plate/gunmetal","C":"hbm:casing__1"},"result":{"id":"hbm:casing__4","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["WGW","WCW","WBW"],"key":{"W":"#minecraft:planks","G":"minecraft:glass_pane","C":"hbm:circuit","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:dosimeter","count":1}}

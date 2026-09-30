@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["R"],"key":{"R":"hbm:rbmk_blank"},"result":{"id":"hbm:deco_rbmk","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["C","R","D"],"key":{"C":"hbm:circuit__9","R":"hbm:rbmk_control","D":"hbm:crt_display"},"result":{"id":"hbm:rbmk_control_auto","count":1}}

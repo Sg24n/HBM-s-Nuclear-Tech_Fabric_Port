@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RRR","WWW","III"],"key":{"R":"hbm:circuit__1","W":"minecraft:redstone","I":"#hbm:ingot/steel"},"result":{"id":"hbm:machine_converter_he_rf","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","CFC","I I"],"key":{"P":"#hbm:plate/steel","C":"hbm:coil_copper","I":"minecraft:iron_ingot","F":"minecraft:furnace"},"result":{"id":"hbm:machine_wood_burner","count":1}}

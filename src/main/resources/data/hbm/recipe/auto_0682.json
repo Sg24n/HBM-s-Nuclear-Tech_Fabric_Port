@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:nugget_am_mix","hbm:nugget_am_mix","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238"],"result":{"id":"hbm:billet_americium_fuel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PWP","PCP","PWP"],"key":{"P":"#hbm:plate/steel","C":"hbm:battery_pack","W":"#hbm:wiredense/mingrade"},"result":{"id":"hbm:armor_battery","count":1}}

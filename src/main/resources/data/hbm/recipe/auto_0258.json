@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","IEI","ICI"],"key":{"W":"#hbm:wirefine/gold","I":"hbm:plate_polymer","E":"minecraft:redstone","C":"#hbm:dust/cobalt"},"result":{"id":"hbm:hev_battery","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","PGP"," P "],"key":{"P":"minecraft:paper","G":"minecraft:gunpowder"},"result":{"id":"hbm:det_cord","count":4}}

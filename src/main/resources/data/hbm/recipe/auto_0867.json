@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrelheavy/steel","R":"#hbm:receiverlight/steel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/steel"},"result":{"id":"hbm:gun_flaregun","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:sat_chip","hbm:ducttape","hbm:radar_linker"],"result":{"id":"hbm:sat_relay","count":1}}

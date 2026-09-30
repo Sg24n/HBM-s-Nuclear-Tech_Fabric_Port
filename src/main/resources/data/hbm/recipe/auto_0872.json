@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/workersalloy","R":"#hbm:receiverlight/workersalloy","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_heavy_revolver","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/lead","I":"minecraft:iron_ingot"},"result":{"id":"hbm:rbmk_tool","count":1}}

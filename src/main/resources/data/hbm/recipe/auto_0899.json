@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PIP","WWW","PIP"],"key":{"P":"#hbm:plate/weaponsteel","I":"#hbm:ingot/gunmetal","W":"#hbm:wiredense/gold"},"result":{"id":"hbm:weapon_mod_special__5","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BB ","BBM","G G"],"key":{"B":"#hbm:barrellight/durasteel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_liberator","count":1}}

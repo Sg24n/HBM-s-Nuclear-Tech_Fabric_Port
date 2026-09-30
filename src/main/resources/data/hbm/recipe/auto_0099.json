@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RRR","WWW","III"],"key":{"R":"minecraft:redstone","W":"#hbm:wirefine/mingrade","I":"#hbm:ingot/steel"},"result":{"id":"hbm:machine_converter_rf_he","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RRR","WWW","III"],"key":{"R":"hbm:circuit__1","W":"minecraft:redstone","I":"#hbm:ingot/steel"},"result":{"id":"hbm:machine_converter_he_rf","count":1}}

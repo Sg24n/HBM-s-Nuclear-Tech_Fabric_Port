@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DCD","CXC"," F "],"key":{"D":"#hbm:ingot/workersalloy","C":"#hbm:plate/copper","X":"hbm:steel_helmet","F":"hbm:gas_mask_filter"},"result":{"id":"hbm:steamsuit_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P P","PBP"],"key":{"P":"hbm:plate_armor_titanium","B":"hbm:titanium_boots"},"result":{"id":"hbm:t51_boots","count":1}}

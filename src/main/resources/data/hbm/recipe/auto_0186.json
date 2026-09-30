@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","1 2","CCC"],"key":{"C":"hbm:concrete_smooth","1":"minecraft:purple_dye","2":"minecraft:purple_dye"},"result":{"id":"hbm:concrete_colored_ext__3","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["CCC","1 2","CCC"],"key":{"C":"hbm:concrete_smooth","1":"minecraft:blue_dye","2":"minecraft:purple_dye"},"result":{"id":"hbm:concrete_colored_ext__2","count":6}}

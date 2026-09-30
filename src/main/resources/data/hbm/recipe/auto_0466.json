@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","T  ","PPP"],"key":{"P":"#hbm:platetriple/steel","T":"hbm:tank_steel"},"result":{"id":"hbm:machine_drain","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["T","C","B"],"key":{"T":"hbm:drone_waypoint_request","C":"hbm:crate_steel","B":"minecraft:yellow_dye"},"result":{"id":"hbm:drone_crate_requester","count":1}}

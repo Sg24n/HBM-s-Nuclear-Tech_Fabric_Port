@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:ingot/gunmetal","minecraft:iron_ingot","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I "," B ","ISI"],"key":{"I":"#hbm:ingot/starmetal","S":"hbm:ring_starmetal","B":"hbm:cobalt_decorated_sword"},"result":{"id":"hbm:starmetal_sword","count":1}}

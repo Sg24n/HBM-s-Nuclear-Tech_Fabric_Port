@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_hagalaz","hbm:rune_hagalaz","hbm:rune_thurisaz","hbm:rune_thurisaz","#hbm:dust/dineutronium","#hbm:dust/dineutronium","#hbm:dust/dineutronium","#hbm:dust/dineutronium"],"result":{"id":"hbm:ams_catalyst_dineutronium","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_super_heated"],"result":{"id":"hbm:rune_hagalaz","count":1}}

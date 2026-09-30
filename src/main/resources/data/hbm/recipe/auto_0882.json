@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:ingot/gunmetal","minecraft:iron_ingot","minecraft:iron_ingot","minecraft:iron_ingot","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:blueprints","hbm:blueprints","hbm:blueprints","hbm:blueprints","hbm:blueprints","hbm:fragment_meteorite"],"result":{"id":"hbm:blueprint_folder__1","count":1}}

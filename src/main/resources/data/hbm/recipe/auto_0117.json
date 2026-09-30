@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S S","S S"," S "],"key":{"S":"#hbm:ingot/steel"},"result":{"id":"minecraft:hopper","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S S","SRS"," S "],"key":{"S":"#hbm:ingot/steel","R":"minecraft:redstone"},"result":{"id":"hbm:machine_funnel","count":1}}

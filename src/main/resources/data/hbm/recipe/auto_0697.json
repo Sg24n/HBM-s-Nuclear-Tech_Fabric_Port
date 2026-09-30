@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/uranium","#hbm:nugget/plutonium241","#hbm:nugget/bismuth"],"result":{"id":"hbm:billet_zfb_bismuth","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" B","LI","LC"],"key":{"B":"minecraft:stone_button","L":"minecraft:leather","I":"#hbm:ingot/steel","C":"hbm:circuit__8"},"result":{"id":"hbm:stealth_boy","count":1}}

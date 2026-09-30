@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","T","C"],"key":{"C":"#hbm:ingot/lanthanum","T":"minecraft:brick"},"result":{"id":"hbm:arc_electrode__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C","T","C"],"key":{"C":"#hbm:ingot/graphite","T":"#hbm:bolt/steel"},"result":{"id":"hbm:arc_electrode","count":1}}

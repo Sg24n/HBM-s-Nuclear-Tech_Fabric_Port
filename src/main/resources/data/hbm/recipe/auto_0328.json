@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#minecraft:sand","#minecraft:sand","#hbm:dust/netherquartz","#hbm:dust/netherquartz"],"result":{"id":"hbm:sand_mix__4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["II","SS","II"],"key":{"I":"#minecraft:planks","S":"#hbm:plate/iron"},"result":{"id":"hbm:door_office","count":1}}

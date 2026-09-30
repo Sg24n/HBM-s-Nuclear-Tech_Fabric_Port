@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:blueprints","hbm:blueprints","hbm:blueprints","hbm:blueprints","hbm:blueprints","hbm:fragment_meteorite"],"result":{"id":"hbm:blueprint_folder__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["I","S"],"key":{"I":"#hbm:dust/sulfur","S":"minecraft:stick"},"result":{"id":"hbm:matchstick","count":16}}

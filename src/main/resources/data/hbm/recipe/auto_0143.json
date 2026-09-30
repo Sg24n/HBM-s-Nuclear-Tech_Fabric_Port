@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CTC","TST","CTC"],"key":{"C":"#hbm:plate/cmbsteel","T":"#hbm:ingot/magnetizedtungsten","S":"hbm:singularity"},"result":{"id":"hbm:singularity_counter_resonant","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:detonator","hbm:defuser","hbm:ducttape"],"result":{"id":"hbm:detonator_deadman","count":1}}

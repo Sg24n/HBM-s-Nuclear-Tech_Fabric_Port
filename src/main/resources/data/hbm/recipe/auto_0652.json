@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MBM","PBP","MBM"],"key":{"M":"hbm:motor","B":"#hbm:bolt/steel","P":"#hbm:plate/iron"},"result":{"id":"hbm:servo_set","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" N ","PSP","L L"],"key":{"N":"hbm:bottle_nuka","P":"#hbm:plate/steel","S":"hbm:syringe_metal_stimpak","L":"minecraft:leather"},"result":{"id":"hbm:syringe_metal_super","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["YIY","IYI","YIY"],"key":{"Y":"hbm:billet_yharonite","I":"hbm:insert_du"},"result":{"id":"hbm:insert_yharonite","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" N ","NSN"," N "],"key":{"N":"minecraft:glowstone_dust","S":"hbm:syringe_metal_empty"},"result":{"id":"hbm:syringe_metal_psycho","count":1}}

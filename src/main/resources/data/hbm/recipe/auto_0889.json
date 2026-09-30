@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/gunmetal","#hbm:platetriple/workersalloy","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__7","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IIW","  C"],"key":{"I":"minecraft:iron_ingot","W":"#minecraft:planks","C":"#hbm:ingot/copper"},"result":{"id":"hbm:gun_pepperbox","count":1}}

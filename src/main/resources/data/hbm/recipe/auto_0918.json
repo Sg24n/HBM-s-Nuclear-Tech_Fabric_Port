@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","CTC","CCC"],"key":{"C":"#hbm:ingot/workersalloy","T":"hbm:mp_fuselage_15_solid"},"result":{"id":"hbm:mp_fuselage_15_solid_desh","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:ingot/gunmetal","minecraft:iron_ingot","minecraft:iron_ingot","minecraft:iron_ingot","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic","count":1}}

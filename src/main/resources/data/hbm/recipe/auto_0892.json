@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/weaponsteel","#hbm:platetriple/ferrouranium","#hbm:platetriple/ferrouranium","#hbm:platetriple/ferrouranium","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__10","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRP","BMS"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/gunmetal","M":"#hbm:gunmechanism/gunmetal","S":"#hbm:stock/wood","P":"#hbm:plate/gunmetal"},"result":{"id":"hbm:gun_henry","count":1}}

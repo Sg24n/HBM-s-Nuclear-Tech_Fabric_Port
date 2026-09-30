@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_polonium","hbm:billet_polonium","hbm:billet_polonium","hbm:billet_beryllium","hbm:billet_beryllium","hbm:billet_beryllium"],"result":{"id":"hbm:billet_po210be","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","MDM"," M "],"key":{"M":"hbm:fragment_meteorite","D":"#hbm:gem/volcanic"},"result":{"id":"hbm:meteor_charm","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TTT","TRT","TTT"],"key":{"T":"hbm:pellet_gas","R":"hbm:rangefinder"},"result":{"id":"hbm:bomb_caller__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","EIE"],"key":{"E":"hbm:asbestos_cloth","I":"#hbm:plate/gold"},"result":{"id":"hbm:asbestos_helmet","count":1}}

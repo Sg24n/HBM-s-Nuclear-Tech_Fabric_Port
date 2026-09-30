@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_empty","hbm:rod_empty","hbm:rod_empty","hbm:rod_empty"],"result":{"id":"hbm:rod_quad_empty","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BN","NB"],"key":{"B":"minecraft:brick","N":"minecraft:nether_brick"},"result":{"id":"hbm:ingot_firebrick","count":4}}

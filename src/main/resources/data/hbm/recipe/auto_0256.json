@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:stick_semtex","hbm:stick_semtex","hbm:stick_semtex","hbm:ducttape"],"result":{"id":"hbm:charge_semtex","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","SRS"," P "],"key":{"P":"minecraft:paper","S":"hbm:solid_fuel_bf","R":"minecraft:redstone"},"result":{"id":"hbm:solid_fuel_presto_bf","count":1}}

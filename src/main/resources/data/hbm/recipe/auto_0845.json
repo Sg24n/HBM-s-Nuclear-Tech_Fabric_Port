@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/lead","I":"minecraft:iron_ingot"},"result":{"id":"hbm:rbmk_tool","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_steel","D":"hbm:powder_chlorophyte","A":"#hbm:ingot/fiberglass","P":"hbm:bismuth_pickaxe","F":"#hbm:bolt/durasteel"},"result":{"id":"hbm:chlorophyte_pickaxe","count":1}}

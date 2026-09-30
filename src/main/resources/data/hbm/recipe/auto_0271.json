@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SAS","   ","SAS"],"key":{"S":"#hbm:plate/steel","A":"#hbm:plate/aluminum"},"result":{"id":"hbm:fluid_duct_neo","count":8}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:hev_battery"],"result":{"id":"hbm:hev_battery_1","count":1}}

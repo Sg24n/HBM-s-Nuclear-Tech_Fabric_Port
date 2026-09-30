@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IF"],"key":{"I":"#hbm:dust/iodine","F":"#hbm:dust/fluorite"},"result":{"id":"hbm:pill_iodine","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","ESE"," P "],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_helmet","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_helmet","count":1}}

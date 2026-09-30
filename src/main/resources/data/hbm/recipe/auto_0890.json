@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/weaponsteel","#hbm:platetriple/weaponsteel","#hbm:platetriple/weaponsteel","#hbm:platetriple/weaponsteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__8","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/steel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_light_revolver","count":1}}

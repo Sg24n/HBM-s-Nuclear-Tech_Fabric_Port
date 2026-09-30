@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S S","CIC","SRS"],"key":{"S":"#hbm:ingot/steel","I":"#hbm:plate/iron","R":"#hbm:ingot/mingrade","C":"hbm:coil_copper"},"result":{"id":"hbm:rail_booster","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["S S","SIS","S S"],"key":{"S":"#hbm:ingot/steel","I":"#hbm:plate/iron"},"result":{"id":"hbm:rail_highspeed","count":16}}

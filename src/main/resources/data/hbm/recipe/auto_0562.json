@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RWR","PCP","SFS"],"key":{"R":"hbm:crystal_rare","W":"#hbm:wirefine/gold","P":"hbm:plate_bismuth","C":"hbm:laser_crystal_bismuth","S":"hbm:ring_starmetal","F":"hbm:rag"},"result":{"id":"hbm:bismuth_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PWP","PBP","FSF"],"key":{"P":"hbm:plate_armor_fau","W":"minecraft:white_wool","B":"hbm:starmetal_helmet","F":"hbm:gas_mask_filter","S":"#hbm:ntmpipe/steel"},"result":{"id":"hbm:fau_helmet","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/weaponsteel","#hbm:platetriple/ferrouranium","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__11","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","PGP"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","P":"#hbm:platetriple/gold","G":"hbm:gun_henry"},"result":{"id":"hbm:gun_henry_lincoln","count":1}}

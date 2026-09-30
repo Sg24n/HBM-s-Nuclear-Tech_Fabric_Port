@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" WP","SEP"," WP"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:plate/weaponsteel","S":"#hbm:shell/weaponsteel","E":"hbm:ball_tatb"},"result":{"id":"hbm:assembly_nuke","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/weaponsteel","#hbm:platetriple/weaponsteel","#hbm:platetriple/weaponsteel","#hbm:platetriple/weaponsteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__8","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/polonium210","#hbm:dust/strontium"],"result":{"id":"hbm:fmn","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EPE","ESE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_boots","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_boots","count":1}}

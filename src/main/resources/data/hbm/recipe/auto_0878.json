@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","BRS"," MG"],"key":{"G":"#hbm:grip/wood","B":"#hbm:barrelheavy/ferrouranium","R":"#hbm:receiverheavy/ferrouranium","M":"#hbm:gunmechanism/weaponsteel","C":"hbm:weapon_mod_special__1","S":"#hbm:stock/wood"},"result":{"id":"hbm:gun_amat","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GIG","GCG"],"key":{"G":"hbm:glass_boron","I":"#hbm:ingot/steel","C":"#hbm:ingot/cobalt"},"result":{"id":"hbm:chemistry_set_boron","count":1}}

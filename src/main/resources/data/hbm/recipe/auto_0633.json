@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#hbm:dust/saltpeter","#hbm:dust/netherquartz"],"result":{"id":"hbm:xanax","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:bowl","hbm:mush","hbm:mush"],"result":{"id":"hbm:glowing_stew","count":1}}

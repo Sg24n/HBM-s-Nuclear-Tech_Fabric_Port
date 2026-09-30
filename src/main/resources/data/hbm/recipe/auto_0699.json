@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/plutonium241","#hbm:nugget/plutonium241","#hbm:nugget/americiumrg"],"result":{"id":"hbm:billet_zfb_am_mix","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ZZZ","ZCZ","ZZZ"],"key":{"Z":"#hbm:nugget/zirconium","C":"hbm:catalyst_clay"},"result":{"id":"hbm:gas_mask_filter_mono","count":1}}

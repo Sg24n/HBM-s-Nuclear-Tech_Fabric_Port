@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["A A","PSP","PSP"],"key":{"A":"#hbm:plate/aluminum","P":"#hbm:plate/steel","S":"hbm:steel_scaffold"},"result":{"id":"hbm:mp_stability_15_thin","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MMM","BBL","GG "],"key":{"M":"#hbm:gunmechanism/gunmetal","B":"#hbm:barrelheavy/steel","G":"#hbm:grip/steel","L":"minecraft:leather"},"result":{"id":"hbm:gun_charge_thrower","count":1}}

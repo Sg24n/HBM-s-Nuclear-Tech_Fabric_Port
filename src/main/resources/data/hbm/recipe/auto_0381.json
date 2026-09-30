@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SCS","CBC","SCS"],"key":{"S":"#hbm:ingot/steel","C":"#hbm:plate/copper","B":"hbm:tank_steel"},"result":{"id":"hbm:rbmk_steam_outlet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MCM","MKM","MMM"],"key":{"M":"hbm:ingot_meteorite_forged","C":"hbm:coin_maskman","K":"hbm:key"},"result":{"id":"hbm:mech_key","count":1}}

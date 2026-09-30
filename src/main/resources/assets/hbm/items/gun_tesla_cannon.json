@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/ce25cd64ccc33704b4856e3dcf67625b"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_tesla_cannon__weapons_tesla_cannon__capacitor__cog__extension__gun"}}}

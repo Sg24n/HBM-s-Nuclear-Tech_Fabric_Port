@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/fd981ad373de857f4367869ae0a162b9"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_coilgun__weapons_coilgun"}}}

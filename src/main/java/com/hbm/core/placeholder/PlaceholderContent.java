@@ -1,7 +1,7 @@
 package com.hbm.core.placeholder;
 
 import com.hbm.main.MainRegistry;
-import com.hbm.material.MaterialItems;
+import com.hbm.content.ItemRegistry;
 import com.mojang.serialization.Codec;
 import net.minecraft.core.Registry;
 import net.minecraft.core.component.DataComponentType;
@@ -106,7 +106,7 @@ public final class PlaceholderContent {
 	}
 
 	public static ItemStack stack(Stack stack) {
-		ItemStack real = MaterialItems.stack(stack.path(), stack.meta());
+		ItemStack real = ItemRegistry.stack(stack.path(), stack.meta());
 		if (!real.isEmpty()) {
 			return real;
 		}

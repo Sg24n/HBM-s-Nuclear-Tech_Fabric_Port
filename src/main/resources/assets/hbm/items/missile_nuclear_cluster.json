@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/3f0de1f8e79bb3c48fe18645a12a6b5a"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_atlas__missile_missile_atlas_thermo"}}}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/3f52a0d11b46d9ffcd53f16f5475368d"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_taurun__aurun_leg__leftleg__rightleg"}}}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/9072f609e0654312ffc3c9af70e4f4d5"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_ajr__jr_helmet__head"}}}

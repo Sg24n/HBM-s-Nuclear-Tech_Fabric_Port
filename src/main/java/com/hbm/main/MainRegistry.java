@@ -1,8 +1,8 @@
 package com.hbm.main;
 
 import com.hbm.content.HbmCreativeTabs;
+import com.hbm.content.ItemRegistry;
 import com.hbm.core.placeholder.PlaceholderContent;
-import com.hbm.material.MaterialItems;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.resources.Identifier;
 
@@ -15,7 +15,7 @@ public class MainRegistry implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		MaterialItems.initialize();
+		ItemRegistry.initialize();
 		PlaceholderContent.initialize();
 		HbmCreativeTabs.initialize();
 		LOGGER.info("Hbm's Nuclear Tech initialized");

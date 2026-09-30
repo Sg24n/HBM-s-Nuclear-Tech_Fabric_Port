@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/f5c94840a794be78fa4c60bb0c379b4f"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_bismuth__ismuth__leftfoot__rightfoot"}}}

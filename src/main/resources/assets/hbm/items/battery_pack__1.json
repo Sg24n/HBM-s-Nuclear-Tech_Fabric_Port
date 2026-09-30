@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/1d0db140ebe6ecc8b9ff90b222363eeb"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_battery__machines_battery_lead__battery"}}}

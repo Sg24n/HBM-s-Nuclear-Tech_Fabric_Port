@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/f5175f4523161baef7f47c97f76c0267"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_lilmac__weapons_heavy_revolver__bullets__casings__cylinder__gun__hammer__pivot"}}}

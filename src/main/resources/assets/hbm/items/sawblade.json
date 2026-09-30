@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/0c1a7a206174c3a336523c71be5bfe6c"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_sawmill__machines_sawmill__blade"}}}

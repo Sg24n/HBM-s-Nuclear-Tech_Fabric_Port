@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/08815215adc3e36d0bbd85ca516eafcf"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_ncrpa__crpa_helmet__eyes__helmet"}}}

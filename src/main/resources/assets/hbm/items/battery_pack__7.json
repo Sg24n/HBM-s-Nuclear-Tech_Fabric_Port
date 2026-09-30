@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/017b0b4ac34d81699128c556b48756e2"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_battery__machines_capacitor_gold__capacitor"}}}

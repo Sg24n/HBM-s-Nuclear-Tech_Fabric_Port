@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7d5fa4d53209f779e5a80104db775cec"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_parts_mp_w_15_balefire__missile_parts_warheads_mp_w_15_balefire"}}}

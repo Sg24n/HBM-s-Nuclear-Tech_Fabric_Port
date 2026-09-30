@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/cf47a41f1c410e07862716a378dda054"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_hev__ev_helmet__head"}}}

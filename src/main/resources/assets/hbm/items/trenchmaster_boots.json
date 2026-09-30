@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/c7449abfd7c0f411432f2eb9f5f6000e"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/armor_trenchmaster__renchmaster_leg__leftboot__rightboot"}}}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/d58b1d766085197a69d41630d207dbe4"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_parts_mp_s_20__thegadget3_"}}}

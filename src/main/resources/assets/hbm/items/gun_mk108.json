@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/90464fef168a350b383667109a3318a1"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_mk108__weapons_mk108__barrel__belt__drum__grenade__gun__lid"}}}

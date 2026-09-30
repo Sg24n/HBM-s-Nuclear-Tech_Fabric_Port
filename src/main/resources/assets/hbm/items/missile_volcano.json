@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/1eb2ac44e3979f0fccff69cd62a0fc24"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_atlas__missile_missile_atlas_tectonic"}}}

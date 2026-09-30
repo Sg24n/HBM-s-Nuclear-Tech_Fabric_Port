@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/5c94f787eade75b5383dccff6c6a5b7b"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_stg77__weapons_stg77__barrel__breech__gun__handle__lever__magazine__safety"}}}

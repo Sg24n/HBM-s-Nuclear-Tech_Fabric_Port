@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/0909d5585cd54716e66564307691261b"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_mike_hawk__weapons_lag__grip__hammer__slide"}}}

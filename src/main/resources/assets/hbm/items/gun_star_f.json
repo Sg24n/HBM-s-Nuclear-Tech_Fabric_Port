@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/58cd0c5a200cdd851df2ecb2ce9f82a9"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_star_f__weapons_star_f__gun__hammer__mag__slide"}}}

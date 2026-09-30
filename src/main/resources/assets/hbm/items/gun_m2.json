@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7e602718acd680850b9f0f27fac774a2"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_m2_browning__weapons_m2_browning"}}}

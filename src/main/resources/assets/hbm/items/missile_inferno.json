@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/d9869737ef5a64a3d09b7dfe07ab36b9"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_huge__missile_missile_huge_inc"}}}

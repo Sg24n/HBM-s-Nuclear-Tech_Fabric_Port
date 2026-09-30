@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/fae86700240af08d90bc0c2dc7071188"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_chainsaw__weapons_chainsaw__saw__tooth"}}}

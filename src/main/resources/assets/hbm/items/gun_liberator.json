@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/36575350d98aeb8bdf236458bb59b23e"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_liberator__weapons_liberator"}}}

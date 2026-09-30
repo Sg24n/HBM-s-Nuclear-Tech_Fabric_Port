@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/88ceb4a6fa545d115a66431de0c2c28b"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_bolter__weapons_bolter"}}}

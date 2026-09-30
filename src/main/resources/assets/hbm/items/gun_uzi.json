@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/5cec672f76be02ffc42c86c7b2d7ed73"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_uzi__weapons_uzi__gun__magazine__slide__stockback__stockfront"}}}

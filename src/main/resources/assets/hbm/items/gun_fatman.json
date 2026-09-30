@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/813d6c461f83d7918bbd26047951f62d"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_fatman__weapons_fatman__gauge__handle__launcher__lid__piston"}}}

@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/f74079accfb60027b27a243b664a1a83"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_amat__weapons_amat__bipodhingeleft__bipodhingeright__bipodleft__bipodright__bolt__gun__magazine__muzzlebrake__scope"}}}

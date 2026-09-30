@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/7608c580e1add0aa718da3f0f2cda520"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_parts_mp_f_10_15_kerosene__missile_parts_fuselages_mp_f_10_15_kerosene"}}}

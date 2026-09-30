@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/6530095ba46cfcb34d66851e923c6bc4"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_parts_mp_t_15_balefire_large__missile_parts_thrusters_mp_t_15_balefire_large_rad"}}}

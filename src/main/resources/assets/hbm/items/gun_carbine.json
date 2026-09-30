@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/dc99f4d010a841b1e21132cae6802662"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/weapons_carbine__weapons_huntsman__gun__ironsight__magazine__slide"}}}

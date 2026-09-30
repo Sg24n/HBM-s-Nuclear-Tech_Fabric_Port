@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/80e25476200844043514489e912cc591"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_atlas__missile_missile_atlas_nuclear"}}}

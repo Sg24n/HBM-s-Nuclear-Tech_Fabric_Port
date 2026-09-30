@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/0c7f9881337fd80c1649f6758d0cd011"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/missile_parts_mp_t_20_solid__missile_parts_thrusters_mp_t_20_solid"}}}

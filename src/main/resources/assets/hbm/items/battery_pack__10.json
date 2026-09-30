@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:select","property":"minecraft:display_context","cases":[{"when":"gui","model":{"type":"minecraft:model","model":"hbm:render/efeb607508da364dcd99c29119239c4c"}}],"fallback":{"type":"minecraft:model","model":"hbm:obj/machines_battery__machines_capacitor_bismuth__capacitor"}}}

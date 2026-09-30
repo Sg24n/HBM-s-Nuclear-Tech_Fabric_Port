@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/turbofan.obj","texture":"hbm:block/models/machines/turbofan","normalize":false,"parts":["Blades","Body"]}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/machines/turbofan.obj","texture":"hbm:block/models/machines/turbofan","parts":["Blades","Body"]},{"obj":"hbm:models/machines/turbofan.obj","texture":"hbm:block/models/machines/turbofan_back","parts":["Afterburner"]}]}

@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/annihilator.obj","texture":"hbm:block/models/machines/annihilator","normalize":false,"parts":["Annihilator","Roller"]}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/machines/annihilator.obj","texture":"hbm:block/models/machines/annihilator","parts":["Annihilator","Roller"]},{"obj":"hbm:models/machines/annihilator.obj","texture":"hbm:block/models/machines/annihilator_belt","parts":["Belt"]}]}

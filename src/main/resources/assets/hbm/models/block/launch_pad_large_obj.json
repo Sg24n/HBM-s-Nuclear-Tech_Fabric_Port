@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/weapons/launch_pad_erector.obj","texture":"hbm:block/models/launchpad/pad","normalize":false,"parts":["Pad"]}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/weapons/launch_pad_erector.obj","texture":"hbm:block/models/launchpad/pad","parts":["Pad"]},{"obj":"hbm:models/weapons/launch_pad_erector.obj","texture":"hbm:block/models/launchpad/erector_atlas","parts":["Atlas_Erector","Atlas_Pad","Atlas_Pivot"]}]}

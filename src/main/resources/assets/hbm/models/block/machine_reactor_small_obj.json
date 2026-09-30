@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/reactors/reactor_small_base.obj","texture":"hbm:block/models/reactor_small_base","normalize":false}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/reactors/reactor_small_base.obj","texture":"hbm:block/models/reactor_small_base"},{"obj":"hbm:models/reactors/reactor_small_rods.obj","texture":"hbm:block/models/reactor_small_rods"}]}

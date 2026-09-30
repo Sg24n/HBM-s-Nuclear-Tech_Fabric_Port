@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/turrets/turret_chekhov.obj","texture":"hbm:block/models/turrets/base","normalize":false,"parts":["Base"]}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/turrets/turret_chekhov.obj","texture":"hbm:block/models/turrets/base","parts":["Base"]},{"obj":"hbm:models/turrets/turret_howard.obj","texture":"hbm:block/models/turrets/carriage_ciws","parts":["Carriage"]},{"obj":"hbm:models/turrets/turret_microwave.obj","texture":"hbm:block/models/turrets/maxwell","parts":["Microwave"]}]}

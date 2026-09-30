@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/ap_mine.obj","texture":"hbm:block/models/bombs/mine_ap_grass","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/ap_mine.obj","texture":"hbm:block/models/bombs/mine_ap_grass","normalize":false,"scale":0.375}

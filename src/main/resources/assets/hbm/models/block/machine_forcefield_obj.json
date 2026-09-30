@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/radar_base.obj","texture":"hbm:block/models/forcefield_base","normalize":false}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/radar_base.obj","texture":"hbm:block/models/forcefield_base"},{"obj":"hbm:models/forcefield_top.obj","texture":"hbm:block/models/forcefield_top"}]}

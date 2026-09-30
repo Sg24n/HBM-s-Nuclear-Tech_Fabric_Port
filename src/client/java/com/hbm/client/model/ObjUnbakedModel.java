@@ -11,6 +11,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 import org.joml.Vector3f;
 
+import com.google.gson.JsonArray;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
@@ -30,25 +31,25 @@ public final class ObjUnbakedModel implements UnbakedModel {
 	private static final Map<String, ObjModel> CACHE = new ConcurrentHashMap<>();
 	private static final ItemTransforms TRANSFORMS = defaultTransforms();
 
-	private final ObjModel model;
-	private final Identifier texture;
-	private final List<String> parts;
+	private final List<ObjCompositeGeometry.Layer> layers;
 
-	public ObjUnbakedModel(ObjModel model, Identifier texture, List<String> parts) {
-		this.model = model;
-		this.texture = texture;
-		this.parts = parts;
+	public ObjUnbakedModel(List<ObjCompositeGeometry.Layer> layers) {
+		this.layers = layers;
 	}
 
 	@Override
 	public TextureSlots.Data textureSlots() {
-		Material material = new Material(texture);
-		return new TextureSlots.Data.Builder().addTexture("#0", material).addTexture("particle", material).build();
+		TextureSlots.Data.Builder builder = new TextureSlots.Data.Builder();
+		for (int index = 0; index < layers.size(); index++) {
+			builder.addTexture("#" + index, new Material(layers.get(index).texture()));
+		}
+		builder.addTexture("particle", new Material(layers.get(0).texture()));
+		return builder.build();
 	}
 
 	@Override
 	public UnbakedGeometry geometry() {
-		return new ObjGeometry(model, texture, parts);
+		return new ObjCompositeGeometry(layers);
 	}
 
 	@Override
@@ -71,10 +72,6 @@ public final class ObjUnbakedModel implements UnbakedModel {
 		return new ItemTransforms(thirdPerson, thirdPerson, firstPerson, firstPerson, head, gui, ground, fixed, fixed);
 	}
 
-	public static ObjModel load(String path) {
-		return load(path, true);
-	}
-
 	public static ObjModel load(String path, boolean normalize) {
 		return CACHE.computeIfAbsent(path + "|" + normalize, key -> {
 			String[] parts = path.split(":", 2);
@@ -91,20 +88,39 @@ public final class ObjUnbakedModel implements UnbakedModel {
 		});
 	}
 
+	private static List<String> readParts(JsonObject json) {
+		List<String> parts = new ArrayList<>();
+		if (json.has("parts")) {
+			for (JsonElement element : json.getAsJsonArray("parts")) {
+				parts.add(element.getAsString());
+			}
+		}
+		return parts;
+	}
+
 	public static final class Deserializer implements UnbakedModelDeserializer {
 
 		@Override
 		public UnbakedModel deserialize(JsonObject json, JsonDeserializationContext context) {
-			String obj = json.get("obj").getAsString();
-			Identifier texture = Identifier.parse(json.get("texture").getAsString());
 			boolean normalize = !json.has("normalize") || json.get("normalize").getAsBoolean();
-			List<String> parts = new ArrayList<>();
-			if (json.has("parts")) {
-				for (JsonElement element : json.getAsJsonArray("parts")) {
-					parts.add(element.getAsString());
+			float defaultScale = json.has("scale") ? json.get("scale").getAsFloat() : 1.0F;
+			List<ObjCompositeGeometry.Layer> layers = new ArrayList<>();
+			if (json.has("layers")) {
+				for (JsonElement element : json.getAsJsonArray("layers")) {
+					JsonObject layer = element.getAsJsonObject();
+					float scale = layer.has("scale") ? layer.get("scale").getAsFloat() : defaultScale;
+					layers.add(new ObjCompositeGeometry.Layer(
+							load(layer.get("obj").getAsString(), normalize),
+							Identifier.parse(layer.get("texture").getAsString()),
+							List.copyOf(readParts(layer)), scale));
 				}
+			} else {
+				layers.add(new ObjCompositeGeometry.Layer(
+						load(json.get("obj").getAsString(), normalize),
+						Identifier.parse(json.get("texture").getAsString()),
+						List.copyOf(readParts(json)), defaultScale));
 			}
-			return new ObjUnbakedModel(load(obj, normalize), texture, parts);
+			return new ObjUnbakedModel(List.copyOf(layers));
 		}
 	}
 }

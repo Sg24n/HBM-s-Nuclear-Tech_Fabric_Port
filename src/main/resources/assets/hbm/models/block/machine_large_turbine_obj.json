@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/turbine.obj","texture":"hbm:block/models/machines/turbine","normalize":false,"parts":["Body"]}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/machines/turbine.obj","texture":"hbm:block/models/machines/turbine","parts":["Body"]},{"obj":"hbm:models/machines/turbine.obj","texture":"hbm:block/models/turbofan_blades","parts":["Blades"]}]}

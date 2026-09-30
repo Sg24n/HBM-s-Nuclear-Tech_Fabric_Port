@@ -4,6 +4,7 @@ import com.hbm.component.HbmDataComponents;
 import com.hbm.content.HbmCreativeTabs;
 import com.hbm.content.ItemRegistry;
 import com.hbm.core.placeholder.PlaceholderContent;
+import com.hbm.recipe.MachineRecipes;
 import com.hbm.recipe.PressRecipes;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents;
@@ -20,6 +21,7 @@ public class MainRegistry implements ModInitializer {
 	public void onInitialize() {
 		HbmDataComponents.initialize();
 		ItemRegistry.initialize();
+		MachineRecipes.load();
 		PlaceholderContent.initialize();
 		HbmCreativeTabs.initialize();
 		// Recipes build ItemStacks, which need bound components: defer to server start.

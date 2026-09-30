@@ -18,6 +18,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import javax.imageio.ImageIO;
+import java.awt.image.BufferedImage;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -174,6 +177,49 @@ class ItemModelMappingTest {
 		}
 		assertTrue(renderer > 0, "no custom-renderer stacks found");
 		assertTrue(unmapped > 0, "expected some known non-OBJ renderers");
+	}
+
+	@Test
+	void capturedRenderDefinitionsAreNotBlank() throws IOException {
+		Path dir = ASSETS.resolve("items").resolve("render");
+		Assumptions.assumeTrue(Files.isDirectory(dir), "no render definitions");
+		Gson gson = new Gson();
+		Set<String> seen = new HashSet<>();
+		int checked = 0;
+		int repaired = 0;
+		for (Path file : Files.newDirectoryStream(dir, "*.json")) {
+			JsonObject model = gson.fromJson(Files.readString(file, StandardCharsets.UTF_8), JsonObject.class)
+					.getAsJsonObject("model");
+			if (model == null || !model.has("model")) {
+				continue;
+			}
+			String ref = model.get("model").getAsString();
+			if (!ref.startsWith("hbm:render/")) {
+				repaired++;
+				continue;
+			}
+			String hash = ref.substring("hbm:render/".length());
+			if (!seen.add(hash)) {
+				continue;
+			}
+			Path png = ASSETS.resolve("textures").resolve("item").resolve("render").resolve(hash + ".png");
+			assertTrue(Files.exists(png), "missing render PNG: " + png);
+			BufferedImage image = ImageIO.read(png.toFile());
+			assertTrue(image != null, "unreadable render PNG: " + png);
+			boolean opaque = false;
+			for (int y = 0; y < image.getHeight() && !opaque; y++) {
+				for (int x = 0; x < image.getWidth(); x++) {
+					if ((image.getRGB(x, y) >>> 24) > 0) {
+						opaque = true;
+						break;
+					}
+				}
+			}
+			assertTrue(opaque, "blank captured render: " + png);
+			checked++;
+		}
+		assertTrue(checked > 0, "no captured renders checked");
+		assertTrue(repaired > 0, "expected repaired definitions");
 	}
 
 	@Test

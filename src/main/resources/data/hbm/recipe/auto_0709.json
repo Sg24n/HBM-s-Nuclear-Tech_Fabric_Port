@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:nugget_am_mix","hbm:nugget_am_mix","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238"],"result":{"id":"hbm:billet_americium_fuel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IF"],"key":{"I":"#hbm:dust/iodine","F":"#hbm:dust/fluorite"},"result":{"id":"hbm:pill_iodine","count":8}}

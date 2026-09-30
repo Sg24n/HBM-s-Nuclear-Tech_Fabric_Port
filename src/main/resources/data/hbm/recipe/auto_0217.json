@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["AIA","I I","AIA"],"key":{"A":"#hbm:wirefine/steel","I":"minecraft:iron_ingot"},"result":{"id":"hbm:barbed_wire","count":16}}
+{"type":"minecraft:crafting_shaped","pattern":["CC","CC"],"key":{"C":"hbm:lightstone"},"result":{"id":"hbm:lightstone__1","count":4}}

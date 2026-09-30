@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","MWM"],"key":{"C":"hbm:circuit__8","M":"hbm:motor","W":"#hbm:wiredense/gold"},"result":{"id":"hbm:gun_pa_melee","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_steel","D":"hbm:powder_chlorophyte","A":"#hbm:ingot/fiberglass","P":"hbm:volcanic_pickaxe","F":"#hbm:bolt/durasteel"},"result":{"id":"hbm:chlorophyte_pickaxe","count":1}}

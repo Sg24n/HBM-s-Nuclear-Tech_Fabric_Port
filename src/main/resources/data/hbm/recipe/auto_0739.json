@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_au198","hbm:billet_au198","hbm:billet_au198","#hbm:plate/iron"],"result":{"id":"hbm:pellet_rtg_gold","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PKP","DSD","PKP"],"key":{"P":"#hbm:ingot/anyplastic","K":"hbm:insert_sapi","D":"hbm:ducttape","S":"#hbm:plate/weaponsteel"},"result":{"id":"hbm:insert_esapi","count":1}}

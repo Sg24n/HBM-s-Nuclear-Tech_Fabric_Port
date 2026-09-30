@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W W","P P"],"key":{"W":"#hbm:wirefine/gold","P":"hbm:plate_bismuth"},"result":{"id":"hbm:bismuth_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EE ","EEE","E E"],"key":{"E":"#hbm:ingot/dineutronium"},"result":{"id":"hbm:dnt_legs","count":1}}

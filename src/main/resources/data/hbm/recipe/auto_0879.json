@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RDR","DWD","RDR"],"key":{"R":"hbm:rebar","D":"hbm:ducttape","W":"hbm:wrench"},"result":{"id":"hbm:rebar_placer","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod"],"result":{"id":"hbm:lithium","count":1}}

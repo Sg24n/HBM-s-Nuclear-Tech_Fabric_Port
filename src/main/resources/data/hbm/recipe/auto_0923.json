@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/gunmetal","#hbm:platetriple/durasteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__5","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_desh","D":"hbm:powder_dineutronium","A":"hbm:plate_paa","P":"hbm:chlorophyte_axe","F":"hbm:shimmer_handle"},"result":{"id":"hbm:mese_axe","count":1}}

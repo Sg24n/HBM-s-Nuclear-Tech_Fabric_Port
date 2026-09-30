@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IBI","LBL","IBI"],"key":{"B":"minecraft:book","I":"minecraft:black_dye","L":"minecraft:blue_dye"},"result":{"id":"hbm:book_guide","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["TST","SSS"],"key":{"T":"#hbm:ingot/tungsten","S":"#hbm:ingot/steel"},"result":{"id":"hbm:tape_recorder","count":4}}

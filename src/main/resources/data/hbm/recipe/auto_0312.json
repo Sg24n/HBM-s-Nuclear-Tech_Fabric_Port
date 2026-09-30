@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SCS","MDM","SCS"],"key":{"S":"minecraft:iron_ingot","D":"#hbm:ingot/mingrade","M":"hbm:coil_copper","C":"hbm:circuit__1"},"result":{"id":"hbm:machine_transformer","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CRC"],"key":{"C":"#hbm:platetriple/copper","R":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:pneumatic_tube","count":8}}

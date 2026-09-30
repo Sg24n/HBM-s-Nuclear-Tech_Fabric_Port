@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MDM"," M "],"key":{"M":"hbm:fragment_meteorite","D":"#hbm:gem/volcanic"},"result":{"id":"hbm:meteor_charm","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:canned_conserve"],"result":{"id":"hbm:canned_conserve__24","count":1}}

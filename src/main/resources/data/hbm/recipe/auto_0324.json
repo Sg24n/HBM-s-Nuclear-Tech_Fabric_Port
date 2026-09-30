@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WWW"],"key":{"W":"hbm:pink_planks"},"result":{"id":"hbm:pink_slab","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["XBX","ACA","XBX"],"key":{"X":"hbm:plate_dineutronium","A":"hbm:singularity_counter_resonant","B":"hbm:singularity_super_heated","C":"hbm:black_hole"},"result":{"id":"hbm:singularity_spark","count":1}}

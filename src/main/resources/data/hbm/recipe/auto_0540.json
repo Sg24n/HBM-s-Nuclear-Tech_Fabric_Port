@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ECE","E E"],"key":{"E":"#hbm:billet/cobalt","C":"hbm:steel_legs"},"result":{"id":"hbm:cobalt_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/lead"},"result":{"id":"hbm:plate_lead","count":4}}

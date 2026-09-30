@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","ACA"," S "],"key":{"M":"hbm:motor","A":"#hbm:plate/aluminum","C":"#hbm:shell/copper","S":"#hbm:platetriple/steel"},"result":{"id":"hbm:pile_device__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","I I","BBB"],"key":{"I":"minecraft:brick","B":"minecraft:stone"},"result":{"id":"hbm:machine_furnace_brick_off","count":1}}

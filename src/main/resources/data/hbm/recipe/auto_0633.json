@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:bowl","hbm:mush","hbm:mush"],"result":{"id":"hbm:glowing_stew","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EWE","EEE","EEE"],"key":{"E":"hbm:plate_euphemium","W":"hbm:watch"},"result":{"id":"hbm:euphemium_plate","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/neptunium237","#hbm:dust/iodine","#hbm:dust/thorium232","#hbm:dust/astatine","#hbm:dust/neodymium","#hbm:dust/caesium","hbm:block_meteor","hbm:gravel_obsidian","minecraft:water_bucket"],"result":{"id":"hbm:crystal_horn","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" W ","IEI","ICI"],"key":{"W":"#hbm:wirefine/gold","I":"hbm:plate_polymer","E":"minecraft:redstone","C":"#hbm:dust/cobalt"},"result":{"id":"hbm:hev_battery","count":4}}

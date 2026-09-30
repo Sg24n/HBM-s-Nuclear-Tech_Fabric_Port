@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_cable"],"result":{"id":"hbm:red_cable_classic","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPC"],"key":{"C":"hbm:conveyor_wand","D":"hbm:conveyor_wand__2","P":"#hbm:plate/steel"},"result":{"id":"hbm:conveyor_wand__3","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","EIE"],"key":{"E":"hbm:asbestos_cloth","I":"#hbm:plate/gold"},"result":{"id":"hbm:asbestos_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MPM","IBI","P P"],"key":{"P":"hbm:plate_armor_hev","B":"hbm:titanium_legs","I":"#hbm:ingot/anyplastic","M":"hbm:motor_desh"},"result":{"id":"hbm:hev_legs","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TCT","R R","T T"],"key":{"T":"#hbm:plate/titanium","C":"#hbm:platetriple/titanium","R":"#hbm:ingot/rubber"},"result":{"id":"hbm:envsuit_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["KWK","IKI","WKW"],"key":{"K":"hbm:plate_kevlar","I":"#hbm:ingot/anyplastic","W":"minecraft:white_wool"},"result":{"id":"hbm:security_plate","count":1}}

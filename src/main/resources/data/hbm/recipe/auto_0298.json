@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["121","1G1","121"],"key":{"1":"#hbm:plate/aluminum","2":"#hbm:plate/iron","G":"minecraft:glass_pane"},"result":{"id":"hbm:fluid_tank_empty","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","RPY"," B "],"key":{"B":"#hbm:dust/lapis","C":"#hbm:dust/coal","R":"#hbm:dust/mingrade","Y":"#hbm:dust/gold","P":"minecraft:paper"},"result":{"id":"hbm:polaroid","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:particle_empty","#hbm:dust/copper","hbm:pellet_charged"],"result":{"id":"hbm:particle_copper","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" A ","SGS"," T "],"key":{"A":"#hbm:dust/aluminum","S":"#hbm:plate/steel","G":"minecraft:glass_pane","T":"hbm:circuit"},"result":{"id":"hbm:crt_display","count":4}}

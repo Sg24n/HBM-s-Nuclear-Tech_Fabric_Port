@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ICI","CTC","ICI"],"key":{"C":"#hbm:plate/steel","I":"#hbm:plate/iron","T":"hbm:mp_fuselage_15_kerosene"},"result":{"id":"hbm:mp_fuselage_15_kerosene_metal","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" D","S "," S"],"key":{"D":"#hbm:ingot/durasteel","S":"minecraft:stick"},"result":{"id":"hbm:hand_drill","count":1}}

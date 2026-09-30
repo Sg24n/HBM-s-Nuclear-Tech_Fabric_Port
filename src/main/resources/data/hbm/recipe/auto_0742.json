@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/uranium233","#hbm:nugget/uranium233","#hbm:nugget/uranium233","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238"],"result":{"id":"hbm:ingot_uranium_fuel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["WSW","PAP","SPS"],"key":{"S":"#hbm:platesextuple/steel","P":"#hbm:ingot/anyplastic","A":"#hbm:ingot/australium","W":"#hbm:wiredense/gold"},"result":{"id":"hbm:australium_iii","count":1}}

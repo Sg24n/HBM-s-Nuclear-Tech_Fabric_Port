@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","F","F"],"key":{"S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/steel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_light_revolver","count":1}}

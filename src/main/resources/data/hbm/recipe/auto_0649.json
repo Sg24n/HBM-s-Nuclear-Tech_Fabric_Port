@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:nitra_small","hbm:nitra_small","hbm:nitra_small","hbm:syringe_metal_empty"],"result":{"id":"hbm:syringe_metal_stimpak","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["E E","EEE","EEE"],"key":{"E":"hbm:hazmat_cloth_grey"},"result":{"id":"hbm:hazmat_plate_grey","count":1}}

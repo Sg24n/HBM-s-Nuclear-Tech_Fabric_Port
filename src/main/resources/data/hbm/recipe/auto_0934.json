@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I "," M ","I I"],"key":{"I":"#hbm:ingot/weaponsteel","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:weapon_mod_special__4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["I I","ICI","GGG"],"key":{"I":"#hbm:plate/iron","G":"#hbm:plate/gold","C":"hbm:circuit__9"},"result":{"id":"hbm:linker","count":1}}

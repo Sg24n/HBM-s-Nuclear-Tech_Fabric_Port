@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_zirnox_u233_fuel_depleted"],"result":{"id":"hbm:waste_u233__1","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/plutonium241","#hbm:nugget/plutonium241","#hbm:nugget/americiumrg"],"result":{"id":"hbm:billet_zfb_am_mix","count":1}}

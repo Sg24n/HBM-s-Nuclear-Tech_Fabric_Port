@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" L ","LGL"," L "],"key":{"L":"minecraft:leather","G":"#hbm:plate/gunmetal"},"result":{"id":"hbm:casing_bag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["121","1G1","121"],"key":{"1":"#hbm:plate/aluminum","2":"#hbm:plate/iron","G":"minecraft:glass_pane"},"result":{"id":"hbm:fluid_tank_empty","count":8}}

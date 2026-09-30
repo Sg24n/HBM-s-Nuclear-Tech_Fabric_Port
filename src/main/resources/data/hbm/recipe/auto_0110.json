@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:battery_sc","#hbm:billet/polonium210","#hbm:billet/polonium210"],"result":{"id":"hbm:battery_sc__6","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","I I","III"],"key":{"P":"#hbm:plate/iron","I":"minecraft:iron_ingot"},"result":{"id":"hbm:crate_iron","count":1}}

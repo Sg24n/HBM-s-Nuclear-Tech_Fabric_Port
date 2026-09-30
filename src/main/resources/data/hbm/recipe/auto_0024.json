@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:particle_empty","#hbm:dust/lead","hbm:pellet_charged"],"result":{"id":"hbm:particle_lead","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" S ","G G"," S "],"key":{"S":"#hbm:plate/steel","G":"minecraft:glass_pane"},"result":{"id":"hbm:cell_empty","count":6}}

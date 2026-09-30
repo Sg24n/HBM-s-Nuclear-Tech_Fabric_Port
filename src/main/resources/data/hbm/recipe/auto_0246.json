@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RR ","  R","  R"],"key":{"R":"hbm:rail_large_straight"},"result":{"id":"hbm:rail_large_curve_9","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SS","SS"],"key":{"S":"hbm:steel_beam"},"result":{"id":"hbm:steel_grate","count":4}}

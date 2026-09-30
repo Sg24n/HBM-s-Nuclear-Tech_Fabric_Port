@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S ","CMC"," S "],"key":{"C":"hbm:circuit__9","M":"#hbm:gunmechanism/weaponsteel","S":"#hbm:shell/weaponsteel"},"result":{"id":"hbm:grenade_shell","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:casing__3"},"result":{"id":"hbm:casing__6","count":2}}

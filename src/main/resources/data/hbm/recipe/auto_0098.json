@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","CFC","I I"],"key":{"P":"#hbm:plate/steel","C":"hbm:coil_copper","I":"minecraft:iron_ingot","F":"minecraft:furnace"},"result":{"id":"hbm:machine_wood_burner","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_wire_coated","#hbm:ingot/steel","hbm:circuit__8"],"result":{"id":"hbm:red_cable_gauge","count":1}}

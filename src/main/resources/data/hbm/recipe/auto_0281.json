@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","RPY"," B "],"key":{"B":"#hbm:dust/lapis","C":"#hbm:dust/coal","R":"#hbm:dust/mingrade","Y":"#hbm:dust/gold","P":"minecraft:paper"},"result":{"id":"hbm:polaroid","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:stick_c4","hbm:stick_c4","hbm:stick_c4","hbm:ducttape"],"result":{"id":"hbm:charge_c4","count":1}}

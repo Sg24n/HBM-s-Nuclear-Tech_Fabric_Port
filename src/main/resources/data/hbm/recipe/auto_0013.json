@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IAI","W W"],"key":{"I":"hbm:plate_polymer","A":"#hbm:dust/aluminum","W":"#hbm:wirefine/aluminum"},"result":{"id":"hbm:circuit__1","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["G","W","I"],"key":{"G":"minecraft:glass_pane","W":"hbm:coil_tungsten","I":"#hbm:plate/copper"},"result":{"id":"hbm:circuit__19","count":3}}

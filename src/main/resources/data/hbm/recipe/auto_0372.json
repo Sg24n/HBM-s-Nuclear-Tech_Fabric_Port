@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IPI","I I","IPI"],"key":{"I":"#hbm:plate/saturnite","P":"#hbm:wiredense/bscco"},"result":{"id":"hbm:barrel_antimatter","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#hbm:dust/lead"],"result":{"id":"hbm:sand_mix__1","count":8}}

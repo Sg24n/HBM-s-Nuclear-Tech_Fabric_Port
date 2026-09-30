@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:asphalt","minecraft:glowstone_dust"],"result":{"id":"hbm:asphalt_light","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","C C"," C "],"key":{"C":"hbm:brick_concrete"},"result":{"id":"hbm:brick_concrete_cracked","count":6}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EE ","EEE","EEE"],"key":{"E":"#hbm:ingot/dineutronium"},"result":{"id":"hbm:dnt_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/saturnite"},"result":{"id":"hbm:plate_saturnite","count":4}}

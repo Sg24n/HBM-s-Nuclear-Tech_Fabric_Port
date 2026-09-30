@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MHW","PSS"],"key":{"M":"#hbm:gunmechanism/weaponsteel","H":"#hbm:ntmpipe/rubber","W":"hbm:wrench","P":"#hbm:barrelheavy/weaponsteel","S":"#hbm:shell/weaponsteel"},"result":{"id":"hbm:gun_chemthrower","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["Z Z","ZBZ","Z Z"],"key":{"Z":"#hbm:nugget/zirconium","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:rod_zirnox_empty","count":4}}

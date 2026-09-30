@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"minecraft:gunpowder","I":"hbm:plate_polymer"},"result":{"id":"hbm:grenade_filling","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","PGP"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","P":"#hbm:platetriple/gold","G":"hbm:gun_henry"},"result":{"id":"hbm:gun_henry_lincoln","count":1}}

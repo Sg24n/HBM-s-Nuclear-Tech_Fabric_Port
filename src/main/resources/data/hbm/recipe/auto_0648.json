@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","C","B"],"key":{"B":"minecraft:iron_bars","C":"hbm:rod_empty","P":"#hbm:plate/iron"},"result":{"id":"hbm:syringe_metal_empty","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","IEI","EFE"],"key":{"E":"hbm:hazmat_cloth_grey","I":"minecraft:glass_pane","F":"#hbm:plate/iron"},"result":{"id":"hbm:hazmat_helmet_grey","count":1}}

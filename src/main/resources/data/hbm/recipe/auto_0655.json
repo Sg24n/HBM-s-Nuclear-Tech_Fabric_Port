@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PFP"],"key":{"P":"hbm:powder_poison","F":"#hbm:dust/fluorite"},"result":{"id":"hbm:plan_c","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["E E","E E"],"key":{"E":"hbm:asbestos_cloth"},"result":{"id":"hbm:asbestos_boots","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ASA","PSP"],"key":{"A":"#hbm:plate/aluminum","P":"#hbm:plate/steel","S":"hbm:steel_scaffold"},"result":{"id":"hbm:mp_stability_15_flat","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/aluminum","I":"minecraft:iron_ingot"},"result":{"id":"hbm:mirror_tool","count":1}}

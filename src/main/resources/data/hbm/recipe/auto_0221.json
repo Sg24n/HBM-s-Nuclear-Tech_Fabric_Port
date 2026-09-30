@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plate_polymer","#minecraft:sand","#minecraft:sand","#minecraft:sand"],"result":{"id":"hbm:sandbags","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["FBF","BFB","FBF"],"key":{"F":"minecraft:iron_bars","B":"hbm:brick_concrete"},"result":{"id":"hbm:reinforced_brick","count":4}}

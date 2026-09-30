@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["NNN","ZCZ","NNN"],"key":{"Z":"#hbm:platetriple/zirconium","N":"hbm:neutron_reflector","C":"hbm:reactor_core"},"result":{"id":"hbm:cm_flux","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"minecraft:gold_ingot"},"result":{"id":"hbm:plate_gold","count":4}}

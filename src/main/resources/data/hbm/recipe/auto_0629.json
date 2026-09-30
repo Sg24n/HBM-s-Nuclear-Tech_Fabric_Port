@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","ESE","EPE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_legs","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RWR","PCP","SFS"],"key":{"R":"hbm:crystal_rare","W":"#hbm:wirefine/gold","P":"hbm:plate_bismuth","C":"hbm:laser_crystal_bismuth","S":"hbm:ring_starmetal","F":"hbm:rag"},"result":{"id":"hbm:bismuth_plate","count":1}}

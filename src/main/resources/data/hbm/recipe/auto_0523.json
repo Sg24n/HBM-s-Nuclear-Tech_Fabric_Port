@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","IPI"," I "],"key":{"I":"#hbm:ingot/steel","P":"#hbm:platetriple/steel"},"result":{"id":"hbm:cm_block","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BB","BB"],"key":{"B":"hbm:vinyl_tile"},"result":{"id":"hbm:vinyl_tile__1","count":4}}

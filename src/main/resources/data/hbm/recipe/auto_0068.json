@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["F","P","S"],"key":{"F":"minecraft:string","S":"minecraft:slime_ball","P":"minecraft:paper"},"result":{"id":"hbm:ducttape","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:syringe_metal_empty","minecraft:carrot","hbm:plant_flower"],"result":{"id":"hbm:syringe_metal_stimpak","count":1}}

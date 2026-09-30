@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DDD","DTD","DDD"],"key":{"D":"hbm:cell_empty","T":"hbm:mike_deut"},"result":{"id":"hbm:cell_deuterium","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["I","P"],"key":{"I":"hbm:plate_polymer","P":"#hbm:plate/gold"},"result":{"id":"hbm:circuit__3","count":4}}

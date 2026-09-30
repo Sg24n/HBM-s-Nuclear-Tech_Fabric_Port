@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","S","F"],"key":{"C":"hbm:circuit","S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BRP","BMS"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/gunmetal","M":"#hbm:gunmechanism/gunmetal","S":"#hbm:stock/wood","P":"#hbm:plate/gunmetal"},"result":{"id":"hbm:gun_henry","count":1}}

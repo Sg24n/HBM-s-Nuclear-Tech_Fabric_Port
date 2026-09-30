@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239"],"result":{"id":"hbm:ingot_mox_fuel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DID","IGI"," F "],"key":{"D":"hbm:ducttape","I":"#hbm:ingot/anyrubber","G":"minecraft:glass_pane","F":"#hbm:plate/iron"},"result":{"id":"hbm:attachment_mask","count":1}}

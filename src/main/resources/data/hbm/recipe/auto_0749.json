@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/americium241","#hbm:nugget/americium241","#hbm:nugget/americium241","#hbm:nugget/americium242","#hbm:nugget/americium242","#hbm:nugget/americium242","#hbm:nugget/americium242","#hbm:nugget/americium242","#hbm:nugget/americium242"],"result":{"id":"hbm:ingot_am_mix","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CDC","ISI","CDC"],"key":{"C":"#hbm:ingot/copper","D":"hbm:ducttape","I":"#hbm:ingot/anyrubber","S":"hbm:pads_slime"},"result":{"id":"hbm:pads_static","count":1}}

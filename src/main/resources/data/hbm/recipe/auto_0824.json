@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"hbm:billet_uranium_fuel","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:clay"],"result":{"id":"minecraft:clay_ball","count":4}}

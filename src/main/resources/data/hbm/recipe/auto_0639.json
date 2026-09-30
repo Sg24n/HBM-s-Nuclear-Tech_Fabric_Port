@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:loops","hbm:can_smart","minecraft:bowl"],"result":{"id":"hbm:loop_stew","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PCP","DJD","PAP"],"key":{"C":"hbm:circuit__9","P":"#hbm:plate/saturnite","D":"#hbm:ingot/workersalloy","J":"hbm:jetpack_vector","A":"#hbm:platetriple/copper"},"result":{"id":"hbm:jetpack_boost","count":1}}

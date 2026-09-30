@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:ducttape","P":"#hbm:plate/iron","S":"hbm:ingot_semtex"},"result":{"id":"hbm:insert_era","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","ECE"],"key":{"E":"#hbm:ingot/starmetal","C":"hbm:cobalt_helmet"},"result":{"id":"hbm:starmetal_helmet","count":1}}

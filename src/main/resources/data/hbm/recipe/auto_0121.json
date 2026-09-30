@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["III","SGM","IDI"],"key":{"I":"hbm:plate_polymer","S":"#hbm:plate/steel","G":"minecraft:glass_pane","M":"hbm:magnetron","D":"hbm:motor"},"result":{"id":"hbm:machine_microwave","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:battery_sc","#hbm:billet/gold198","#hbm:billet/gold198"],"result":{"id":"hbm:battery_sc__7","count":1}}

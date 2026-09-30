@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:concrete_colored_ext"],"result":{"id":"hbm:concrete_smooth","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CDC","DLD","CDC"],"key":{"D":"hbm:ducrete_smooth","C":"minecraft:clay_ball","L":"hbm:plate_lead"},"result":{"id":"hbm:brick_ducrete","count":4}}

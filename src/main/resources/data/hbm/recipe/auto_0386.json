@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","CCC","PPP"],"key":{"P":"#hbm:plate/steel","C":"hbm:concrete_asbestos"},"result":{"id":"hbm:rbmk_lid","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_isa","hbm:rune_isa","hbm:rune_jera","hbm:rune_thurisaz","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum","#hbm:dust/aluminum"],"result":{"id":"hbm:ams_catalyst_aluminium","count":1}}

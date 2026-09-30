@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IP","PP","IP"],"key":{"P":"#hbm:plate/steel","I":"#hbm:ingot/steel"},"result":{"id":"hbm:fins_flat","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["STS","S S","STS"],"key":{"S":"#hbm:plate/steel","T":"#hbm:plate/titanium"},"result":{"id":"hbm:tank_steel","count":2}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","DSD","DSD"],"key":{"W":"#hbm:wiredense/magnetizedtungsten","D":"hbm:plate_dineutronium","S":"hbm:powder_spark_mix"},"result":{"id":"hbm:battery_spark","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRM","G G"],"key":{"B":"#hbm:barrelheavy/ferrouranium","R":"#hbm:receiverheavy/ferrouranium","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_autoshotgun","count":1}}

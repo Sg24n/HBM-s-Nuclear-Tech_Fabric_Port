@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":[" WS","WRS"," RS"],"key":{"W":"#hbm:wirefine/copper","R":"hbm:ring_starmetal","S":"#hbm:plate/steel"},"result":{"id":"hbm:ballistic_gauntlet","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","P P","PMP"],"key":{"P":"#hbm:plate/weaponsteel","M":"#hbm:gunmechanism/saturnite"},"result":{"id":"hbm:weapon_mod_special__11","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GPP","WCS","WBB"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:ingot/anyrubber","C":"hbm:circuit__8","G":"minecraft:gold_ingot","S":"#hbm:plate/steel","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:geiger_counter","count":1}}

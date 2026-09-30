@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PP"],"key":{"P":"#hbm:ntmpipe/steel"},"result":{"id":"hbm:deco_pipe","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["GGG","GRG","GGG"],"key":{"G":"hbm:neutron_reflector","R":"hbm:rbmk_blank"},"result":{"id":"hbm:rbmk_reflector","count":1}}

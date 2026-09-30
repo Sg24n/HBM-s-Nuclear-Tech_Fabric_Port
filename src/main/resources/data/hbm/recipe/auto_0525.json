@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BB","BB"],"key":{"B":"hbm:cm_block"},"result":{"id":"hbm:cm_sheet","count":16}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:upgrade_template","hbm:gem_alexandrite"],"result":{"id":"hbm:upgrade_5g","count":1}}

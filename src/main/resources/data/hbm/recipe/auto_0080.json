@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPC"],"key":{"C":"hbm:conveyor_wand","D":"hbm:conveyor_wand__2","P":"#hbm:plate/steel"},"result":{"id":"hbm:conveyor_wand__3","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" G ","IRI"],"key":{"G":"minecraft:glowstone_dust","R":"minecraft:redstone_torch","I":"hbm:circuit"},"result":{"id":"hbm:radio_torch_reader","count":4}}

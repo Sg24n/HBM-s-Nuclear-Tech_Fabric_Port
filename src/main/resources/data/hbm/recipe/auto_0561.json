@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","PBP"],"key":{"P":"hbm:plate_armor_hev","B":"hbm:titanium_boots"},"result":{"id":"hbm:hev_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BB","BB"],"key":{"B":"hbm:cm_block"},"result":{"id":"hbm:cm_sheet","count":16}}

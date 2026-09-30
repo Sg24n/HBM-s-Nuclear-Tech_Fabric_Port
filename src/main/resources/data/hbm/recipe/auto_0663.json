@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","SIS","LLL"],"key":{"L":"minecraft:leather","S":"hbm:syringe_metal_stimpak","I":"hbm:syringe_antidote"},"result":{"id":"hbm:med_bag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","CBC","III"],"key":{"I":"#hbm:ingot/anyrubber","C":"hbm:cladding_lead","B":"hbm:hazmat_helmet_grey"},"result":{"id":"hbm:liquidator_helmet","count":1}}

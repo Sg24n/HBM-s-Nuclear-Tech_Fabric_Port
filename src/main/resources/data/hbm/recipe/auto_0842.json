@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CIC"," S "," S "],"key":{"C":"#hbm:ingot/copper","I":"minecraft:iron_ingot","S":"minecraft:stick"},"result":{"id":"hbm:dwarven_pickaxe","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/borax","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":16}}

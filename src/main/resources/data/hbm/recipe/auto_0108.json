@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:battery_sc","#hbm:billet/cobalt60","#hbm:billet/cobalt60"],"result":{"id":"hbm:battery_sc__4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RRR","WWW","III"],"key":{"R":"hbm:circuit__1","W":"minecraft:redstone","I":"#hbm:ingot/steel"},"result":{"id":"hbm:machine_converter_he_rf","count":1}}

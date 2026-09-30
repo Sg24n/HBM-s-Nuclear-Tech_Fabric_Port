@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_spark"],"result":{"id":"hbm:rune_jera","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["WWW"],"key":{"W":"hbm:pink_planks"},"result":{"id":"hbm:pink_slab","count":6}}

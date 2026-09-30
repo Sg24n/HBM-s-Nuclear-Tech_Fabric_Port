@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:flame_pony","minecraft:wheat","minecraft:sugar"],"result":{"id":"hbm:loops","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["TCT","MJM","B B"],"key":{"C":"hbm:circuit__9","T":"hbm:tank_steel","J":"hbm:jetpack_break","M":"hbm:motor","B":"#hbm:bolt/durasteel"},"result":{"id":"hbm:jetpack_vector","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS","STS"," D "],"key":{"S":"#hbm:plate/steel","T":"#hbm:ingot/tungsten","D":"#hbm:bolt/durasteel"},"result":{"id":"hbm:piston_selenium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SAS","   ","SAS"],"key":{"S":"#hbm:plate/steel","A":"#hbm:plate/aluminum"},"result":{"id":"hbm:fluid_duct_neo","count":8}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PRP","DPD"],"key":{"R":"hbm:cladding_desh","P":"hbm:ingot_gh336","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_ghiorsium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","III"," I "],"key":{"I":"#hbm:plate/iron"},"result":{"id":"hbm:mask_of_infamy","count":1}}

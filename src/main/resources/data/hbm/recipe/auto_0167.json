@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DD","DD"],"key":{"D":"hbm:ducrete_smooth"},"result":{"id":"hbm:ducrete","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["QUQ","BCB","QTQ"],"key":{"Q":"hbm:glass_quartz","U":"#hbm:ingot/uranium","T":"#hbm:ingot/thorium232","B":"hbm:nugget_bismuth","C":"hbm:crystal_rare"},"result":{"id":"hbm:laser_crystal_bismuth","count":1}}

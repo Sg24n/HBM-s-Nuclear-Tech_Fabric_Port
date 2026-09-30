@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EE ","EEE","E E"],"key":{"E":"#hbm:ingot/dineutronium"},"result":{"id":"hbm:dnt_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/cmbsteel"},"result":{"id":"hbm:plate_combine_steel","count":4}}

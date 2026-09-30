@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:deco_pipe_rim"],"result":{"id":"hbm:deco_pipe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" B ","GRG"," B "],"key":{"G":"#hbm:ingot/graphite","B":"hbm:motor","R":"hbm:rbmk_absorber"},"result":{"id":"hbm:rbmk_control","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S ","AA","AA"],"key":{"S":"#hbm:plate/steel","A":"#hbm:plate/aluminum"},"result":{"id":"hbm:canister_empty","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["DDD","DTD","DDD"],"key":{"D":"hbm:cell_empty","T":"hbm:mike_deut"},"result":{"id":"hbm:cell_deuterium","count":8}}

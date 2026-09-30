@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["FBF","BFB","FBF"],"key":{"F":"minecraft:cobblestone","B":"minecraft:stone"},"result":{"id":"hbm:reinforced_stone","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CTC","TST","CTC"],"key":{"C":"#hbm:plate/saturnite","T":"hbm:powder_power","S":"hbm:singularity"},"result":{"id":"hbm:singularity_super_heated","count":1}}

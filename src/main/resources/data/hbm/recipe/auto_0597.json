@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E E","E E"],"key":{"E":"hbm:hazmat_cloth"},"result":{"id":"hbm:hazmat_boots","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ajr_plate","minecraft:red_dye","minecraft:black_dye"],"result":{"id":"hbm:ajro_plate","count":1}}

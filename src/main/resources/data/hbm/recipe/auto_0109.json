@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:battery_sc","#hbm:billet/plutonium238","#hbm:billet/plutonium238"],"result":{"id":"hbm:battery_sc__5","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RRR","WWW","III"],"key":{"R":"minecraft:redstone","W":"#hbm:wirefine/mingrade","I":"#hbm:ingot/steel"},"result":{"id":"hbm:machine_converter_rf_he","count":1}}

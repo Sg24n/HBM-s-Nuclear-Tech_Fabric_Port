@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","ECE"],"key":{"E":"#hbm:ingot/starmetal","C":"hbm:cobalt_helmet"},"result":{"id":"hbm:starmetal_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["W W","S S"],"key":{"W":"minecraft:white_wool","S":"#hbm:ingot/steel"},"result":{"id":"hbm:dieselsuit_boots","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_empty","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead"],"result":{"id":"hbm:rod","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239"],"result":{"id":"hbm:ingot_mox_fuel","count":1}}

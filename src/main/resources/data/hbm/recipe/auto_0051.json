@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" PP","III"," PP"],"key":{"P":"#hbm:plate/titanium","I":"#hbm:ingot/titanium"},"result":{"id":"hbm:fins_quad_titanium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PCP","DMD","PCP"],"key":{"P":"#hbm:ingot/anyplastic","C":"#hbm:wiredense/gold","D":"#hbm:ingot/workersalloy","M":"hbm:motor"},"result":{"id":"hbm:motor_desh","count":1}}

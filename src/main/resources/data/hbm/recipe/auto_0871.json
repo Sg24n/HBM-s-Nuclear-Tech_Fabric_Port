@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/aluminum","I":"minecraft:iron_ingot"},"result":{"id":"hbm:mirror_tool","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_zirnox_zfb_mox_depleted"],"result":{"id":"hbm:waste_zfb_mox__1","count":2}}

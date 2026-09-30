@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WRW","RIR","WRW"],"key":{"W":"hbm:plate_polymer","I":"#hbm:ingot/mingrade","R":"#hbm:wirefine/mingrade"},"result":{"id":"hbm:red_wire_coated","count":16}}
+{"type":"minecraft:crafting_shaped","pattern":[" G ","IRI"],"key":{"G":"minecraft:glowstone_dust","R":"minecraft:redstone_torch","I":"hbm:circuit__5"},"result":{"id":"hbm:radio_torch_controller","count":4}}

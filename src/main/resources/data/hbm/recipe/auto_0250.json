@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["AAD","CHF","AAD"],"key":{"A":"#hbm:wirefine/aluminum","C":"hbm:circuit__8","H":"#hbm:shell/aluminum","F":"hbm:fins_quad_titanium","D":"minecraft:white_dye"},"result":{"id":"hbm:bomb_multi","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IBI","LBL","IBI"],"key":{"B":"minecraft:book","I":"minecraft:black_dye","L":"minecraft:blue_dye"},"result":{"id":"hbm:book_guide","count":1}}

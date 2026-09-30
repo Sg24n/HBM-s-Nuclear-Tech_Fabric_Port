@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IF"],"key":{"I":"#hbm:dust/iodine","F":"#hbm:dust/fluorite"},"result":{"id":"hbm:pill_iodine","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","E E","E E"],"key":{"E":"hbm:asbestos_cloth"},"result":{"id":"hbm:asbestos_legs","count":1}}

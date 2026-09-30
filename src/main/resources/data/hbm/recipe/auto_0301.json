@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BPB","PTP","BPB"],"key":{"B":"hbm:inf_water","P":"#hbm:ntmpipe/steel","T":"#hbm:shell/steel"},"result":{"id":"hbm:inf_water_mk2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["STS","THT","STS"],"key":{"S":"hbm:cell_uf6","T":"#hbm:dust/aluminum","H":"hbm:crystal_charred"},"result":{"id":"hbm:crystal_pulsar","count":32}}

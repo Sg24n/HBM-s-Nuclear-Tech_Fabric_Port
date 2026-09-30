@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LUL","LTL","LUL"],"key":{"L":"#hbm:plate/lead","U":"#hbm:billet/uranium238","T":"hbm:fluid_tank_empty"},"result":{"id":"hbm:fluid_tank_lead_empty","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/neptunium237","#hbm:dust/iodine","#hbm:dust/thorium232","#hbm:dust/astatine","#hbm:dust/neodymium","#hbm:dust/caesium","hbm:block_meteor","hbm:gravel_obsidian","minecraft:water_bucket"],"result":{"id":"hbm:crystal_horn","count":1}}

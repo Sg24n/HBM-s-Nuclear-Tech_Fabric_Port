@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["121","1G1","121"],"key":{"1":"#hbm:plate/steel","2":"#hbm:plate/aluminum","G":"minecraft:glass_pane"},"result":{"id":"hbm:fluid_barrel_empty","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["STS","THT","STS"],"key":{"S":"hbm:particle_strange","T":"#hbm:dust/tungsten","H":"hbm:crystal_horn"},"result":{"id":"hbm:crystal_virus","count":1}}

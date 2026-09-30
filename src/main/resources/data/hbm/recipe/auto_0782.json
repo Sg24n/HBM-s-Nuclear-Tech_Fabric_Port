@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye__2","hbm:chemical_dye__15"],"result":{"id":"hbm:chemical_dye__10","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/neptunium237","#hbm:nugget/neptunium237","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238"],"result":{"id":"hbm:billet_neptunium_fuel","count":1}}

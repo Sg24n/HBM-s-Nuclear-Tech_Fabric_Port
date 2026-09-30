@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IGI","GCG","IGI"],"key":{"C":"hbm:rbmk_blank","I":"hbm:plate_polymer","G":"hbm:steel_grate"},"result":{"id":"hbm:rbmk_cooler","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","PIP"," P "],"key":{"P":"#hbm:plate/steel","I":"hbm:plate_polymer"},"result":{"id":"hbm:filing_cabinet__1","count":1}}

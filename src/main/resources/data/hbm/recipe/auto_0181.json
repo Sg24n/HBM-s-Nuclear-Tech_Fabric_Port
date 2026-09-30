@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:concrete_colored"],"result":{"id":"hbm:concrete_smooth","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DD","DD"],"key":{"D":"hbm:ducrete_smooth"},"result":{"id":"hbm:ducrete","count":4}}

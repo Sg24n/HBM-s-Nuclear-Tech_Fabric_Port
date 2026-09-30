@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MAM"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","A":"hbm:gun_light_revolver"},"result":{"id":"hbm:gun_light_revolver_atlas","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_quad_empty","#hbm:ingot/lead","#hbm:ingot/lead","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead"],"result":{"id":"hbm:rod_quad","count":1}}

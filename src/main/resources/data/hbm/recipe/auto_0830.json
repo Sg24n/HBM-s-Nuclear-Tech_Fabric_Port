@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"hbm:billet_pu_mix","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__6","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/neptunium237","#hbm:dust/iodine","#hbm:dust/thorium232","#hbm:dust/astatine","#hbm:dust/neodymium","#hbm:dust/caesium"],"result":{"id":"hbm:powder_nitan_mix","count":6}}

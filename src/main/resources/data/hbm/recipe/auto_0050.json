@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" PI","III"," PI"],"key":{"P":"#hbm:plate/steel","I":"#hbm:ingot/steel"},"result":{"id":"hbm:fins_big_steel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" R ","ICI"," T "],"key":{"R":"#hbm:wirefine/mingrade","T":"hbm:coil_copper_torus","I":"#hbm:plate/steel","C":"hbm:coil_copper"},"result":{"id":"hbm:motor","count":2}}

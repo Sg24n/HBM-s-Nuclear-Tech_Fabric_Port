@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MDM"," M "],"key":{"M":"hbm:fragment_meteorite","D":"minecraft:diamond"},"result":{"id":"hbm:protection_charm","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:coffee","#hbm:nugget/radium226"],"result":{"id":"hbm:coffee_radium","count":1}}

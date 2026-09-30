@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TCT","MJM","B B"],"key":{"C":"hbm:circuit__9","T":"hbm:tank_steel","J":"hbm:jetpack_break","M":"hbm:motor","B":"#hbm:bolt/durasteel"},"result":{"id":"hbm:jetpack_vector","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPC","PBP","IXI"],"key":{"P":"hbm:plate_armor_ajr","C":"hbm:circuit__8","I":"#hbm:ingot/anyplastic","X":"hbm:gas_mask_m65","B":"hbm:titanium_helmet"},"result":{"id":"hbm:ajr_helmet","count":1}}

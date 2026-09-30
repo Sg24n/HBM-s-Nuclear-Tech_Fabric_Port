@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rangefinder","hbm:circuit__9","#hbm:ingot/rubber","#hbm:wiredense/gold"],"result":{"id":"hbm:detonator_laser","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","IWI","III"],"key":{"I":"#hbm:ingot/anyrubber","W":"minecraft:white_wool"},"result":{"id":"hbm:upgrade_muffler","count":16}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" D","S "," S"],"key":{"D":"#hbm:ingot/durasteel","S":"minecraft:stick"},"result":{"id":"hbm:hand_drill","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_empty","hbm:rod_empty","hbm:rod_empty","hbm:rod_empty"],"result":{"id":"hbm:rod_quad_empty","count":1}}

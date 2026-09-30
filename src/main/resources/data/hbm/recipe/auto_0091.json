@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","I","S"],"key":{"C":"hbm:coil_copper","I":"hbm:plate_polymer","S":"#hbm:ingot/steel"},"result":{"id":"hbm:red_connector","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["S","W"],"key":{"S":"minecraft:lever","W":"hbm:red_wire_coated"},"result":{"id":"hbm:cable_switch","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PWP","PCP","PWP"],"key":{"P":"#hbm:plate/steel","C":"hbm:battery_pack","W":"#hbm:wiredense/mingrade"},"result":{"id":"hbm:armor_battery","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","ESE","EPE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_legs","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_legs","count":1}}

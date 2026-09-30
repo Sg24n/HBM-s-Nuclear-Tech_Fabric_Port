@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_pu238","hbm:billet_pu238","hbm:billet_pu238","hbm:billet_beryllium","hbm:billet_beryllium","hbm:billet_beryllium"],"result":{"id":"hbm:billet_pu238be","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["LLL","SIS","LLL"],"key":{"L":"#hbm:ingot/anyrubber","S":"hbm:syringe_metal_stimpak","I":"hbm:pill_iodine"},"result":{"id":"hbm:med_bag","count":1}}

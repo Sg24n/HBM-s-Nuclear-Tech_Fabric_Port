@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","DJD","PAP"],"key":{"C":"hbm:circuit__9","P":"#hbm:plate/saturnite","D":"#hbm:ingot/workersalloy","J":"hbm:jetpack_vector","A":"#hbm:platetriple/copper"},"result":{"id":"hbm:jetpack_boost","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MPM","TBT","PPP"],"key":{"M":"hbm:motor_desh","P":"hbm:plate_armor_ajr","T":"hbm:gas_empty","B":"hbm:titanium_plate"},"result":{"id":"hbm:ajr_plate","count":1}}

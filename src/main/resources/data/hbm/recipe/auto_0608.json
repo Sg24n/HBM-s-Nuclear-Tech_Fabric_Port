@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","E E","E E"],"key":{"E":"hbm:asbestos_cloth"},"result":{"id":"hbm:asbestos_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PWP","PBP","FSF"],"key":{"P":"hbm:plate_armor_fau","W":"minecraft:white_wool","B":"hbm:starmetal_helmet","F":"hbm:gas_mask_filter","S":"#hbm:ntmpipe/steel"},"result":{"id":"hbm:fau_helmet","count":1}}

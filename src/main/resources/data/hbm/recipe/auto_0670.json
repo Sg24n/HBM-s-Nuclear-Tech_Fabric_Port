@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PRP","DPD"],"key":{"R":"hbm:cladding_rubber","P":"#hbm:plate/lead","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_lead","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","GPG"," F "],"key":{"G":"minecraft:glass_pane","P":"minecraft:leather","F":"minecraft:iron_ingot"},"result":{"id":"hbm:gas_mask_olde","count":1}}

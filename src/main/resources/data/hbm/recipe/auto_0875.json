@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["  I"," I ","S  "],"key":{"S":"#hbm:ingot/steel","I":"minecraft:iron_ingot"},"result":{"id":"hbm:screwdriver","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_quad_empty"],"result":{"id":"hbm:rod_empty","count":4}}

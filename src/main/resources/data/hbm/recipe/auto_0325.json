@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W  ","WW ","WWW"],"key":{"W":"hbm:pink_planks"},"result":{"id":"hbm:pink_stairs","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["EAE","ASA","EAE"],"key":{"E":"hbm:plate_euphemium","A":"hbm:cell_anti_schrabidium","S":"hbm:singularity"},"result":{"id":"hbm:ams_core_sing","count":1}}

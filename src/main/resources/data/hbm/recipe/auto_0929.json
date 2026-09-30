@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/weaponsteel","#hbm:platetriple/ferrouranium","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__11","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GRC","  S"],"key":{"G":"minecraft:glass_pane","R":"minecraft:redstone","C":"hbm:circuit__8","S":"#hbm:plate/steel"},"result":{"id":"hbm:rangefinder","count":1}}

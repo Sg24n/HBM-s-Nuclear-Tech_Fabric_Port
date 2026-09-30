@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GPP","P  ","FPP"],"key":{"G":"minecraft:gold_ingot","P":"hbm:plate_bismuth","F":"hbm:rag"},"result":{"id":"hbm:bismuth_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P P","I I"],"key":{"P":"#hbm:plate/steel","I":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:security_boots","count":1}}

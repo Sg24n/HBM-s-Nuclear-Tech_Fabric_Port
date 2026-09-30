@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:solid_fuel","hbm:cordite","#hbm:dust/saltpeter"],"result":{"id":"hbm:powder_semtex_mix","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["PWP","PCP","PWP"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:battery_pack","W":"#hbm:wiredense/mingrade"},"result":{"id":"hbm:armor_battery_mk2","count":1}}

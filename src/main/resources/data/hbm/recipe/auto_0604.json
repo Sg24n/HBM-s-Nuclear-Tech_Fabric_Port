@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","E E","E E"],"key":{"E":"hbm:hazmat_cloth_grey"},"result":{"id":"hbm:hazmat_legs_grey","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPC","PBP","IFI"],"key":{"P":"hbm:plate_armor_hev","C":"hbm:circuit__8","B":"hbm:titanium_helmet","I":"#hbm:ingot/anyplastic","F":"hbm:gas_mask_filter"},"result":{"id":"hbm:hev_helmet","count":1}}

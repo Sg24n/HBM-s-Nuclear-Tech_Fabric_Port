@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["L","S"],"key":{"L":"#hbm:gem/lignite","S":"minecraft:stick"},"result":{"id":"minecraft:torch","count":3}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:geiger"],"result":{"id":"hbm:geiger_counter","count":1}}

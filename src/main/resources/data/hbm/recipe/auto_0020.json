@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S ","G G"," S "],"key":{"S":"#hbm:plate/steel","G":"minecraft:glass_pane"},"result":{"id":"hbm:cell_empty","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["I","P"],"key":{"I":"hbm:plate_polymer","P":"#hbm:plate/copper"},"result":{"id":"hbm:circuit__3","count":1}}

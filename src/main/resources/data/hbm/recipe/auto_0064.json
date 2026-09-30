@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plant_flower__3"],"result":{"id":"minecraft:string","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["H","G","G"],"key":{"G":"hbm:shimmer_handle","H":"hbm:shimmer_axe_head"},"result":{"id":"hbm:shimmer_axe","count":1}}

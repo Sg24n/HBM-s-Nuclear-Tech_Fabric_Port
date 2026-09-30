@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TTT","TRT","TTT"],"key":{"T":"hbm:pellet_gas","R":"hbm:rangefinder"},"result":{"id":"hbm:bomb_caller__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["W W","P P"],"key":{"W":"#hbm:wirefine/gold","P":"hbm:plate_bismuth"},"result":{"id":"hbm:bismuth_boots","count":1}}

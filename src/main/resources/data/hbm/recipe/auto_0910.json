@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","PGM"],"key":{"B":"#hbm:barrelheavy/weaponsteel","P":"hbm:circuit__9","G":"#hbm:grip/weaponsteel","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:gun_stinger","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ZLZ","L L","ZLZ"],"key":{"Z":"#hbm:wirefine/zirconium","L":"#hbm:wirefine/lead"},"result":{"id":"hbm:icf_pellet_empty","count":1}}

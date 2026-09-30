@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PIP","I I","PIP"],"key":{"P":"#hbm:plate/steel","I":"#hbm:ingot/steel"},"result":{"id":"hbm:sphere_steel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BCB","SDS","BCB"],"key":{"B":"#hbm:nugget/bismuth","C":"#hbm:wiredense/neodymium","S":"#hbm:platetriple/steel","D":"#hbm:ingot/durasteel"},"result":{"id":"hbm:motor_bismuth","count":1}}

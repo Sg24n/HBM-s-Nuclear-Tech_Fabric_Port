@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I I","ICI","GGG"],"key":{"I":"#hbm:plate/iron","G":"#hbm:plate/gold","C":"hbm:circuit__9"},"result":{"id":"hbm:linker","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye__1","hbm:chemical_dye__15"],"result":{"id":"hbm:chemical_dye__9","count":2}}

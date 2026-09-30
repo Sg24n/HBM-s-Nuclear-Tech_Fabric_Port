@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EPE","ESE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_boots","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["FSF","   ","FSF"],"key":{"F":"hbm:rag","S":"hbm:ring_starmetal"},"result":{"id":"hbm:bismuth_legs","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ajr_plate","minecraft:red_dye","minecraft:black_dye"],"result":{"id":"hbm:ajro_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CIC","PRP","CIC"],"key":{"C":"#hbm:ntmpipe/copper","P":"#hbm:shell/steel","R":"hbm:rbmk_blank","I":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:rbmk_heater","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","PBP","PSP"],"key":{"P":"hbm:plate_armor_dnt","S":"hbm:ingot_chainsteel","B":"hbm:bj_boots","C":"hbm:demon_core_closed"},"result":{"id":"hbm:dns_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","IMI"," I "],"key":{"I":"#hbm:ingot/steel","M":"hbm:circuit__8"},"result":{"id":"hbm:cm_circuit__2","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:canned_conserve"],"result":{"id":"hbm:canned_conserve__24","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["E E","EEE","EEE"],"key":{"E":"hbm:hazmat_cloth"},"result":{"id":"hbm:hazmat_plate","count":1}}

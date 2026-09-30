@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PKP","DSD","PKP"],"key":{"P":"#hbm:ingot/asbestos","K":"hbm:insert_esapi","D":"hbm:ducttape","S":"#hbm:plate/saturnite"},"result":{"id":"hbm:insert_xsapi","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ECE","EEE","EEE"],"key":{"E":"#hbm:ingot/starmetal","C":"hbm:cobalt_plate"},"result":{"id":"hbm:starmetal_plate","count":1}}

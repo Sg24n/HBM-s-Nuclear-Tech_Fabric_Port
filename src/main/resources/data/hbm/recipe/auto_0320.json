@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ICI","CPC","ICI"],"key":{"I":"#hbm:ingot/titanium","C":"#hbm:dust/coal","P":"hbm:rad_absorber"},"result":{"id":"hbm:rad_absorber__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BPB","PTP","BPB"],"key":{"B":"hbm:inf_water","P":"#hbm:ntmpipe/steel","T":"#hbm:shell/steel"},"result":{"id":"hbm:inf_water_mk2","count":1}}

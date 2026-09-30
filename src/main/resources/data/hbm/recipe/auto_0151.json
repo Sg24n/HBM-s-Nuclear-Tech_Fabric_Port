@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PBP"," P "],"key":{"P":"hbm:plate_desh","B":"hbm:blades_titanium"},"result":{"id":"hbm:blades_desh","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","ACA"," S "],"key":{"M":"hbm:motor","A":"#hbm:plate/aluminum","C":"#hbm:shell/copper","S":"#hbm:platetriple/steel"},"result":{"id":"hbm:pile_device__1","count":1}}

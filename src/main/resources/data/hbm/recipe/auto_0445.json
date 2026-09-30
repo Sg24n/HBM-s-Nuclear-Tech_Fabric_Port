@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe_green","C":"minecraft:green_dye"},"result":{"id":"hbm:deco_pipe_marked","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["RRR","R R","RRR"],"key":{"R":"hbm:deco_rbmk_smooth"},"result":{"id":"hbm:rbmk_blank","count":1}}

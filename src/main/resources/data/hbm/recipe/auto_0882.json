@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:blueprints","hbm:blueprints","hbm:blueprints","hbm:blueprints","hbm:blueprints","hbm:fragment_meteorite"],"result":{"id":"hbm:blueprint_folder__1","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_quad_empty","#hbm:ingot/lithium","#hbm:ingot/lithium","#hbm:ingot/lithium","#hbm:ingot/lithium"],"result":{"id":"hbm:rod_quad","count":1}}

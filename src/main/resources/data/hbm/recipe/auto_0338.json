@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fence_metal"],"result":{"id":"hbm:fence_metal__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BBB","BBB","TTT"],"key":{"B":"#hbm:bolt/steel","T":"#hbm:ingot/steel"},"result":{"id":"hbm:spikes","count":4}}

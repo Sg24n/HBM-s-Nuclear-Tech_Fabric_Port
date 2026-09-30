@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ZLZ","L L","ZLZ"],"key":{"Z":"#hbm:wirefine/zirconium","L":"#hbm:wirefine/lead"},"result":{"id":"hbm:icf_pellet_empty","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/lead","#hbm:dust/sulfur","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":8}}

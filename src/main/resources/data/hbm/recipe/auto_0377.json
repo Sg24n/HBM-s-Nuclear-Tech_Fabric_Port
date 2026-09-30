@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GNG","RUR","GMG"],"key":{"R":"#hbm:ingot/rubber","M":"hbm:motor","G":"hbm:coil_gold","N":"#hbm:ingot/niobium","U":"hbm:upgrade_template"},"result":{"id":"hbm:upgrade_gc_speed","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rune_blank","hbm:powder_spark_mix","hbm:singularity_super_heated"],"result":{"id":"hbm:rune_hagalaz","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ams_catalyst_blank","hbm:rune_isa","hbm:rune_isa","hbm:rune_thurisaz","hbm:rune_thurisaz","#hbm:dust/caesium","#hbm:dust/caesium","#hbm:dust/caesium","#hbm:dust/caesium"],"result":{"id":"hbm:ams_catalyst_caesium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BIB","BIB"],"key":{"B":"minecraft:iron_bars","I":"minecraft:iron_ingot"},"result":{"id":"hbm:fence_metal","count":6}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["  P","BBB"],"key":{"P":"#hbm:plate/steel","B":"#hbm:bolt/steel"},"result":{"id":"hbm:weapon_mod_special__10","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","L L","SSS"],"key":{"S":"#hbm:plate/steel","L":"#hbm:plate/lead"},"result":{"id":"hbm:rod_empty","count":16}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_empty","hbm:rod_empty","hbm:rod_empty","hbm:rod_empty"],"result":{"id":"hbm:rod_quad_empty","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_schrabidium_fuel"},"result":{"id":"hbm:block_schrabidium_fuel","count":1}}

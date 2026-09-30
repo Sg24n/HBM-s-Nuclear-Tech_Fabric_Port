@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" IP","IIM"," IP"],"key":{"I":"#hbm:ingot/saturnite","P":"#hbm:ingot/anyhardplastic","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:weapon_mod_special__21","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod"],"result":{"id":"hbm:lithium","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/workersalloy","R":"#hbm:receiverlight/workersalloy","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_heavy_revolver","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:egg_balefire"},"result":{"id":"hbm:egg_balefire_shard","count":9}}

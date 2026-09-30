@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TPT","CPC","TPT"],"key":{"T":"hbm:ball_tatb","C":"hbm:neutron_reflector","P":"#hbm:nugget/plutonium239"},"result":{"id":"hbm:grenade_filling","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_steel","D":"hbm:powder_chlorophyte","A":"#hbm:ingot/fiberglass","P":"hbm:bismuth_axe","F":"#hbm:bolt/durasteel"},"result":{"id":"hbm:chlorophyte_axe","count":1}}

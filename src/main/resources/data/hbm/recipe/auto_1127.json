@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/gunmetal","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__6","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye__2","hbm:chemical_dye__15"],"result":{"id":"hbm:chemical_dye__10","count":2}}

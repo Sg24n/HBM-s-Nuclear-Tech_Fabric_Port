@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["UMU"],"key":{"U":"hbm:gun_uzi","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:gun_uzi_akimbo","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"hbm:nitra"},"result":{"id":"hbm:ammo_container__1","count":1}}

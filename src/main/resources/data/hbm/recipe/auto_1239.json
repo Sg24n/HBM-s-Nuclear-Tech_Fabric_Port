@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","LTL","LIL"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","I":"#hbm:plate/iron","T":"hbm:cell_tritium"},"result":{"id":"hbm:custom_hydro","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["WGW","WCW","WBW"],"key":{"W":"#minecraft:planks","G":"minecraft:glass_pane","C":"hbm:circuit","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:dosimeter","count":1}}

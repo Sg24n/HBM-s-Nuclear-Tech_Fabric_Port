@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PIP","WWW","PIP"],"key":{"P":"#hbm:plate/weaponsteel","I":"#hbm:ingot/gunmetal","W":"#hbm:wiredense/gold"},"result":{"id":"hbm:weapon_mod_special__5","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_zirnox_thorium_fuel_depleted"],"result":{"id":"hbm:waste_thorium__1","count":2}}

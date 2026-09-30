@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CIC","CSC","CCC"],"key":{"C":"hbm:cordite","I":"minecraft:iron_block","S":"#hbm:shell/copper"},"result":{"id":"hbm:ammo_arty","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ZRZ","Z Z","ZRZ"],"key":{"Z":"#hbm:ingot/zirconium","R":"hbm:rod_quad_empty"},"result":{"id":"hbm:rbmk_fuel_empty","count":1}}

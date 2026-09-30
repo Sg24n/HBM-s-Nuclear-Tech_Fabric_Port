@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","DSD","DSD"],"key":{"W":"#hbm:wiredense/magnetizedtungsten","D":"hbm:plate_dineutronium","S":"hbm:powder_spark_mix"},"result":{"id":"hbm:battery_spark","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["I I","ICI","GGG"],"key":{"I":"#hbm:plate/iron","G":"#hbm:plate/gold","C":"hbm:circuit__9"},"result":{"id":"hbm:linker","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IW"," S"," S"],"key":{"I":"#hbm:ingot/schrabidium","W":"hbm:desh_hoe","S":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_hoe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:powder_cobalt_tiny"},"result":{"id":"hbm:powder_cobalt","count":1}}

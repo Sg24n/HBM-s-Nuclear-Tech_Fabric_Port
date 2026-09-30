@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BSB"," W "," P "],"key":{"B":"hbm:blades_desh","S":"hbm:block_schrabidium","W":"hbm:desh_pickaxe","P":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_pickaxe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:powder_steel"},"result":{"id":"hbm:powder_steel_tiny","count":9}}

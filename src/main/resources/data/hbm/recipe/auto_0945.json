@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye__1","hbm:chemical_dye__4"],"result":{"id":"hbm:chemical_dye__5","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_australium"},"result":{"id":"hbm:block_australium","count":1}}

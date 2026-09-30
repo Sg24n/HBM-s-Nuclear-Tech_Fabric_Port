@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_zirnox_plutonium_fuel_depleted"],"result":{"id":"hbm:waste_plutonium__1","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_polonium"},"result":{"id":"hbm:block_polonium","count":1}}

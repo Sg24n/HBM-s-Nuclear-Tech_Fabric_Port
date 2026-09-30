@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_zirnox_u235_fuel_depleted"],"result":{"id":"hbm:waste_u235__1","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_pu238"},"result":{"id":"hbm:block_pu238","count":1}}

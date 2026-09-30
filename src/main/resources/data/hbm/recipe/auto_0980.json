@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_dual"],"result":{"id":"hbm:nugget_lead","count":12}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_titanium"},"result":{"id":"hbm:ingot_titanium","count":9}}

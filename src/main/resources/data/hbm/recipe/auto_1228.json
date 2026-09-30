@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DDD","DSD","DDD"],"key":{"D":"hbm:stick_dynamite","S":"hbm:safety_fuse"},"result":{"id":"hbm:dynamite","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ITI"," S "," S "],"key":{"I":"#hbm:plate/iron","T":"minecraft:tnt","S":"minecraft:stick"},"result":{"id":"hbm:ullapool_caber","count":1}}

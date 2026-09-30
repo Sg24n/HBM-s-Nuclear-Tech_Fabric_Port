@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:sat_chip","hbm:ducttape","hbm:radar_linker"],"result":{"id":"hbm:sat_relay","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:nugget_polonium"},"result":{"id":"hbm:ingot_polonium","count":1}}

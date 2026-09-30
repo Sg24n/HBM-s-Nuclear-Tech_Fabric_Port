@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","TIT","TIT"],"key":{"C":"#hbm:plate/copper","I":"#hbm:plate/iron","T":"#hbm:ingot/anyhighexplosive"},"result":{"id":"hbm:custom_tnt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SWS"," G ","PCP"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:ingot/anyplastic","C":"hbm:circuit__9","S":"#hbm:plate/steel","G":"minecraft:gold_ingot"},"result":{"id":"hbm:survey_scanner","count":1}}

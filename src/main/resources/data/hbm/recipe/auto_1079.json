@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","BGS"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/steel","M":"#hbm:gunmechanism/gunmetal","G":"#hbm:bolt/steel","S":"#hbm:stock/wood"},"result":{"id":"hbm:gun_maresleg","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:powder_actinium"},"result":{"id":"hbm:powder_actinium_tiny","count":9}}

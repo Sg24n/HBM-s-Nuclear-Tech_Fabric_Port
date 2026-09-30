@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["A A","PSP","PSP"],"key":{"A":"#hbm:plate/aluminum","P":"#hbm:plate/steel","S":"hbm:steel_scaffold"},"result":{"id":"hbm:mp_stability_15_thin","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_dual_empty","#hbm:billet/cobalt60","#hbm:billet/cobalt60"],"result":{"id":"hbm:rod_dual__3","count":1}}

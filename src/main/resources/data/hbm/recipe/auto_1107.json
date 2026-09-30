@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" CM","BBB","G  "],"key":{"C":"hbm:circuit__9","M":"#hbm:gunmechanism/weaponsteel","B":"#hbm:barrelheavy/anyresistantalloy","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_missile_launcher","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/iron","#hbm:dust/iron","#hbm:dust/iron","#hbm:dust/aluminum"],"result":{"id":"hbm:powder_thermite","count":4}}

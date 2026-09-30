@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" MG","BBR"," GM"],"key":{"M":"#hbm:gunmechanism/gunmetal","G":"#hbm:grip/durasteel","B":"#hbm:barrelheavy/durasteel","R":"#hbm:receiverheavy/durasteel"},"result":{"id":"hbm:gun_flamer","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:nuclear_waste"},"result":{"id":"hbm:nuclear_waste_tiny","count":9}}

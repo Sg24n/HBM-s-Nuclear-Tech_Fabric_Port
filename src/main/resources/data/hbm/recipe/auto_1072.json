@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:casing__3"},"result":{"id":"hbm:casing__6","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:powder_niobium_tiny"},"result":{"id":"hbm:powder_niobium","count":1}}

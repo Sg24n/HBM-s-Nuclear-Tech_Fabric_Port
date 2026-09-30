@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CRM","GG "],"key":{"C":"hbm:crystal_redstone","R":"#hbm:receiverlight/saturnite","M":"#hbm:gunmechanism/saturnite","G":"#hbm:grip/anyhardplastic"},"result":{"id":"hbm:gun_laser_pistol","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/boron","#hbm:dust/boron","#hbm:dust/lanthanum","#hbm:dust/lanthanum","#hbm:dust/cerium","#hbm:dust/cobalt","#hbm:dust/lithium","#hbm:dust/neodymium","#hbm:dust/niobium"],"result":{"id":"hbm:powder_desh_mix","count":9}}

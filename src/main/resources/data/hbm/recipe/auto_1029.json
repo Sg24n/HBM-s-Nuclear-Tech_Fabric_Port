@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["WWW","CPC","WWW"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:ingot/anyplastic","C":"hbm:circuit__9"},"result":{"id":"hbm:turret_chip","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:ingot_th232"},"result":{"id":"hbm:nugget_th232","count":9}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","S"],"key":{"I":"#hbm:dust/redphosphorus","S":"minecraft:stick"},"result":{"id":"hbm:matchstick","count":24}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_fiberglass"},"result":{"id":"hbm:ingot_fiberglass","count":9}}

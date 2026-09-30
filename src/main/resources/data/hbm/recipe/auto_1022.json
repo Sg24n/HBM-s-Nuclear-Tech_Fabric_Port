@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GRC","  S"],"key":{"G":"minecraft:glass_pane","R":"minecraft:redstone","C":"hbm:circuit__8","S":"#hbm:plate/steel"},"result":{"id":"hbm:rangefinder","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:nugget_pu238"},"result":{"id":"hbm:ingot_pu238","count":1}}

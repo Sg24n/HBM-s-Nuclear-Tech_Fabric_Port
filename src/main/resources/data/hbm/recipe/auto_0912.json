@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:solid_fuel","hbm:cordite","#hbm:dust/saltpeter"],"result":{"id":"hbm:powder_semtex_mix","count":3}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/plutonium238","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium240","#hbm:nugget/plutonium240","#hbm:nugget/plutonium240"],"result":{"id":"hbm:ingot_plutonium_fuel","count":1}}

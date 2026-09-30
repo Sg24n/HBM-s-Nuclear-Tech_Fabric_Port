@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ammo_arty","hbm:boy_bullet","hbm:boy_target","hbm:boy_shielding","hbm:circuit__13","hbm:ducttape"],"result":{"id":"hbm:ammo_arty__4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"hbm:billet_mox_fuel","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__5","count":1}}

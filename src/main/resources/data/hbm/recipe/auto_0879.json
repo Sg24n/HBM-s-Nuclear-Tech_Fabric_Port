@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/zirconium","#hbm:nugget/uranium235","#hbm:nugget/plutonium240","#hbm:nugget/plutonium241"],"result":{"id":"hbm:billet_zfb_pu241","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","hbm:nugget_uranium_fuel","hbm:nugget_uranium_fuel","hbm:nugget_uranium_fuel","hbm:nugget_uranium_fuel"],"result":{"id":"hbm:billet_mox_fuel","count":1}}

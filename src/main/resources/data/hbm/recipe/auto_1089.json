@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRS"," GM"],"key":{"B":"#hbm:barrellight/workersalloy","R":"#hbm:receiverlight/workersalloy","S":"#hbm:stock/anyplastic","G":"#hbm:grip/anyplastic","M":"#hbm:gunmechanism/gunmetal"},"result":{"id":"hbm:gun_uzi","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:nitra"},"result":{"id":"hbm:nitra_small","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:missile_assembly","hbm:ducttape","hbm:black_hole","hbm:circuit__14"],"result":{"id":"hbm:missile_bhole","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_empty","#hbm:billet/cobalt"],"result":{"id":"hbm:rod__2","count":1}}

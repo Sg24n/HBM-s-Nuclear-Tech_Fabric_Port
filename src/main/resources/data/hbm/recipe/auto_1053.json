@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GIG","GCG"],"key":{"G":"hbm:glass_boron","I":"#hbm:ingot/steel","C":"#hbm:ingot/cobalt"},"result":{"id":"hbm:chemistry_set_boron","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:ingot_plutonium_fuel"},"result":{"id":"hbm:nugget_plutonium_fuel","count":9}}

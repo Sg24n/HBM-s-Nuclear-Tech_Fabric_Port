@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","F"],"key":{"S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:billet/solinium","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__12","count":1}}

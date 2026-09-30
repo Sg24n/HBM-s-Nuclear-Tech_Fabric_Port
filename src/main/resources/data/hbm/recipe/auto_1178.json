@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","CTC","CCC"],"key":{"C":"#hbm:ingot/anyrubber","T":"hbm:mp_fuselage_10_solid"},"result":{"id":"hbm:mp_fuselage_10_solid_insulation","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_empty","#hbm:billet/radium226"],"result":{"id":"hbm:rod__14","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" IP","IIM"," IP"],"key":{"I":"#hbm:ingot/anyresistantalloy","P":"#hbm:ingot/rubber","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:weapon_mod_special__20","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_empty","#hbm:ingot/lithium"],"result":{"id":"hbm:rod","count":1}}

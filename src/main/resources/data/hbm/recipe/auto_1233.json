@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" D ","ERE"," D "],"key":{"D":"hbm:ducttape","E":"hbm:det_charge","R":"minecraft:redstone_block"},"result":{"id":"hbm:n2_charge","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rangefinder","hbm:circuit__9","#hbm:ingot/anyplastic"],"result":{"id":"hbm:designator_arty_range","count":1}}

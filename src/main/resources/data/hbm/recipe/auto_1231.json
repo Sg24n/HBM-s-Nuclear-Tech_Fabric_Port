@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["L","M"],"key":{"M":"hbm:mine_ap","L":"hbm:pellet_buckshot"},"result":{"id":"hbm:mine_shrap","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rangefinder","hbm:designator","#hbm:ingot/anyplastic"],"result":{"id":"hbm:designator_range","count":1}}

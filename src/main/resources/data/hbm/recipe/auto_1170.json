@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ASA"," S ","PSP"],"key":{"A":"#hbm:plate/titanium","P":"#hbm:plate/steel","S":"hbm:steel_scaffold"},"result":{"id":"hbm:mp_stability_10_cruise","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_dual"],"result":{"id":"hbm:billet_cobalt","count":2}}

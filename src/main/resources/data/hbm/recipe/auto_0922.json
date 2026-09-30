@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/iron","#hbm:dust/copper","#hbm:dust/lithium","#hbm:dust/netherquartz"],"result":{"id":"hbm:powder_meteorite","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/am241","#hbm:nugget/am241","#hbm:nugget/am241","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242"],"result":{"id":"hbm:ingot_am_mix","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_desh","D":"hbm:powder_dineutronium","A":"hbm:plate_paa","P":"hbm:chlorophyte_pickaxe","F":"hbm:shimmer_handle"},"result":{"id":"hbm:mese_pickaxe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_plutonium_fuel"},"result":{"id":"hbm:ingot_plutonium_fuel","count":9}}

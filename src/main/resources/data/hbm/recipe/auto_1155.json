@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" IP","IIM"," IP"],"key":{"I":"#hbm:ingot/durasteel","P":"#hbm:ingot/anyplastic","M":"#hbm:gunmechanism/gunmetal"},"result":{"id":"hbm:weapon_mod_special__18","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_empty","hbm:rod_empty","hbm:rod_empty","hbm:rod_empty"],"result":{"id":"hbm:rod_quad_empty","count":1}}

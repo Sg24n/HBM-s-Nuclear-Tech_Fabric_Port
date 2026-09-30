@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_quad"],"result":{"id":"hbm:nugget_lead","count":24}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_uranium"},"result":{"id":"hbm:ingot_uranium","count":9}}

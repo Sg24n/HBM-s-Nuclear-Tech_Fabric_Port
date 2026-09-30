@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BCB","BMB","GG "],"key":{"B":"#hbm:barrelheavy/ferrouranium","C":"hbm:circuit__9","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_quadro","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/neptunium237","#hbm:dust/iodine","#hbm:dust/thorium232","#hbm:dust/astatine","#hbm:dust/neodymium","#hbm:dust/caesium"],"result":{"id":"hbm:powder_nitan_mix","count":6}}

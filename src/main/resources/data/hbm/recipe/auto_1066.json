@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BS","BW"," P"],"key":{"B":"hbm:blades_desh","S":"hbm:block_schrabidium","W":"hbm:desh_axe","P":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_axe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:powder_lithium_tiny"},"result":{"id":"hbm:powder_lithium","count":1}}

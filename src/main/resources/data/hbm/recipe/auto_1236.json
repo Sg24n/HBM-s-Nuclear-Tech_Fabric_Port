@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","DTD","DSD"],"key":{"W":"#hbm:wiredense/magnetizedtungsten","D":"#hbm:platetriple/saturnite","S":"hbm:powder_power","T":"hbm:crystal_trixite"},"result":{"id":"hbm:battery_trixite","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["WWW","CPC","WWW"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:ingot/anyplastic","C":"hbm:circuit__9"},"result":{"id":"hbm:turret_chip","count":1}}

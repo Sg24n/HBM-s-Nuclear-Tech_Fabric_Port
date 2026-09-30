@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:ingot/steel","#hbm:dust/coal"],"result":{"id":"hbm:ingot_steel_dusted","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/u235","#hbm:nugget/u235","#hbm:nugget/u235","#hbm:nugget/u238","#hbm:nugget/u238","#hbm:nugget/pu238","#hbm:nugget/pu239","#hbm:nugget/pu239","#hbm:nugget/pu239"],"result":{"id":"hbm:ingot_mox_fuel","count":1}}

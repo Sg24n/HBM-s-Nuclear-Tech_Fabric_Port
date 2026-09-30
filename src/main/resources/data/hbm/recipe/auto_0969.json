@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod"],"result":{"id":"hbm:lithium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:powder_fire"},"result":{"id":"hbm:block_red_phosphorus","count":1}}

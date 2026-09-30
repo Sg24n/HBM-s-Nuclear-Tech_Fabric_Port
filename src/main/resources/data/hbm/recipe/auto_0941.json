@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye__8","hbm:chemical_dye__15"],"result":{"id":"hbm:chemical_dye__7","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["#S#","SXS","#S#"],"key":{"#":"hbm:ingot_schrabidium","S":"hbm:ingot_starmetal","X":"hbm:ingot_schrabidate"},"result":{"id":"hbm:block_schrabidium_cluster","count":1}}

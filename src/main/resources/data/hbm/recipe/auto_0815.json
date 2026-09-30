@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PKP","DSD","PKP"],"key":{"P":"#hbm:ingot/asbestos","K":"hbm:insert_esapi","D":"hbm:ducttape","S":"#hbm:plate/saturnite"},"result":{"id":"hbm:insert_xsapi","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LL","SI","LL"],"key":{"L":"minecraft:leather","S":"hbm:syringe_metal_super","I":"hbm:radaway"},"result":{"id":"hbm:med_bag","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:drone"],"result":{"id":"hbm:drone","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["G","S","C"],"key":{"G":"minecraft:glowstone","S":"hbm:block_steel","C":"hbm:coil_copper_torus"},"result":{"id":"hbm:charger","count":16}}

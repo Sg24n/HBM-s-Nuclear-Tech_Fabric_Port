@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:nitra_small","hbm:nitra_small","hbm:nitra_small","hbm:syringe_metal_empty"],"result":{"id":"hbm:syringe_metal_stimpak","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:can_empty","minecraft:potion","minecraft:sugar","hbm:powder_meteorite_tiny"],"result":{"id":"hbm:can_luna","count":1}}

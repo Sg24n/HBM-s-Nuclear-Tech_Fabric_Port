@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_combine_steel"},"result":{"id":"hbm:block_combine_steel","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/pu239","#hbm:nugget/pu239","#hbm:nugget/pu239","#hbm:nugget/pu239","#hbm:nugget/pu239","#hbm:nugget/pu239","#hbm:nugget/pu240","#hbm:nugget/pu240","#hbm:nugget/pu240"],"result":{"id":"hbm:ingot_pu_mix","count":1}}

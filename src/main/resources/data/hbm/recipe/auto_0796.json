@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LL","SI","LL"],"key":{"L":"#hbm:ingot/anyrubber","S":"hbm:syringe_metal_super","I":"hbm:radaway"},"result":{"id":"hbm:med_bag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" N ","NSN"," N "],"key":{"N":"minecraft:quartz","S":"hbm:syringe_metal_empty"},"result":{"id":"hbm:syringe_metal_medx","count":1}}

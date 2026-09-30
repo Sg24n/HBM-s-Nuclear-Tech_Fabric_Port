@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" D ","DID"," F "],"key":{"D":"hbm:ducttape","I":"#hbm:ingot/anyrubber","F":"#hbm:plate/iron"},"result":{"id":"hbm:attachment_mask_mono","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:iv_blood","#hbm:dust/coal","minecraft:pumpkin_seeds"],"result":{"id":"hbm:radaway","count":1}}

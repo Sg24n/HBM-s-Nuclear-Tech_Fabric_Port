@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BRM","WGS"],"key":{"B":"#hbm:barrellight/weaponsteel","R":"#hbm:receiverlight/weaponsteel","M":"#hbm:gunmechanism/weaponsteel","W":"#hbm:grip/wood","G":"#hbm:grip/rubber","S":"#hbm:stock/wood"},"result":{"id":"hbm:gun_g3","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["I","W","S"],"key":{"I":"hbm:block_schrabidium","W":"hbm:desh_sword","S":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_sword","count":1}}

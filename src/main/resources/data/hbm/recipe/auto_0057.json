@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IP","PP","IP"],"key":{"P":"#hbm:plate/steel","I":"#hbm:ingot/steel"},"result":{"id":"hbm:fins_flat","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["TST","SCS","TST"],"key":{"T":"#hbm:ingot/anyresistantalloy","S":"#hbm:dust/sulfur","C":"hbm:catalyst_clay"},"result":{"id":"hbm:deuterium_filter","count":1}}

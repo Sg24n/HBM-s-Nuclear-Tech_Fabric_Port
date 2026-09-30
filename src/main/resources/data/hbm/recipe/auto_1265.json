@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["L L","LLL"],"key":{"L":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:boat_rubber","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["WWW","CPC","WWW"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:ingot/anyplastic","C":"hbm:circuit__9"},"result":{"id":"hbm:turret_chip","count":1}}

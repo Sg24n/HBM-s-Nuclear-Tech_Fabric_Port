@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/gunmetal","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","#hbm:platetriple/workersalloy","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__6","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","MPM"," M "],"key":{"M":"#hbm:gunmechanism/saturnite","P":"hbm:gun_g3"},"result":{"id":"hbm:gun_g3_zebra","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#hbm:dust/polonium210"],"result":{"id":"hbm:sand_mix__3","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["P","I","S"],"key":{"P":"hbm:polaroid","I":"hbm:flame_pony","S":"#hbm:plate/steel"},"result":{"id":"hbm:obj_tester","count":1}}

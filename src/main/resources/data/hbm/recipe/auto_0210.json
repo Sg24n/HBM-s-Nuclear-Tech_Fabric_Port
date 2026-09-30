@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:concrete_colored"],"result":{"id":"hbm:concrete_smooth","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CBC","CBC","CBC"],"key":{"C":"minecraft:brick","B":"#hbm:ingot/asbestos"},"result":{"id":"hbm:tile_lab","count":4}}

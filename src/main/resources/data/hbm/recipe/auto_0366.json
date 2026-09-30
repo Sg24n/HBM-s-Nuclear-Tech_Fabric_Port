@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","MGM","LLL"],"key":{"L":"minecraft:leather","G":"#hbm:plate/weaponsteel","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:ammo_bag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IGI","ICI","IDI"],"key":{"I":"#hbm:plate/iron","G":"minecraft:iron_bars","C":"hbm:pellet_gas","D":"minecraft:dispenser"},"result":{"id":"hbm:vent_chlorine","count":1}}

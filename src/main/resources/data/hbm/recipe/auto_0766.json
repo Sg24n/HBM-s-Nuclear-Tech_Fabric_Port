@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS","PMP","SSS"],"key":{"S":"hbm:syringe_empty","P":"minecraft:pumpkin_seeds","M":"minecraft:sugar_cane"},"result":{"id":"hbm:syringe_antidote","count":6}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:canned_conserve"],"result":{"id":"hbm:canned_conserve__24","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["OOO","OBO","OOO"],"key":{"O":"hbm:ore_nether_uranium_scorched","B":"minecraft:water_bucket"},"result":{"id":"hbm:ore_nether_uranium","count":8}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:foundry_channel","minecraft:stone_bricks"],"result":{"id":"hbm:foundry_slagtap","count":1}}

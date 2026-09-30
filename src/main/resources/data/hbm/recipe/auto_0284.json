@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rail_large_switch"],"result":{"id":"hbm:rail_large_switch_flipped","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RR"," R"],"key":{"R":"hbm:rail_large_straight"},"result":{"id":"hbm:rail_large_curve_7","count":1}}

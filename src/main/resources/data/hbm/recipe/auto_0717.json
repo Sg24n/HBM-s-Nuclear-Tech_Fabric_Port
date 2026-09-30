@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ESE","EPE","EEE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_plate","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","CBC","III"],"key":{"I":"#hbm:ingot/anyrubber","C":"hbm:cladding_lead","B":"hbm:hazmat_helmet_grey"},"result":{"id":"hbm:liquidator_helmet","count":1}}

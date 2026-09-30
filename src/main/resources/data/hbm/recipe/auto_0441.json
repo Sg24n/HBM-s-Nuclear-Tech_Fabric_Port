@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","BBB","P P"],"key":{"P":"#hbm:plate/steel","L":"hbm:glass_lead","B":"hbm:glass_boron"},"result":{"id":"hbm:rbmk_lid_glass","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","PUP"," C "],"key":{"C":"hbm:circuit__5","P":"hbm:part_generic__2","U":"hbm:upgrade_stack"},"result":{"id":"hbm:upgrade_stack__2","count":1}}

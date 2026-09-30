@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_quad_empty","#hbm:billet/cobalt","#hbm:billet/cobalt","#hbm:billet/cobalt","#hbm:billet/cobalt"],"result":{"id":"hbm:rod_quad__2","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_zirnox_empty","hbm:billet_mox_fuel","#hbm:billet/zirconium"],"result":{"id":"hbm:rod_zirnox__10","count":1}}

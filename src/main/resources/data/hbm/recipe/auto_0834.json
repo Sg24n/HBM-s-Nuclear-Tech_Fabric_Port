@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GBG","BFB","GBG"],"key":{"G":"#hbm:nugget/gold198","B":"#hbm:ingot/boron","F":"hbm:debris_fuel"},"result":{"id":"hbm:medal_liquidator","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["KIK","IDI","KIK"],"key":{"K":"hbm:plate_kevlar","I":"#hbm:ingot/anyrubber","D":"hbm:ducttape"},"result":{"id":"hbm:insert_kevlar","count":1}}

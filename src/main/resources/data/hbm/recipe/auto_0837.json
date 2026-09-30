@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MDM"," M "],"key":{"M":"hbm:fragment_meteorite","D":"minecraft:diamond"},"result":{"id":"hbm:protection_charm","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PKP","DSD","PKP"],"key":{"P":"#hbm:ingot/asbestos","K":"hbm:insert_esapi","D":"hbm:ducttape","S":"#hbm:plate/saturnite"},"result":{"id":"hbm:insert_xsapi","count":1}}

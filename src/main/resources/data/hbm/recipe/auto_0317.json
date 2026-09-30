@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S ","SDS"," S "],"key":{"S":"#hbm:ingot/anyplastic","D":"#hbm:dust/lapis"},"result":{"id":"hbm:record_lc","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RCA","CIC","KCR"],"key":{"R":"minecraft:red_dye","C":"#hbm:wiredense/starmetal","A":"hbm:gem_alexandrite","I":"hbm:ingot_chainsteel","K":"hbm:key"},"result":{"id":"hbm:key_red","count":1}}

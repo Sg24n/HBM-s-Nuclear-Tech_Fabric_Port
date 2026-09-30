@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TST","SCS","TST"],"key":{"T":"#hbm:ingot/anyresistantalloy","S":"#hbm:dust/sulfur","C":"hbm:catalyst_clay"},"result":{"id":"hbm:deuterium_filter","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BCB","SDS","BCB"],"key":{"B":"#hbm:nugget/bismuth","C":"#hbm:wiredense/neodymium","S":"#hbm:platetriple/steel","D":"#hbm:ingot/durasteel"},"result":{"id":"hbm:motor_bismuth","count":1}}

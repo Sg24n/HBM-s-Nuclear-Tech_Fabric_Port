@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","GPG"," F "],"key":{"G":"minecraft:glass_pane","P":"minecraft:leather","F":"minecraft:iron_ingot"},"result":{"id":"hbm:gas_mask_olde","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","EIE"],"key":{"E":"hbm:asbestos_cloth","I":"#hbm:plate/gold"},"result":{"id":"hbm:asbestos_helmet","count":1}}

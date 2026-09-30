@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["C","S","F"],"key":{"C":"hbm:circuit","S":"#hbm:bolt/steel","F":"hbm:safety_fuse"},"result":{"id":"hbm:grenade_fuze","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:missile_assembly","hbm:ducttape","hbm:cell_anti_schrabidium","hbm:circuit__15"],"result":{"id":"hbm:missile_schrabidium","count":1}}

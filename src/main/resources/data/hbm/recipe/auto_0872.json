@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:nugget_am_mix","hbm:nugget_am_mix","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238","#hbm:nugget/uranium238"],"result":{"id":"hbm:billet_americium_fuel","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_th232","hbm:billet_th232","hbm:billet_th232","hbm:billet_th232","hbm:billet_th232","hbm:billet_u233"],"result":{"id":"hbm:billet_thorium_fuel","count":6}}

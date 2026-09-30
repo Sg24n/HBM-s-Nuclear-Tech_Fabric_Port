@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ESE","SBS","ESE"],"key":{"E":"#hbm:nugget/euphemium","S":"hbm:cell_anti_schrabidium","B":"hbm:block_schrabidium"},"result":{"id":"hbm:singularity","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rangefinder","hbm:circuit__9","#hbm:ingot/rubber","#hbm:wiredense/gold"],"result":{"id":"hbm:detonator_laser","count":1}}

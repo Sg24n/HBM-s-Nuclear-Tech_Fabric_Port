@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IRI","PRP","IRI"],"key":{"I":"#hbm:plate/iron","R":"minecraft:redstone_block","P":"hbm:plate_polymer"},"result":{"id":"hbm:battery_pack","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","I I","III"],"key":{"P":"#hbm:plate/steel","I":"#hbm:ingot/steel"},"result":{"id":"hbm:crate_steel","count":1}}

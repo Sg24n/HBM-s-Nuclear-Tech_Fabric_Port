@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E E","EEE","EEE"],"key":{"E":"hbm:hazmat_cloth_grey"},"result":{"id":"hbm:hazmat_plate_grey","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["W W","P P"],"key":{"W":"#hbm:wirefine/gold","P":"hbm:plate_bismuth"},"result":{"id":"hbm:bismuth_boots","count":1}}

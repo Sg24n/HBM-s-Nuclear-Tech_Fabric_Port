@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MBM","NSN","N N"],"key":{"N":"hbm:plate_armor_lunar","M":"hbm:motor_desh","S":"hbm:starmetal_legs","B":"hbm:block_starmetal"},"result":{"id":"hbm:bj_legs","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EE ","EEE","EEE"],"key":{"E":"#hbm:ingot/dineutronium"},"result":{"id":"hbm:dnt_plate","count":1}}

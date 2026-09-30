@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:solid_fuel","hbm:cordite","#hbm:dust/saltpeter"],"result":{"id":"hbm:powder_semtex_mix","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:powder_niobium_tiny"},"result":{"id":"hbm:powder_niobium","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["XBX","ACA","XBX"],"key":{"X":"hbm:plate_dineutronium","A":"hbm:singularity_counter_resonant","B":"hbm:singularity_super_heated","C":"hbm:black_hole"},"result":{"id":"hbm:singularity_spark","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["121","1G1","121"],"key":{"1":"#hbm:plate/aluminum","2":"#hbm:plate/iron","G":"minecraft:glass_pane"},"result":{"id":"hbm:fluid_tank_empty","count":8}}

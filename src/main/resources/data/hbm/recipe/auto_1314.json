@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" CM","BBB","G  "],"key":{"C":"hbm:circuit__9","M":"#hbm:gunmechanism/weaponsteel","B":"#hbm:barrelheavy/anyresistantalloy","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_missile_launcher","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRP","BMS"],"key":{"B":"#hbm:barrellight/steel","R":"#hbm:receiverlight/gunmetal","M":"#hbm:gunmechanism/gunmetal","S":"#hbm:stock/wood","P":"#hbm:plate/gunmetal"},"result":{"id":"hbm:gun_henry","count":1}}

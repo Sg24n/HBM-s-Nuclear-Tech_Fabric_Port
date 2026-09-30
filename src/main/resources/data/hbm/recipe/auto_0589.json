@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CIC","PRP","CIC"],"key":{"C":"#hbm:ntmpipe/copper","P":"#hbm:shell/steel","R":"hbm:rbmk_blank","I":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:rbmk_heater","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"#hbm:ingot/titanium"},"result":{"id":"hbm:plate_titanium","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:gold_nugget","minecraft:gold_nugget","minecraft:gold_nugget","minecraft:paper"],"result":{"id":"hbm:tem_flakes__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["E E","ECE"],"key":{"E":"#hbm:ingot/starmetal","C":"hbm:cobalt_boots"},"result":{"id":"hbm:starmetal_boots","count":1}}

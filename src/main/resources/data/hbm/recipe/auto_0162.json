@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" A ","CBS"],"key":{"A":"#hbm:plate/aluminum","C":"#hbm:platetriple/steel","B":"#hbm:ingot/boron","S":"#hbm:shell/steel"},"result":{"id":"hbm:pile_device","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C","T","C"],"key":{"C":"#hbm:ingot/workersalloy","T":"#hbm:ingot/titanium"},"result":{"id":"hbm:arc_electrode__2","count":1}}

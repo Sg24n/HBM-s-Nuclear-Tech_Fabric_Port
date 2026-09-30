@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RCA","CIC","KCR"],"key":{"R":"minecraft:red_dye","C":"#hbm:wiredense/starmetal","A":"hbm:gem_alexandrite","I":"hbm:ingot_chainsteel","K":"hbm:key"},"result":{"id":"hbm:key_red","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:hev_battery_1"],"result":{"id":"hbm:hev_battery","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","IDI","P P"],"key":{"P":"#hbm:ingot/anyrubber","I":"#hbm:plate/iron","D":"hbm:ducttape"},"result":{"id":"hbm:pads_rubber","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:radaway","hbm:mush"],"result":{"id":"hbm:radaway_strong","count":1}}

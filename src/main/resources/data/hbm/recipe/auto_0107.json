@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CWC","PWP"," S "],"key":{"C":"hbm:coil_copper","W":"#minecraft:planks","P":"hbm:plate_polymer","S":"minecraft:cobblestone"},"result":{"id":"hbm:red_pylon","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_wire_coated","#hbm:ingot/steel","hbm:circuit__8"],"result":{"id":"hbm:red_cable_gauge","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:detonator","hbm:circuit__9"],"result":{"id":"hbm:detonator_multi","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","ACA"," S "],"key":{"M":"hbm:motor","A":"#hbm:plate/aluminum","C":"#hbm:shell/copper","S":"#hbm:platetriple/steel"},"result":{"id":"hbm:pile_device__1","count":1}}

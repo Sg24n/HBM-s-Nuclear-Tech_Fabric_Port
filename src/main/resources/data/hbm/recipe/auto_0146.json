@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["III"," B ","III"],"key":{"I":"#hbm:ingot/lead","B":"hbm:block_lead"},"result":{"id":"hbm:anvil_lead","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SHS","DHD","SHS"],"key":{"S":"#hbm:ingot/steel","H":"#hbm:shell/steel","D":"minecraft:black_dye"},"result":{"id":"hbm:machine_solar_boiler","count":1}}

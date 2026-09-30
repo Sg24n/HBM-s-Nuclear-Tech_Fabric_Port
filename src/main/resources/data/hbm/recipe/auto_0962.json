@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_mox_fuel"},"result":{"id":"hbm:block_mox_fuel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:dust"},"result":{"id":"hbm:block_scrap","count":1}}

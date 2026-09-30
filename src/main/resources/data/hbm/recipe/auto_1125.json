@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:chemical_dye__8","hbm:chemical_dye__15"],"result":{"id":"hbm:chemical_dye__7","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:ingot/steel","#hbm:dust/coal"],"result":{"id":"hbm:ingot_steel_dusted","count":1}}

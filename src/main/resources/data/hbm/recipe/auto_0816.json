@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["YIY","IYI","YIY"],"key":{"Y":"hbm:billet_yharonite","I":"hbm:insert_du"},"result":{"id":"hbm:insert_yharonite","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LLL","SIS","LLL"],"key":{"L":"#hbm:ingot/anyrubber","S":"hbm:syringe_metal_stimpak","I":"hbm:syringe_antidote"},"result":{"id":"hbm:med_bag","count":1}}

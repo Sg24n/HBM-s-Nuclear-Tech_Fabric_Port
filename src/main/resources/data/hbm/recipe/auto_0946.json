@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_desh"},"result":{"id":"hbm:block_desh","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/am241","#hbm:nugget/am241","#hbm:nugget/am241","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242","#hbm:nugget/am242"],"result":{"id":"hbm:ingot_am_mix","count":1}}

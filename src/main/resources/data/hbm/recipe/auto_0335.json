@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CRC"],"key":{"C":"#hbm:platesextuple/copper","R":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:pneumatic_tube","count":24}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fluid_duct_paintable","#hbm:ingot/steel","hbm:circuit__8"],"result":{"id":"hbm:fluid_duct_gauge","count":1}}

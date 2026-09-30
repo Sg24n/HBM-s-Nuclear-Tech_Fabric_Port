@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:nugget_uranium_fuel"},"result":{"id":"hbm:ingot_uranium_fuel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:nugget_pu239"},"result":{"id":"hbm:ingot_pu239","count":1}}

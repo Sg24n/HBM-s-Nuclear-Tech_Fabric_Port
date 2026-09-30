@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DDD","DSD","DDD"],"key":{"D":"hbm:stick_c4","S":"hbm:safety_fuse"},"result":{"id":"hbm:c4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" T ","GHG","CCC"],"key":{"T":"#hbm:ingot/anyplasticexplosive","G":"minecraft:gunpowder","H":"#hbm:shell/steel","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__1","count":4}}

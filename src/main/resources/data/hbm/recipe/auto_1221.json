@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" SD","APS","FA "],"key":{"S":"hbm:blades_desh","D":"hbm:powder_dineutronium","A":"hbm:plate_paa","P":"hbm:chlorophyte_axe","F":"hbm:shimmer_handle"},"result":{"id":"hbm:mese_axe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"#hbm:billet/uranium235","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__2","count":1}}

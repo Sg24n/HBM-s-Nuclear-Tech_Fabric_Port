@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SHS","DHD","SHS"],"key":{"S":"#hbm:ingot/steel","H":"#hbm:shell/steel","D":"minecraft:black_dye"},"result":{"id":"hbm:machine_solar_boiler","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IPI","C C","SSS"],"key":{"I":"minecraft:iron_ingot","P":"minecraft:piston","C":"#hbm:ingot/copper","S":"minecraft:stone"},"result":{"id":"hbm:machine_ammo_press","count":1}}

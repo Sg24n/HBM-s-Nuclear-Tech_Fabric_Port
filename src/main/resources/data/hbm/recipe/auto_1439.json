@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","PTP"],"key":{"C":"hbm:circuit__8","P":"#hbm:plate/steel","T":"#hbm:ingot/anyhighexplosive"},"result":{"id":"hbm:mine_he","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" T ","GHG","CCC"],"key":{"T":"#hbm:ingot/anyplasticexplosive","G":"hbm:cordite","H":"#hbm:shell/steel","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__1","count":6}}

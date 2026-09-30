@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:can_empty","minecraft:potion","minecraft:sugar","#hbm:dust/fluorite"],"result":{"id":"hbm:can_mrsugar","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","EAE","EEE"],"key":{"E":"#hbm:nugget/euphemium","A":"minecraft:apple"},"result":{"id":"hbm:apple_euphemium","count":1}}

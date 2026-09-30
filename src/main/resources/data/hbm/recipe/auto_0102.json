@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_cable"],"result":{"id":"hbm:red_cable_classic","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" Q ","CAC"," Q "],"key":{"Q":"#hbm:nugget/silicon","C":"hbm:red_cable","A":"#hbm:ingot/aluminum"},"result":{"id":"hbm:cable_diode","count":1}}

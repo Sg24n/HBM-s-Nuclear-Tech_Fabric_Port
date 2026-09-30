@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","PGM"],"key":{"B":"#hbm:barrelheavy/weaponsteel","P":"hbm:circuit__9","G":"#hbm:grip/weaponsteel","M":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:gun_stinger","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BS","BW"," P"],"key":{"B":"hbm:blades_desh","S":"hbm:block_schrabidium","W":"hbm:desh_axe","P":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_axe","count":1}}

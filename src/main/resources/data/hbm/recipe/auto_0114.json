@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RRR","WWW","III"],"key":{"R":"hbm:circuit__1","W":"minecraft:redstone","I":"#hbm:ingot/steel"},"result":{"id":"hbm:machine_converter_he_rf","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CCW","IIW","  S"],"key":{"C":"hbm:coil_copper","W":"#hbm:ntmpipe/steel","I":"hbm:plate_polymer","S":"minecraft:cobblestone"},"result":{"id":"hbm:red_pylon_medium_steel","count":2}}

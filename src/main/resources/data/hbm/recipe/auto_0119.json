@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PRP"],"key":{"P":"#hbm:plate/steel","R":"#hbm:ingot/mingrade"},"result":{"id":"hbm:machine_battery_socket","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","I I","III"],"key":{"P":"#hbm:plate/iron","I":"minecraft:iron_ingot"},"result":{"id":"hbm:crate_iron","count":1}}

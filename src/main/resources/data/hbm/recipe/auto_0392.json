@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#minecraft:sand","#hbm:dust/uranium"],"result":{"id":"hbm:sand_mix__2","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["PGP","SSS","BBB"],"key":{"P":"#hbm:plate/steel","G":"#hbm:plate/gold","S":"hbm:steel_scaffold","B":"hbm:steel_beam"},"result":{"id":"hbm:seg_20","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/th232","#hbm:nugget/th232","#hbm:nugget/th232","#hbm:nugget/th232","#hbm:nugget/th232","#hbm:nugget/u233"],"result":{"id":"hbm:billet_thorium_fuel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P P","GCG"],"key":{"P":"#hbm:ingot/anyplastic","G":"minecraft:glass","C":"hbm:circuit__8"},"result":{"id":"hbm:night_vision","count":1}}

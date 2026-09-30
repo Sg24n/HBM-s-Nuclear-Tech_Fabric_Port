@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W I","WCI","PPP"],"key":{"W":"#hbm:wirefine/gold","I":"#hbm:ingot/copper","C":"hbm:circuit__7","P":"#hbm:plate/steel"},"result":{"id":"hbm:oil_detector","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["Z Z","ZBZ","Z Z"],"key":{"Z":"#hbm:nugget/zirconium","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:rod_zirnox_empty","count":4}}

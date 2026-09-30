@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:deco_pipe_quad"],"result":{"id":"hbm:deco_pipe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LLL","L#L","LLL"],"key":{"L":"minecraft:ladder","#":"#minecraft:planks"},"result":{"id":"hbm:ladder_sturdy","count":8}}

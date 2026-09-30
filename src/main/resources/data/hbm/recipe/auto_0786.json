@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:catalytic_converter"],"result":{"id":"hbm:crackpipe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SPS","SMS","SPS"],"key":{"S":"hbm:syringe_empty","P":"minecraft:pumpkin_seeds","M":"minecraft:milk_bucket"},"result":{"id":"hbm:syringe_antidote","count":6}}

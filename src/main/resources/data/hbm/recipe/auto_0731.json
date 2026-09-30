@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["EEE","EAE","EEE"],"key":{"E":"#hbm:nugget/euphemium","A":"minecraft:apple"},"result":{"id":"hbm:apple_euphemium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ECE","EEE","EEE"],"key":{"E":"#hbm:ingot/starmetal","C":"hbm:cobalt_plate"},"result":{"id":"hbm:starmetal_plate","count":1}}

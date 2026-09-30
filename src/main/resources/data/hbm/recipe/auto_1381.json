@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","CTC","CCC"],"key":{"C":"#hbm:platetriple/copper","T":"hbm:mp_thruster_15_balefire_large"},"result":{"id":"hbm:mp_thruster_15_balefire_large_rad","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/saturnite","#hbm:platetriple/anybismoidbronze","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__17","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["NNN","ZCZ","NNN"],"key":{"Z":"#hbm:platetriple/zirconium","N":"hbm:neutron_reflector","C":"hbm:reactor_core"},"result":{"id":"hbm:cm_flux","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IGI","GCG","IGI"],"key":{"C":"hbm:rbmk_blank","I":"hbm:plate_polymer","G":"hbm:steel_grate"},"result":{"id":"hbm:rbmk_cooler","count":1}}

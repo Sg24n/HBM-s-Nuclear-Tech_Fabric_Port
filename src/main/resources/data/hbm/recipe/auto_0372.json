@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BGB","SAS","BSB"],"key":{"B":"#hbm:ingot/beryllium","G":"minecraft:iron_bars","S":"#hbm:ingot/steel","A":"hbm:rad_absorber"},"result":{"id":"hbm:decon","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" L ","LGL"," L "],"key":{"L":"#hbm:ingot/anyrubber","G":"#hbm:plate/gunmetal"},"result":{"id":"hbm:casing_bag","count":1}}

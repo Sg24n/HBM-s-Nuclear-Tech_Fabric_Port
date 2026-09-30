@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["MWM","WBW","MWM"],"key":{"M":"hbm:bottle_mercury","W":"hbm:nuclear_waste","B":"hbm:bathwater"},"result":{"id":"hbm:bathwater_mk2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:ducttape","P":"#hbm:ingot/ghiorsium336","S":"#hbm:ingot/uranium238"},"result":{"id":"hbm:insert_ghiorsium","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_fiberglass"},"result":{"id":"hbm:block_fiberglass","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"hbm:fragment_meteorite"},"result":{"id":"hbm:block_meteor_cobble","count":1}}

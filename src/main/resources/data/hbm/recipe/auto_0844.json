@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","F"],"key":{"F":"hbm:filter_coal","I":"#hbm:plate/iron"},"result":{"id":"hbm:gas_mask_filter","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["P P","IDI","P P"],"key":{"P":"#hbm:ingot/anyrubber","I":"#hbm:plate/iron","D":"hbm:ducttape"},"result":{"id":"hbm:pads_rubber","count":1}}

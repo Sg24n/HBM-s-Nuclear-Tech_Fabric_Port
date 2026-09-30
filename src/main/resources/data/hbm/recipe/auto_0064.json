@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["TP","TP","TT"],"key":{"P":"#hbm:plate/titanium","T":"#hbm:ingot/titanium"},"result":{"id":"hbm:blade_titanium","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["P P","P P","III"],"key":{"P":"#hbm:plate/steel","I":"#hbm:ingot/steel"},"result":{"id":"hbm:pedestal_steel","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:bowl","hbm:mush","hbm:mush"],"result":{"id":"hbm:glowing_stew","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ESE","EPE","EEE"],"key":{"E":"#hbm:ingot/schrabidium","S":"hbm:starmetal_plate","P":"hbm:pellet_charged"},"result":{"id":"hbm:schrabidium_plate","count":1}}

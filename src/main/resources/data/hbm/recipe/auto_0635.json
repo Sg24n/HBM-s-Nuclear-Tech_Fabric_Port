@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ajr_boots","minecraft:red_dye","minecraft:black_dye"],"result":{"id":"hbm:ajro_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IWI","K K","W W"],"key":{"K":"hbm:plate_kevlar","I":"#hbm:ingot/anyplastic","W":"minecraft:white_wool"},"result":{"id":"hbm:security_legs","count":1}}

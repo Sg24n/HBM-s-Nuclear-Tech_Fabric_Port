@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:canned_conserve"],"result":{"id":"hbm:canned_conserve__24","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"#hbm:ingot/schrabidium","A":"minecraft:apple"},"result":{"id":"hbm:apple_schrabidium__1","count":1}}

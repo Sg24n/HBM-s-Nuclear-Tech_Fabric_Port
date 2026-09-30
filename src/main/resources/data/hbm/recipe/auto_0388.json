@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fence_metal"],"result":{"id":"hbm:fence_metal__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PWP","SSS","CCC"],"key":{"P":"hbm:pedestal_steel","W":"hbm:wrench","S":"#hbm:plate/steel","C":"hbm:steel_scaffold"},"result":{"id":"hbm:machine_missile_assembly","count":1}}

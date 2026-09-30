@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["G","B","S"],"key":{"G":"minecraft:glass_pane","B":"hbm:powder_bromine","S":"#hbm:plate/steel"},"result":{"id":"hbm:spotlight_halogen","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["   ","LLL","LLL"],"key":{"L":"hbm:reinforced_laminate"},"result":{"id":"hbm:reinforced_laminate_pane","count":16}}

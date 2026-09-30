@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["  I"," I ","S  "],"key":{"S":"#hbm:ingot/anyplastic","I":"#hbm:ingot/workersalloy"},"result":{"id":"hbm:screwdriver_desh","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PIP","IGI","PIP"],"key":{"P":"hbm:pellet_buckshot","I":"#hbm:ingot/lead","G":"hbm:wood_gavel"},"result":{"id":"hbm:lead_gavel","count":1}}

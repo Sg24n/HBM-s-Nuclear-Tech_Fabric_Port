@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:nugget_pu_mix","hbm:nugget_pu_mix","#hbm:nugget/u238","#hbm:nugget/u238","#hbm:nugget/u238","#hbm:nugget/u238"],"result":{"id":"hbm:billet_plutonium_fuel","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ZCZ","CFC","ZCZ"],"key":{"Z":"#hbm:ingot/zirconium","C":"hbm:catalyst_clay","F":"hbm:gas_mask_filter"},"result":{"id":"hbm:gas_mask_filter_combo","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" B ","BGB"," B "],"key":{"B":"hbm:cm_block","G":"minecraft:glass"},"result":{"id":"hbm:cm_tank","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["BGB","GAG","BGB"],"key":{"B":"hbm:egg_balefire_shard","G":"minecraft:gold_ingot","A":"minecraft:book"},"result":{"id":"hbm:book_of_","count":1}}

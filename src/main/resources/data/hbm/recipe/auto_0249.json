@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BCB","CIC","BCB"],"key":{"B":"hbm:barbed_wire","C":"hbm:powder_yellowcake","I":"hbm:nuclear_waste"},"result":{"id":"hbm:barbed_wire_ultradeath","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["G","B","S"],"key":{"G":"minecraft:glass_pane","B":"hbm:powder_bromine","S":"#hbm:plate/steel"},"result":{"id":"hbm:spotlight_halogen","count":8}}

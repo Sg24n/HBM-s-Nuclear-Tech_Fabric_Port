@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MAM"," M "],"key":{"M":"#hbm:gunmechanism/weaponsteel","A":"hbm:gun_light_revolver"},"result":{"id":"hbm:gun_light_revolver_atlas","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["WRW"," I "," B "],"key":{"W":"#hbm:wirefine/mingrade","R":"minecraft:redstone","I":"minecraft:iron_ingot","B":"hbm:battery_pack__1"},"result":{"id":"hbm:power_net_tool","count":1}}

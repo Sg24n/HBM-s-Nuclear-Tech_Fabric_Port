@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" E ","ECE"," E "],"key":{"E":"#hbm:billet/cobalt","C":"hbm:steel_plate"},"result":{"id":"hbm:cobalt_plate","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","IPI"," I "],"key":{"I":"#hbm:ingot/anybismoidbronze","P":"#hbm:platetriple/anybismoidbronze"},"result":{"id":"hbm:cm_block__1","count":4}}

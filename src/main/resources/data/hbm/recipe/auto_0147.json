@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["UUU","UAU","UUU"],"key":{"U":"hbm:undefined","A":"hbm:anvil_steel"},"result":{"id":"hbm:anvil_murky","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["AAA"," B ","SSS"],"key":{"A":"#hbm:plate/aluminum","B":"hbm:steel_beam","S":"#hbm:ingot/steel"},"result":{"id":"hbm:solar_mirror","count":3}}

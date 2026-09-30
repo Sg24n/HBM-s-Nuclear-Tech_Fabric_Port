@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" L ","LGL"," L "],"key":{"L":"minecraft:leather","G":"#hbm:plate/gunmetal"},"result":{"id":"hbm:casing_bag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S S","LIL","LIL"],"key":{"S":"#hbm:plate/steel","L":"minecraft:leather","I":"#hbm:ingot/anyrubber"},"result":{"id":"hbm:jackt","count":1}}

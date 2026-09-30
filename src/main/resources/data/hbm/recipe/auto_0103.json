@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_cable_classic"],"result":{"id":"hbm:red_cable","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IRI","CTC","IRI"],"key":{"I":"hbm:plate_polymer","R":"minecraft:redstone","C":"#hbm:wirefine/mingrade","T":"hbm:coil_tungsten"},"result":{"id":"hbm:machine_detector","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I ","IMI"," I "],"key":{"I":"#hbm:ingot/steel","M":"hbm:motor_bismuth"},"result":{"id":"hbm:cm_engine__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BBB","DGD","DCD"],"key":{"B":"#hbm:ingot/boron","D":"hbm:deco_rbmk","G":"minecraft:glass_pane","C":"hbm:circuit__7"},"result":{"id":"hbm:rbmk_console","count":1}}

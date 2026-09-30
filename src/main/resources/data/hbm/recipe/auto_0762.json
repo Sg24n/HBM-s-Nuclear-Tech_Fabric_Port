@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle2_empty","minecraft:potion","minecraft:sugar","#hbm:dust/copper"],"result":{"id":"hbm:bottle2_korl","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/coal","minecraft:milk_bucket","minecraft:potion","minecraft:sugar"],"result":{"id":"hbm:coffee","count":1}}

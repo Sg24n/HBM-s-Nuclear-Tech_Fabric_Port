@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:gun_double_barrel","hbm:item_secret__2"],"result":{"id":"hbm:gun_double_barrel_sacred_dragon","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BM ","BRS","G  "],"key":{"B":"#hbm:barrelheavy/durasteel","M":"#hbm:gunmechanism/gunmetal","R":"#hbm:receiverlight/durasteel","S":"#hbm:stock/wood","G":"#hbm:grip/wood"},"result":{"id":"hbm:gun_congolake","count":1}}

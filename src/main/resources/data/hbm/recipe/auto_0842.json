@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","GCG"],"key":{"P":"#hbm:ingot/anyplastic","G":"minecraft:glass","C":"hbm:circuit__8"},"result":{"id":"hbm:night_vision","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DID","IGI"," F "],"key":{"D":"hbm:ducttape","I":"#hbm:ingot/anyrubber","G":"minecraft:glass_pane","F":"#hbm:plate/iron"},"result":{"id":"hbm:attachment_mask","count":1}}

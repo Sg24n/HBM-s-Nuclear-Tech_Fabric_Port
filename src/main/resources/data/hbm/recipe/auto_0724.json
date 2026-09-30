@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S ","SPS"," H "],"key":{"P":"#hbm:nugget/plutonium239","S":"minecraft:sugar","H":"minecraft:stick"},"result":{"id":"hbm:cotton_candy","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","GPG"," F "],"key":{"G":"minecraft:glass_pane","P":"minecraft:leather","F":"minecraft:iron_ingot"},"result":{"id":"hbm:gas_mask_olde","count":1}}

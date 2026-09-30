@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["T T","TRT","BBB"],"key":{"T":"#hbm:ingot/tungsten","B":"#hbm:ingot/beryllium","R":"#hbm:ingot/mingrade"},"result":{"id":"hbm:pole_top","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BBB","BIB","BBB"],"key":{"B":"hbm:barbed_wire","I":"hbm:powder_poison"},"result":{"id":"hbm:barbed_wire_poison","count":8}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E E","EEE","EEE"],"key":{"E":"hbm:hazmat_cloth_red"},"result":{"id":"hbm:hazmat_plate_red","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["R R","T T"],"key":{"T":"#hbm:plate/titanium","R":"#hbm:ingot/rubber"},"result":{"id":"hbm:envsuit_boots","count":1}}

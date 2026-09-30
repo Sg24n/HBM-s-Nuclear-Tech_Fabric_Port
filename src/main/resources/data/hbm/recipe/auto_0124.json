@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:battery_sc","#hbm:billet/radium226","#hbm:billet/radium226"],"result":{"id":"hbm:battery_sc__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["IRI","PRP","IRI"],"key":{"I":"#hbm:plate/steel","R":"hbm:block_copper","P":"hbm:plate_polymer"},"result":{"id":"hbm:battery_pack__6","count":1}}

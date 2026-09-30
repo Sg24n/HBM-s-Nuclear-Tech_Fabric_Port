@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plate_polymer","#minecraft:sand","#minecraft:sand","#minecraft:sand"],"result":{"id":"hbm:sandbags","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["CSC","TST","G G"],"key":{"C":"hbm:circuit__1","S":"#hbm:plate/steel","T":"hbm:coil_tungsten","G":"minecraft:glass_pane"},"result":{"id":"hbm:floodlight","count":2}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GPP","P  ","FPP"],"key":{"G":"minecraft:gold_ingot","P":"hbm:plate_bismuth","F":"hbm:rag"},"result":{"id":"hbm:bismuth_helmet","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MPM","PBP","PDP"],"key":{"M":"hbm:motor_desh","P":"hbm:plate_armor_fau","B":"hbm:starmetal_legs","D":"hbm:billet_polonium"},"result":{"id":"hbm:fau_legs","count":1}}

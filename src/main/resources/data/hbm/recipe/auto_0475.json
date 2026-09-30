@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","L#L","LLL"],"key":{"L":"minecraft:ladder","#":"#hbm:ingot/titanium"},"result":{"id":"hbm:ladder_titanium","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["R","C","B"],"key":{"R":"hbm:radio_torch_receiver","B":"hbm:rbmk_display_blank","C":"hbm:coil_tungsten"},"result":{"id":"hbm:rbmk_indicator","count":1}}

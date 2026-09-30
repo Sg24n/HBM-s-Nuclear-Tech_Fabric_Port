@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P P","PBP"],"key":{"P":"hbm:plate_armor_ajr","B":"hbm:titanium_boots"},"result":{"id":"hbm:ajr_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ECE","E E"],"key":{"E":"#hbm:billet/cobalt","C":"hbm:steel_legs"},"result":{"id":"hbm:cobalt_legs","count":1}}

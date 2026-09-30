@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" M ","MDM"," M "],"key":{"M":"hbm:fragment_meteorite","D":"#hbm:gem/volcanic"},"result":{"id":"hbm:meteor_charm","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["YIY","IYI","YIY"],"key":{"Y":"hbm:billet_yharonite","I":"hbm:insert_du"},"result":{"id":"hbm:insert_yharonite","count":1}}

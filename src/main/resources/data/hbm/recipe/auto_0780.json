@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle2_empty","hbm:syringe_metal_empty","hbm:ducttape","hbm:powder_magic","#hbm:nugget/schrabidium","minecraft:potion"],"result":{"id":"hbm:syringe_taint","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:bottle_nuka","minecraft:carrot","minecraft:gold_nugget"],"result":{"id":"hbm:bottle_sparkle","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["E E","E E"],"key":{"E":"hbm:asbestos_cloth"},"result":{"id":"hbm:asbestos_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ICI","TJT","I I"],"key":{"C":"hbm:circuit__8","T":"hbm:ingot_dura_steel","J":"hbm:jetpack_fly","I":"hbm:plate_polymer"},"result":{"id":"hbm:jetpack_break","count":1}}

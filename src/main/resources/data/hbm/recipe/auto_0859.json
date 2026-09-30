@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:pellet_rtg_depleted"],"result":{"id":"hbm:ingot_lead","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["NIN","IGI","NIN"],"key":{"N":"#hbm:nugget/gold198","I":"hbm:ink","G":"#hbm:gem/volcanic"},"result":{"id":"hbm:black_diamond","count":1}}

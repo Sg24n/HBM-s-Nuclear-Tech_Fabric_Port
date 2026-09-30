@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["L","M"],"key":{"M":"hbm:mine_ap","L":"hbm:pellet_buckshot"},"result":{"id":"hbm:mine_shrap","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" T ","GHG","CCC"],"key":{"T":"#hbm:ingot/anyplasticexplosive","G":"hbm:ballistite","H":"#hbm:shell/steel","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__1","count":4}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["NIN","IGI","NIN"],"key":{"N":"#hbm:nugget/gold198","I":"hbm:ink","G":"#hbm:gem/volcanic"},"result":{"id":"hbm:black_diamond","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PKP","DSD","PKP"],"key":{"P":"#hbm:ingot/anyplastic","K":"hbm:insert_sapi","D":"hbm:ducttape","S":"#hbm:plate/weaponsteel"},"result":{"id":"hbm:insert_esapi","count":1}}

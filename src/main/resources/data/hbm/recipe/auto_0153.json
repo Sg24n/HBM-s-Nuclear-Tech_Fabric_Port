@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BPB","PRP","BPB"],"key":{"B":"#hbm:bolt/steel","P":"#hbm:plate/iron","R":"minecraft:redstone"},"result":{"id":"hbm:fan","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","I I","BBB"],"key":{"I":"minecraft:brick","B":"minecraft:stone"},"result":{"id":"hbm:machine_furnace_brick_off","count":1}}

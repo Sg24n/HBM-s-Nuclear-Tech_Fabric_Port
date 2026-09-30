@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:fence_metal"],"result":{"id":"hbm:fence_metal","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","DCD","SSS"],"key":{"S":"hbm:steel_scaffold","D":"hbm:fluid_duct_neo","C":"hbm:red_cable"},"result":{"id":"hbm:struct_scaffold","count":8}}

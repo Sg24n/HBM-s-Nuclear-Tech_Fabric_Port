@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["Z Z","ZBZ","Z Z"],"key":{"Z":"#hbm:nugget/zirconium","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:rod_zirnox_empty","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod"],"result":{"id":"hbm:billet_ra226","count":1}}

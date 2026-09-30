@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DGD","GTG","DGD"],"key":{"D":"hbm:ducttape","G":"#hbm:wirefine/gold","T":"hbm:tesla"},"result":{"id":"hbm:back_tesla","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:ducttape","P":"#hbm:plate/iron","S":"hbm:ingot_semtex"},"result":{"id":"hbm:insert_era","count":1}}

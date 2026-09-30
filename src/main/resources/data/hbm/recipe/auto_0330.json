@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S","W"],"key":{"S":"minecraft:lever","W":"hbm:fluid_duct_paintable"},"result":{"id":"hbm:fluid_valve","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SAS","   ","SAS"],"key":{"S":"#hbm:plate/steel","A":"#hbm:plate/aluminum"},"result":{"id":"hbm:fluid_duct_neo","count":8}}

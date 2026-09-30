@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ITI"," S "," S "],"key":{"I":"#hbm:plate/iron","T":"minecraft:tnt","S":"minecraft:stick"},"result":{"id":"hbm:ullapool_caber","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["F","I","F"],"key":{"F":"hbm:billet_am_mix","I":"hbm:plate_polymer"},"result":{"id":"hbm:pwr_fuel__9","count":1}}

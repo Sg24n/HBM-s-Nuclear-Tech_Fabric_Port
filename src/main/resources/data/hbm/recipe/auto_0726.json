@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"#hbm:ingot/schrabidium","A":"minecraft:apple"},"result":{"id":"hbm:apple_schrabidium__1","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III","III"," I "],"key":{"I":"#hbm:plate/iron"},"result":{"id":"hbm:mask_of_infamy","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" A "," IA","I  "],"key":{"A":"#hbm:ingot/aluminum","I":"minecraft:iron_ingot"},"result":{"id":"hbm:mirror_tool","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["II"," I"," I"],"key":{"I":"#hbm:ingot/steel"},"result":{"id":"hbm:crowbar","count":1}}

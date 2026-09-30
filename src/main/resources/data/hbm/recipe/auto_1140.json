@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_zirnox_empty","#hbm:ingot/lithium","#hbm:ingot/lithium"],"result":{"id":"hbm:rod_zirnox__9","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/lead","#hbm:dust/sulfur","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":8}}

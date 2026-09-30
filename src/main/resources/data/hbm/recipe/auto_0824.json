@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CDC","ISI","CDC"],"key":{"C":"#hbm:ingot/copper","D":"hbm:ducttape","I":"#hbm:ingot/anyrubber","S":"hbm:pads_slime"},"result":{"id":"hbm:pads_static","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","#hbm:nugget/lead","minecraft:clay_ball","minecraft:glass_bottle"],"result":{"id":"hbm:cladding_paint","count":1}}

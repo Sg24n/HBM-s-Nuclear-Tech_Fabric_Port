@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:stick_c4","hbm:stick_c4","hbm:stick_c4","hbm:ducttape"],"result":{"id":"hbm:charge_c4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["FFF","ITI","ITI"],"key":{"F":"minecraft:flint","I":"#hbm:plate/steel","T":"#hbm:ingot/anyplasticexplosive"},"result":{"id":"hbm:det_miner","count":12}}

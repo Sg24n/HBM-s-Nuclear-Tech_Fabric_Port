@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PBP"," P "],"key":{"P":"hbm:plate_desh","B":"hbm:blades_titanium"},"result":{"id":"hbm:blades_desh","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/steel","hbm:plate_polymer","#hbm:wirefine/tungsten"],"result":{"id":"hbm:fuse","count":1}}

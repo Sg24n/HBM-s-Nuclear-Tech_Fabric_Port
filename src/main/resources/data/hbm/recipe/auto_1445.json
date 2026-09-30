@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" C ","LUL","LUL"],"key":{"C":"#hbm:plate/copper","L":"#hbm:plate/lead","U":"#hbm:ingot/uranium235"},"result":{"id":"hbm:custom_nuke","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","GIG","CCC"],"key":{"I":"#hbm:ingot/uranium238","G":"hbm:cordite","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__3","count":6}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PPP","TCT","TST"],"key":{"P":"#hbm:plate/gunmetal","T":"#hbm:ingot/steel","C":"minecraft:crafting_table","S":"hbm:block_steel"},"result":{"id":"hbm:machine_weapon_table","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:sat_chip","hbm:ducttape","hbm:radar_linker"],"result":{"id":"hbm:sat_relay","count":1}}

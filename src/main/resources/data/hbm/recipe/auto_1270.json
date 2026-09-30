@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["IS"," B"," I"],"key":{"I":"#hbm:ingot/starmetal","S":"hbm:ring_starmetal","B":"hbm:cobalt_decorated_hoe"},"result":{"id":"hbm:starmetal_hoe","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:geiger_counter","#hbm:billet/polonium210","#hbm:ingot/asbestos"],"result":{"id":"hbm:digamma_diagnostic","count":1}}

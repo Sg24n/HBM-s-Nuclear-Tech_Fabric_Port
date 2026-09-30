@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","SIS","LLL"],"key":{"L":"minecraft:leather","S":"hbm:syringe_metal_stimpak","I":"hbm:pill_iodine"},"result":{"id":"hbm:med_bag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SNS","PCP","SNS"],"key":{"C":"hbm:syringe_empty","S":"#hbm:dust/sulfur","P":"#hbm:nugget/plutonium239","N":"#hbm:nugget/plutonium238"},"result":{"id":"hbm:syringe_awesome","count":1}}

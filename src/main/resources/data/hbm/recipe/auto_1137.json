@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rod_zirnox_empty","hbm:billet_mox_fuel","hbm:billet_mox_fuel"],"result":{"id":"hbm:rod_zirnox__4","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:coal","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":1}}

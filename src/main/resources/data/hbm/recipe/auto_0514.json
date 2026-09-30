@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["G","S","C"],"key":{"G":"minecraft:glowstone","S":"hbm:block_steel","C":"hbm:coil_copper_torus"},"result":{"id":"hbm:charger","count":16}}
+{"type":"minecraft:crafting_shaped","pattern":["PPP","PCP","PPP"],"key":{"P":"hbm:deco_pipe_rim_green","C":"minecraft:green_dye"},"result":{"id":"hbm:deco_pipe_rim_marked","count":8}}

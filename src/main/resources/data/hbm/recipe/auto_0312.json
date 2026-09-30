@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W "," W"," W"],"key":{"W":"#hbm:wirefine/copper"},"result":{"id":"hbm:pin","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:hev_battery"],"result":{"id":"hbm:hev_battery_1","count":1}}

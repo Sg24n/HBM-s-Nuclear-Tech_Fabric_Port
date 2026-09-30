@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_solinium"},"result":{"id":"hbm:block_solinium","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["#S#","SXS","#S#"],"key":{"#":"hbm:ingot_schrabidium","S":"hbm:ingot_starmetal","X":"hbm:ingot_schrabidate"},"result":{"id":"hbm:block_schrabidium_cluster","count":1}}

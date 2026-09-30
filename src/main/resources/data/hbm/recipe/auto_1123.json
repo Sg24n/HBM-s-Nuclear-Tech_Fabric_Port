@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BN","NB"],"key":{"B":"minecraft:brick","N":"minecraft:nether_brick"},"result":{"id":"hbm:ingot_firebrick","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:clay"],"result":{"id":"minecraft:clay_ball","count":4}}

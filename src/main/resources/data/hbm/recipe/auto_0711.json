@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RRR"],"key":{"R":"hbm:rag_piss"},"result":{"id":"hbm:mask_piss","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["E E","EEE","EEE"],"key":{"E":"hbm:plate_paa"},"result":{"id":"hbm:hazmat_paa_plate","count":1}}

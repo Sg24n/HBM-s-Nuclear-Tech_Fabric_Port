@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:asphalt_light"],"result":{"id":"hbm:asphalt","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MSM","MWM","MSM"],"key":{"M":"hbm:meteor_polished","S":"hbm:block_starmetal","W":"#hbm:wirefine/schrabidium"},"result":{"id":"hbm:meteor_battery","count":1}}

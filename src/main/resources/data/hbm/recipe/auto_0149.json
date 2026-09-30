@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BHB"],"key":{"H":"#hbm:shell/steel","B":"minecraft:iron_bars"},"result":{"id":"hbm:fraction_spacer","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["III"," B ","III"],"key":{"I":"#hbm:ingot/lead","B":"hbm:block_lead"},"result":{"id":"hbm:anvil_lead","count":1}}

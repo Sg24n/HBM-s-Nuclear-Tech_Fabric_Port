@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["GPP","WCS","WBB"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:ingot/anyrubber","C":"hbm:circuit__8","G":"minecraft:gold_ingot","S":"#hbm:plate/steel","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:geiger_counter","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["STS","SPS"," P "],"key":{"S":"hbm:block_steel","T":"hbm:block_tungsten","P":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:smashing_hammer","count":1}}

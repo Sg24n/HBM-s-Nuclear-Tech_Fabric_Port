@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["DPD","PSP","DPD"],"key":{"D":"hbm:plate_dineutronium","P":"hbm:powder_spark_mix","S":"hbm:singularity"},"result":{"id":"hbm:ams_core_wormhole","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["121","1G1","121"],"key":{"1":"#hbm:plate/steel","2":"#hbm:plate/aluminum","G":"minecraft:glass_pane"},"result":{"id":"hbm:fluid_barrel_empty","count":2}}

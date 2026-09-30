@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","PIP"],"key":{"C":"hbm:circuit__2","P":"#hbm:ingot/anyhardplastic","I":"hbm:circuit__6"},"result":{"id":"hbm:weapon_mod_special__14","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["C","P","G"],"key":{"C":"minecraft:flint","P":"minecraft:paper","G":"minecraft:gunpowder"},"result":{"id":"hbm:ammo_standard__1","count":6}}

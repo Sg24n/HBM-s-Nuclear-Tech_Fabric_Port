@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:can_empty","minecraft:potion","minecraft:sugar","hbm:pellet_cluster"],"result":{"id":"hbm:can_redbomb","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","SAS","SSS"],"key":{"S":"hbm:block_lead","A":"minecraft:apple"},"result":{"id":"hbm:apple_lead__2","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ASA","   ","ASA"],"key":{"S":"#hbm:plate/steel","A":"#hbm:plate/aluminum"},"result":{"id":"hbm:fluid_duct_neo__2","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","RPY"," B "],"key":{"B":"#hbm:dust/lapis","C":"#hbm:dust/coal","R":"#hbm:dust/mingrade","Y":"#hbm:dust/gold","P":"minecraft:paper"},"result":{"id":"hbm:polaroid","count":1}}

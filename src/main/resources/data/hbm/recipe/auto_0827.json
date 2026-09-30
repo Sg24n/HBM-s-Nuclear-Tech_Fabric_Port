@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PWP","PCP","PWP"],"key":{"P":"#hbm:plate/gold","C":"hbm:battery_pack","W":"#hbm:wiredense/mingrade"},"result":{"id":"hbm:armor_battery_mk3","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DPD","PRP","DPD"],"key":{"R":"hbm:cladding_lead","P":"hbm:plate_desh","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_desh","count":1}}

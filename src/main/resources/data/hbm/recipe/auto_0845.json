@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ZZZ","ZCZ","ZZZ"],"key":{"Z":"#hbm:nugget/zirconium","C":"hbm:catalyst_clay"},"result":{"id":"hbm:gas_mask_filter_mono","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SPS","DSD","SPS"],"key":{"S":"minecraft:slime_ball","P":"hbm:pads_rubber","D":"hbm:ducttape"},"result":{"id":"hbm:pads_slime","count":1}}

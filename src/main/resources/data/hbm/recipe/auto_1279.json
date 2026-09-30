@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["P","C"],"key":{"P":"#hbm:ingot/anyplastic","C":"hbm:casing__3"},"result":{"id":"hbm:casing__6","count":2}}
+{"type":"minecraft:crafting_shaped","pattern":["  C"," R ","P  "],"key":{"C":"hbm:circuit__5","R":"#hbm:ingot/rubber","P":"hbm:pipette_boron"},"result":{"id":"hbm:pipette_laboratory","count":1}}

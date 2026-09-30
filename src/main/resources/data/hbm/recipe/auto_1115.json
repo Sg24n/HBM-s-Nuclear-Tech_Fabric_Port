@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:dust/calcium","#minecraft:sand"],"result":{"id":"hbm:powder_flux","count":12}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"hbm:part_generic__5"},"result":{"id":"hbm:glass_polarized","count":4}}

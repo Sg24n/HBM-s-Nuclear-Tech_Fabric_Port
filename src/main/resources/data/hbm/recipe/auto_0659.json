@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["W W","S S"],"key":{"W":"minecraft:white_wool","S":"#hbm:ingot/steel"},"result":{"id":"hbm:dieselsuit_boots","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["MPM","IBI","PPP"],"key":{"P":"hbm:plate_armor_hev","B":"hbm:titanium_plate","I":"#hbm:ingot/anyplastic","M":"hbm:motor_desh"},"result":{"id":"hbm:hev_plate","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I","W","S"],"key":{"I":"hbm:block_schrabidium","W":"hbm:desh_sword","S":"#hbm:ingot/anyplastic"},"result":{"id":"hbm:schrabidium_sword","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SFS","SCS"," S "],"key":{"S":"#hbm:plate/steel","F":"hbm:filter_coal","C":"hbm:circuit"},"result":{"id":"hbm:pollution_detector","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_polonium","hbm:billet_polonium","hbm:billet_polonium","#hbm:plate/iron"],"result":{"id":"hbm:pellet_rtg_polonium","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/polonium210","#hbm:nugget/polonium210","#hbm:nugget/polonium210","hbm:nugget_beryllium","hbm:nugget_beryllium","hbm:nugget_beryllium"],"result":{"id":"hbm:billet_po210be","count":1}}

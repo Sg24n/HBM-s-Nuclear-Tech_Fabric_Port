@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_magnetized_tungsten"},"result":{"id":"hbm:block_magnetized_tungsten","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium239","#hbm:nugget/plutonium240","#hbm:nugget/plutonium240","#hbm:nugget/plutonium240"],"result":{"id":"hbm:ingot_pu_mix","count":1}}

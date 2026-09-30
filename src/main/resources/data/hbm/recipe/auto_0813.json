@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PKP","DPD","PKP"],"key":{"P":"#hbm:ingot/anyplastic","K":"hbm:insert_kevlar","D":"hbm:ducttape"},"result":{"id":"hbm:insert_sapi","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["LLL","SIS","LLL"],"key":{"L":"minecraft:leather","S":"hbm:syringe_metal_stimpak","I":"hbm:syringe_antidote"},"result":{"id":"hbm:med_bag","count":1}}

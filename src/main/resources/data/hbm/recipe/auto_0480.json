@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:deco_pipe_rim"],"result":{"id":"hbm:deco_pipe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["RRR","R R","RRR"],"key":{"R":"hbm:deco_rbmk"},"result":{"id":"hbm:rbmk_blank","count":1}}

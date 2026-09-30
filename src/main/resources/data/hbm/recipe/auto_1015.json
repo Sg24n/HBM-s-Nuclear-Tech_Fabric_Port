@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_red_phosphorus"},"result":{"id":"hbm:powder_fire","count":9}}
+{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_magnetized_tungsten"},"result":{"id":"hbm:ingot_magnetized_tungsten","count":9}}

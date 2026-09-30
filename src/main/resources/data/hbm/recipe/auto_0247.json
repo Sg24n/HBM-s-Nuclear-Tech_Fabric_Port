@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BBB","BIB","BBB"],"key":{"B":"hbm:barbed_wire","I":"#hbm:dust/redphosphorus"},"result":{"id":"hbm:barbed_wire_fire","count":8}}
+{"type":"minecraft:crafting_shaped","pattern":["PGP"," S "," S "],"key":{"P":"minecraft:glass_pane","G":"minecraft:glowstone_dust","S":"hbm:steel_beam"},"result":{"id":"hbm:lantern","count":1}}

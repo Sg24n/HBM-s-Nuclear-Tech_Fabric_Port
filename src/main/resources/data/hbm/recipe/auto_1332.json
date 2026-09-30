@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/gunmetal","#hbm:platetriple/durasteel","#hbm:platetriple/durasteel","#hbm:platetriple/durasteel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__4","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["UMU"],"key":{"U":"hbm:gun_star_f","M":"#hbm:gunmechanism/saturnite"},"result":{"id":"hbm:gun_star_f_akimbo","count":1}}

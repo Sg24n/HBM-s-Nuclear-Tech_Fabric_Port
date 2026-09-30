@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["#"],"key":{"#":"hbm:block_fluorite"},"result":{"id":"hbm:fluorite","count":9}}
+{"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":"hbm:ingot_starmetal"},"result":{"id":"hbm:block_starmetal","count":1}}

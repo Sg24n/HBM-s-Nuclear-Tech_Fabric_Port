@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["STS","THT","STS"],"key":{"S":"hbm:particle_strange","T":"#hbm:dust/tungsten","H":"hbm:crystal_horn"},"result":{"id":"hbm:crystal_virus","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" P ","PBP","PDP"],"key":{"P":"#hbm:plate/saturnite","D":"minecraft:diamond","B":"#hbm:bolt/durasteel"},"result":{"id":"hbm:padlock_unbreakable","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ZCZ","CFC","ZCZ"],"key":{"Z":"#hbm:ingot/zirconium","C":"hbm:catalyst_clay","F":"hbm:gas_mask_filter"},"result":{"id":"hbm:gas_mask_filter_combo","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["CDC","ISI","CDC"],"key":{"C":"#hbm:ingot/copper","D":"hbm:ducttape","I":"#hbm:ingot/anyrubber","S":"hbm:pads_slime"},"result":{"id":"hbm:pads_static","count":1}}

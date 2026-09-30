@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ingot_chainsteel","#hbm:ingot/asbestos","hbm:gem_alexandrite"],"result":{"id":"hbm:parts_legendary","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" M ","BCB"],"key":{"M":"hbm:circuit__5","B":"hbm:conveyor_wand","C":"hbm:crate_steel"},"result":{"id":"hbm:crane_partitioner","count":1}}

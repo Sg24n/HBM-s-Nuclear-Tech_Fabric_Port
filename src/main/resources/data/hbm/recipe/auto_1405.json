@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" I "," S ","CCC"],"key":{"C":"hbm:cordite","I":"hbm:sphere_steel","S":"#hbm:shell/copper"},"result":{"id":"hbm:ammo_arty__8","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["DSD","PPP","DSD"],"key":{"D":"#hbm:platetriple/anybismoidbronze","P":"hbm:piston_selenium","S":"#hbm:gunmechanism/weaponsteel"},"result":{"id":"hbm:weapon_mod_special__25","count":1}}

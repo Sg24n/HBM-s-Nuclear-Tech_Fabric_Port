@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:can_empty","minecraft:potion","minecraft:sugar","#hbm:dust/sulfur"],"result":{"id":"hbm:can_overcharge","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:gold_nugget","minecraft:paper"],"result":{"id":"hbm:tem_flakes","count":1}}

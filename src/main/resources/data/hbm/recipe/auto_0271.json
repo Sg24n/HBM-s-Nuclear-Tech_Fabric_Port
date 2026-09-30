@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S S","S S","S S"],"key":{"S":"hbm:steel_beam"},"result":{"id":"hbm:rail_narrow","count":64}}
+{"type":"minecraft:crafting_shaped","pattern":["SSS","F F"],"key":{"S":"#minecraft:slabs","F":"minecraft:oak_fence"},"result":{"id":"hbm:wood_structure","count":16}}

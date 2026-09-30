@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:drone"],"result":{"id":"hbm:drone__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["SS","HC","SS"],"key":{"S":"#hbm:plate/titanium","H":"hbm:part_generic__1","C":"hbm:circuit__8"},"result":{"id":"hbm:refueler","count":1}}

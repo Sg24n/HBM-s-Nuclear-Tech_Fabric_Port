@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["FBF","BFB","FBF"],"key":{"F":"minecraft:oak_fence","B":"minecraft:bricks"},"result":{"id":"hbm:brick_light","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":["QUQ","UEU","QUQ"],"key":{"Q":"hbm:glass_quartz","U":"hbm:undefined","E":"hbm:ingot_electronium"},"result":{"id":"hbm:laser_crystal_digamma","count":1}}

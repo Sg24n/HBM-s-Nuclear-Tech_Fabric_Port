@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:billet_th232","hbm:billet_th232","hbm:billet_th232","hbm:billet_th232","hbm:billet_th232","hbm:billet_u233"],"result":{"id":"hbm:billet_thorium_fuel","count":6}}
+{"type":"minecraft:crafting_shaped","pattern":["PWP","PCP","PWP"],"key":{"P":"#hbm:plate/gold","C":"hbm:battery_pack","W":"#hbm:wiredense/mingrade"},"result":{"id":"hbm:armor_battery_mk3","count":1}}

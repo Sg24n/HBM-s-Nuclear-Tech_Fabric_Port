@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["RRR"],"key":{"R":"hbm:rag_damp"},"result":{"id":"hbm:mask_rag","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["EEE","IEI"," P "],"key":{"E":"hbm:plate_paa","I":"minecraft:glass_pane","P":"#hbm:plate/iron"},"result":{"id":"hbm:hazmat_paa_helmet","count":1}}

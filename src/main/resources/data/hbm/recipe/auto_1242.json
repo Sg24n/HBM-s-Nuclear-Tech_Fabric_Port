@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["SFS","SCS"," S "],"key":{"S":"#hbm:plate/steel","F":"hbm:filter_coal","C":"hbm:circuit"},"result":{"id":"hbm:pollution_detector","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" BM","BPB","TB "],"key":{"B":"hbm:gem_volcanic","M":"hbm:ingot_meteorite","P":"hbm:starmetal_pickaxe","T":"#hbm:bolt/tungsten"},"result":{"id":"hbm:volcanic_pickaxe","count":1}}

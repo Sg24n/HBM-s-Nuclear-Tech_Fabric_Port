@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","PBP","PSP"],"key":{"P":"hbm:plate_armor_dnt","S":"hbm:ingot_chainsteel","B":"hbm:bj_legs","C":"hbm:coin_worm"},"result":{"id":"hbm:dns_legs","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ajr_helmet","minecraft:red_dye","minecraft:black_dye"],"result":{"id":"hbm:ajro_helmet","count":1}}

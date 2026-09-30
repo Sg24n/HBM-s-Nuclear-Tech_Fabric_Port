@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["ISI"," B "," I "],"key":{"I":"#hbm:ingot/starmetal","S":"hbm:ring_starmetal","B":"hbm:cobalt_decorated_pickaxe"},"result":{"id":"hbm:starmetal_pickaxe","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["GPP","WCS","WBB"],"key":{"W":"#hbm:wirefine/gold","P":"#hbm:ingot/anyrubber","C":"hbm:circuit__8","G":"minecraft:gold_ingot","S":"#hbm:plate/steel","B":"#hbm:ingot/beryllium"},"result":{"id":"hbm:geiger_counter","count":1}}

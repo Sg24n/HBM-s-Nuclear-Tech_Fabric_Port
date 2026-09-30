@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/weaponsteel","#hbm:platetriple/ferrouranium","#hbm:platetriple/ferrouranium","#hbm:platetriple/ferrouranium","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__10","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" C ","BRS"," MG"],"key":{"G":"#hbm:grip/wood","B":"#hbm:barrelheavy/ferrouranium","R":"#hbm:receiverheavy/ferrouranium","M":"#hbm:gunmechanism/weaponsteel","C":"hbm:weapon_mod_special__1","S":"#hbm:stock/wood"},"result":{"id":"hbm:gun_amat","count":1}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" R ","SSS"],"key":{"R":"hbm:rail_large_straight","S":"#minecraft:slabs"},"result":{"id":"hbm:rail_large_ramp","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:rail_large_straight"],"result":{"id":"hbm:rail_large_straight_short","count":5}}

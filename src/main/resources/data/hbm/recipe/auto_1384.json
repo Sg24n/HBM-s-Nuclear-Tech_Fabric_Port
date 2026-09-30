@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","CTC","CCC"],"key":{"C":"#hbm:ingot/anyrubber","T":"hbm:mp_fuselage_15_kerosene"},"result":{"id":"hbm:mp_fuselage_15_kerosene_insulation","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BBS","BHS"],"key":{"B":"#hbm:bolt/steel","S":"minecraft:stick","H":"#hbm:plate/durasteel"},"result":{"id":"hbm:weapon_mod_special__2","count":1}}

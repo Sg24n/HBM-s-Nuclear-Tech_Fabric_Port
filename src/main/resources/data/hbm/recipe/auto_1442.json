@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" W ","DSD","DTD"],"key":{"W":"#hbm:wiredense/magnetizedtungsten","D":"#hbm:platetriple/saturnite","S":"hbm:powder_power","T":"hbm:crystal_trixite"},"result":{"id":"hbm:battery_trixite","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":[" I ","GIG","CCC"],"key":{"I":"#hbm:ingot/tungsten","G":"hbm:cordite","C":"#hbm:ingot/copper"},"result":{"id":"hbm:ammo_shell__2","count":6}}

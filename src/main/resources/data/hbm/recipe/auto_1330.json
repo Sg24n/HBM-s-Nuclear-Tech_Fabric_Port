@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:gunmechanism/gunmetal","#hbm:platetriple/steel","#hbm:platetriple/steel","#hbm:platetriple/steel","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__2","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BBB","PGM"],"key":{"B":"#hbm:barrelheavy/workersalloy","P":"#hbm:platetriple/steel","G":"#hbm:grip/workersalloy","M":"#hbm:gunmechanism/gunmetal"},"result":{"id":"hbm:gun_panzerschreck","count":1}}

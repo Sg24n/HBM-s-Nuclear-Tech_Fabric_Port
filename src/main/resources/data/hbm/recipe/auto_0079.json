@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" S "," IS","I  "],"key":{"S":"#hbm:ingot/steel","I":"minecraft:iron_ingot"},"result":{"id":"hbm:wrench","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:plant_flower__3"],"result":{"id":"minecraft:string","count":3}}

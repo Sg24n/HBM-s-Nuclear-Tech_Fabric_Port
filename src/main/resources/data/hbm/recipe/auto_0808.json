@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["OOO","PDP","OOO"],"key":{"O":"#hbm:plate/iron","P":"hbm:plate_polymer","D":"hbm:ducttape"},"result":{"id":"hbm:cladding_iron","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:catalytic_converter"],"result":{"id":"hbm:crackpipe","count":1}}

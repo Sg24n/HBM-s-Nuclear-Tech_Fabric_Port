@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["CCC","III"," S "],"key":{"C":"hbm:coil_copper","I":"hbm:plate_polymer","S":"#hbm:ingot/anyresistantalloy"},"result":{"id":"hbm:red_connector_super","count":2}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:red_cable_classic"],"result":{"id":"hbm:red_cable","count":1}}

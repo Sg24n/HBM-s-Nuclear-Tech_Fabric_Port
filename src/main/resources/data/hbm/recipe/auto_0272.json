@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["S S","SIS","S S"],"key":{"S":"#hbm:ingot/steel","I":"#hbm:plate/iron"},"result":{"id":"hbm:rail_highspeed","count":16}}
+{"type":"minecraft:crafting_shaped","pattern":["F F","SSS"],"key":{"S":"#minecraft:slabs","F":"minecraft:oak_fence"},"result":{"id":"hbm:wood_structure__2","count":16}}

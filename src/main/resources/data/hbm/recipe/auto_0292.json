@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","SRS"," P "],"key":{"P":"minecraft:paper","S":"hbm:solid_fuel_bf","R":"minecraft:redstone"},"result":{"id":"hbm:solid_fuel_presto_bf","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:water_bucket","minecraft:glowstone_dust","#hbm:plate/steel"],"result":{"id":"hbm:pellet_gas","count":2}}

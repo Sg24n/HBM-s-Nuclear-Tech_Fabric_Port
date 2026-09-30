@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["PCP","PCP","PCP"],"key":{"P":"hbm:plate_polymer","C":"#hbm:ingot/copper"},"result":{"id":"hbm:cm_heat","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:launch_code_piece","hbm:circuit__9"],"result":{"id":"hbm:launch_code","count":1}}

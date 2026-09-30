@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:steel_wall","hbm:steel_wall"],"result":{"id":"hbm:steel_corner","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["S S","SSS","S S"],"key":{"S":"#hbm:ingot/steel"},"result":{"id":"hbm:steel_poles","count":16}}

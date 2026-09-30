@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["LLL","L#L","LLL"],"key":{"L":"#hbm:plate/lead","#":"hbm:tank_steel"},"result":{"id":"hbm:machine_storage_drum","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["R"],"key":{"R":"hbm:rbmk_blank"},"result":{"id":"hbm:deco_rbmk","count":8}}

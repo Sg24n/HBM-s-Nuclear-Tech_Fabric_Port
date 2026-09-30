@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["FBF","BFB","FBF"],"key":{"F":"minecraft:iron_bars","B":"hbm:brick_concrete"},"result":{"id":"hbm:reinforced_brick","count":4}}
+{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:stone","minecraft:stone","minecraft:stone","hbm:powder_limestone"],"result":{"id":"hbm:lightstone","count":4}}

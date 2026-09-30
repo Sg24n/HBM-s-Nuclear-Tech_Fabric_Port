@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["minecraft:spider_eye","minecraft:redstone","minecraft:quartz"],"result":{"id":"hbm:powder_poison","count":4}}
+{"type":"minecraft:crafting_shaped","pattern":[" R ","SSS"],"key":{"R":"hbm:rail_large_straight","S":"#minecraft:slabs"},"result":{"id":"hbm:rail_large_ramp","count":1}}

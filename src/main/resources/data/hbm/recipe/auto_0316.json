@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PBP","PDP"],"key":{"P":"#hbm:plate/saturnite","D":"minecraft:diamond","B":"#hbm:bolt/durasteel"},"result":{"id":"hbm:padlock_unbreakable","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["PKP","DTD","PKP"],"key":{"P":"#hbm:plate/gold","K":"hbm:key","D":"#hbm:dust/workersalloy","T":"hbm:screwdriver"},"result":{"id":"hbm:key_kit","count":1}}

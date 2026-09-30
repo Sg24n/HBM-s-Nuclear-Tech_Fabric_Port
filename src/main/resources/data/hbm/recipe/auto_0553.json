@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":[" P ","PIP"," P "],"key":{"P":"#hbm:plate/steel","I":"hbm:plate_polymer"},"result":{"id":"hbm:filing_cabinet__1","count":1}}
+{"type":"minecraft:crafting_shapeless","ingredients":["hbm:ingot_chainsteel","hbm:ingot_bismuth","hbm:gem_alexandrite","hbm:gem_alexandrite"],"result":{"id":"hbm:parts_legendary__1","count":1}}

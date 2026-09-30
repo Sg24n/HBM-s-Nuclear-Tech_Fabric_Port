@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["#hbm:plate/saturnite","#hbm:platetriple/saturnite","hbm:ducttape"],"result":{"id":"hbm:weapon_mod_generic__15","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["BRM","  G"],"key":{"B":"#hbm:barrellight/anyresistantalloy","R":"#hbm:receiverlight/anyresistantalloy","M":"#hbm:gunmechanism/weaponsteel","G":"#hbm:grip/anyplastic"},"result":{"id":"hbm:gun_lag","count":1}}

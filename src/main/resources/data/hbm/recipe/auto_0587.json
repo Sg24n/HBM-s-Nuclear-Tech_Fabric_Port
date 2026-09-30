@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["BGB","GRG","BGB"],"key":{"G":"hbm:block_graphite","R":"hbm:rbmk_rod","B":"hbm:nugget_bismuth"},"result":{"id":"hbm:rbmk_rod_mod","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["##","##"],"key":{"#":"minecraft:gold_ingot"},"result":{"id":"hbm:plate_gold","count":4}}

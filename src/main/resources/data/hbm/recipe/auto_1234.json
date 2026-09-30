@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","pattern":["I I","ICI","GGG"],"key":{"I":"#hbm:plate/iron","G":"#hbm:plate/gold","C":"hbm:circuit__9"},"result":{"id":"hbm:linker","count":1}}
+{"type":"minecraft:crafting_shaped","pattern":["ZLZ","L L","ZLZ"],"key":{"Z":"#hbm:wirefine/zirconium","L":"#hbm:wirefine/lead"},"result":{"id":"hbm:icf_pellet_empty","count":1}}

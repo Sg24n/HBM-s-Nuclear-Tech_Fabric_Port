@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shapeless","ingredients":["hbm:parts_legendary__2"],"result":{"id":"hbm:parts_legendary__1","count":3}}
+{"type":"minecraft:crafting_shaped","pattern":["S","C","P"],"key":{"S":"hbm:crt_display","C":"hbm:circuit__8","P":"#hbm:plate/steel"},"result":{"id":"hbm:radar_linker","count":1}}

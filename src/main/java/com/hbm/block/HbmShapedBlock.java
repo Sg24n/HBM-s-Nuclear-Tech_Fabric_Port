@@ -29,4 +29,14 @@ public class HbmShapedBlock extends Block {
 	public VoxelShape getCollisionShape(BlockState state, BlockGetter level, BlockPos pos, CollisionContext context) {
 		return shape(state, level, pos, context, super.getCollisionShape(state, level, pos, context));
 	}
+
+	@Override
+	protected int getLightDampening(BlockState state) {
+		return 0;
+	}
+
+	@Override
+	protected boolean propagatesSkylightDown(BlockState state) {
+		return true;
+	}
 }

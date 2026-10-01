@@ -1,0 +1,722 @@
+{
+	"blast_door": {
+		"east": 90,
+		"north": 90,
+		"south": 90,
+		"west": 90
+	},
+	"boat": {
+		"east": 90,
+		"north": 0,
+		"south": 270,
+		"west": 270
+	},
+	"bomb_multi": {
+		"east": 270,
+		"north": 0,
+		"south": 180,
+		"west": 90
+	},
+	"boxcar": {
+		"east": 90,
+		"north": 0,
+		"south": 270,
+		"west": 270
+	},
+	"cargo_elevator": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"chimney_brick": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"chimney_industrial": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"compact_launcher": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"dfc_emitter": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"dfc_injector": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"dfc_receiver": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"dfc_stabilizer": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"fan": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"floodlight": {
+		"east": 270,
+		"north": 270,
+		"south": 270,
+		"west": 270
+	},
+	"fluid_pump": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"fraction_spacer": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"furnace_combination": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"furnace_iron": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"fusion_coupler": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"fusion_plasma_forge": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"fusion_torus": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"geiger": {
+		"east": 90,
+		"north": 0,
+		"south": 180,
+		"west": 270
+	},
+	"heater_oilburner": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"lamp_demon": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"lantern": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_autosaw": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_bat9000": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_battery_redd": {
+		"east": 180,
+		"north": 90,
+		"south": 270,
+		"west": 0
+	},
+	"machine_bigasstank": {
+		"east": 180,
+		"north": 90,
+		"south": 270,
+		"west": 0
+	},
+	"machine_boiler": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_chungus": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_coker": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_cyclotron": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_deuterium_tower": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_electrolyser": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_excavator": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_fel": {
+		"east": 90,
+		"north": 0,
+		"south": 180,
+		"west": 270
+	},
+	"machine_flare": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"machine_fluidtank": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_forcefield": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"machine_fracking_tower": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"machine_fraction_tower": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_hephaestus": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_hydrotreater": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_industrial_boiler": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_industrial_generator": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_industrial_turbine": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_large_turbine": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_liquefactor": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_microwave": {
+		"east": 90,
+		"north": 0,
+		"south": 180,
+		"west": 270
+	},
+	"machine_mining_laser": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_missile_assembly": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_mixer": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_orbus": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_ore_slopper": {
+		"east": 90,
+		"north": 0,
+		"south": 180,
+		"west": 270
+	},
+	"machine_press": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"machine_pyrooven": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_radar": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"machine_radar_large": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"machine_radiolysis": {
+		"east": 90,
+		"north": 180,
+		"south": 0,
+		"west": 270
+	},
+	"machine_reactor_small": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"machine_refinery": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"machine_satlink": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"machine_sawmill": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_steam_engine": {
+		"east": 180,
+		"north": 90,
+		"south": 270,
+		"west": 0
+	},
+	"machine_stirling": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_stirling_creative": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_stirling_steel": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_storage_drum": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_strand_caster": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_thresher": {
+		"east": 90,
+		"north": 0,
+		"south": 180,
+		"west": 270
+	},
+	"machine_tower_large": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_tower_small": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_vacuum_distill": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"machine_well": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"machine_wood_burner": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"mine_ap": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"mine_fat": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"mine_he": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"mine_naval": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"mine_shrap": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"nuke_fleija": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"nuke_gadget": {
+		"east": 90,
+		"north": 0,
+		"south": 180,
+		"west": 270
+	},
+	"nuke_man": {
+		"east": 180,
+		"north": 90,
+		"south": 270,
+		"west": 0
+	},
+	"nuke_mike": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"nuke_n2": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"nuke_prototype": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"nuke_solinium": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"pa_dipole": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"pipe_anchor": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"pump_electric": {
+		"east": 180,
+		"north": 90,
+		"south": 270,
+		"west": 0
+	},
+	"pump_steam": {
+		"east": 180,
+		"north": 90,
+		"south": 270,
+		"west": 0
+	},
+	"rbmk_autoloader": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"red_connector": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"red_connector_super": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"red_pylon": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"red_pylon_large": {
+		"east": 315,
+		"north": 270,
+		"south": 0,
+		"west": 225
+	},
+	"red_pylon_medium_steel": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"red_pylon_medium_steel_transformer": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"red_pylon_medium_wood": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"red_pylon_medium_wood_transformer": {
+		"east": 270,
+		"north": 180,
+		"south": 0,
+		"west": 90
+	},
+	"red_pylon_steel": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"sat_dock": {
+		"east": 90,
+		"north": 0,
+		"south": 270,
+		"west": 270
+	},
+	"soyuz_capsule": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"substation": {
+		"east": 0,
+		"north": 0,
+		"south": 270,
+		"west": 0
+	},
+	"tesla": {
+		"east": 180,
+		"north": 180,
+		"south": 180,
+		"west": 180
+	},
+	"turret_arty": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_chekhov": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_friendly": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_fritz": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_himars": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_howard": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_howard_damaged": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_jeremy": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_maxwell": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_richard": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_sentry": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"turret_tauon": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"watz": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	},
+	"watz_pump": {
+		"east": 0,
+		"north": 0,
+		"south": 0,
+		"west": 0
+	}
+}

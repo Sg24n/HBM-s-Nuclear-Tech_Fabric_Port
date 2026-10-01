@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/arc_furnace.obj","texture":"hbm:block/models/machines/arc_furnace","normalize":false,"parts":["Cable1","Cable2","Cable3","Electrode1","Electrode2","Electrode3","Furnace","Lid","Ring1","Ring2","Ring3"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/arc_furnace.obj","texture":"hbm:block/models/machines/arc_furnace","normalize":false,"parts":["Cable1","Cable2","Cable3","Electrode1","Electrode2","Electrode3","Furnace","Lid","Ring1","Ring2","Ring3"],"translate":[0.5,0.0,0.5]}

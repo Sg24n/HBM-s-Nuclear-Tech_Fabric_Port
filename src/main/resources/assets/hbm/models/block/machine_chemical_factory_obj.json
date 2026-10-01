@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/chemical_factory.obj","texture":"hbm:block/models/machines/chemical_factory","normalize":false,"parts":["Base","Fan1","Fan2","Frame"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/chemical_factory.obj","texture":"hbm:block/models/machines/chemical_factory","normalize":false,"parts":["Base","Fan1","Fan2","Frame"],"translate":[0.5,0.0,0.5]}

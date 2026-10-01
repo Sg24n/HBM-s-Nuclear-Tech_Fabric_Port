@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/furnace_iron.obj","texture":"hbm:block/models/machines/furnace_iron","normalize":false,"parts":["Main","Off"],"alpha":"translucent"}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/furnace_iron.obj","texture":"hbm:block/models/machines/furnace_iron","normalize":false,"parts":["Main","Off"],"alpha":"translucent","translate":[0.5,0.0,0.5]}

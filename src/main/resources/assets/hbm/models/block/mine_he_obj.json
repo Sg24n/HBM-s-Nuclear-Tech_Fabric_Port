@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/marelet.obj","texture":"hbm:block/models/bombs/mine_marelet","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/marelet.obj","texture":"hbm:block/models/bombs/mine_marelet","normalize":false,"translate":[0.5,0.0,0.5]}

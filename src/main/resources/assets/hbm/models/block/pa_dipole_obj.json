@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/particleaccelerator/dipole.obj","texture":"hbm:block/models/particleaccelerator/dipole","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/particleaccelerator/dipole.obj","texture":"hbm:block/models/particleaccelerator/dipole","normalize":false,"translate":[0.5,0.0,0.5]}

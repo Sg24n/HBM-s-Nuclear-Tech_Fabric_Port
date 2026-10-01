@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/hephaestus.obj","texture":"hbm:block/models/machines/hephaestus","normalize":false,"parts":["Core","Main","Rotor"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/hephaestus.obj","texture":"hbm:block/models/machines/hephaestus","normalize":false,"parts":["Core","Main","Rotor"],"translate":[0.5,0.0,0.5]}

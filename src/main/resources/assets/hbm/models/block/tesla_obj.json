@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/tesla.obj","texture":"hbm:block/models/tesla","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/tesla.obj","texture":"hbm:block/models/tesla","normalize":false,"translate":[0.5,0.0,0.5]}

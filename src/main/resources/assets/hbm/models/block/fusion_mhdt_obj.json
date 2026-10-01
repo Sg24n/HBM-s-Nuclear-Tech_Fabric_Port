@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/fusion/mhdt.obj","texture":"hbm:block/models/fusion/mhdt","normalize":false,"parts":["Coils","Turbine"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/fusion/mhdt.obj","texture":"hbm:block/models/fusion/mhdt","normalize":false,"parts":["Coils","Turbine"],"translate":[0.5,0.0,0.5]}

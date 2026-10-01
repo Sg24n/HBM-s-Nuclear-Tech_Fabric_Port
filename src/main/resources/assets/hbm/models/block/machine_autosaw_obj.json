@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/autosaw.obj","texture":"hbm:block/models/machines/autosaw","normalize":false,"parts":["ArmLower","ArmTip","ArmUpper","Base","Engine","Main","Sawblade"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/autosaw.obj","texture":"hbm:block/models/machines/autosaw","normalize":false,"parts":["ArmLower","ArmTip","ArmUpper","Base","Engine","Main","Sawblade"],"translate":[0.5,0.0,0.5]}

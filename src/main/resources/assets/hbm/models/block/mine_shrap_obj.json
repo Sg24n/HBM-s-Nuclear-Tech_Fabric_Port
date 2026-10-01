@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/ap_mine.obj","texture":"hbm:block/models/bombs/mine_shrapnel","normalize":false,"scale":0.375}
+{"fabric:type":"hbm:obj","obj":"hbm:models/bombs/ap_mine.obj","texture":"hbm:block/models/bombs/mine_shrapnel","normalize":false,"scale":0.375,"translate":[0.5,0.0,0.5]}

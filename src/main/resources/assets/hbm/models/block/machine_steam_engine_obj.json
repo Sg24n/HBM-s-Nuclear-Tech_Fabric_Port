@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/steam_engine.obj","texture":"hbm:block/models/machines/steam_engine","normalize":false,"parts":["Base","Flywheel","Piston","Shaft","Transmission"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/steam_engine.obj","texture":"hbm:block/models/machines/steam_engine","normalize":false,"parts":["Base","Flywheel","Piston","Shaft","Transmission"],"translate":[0.5,0.0,0.5]}

@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/machines/radar.obj","texture":"hbm:block/models/machines/radar_base","parts":["Base"]},{"obj":"hbm:models/machines/radar.obj","texture":"hbm:block/models/machines/radar_dish","parts":["Dish"]}]}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/machines/radar.obj","texture":"hbm:block/models/machines/radar_base","parts":["Base"]},{"obj":"hbm:models/machines/radar.obj","texture":"hbm:block/models/machines/radar_dish","parts":["Dish"]}],"translate":[0.5,0.0,0.5]}

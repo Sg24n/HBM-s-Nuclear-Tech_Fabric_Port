@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/fusion/torus.obj","texture":"hbm:block/models/fusion/torus","normalize":false,"parts":["Magnet","Torus"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/fusion/torus.obj","texture":"hbm:block/models/fusion/torus","normalize":false,"parts":["Magnet","Torus"],"translate":[0.5,0.0,0.5]}

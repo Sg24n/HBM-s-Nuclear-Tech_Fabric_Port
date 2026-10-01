@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/pumpjack.obj","texture":"hbm:block/models/machines/pumpjack","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/pumpjack.obj","texture":"hbm:block/models/machines/pumpjack","normalize":false,"translate":[0.5,0.0,0.5]}

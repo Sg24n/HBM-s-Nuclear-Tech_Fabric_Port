@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/press_body.obj","texture":"hbm:block/models/press_body"},{"obj":"hbm:models/press_head.obj","texture":"hbm:block/models/press_head"}]}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/press_body.obj","texture":"hbm:block/models/press_body"},{"obj":"hbm:models/press_head.obj","texture":"hbm:block/models/press_head"}],"translate":[0.5,0.0,0.5]}

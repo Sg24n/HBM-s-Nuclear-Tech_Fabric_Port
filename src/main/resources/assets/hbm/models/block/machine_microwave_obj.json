@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/microwave.obj","texture":"hbm:block/models/machines/microwave","normalize":false,"parts":["mainbody_Cube.001","window_Cube.002"],"alpha":"translucent"}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/microwave.obj","texture":"hbm:block/models/machines/microwave","normalize":false,"parts":["mainbody_Cube.001","window_Cube.002"],"alpha":"translucent","translate":[0.5,0.0,0.5]}

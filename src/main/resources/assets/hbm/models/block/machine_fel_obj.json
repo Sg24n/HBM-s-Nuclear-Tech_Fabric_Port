@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/fel.obj","texture":"hbm:block/models/machines/fel","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/fel.obj","texture":"hbm:block/models/machines/fel","normalize":false,"translate":[0.5,0.0,0.5]}

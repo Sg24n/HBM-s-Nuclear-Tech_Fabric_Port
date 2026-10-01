@@ -33,10 +33,13 @@ public final class ObjUnbakedModel implements UnbakedModel {
 
 	private final List<ObjCompositeGeometry.Layer> layers;
 	private final com.mojang.blaze3d.platform.Transparency transparency;
+	private final Vector3f translate;
 
-	public ObjUnbakedModel(List<ObjCompositeGeometry.Layer> layers, com.mojang.blaze3d.platform.Transparency transparency) {
+	public ObjUnbakedModel(List<ObjCompositeGeometry.Layer> layers, com.mojang.blaze3d.platform.Transparency transparency,
+			Vector3f translate) {
 		this.layers = layers;
 		this.transparency = transparency;
+		this.translate = translate;
 	}
 
 	@Override
@@ -51,7 +54,7 @@ public final class ObjUnbakedModel implements UnbakedModel {
 
 	@Override
 	public UnbakedGeometry geometry() {
-		return new ObjCompositeGeometry(layers, transparency);
+		return new ObjCompositeGeometry(layers, transparency, translate);
 	}
 
 	@Override
@@ -122,8 +125,16 @@ public final class ObjUnbakedModel implements UnbakedModel {
 						Identifier.parse(json.get("texture").getAsString()),
 						List.copyOf(readParts(json)), defaultScale));
 			}
-			return new ObjUnbakedModel(List.copyOf(layers), transparency(json));
+			return new ObjUnbakedModel(List.copyOf(layers), transparency(json), translate(json));
 		}
+	}
+
+	private static Vector3f translate(JsonObject json) {
+		if (!json.has("translate")) {
+			return new Vector3f();
+		}
+		JsonArray array = json.getAsJsonArray("translate");
+		return new Vector3f(array.get(0).getAsFloat(), array.get(1).getAsFloat(), array.get(2).getAsFloat());
 	}
 
 	private static com.mojang.blaze3d.platform.Transparency transparency(JsonObject json) {

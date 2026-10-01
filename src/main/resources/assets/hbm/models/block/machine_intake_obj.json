@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/intake.obj","texture":"hbm:block/models/machines/intake","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/intake.obj","texture":"hbm:block/models/machines/intake","normalize":false,"translate":[0.5,0.0,0.5]}

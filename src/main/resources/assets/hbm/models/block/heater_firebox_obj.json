@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/firebox.obj","texture":"hbm:block/models/machines/firebox","normalize":false,"parts":["Door","Main"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/firebox.obj","texture":"hbm:block/models/machines/firebox","normalize":false,"parts":["Door","Main"],"translate":[0.5,0.0,0.5]}

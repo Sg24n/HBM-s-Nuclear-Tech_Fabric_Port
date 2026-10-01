@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/particleaccelerator/source.obj","texture":"hbm:block/models/particleaccelerator/source","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/particleaccelerator/source.obj","texture":"hbm:block/models/particleaccelerator/source","normalize":false,"translate":[0.5,0.0,0.5]}

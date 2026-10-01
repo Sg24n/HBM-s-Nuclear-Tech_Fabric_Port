@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/igen.obj","texture":"hbm:block/models/machines/igen","normalize":false,"parts":["Body","Rotor"],"scale":0.1667}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/igen.obj","texture":"hbm:block/models/machines/igen","normalize":false,"parts":["Body","Rotor"],"scale":0.1667,"translate":[0.5,0.0,0.5]}

@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/stirling.obj","texture":"hbm:block/models/machines/stirling_creative","normalize":false,"parts":["Base","Cog","CogSmall","Piston"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/stirling.obj","texture":"hbm:block/models/machines/stirling_creative","normalize":false,"parts":["Base","Cog","CogSmall","Piston"],"translate":[0.5,0.0,0.5]}

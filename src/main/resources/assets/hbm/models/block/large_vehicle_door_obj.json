@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/pheodoors/vehicle_door.obj","texture":"hbm:block/models/pheodoors/vehicle_door","normalize":false,"alpha":"translucent"}
+{"fabric:type":"hbm:obj","obj":"hbm:models/pheodoors/vehicle_door.obj","texture":"hbm:block/models/pheodoors/vehicle_door","normalize":false,"alpha":"translucent","translate":[0.5,0.0,0.5]}

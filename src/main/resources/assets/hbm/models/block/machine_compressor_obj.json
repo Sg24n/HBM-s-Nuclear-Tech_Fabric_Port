@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/compressor.obj","texture":"hbm:block/models/machines/compressor","normalize":false,"parts":["Compressor","Fan","Pump"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/compressor.obj","texture":"hbm:block/models/machines/compressor","normalize":false,"parts":["Compressor","Fan","Pump"],"translate":[0.5,0.0,0.5]}

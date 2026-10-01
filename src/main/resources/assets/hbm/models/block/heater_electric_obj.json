@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/electric_heater.obj","texture":"hbm:block/models/machines/electric_heater","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/electric_heater.obj","texture":"hbm:block/models/machines/electric_heater","normalize":false,"translate":[0.5,0.0,0.5]}

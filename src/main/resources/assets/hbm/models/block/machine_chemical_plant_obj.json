@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/chemical_plant.obj","texture":"hbm:block/models/machines/chemical_plant","normalize":false,"parts":["Base","Frame","Slider","Spinner"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/chemical_plant.obj","texture":"hbm:block/models/machines/chemical_plant","normalize":false,"parts":["Base","Frame","Slider","Spinner"],"translate":[0.5,0.0,0.5]}

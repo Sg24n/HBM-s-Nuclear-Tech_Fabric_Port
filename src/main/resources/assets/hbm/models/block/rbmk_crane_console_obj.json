@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/rbmk/crane_console.obj","texture":"hbm:block/models/machines/crane_console","normalize":false,"parts":["Console_Coonsole","JoyStick","Meter1","Meter2"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/rbmk/crane_console.obj","texture":"hbm:block/models/machines/crane_console","normalize":false,"parts":["Console_Coonsole","JoyStick","Meter1","Meter2"],"translate":[0.5,0.0,0.5]}

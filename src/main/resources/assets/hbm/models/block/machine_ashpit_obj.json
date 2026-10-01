@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/heating_oven.obj","texture":"hbm:block/models/machines/heating_oven","normalize":false,"parts":["Door","Main"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/heating_oven.obj","texture":"hbm:block/models/machines/heating_oven","normalize":false,"parts":["Door","Main"],"translate":[0.5,0.0,0.5]}

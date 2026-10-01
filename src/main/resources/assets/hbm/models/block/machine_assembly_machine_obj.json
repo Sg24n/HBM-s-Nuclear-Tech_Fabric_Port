@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/assembly_machine.obj","texture":"hbm:block/models/machines/assembly_machine","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/assembly_machine.obj","texture":"hbm:block/models/machines/assembly_machine","normalize":false,"translate":[0.5,0.0,0.5]}

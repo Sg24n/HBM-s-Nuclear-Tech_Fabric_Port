@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/mining_drill.obj","texture":"hbm:block/models/machines/mining_drill","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/mining_drill.obj","texture":"hbm:block/models/machines/mining_drill","normalize":false,"translate":[0.5,0.0,0.5]}

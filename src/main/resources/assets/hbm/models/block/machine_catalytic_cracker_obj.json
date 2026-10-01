@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/catalytic_cracker.obj","texture":"hbm:block/models/machines/catalytic_cracker","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/catalytic_cracker.obj","texture":"hbm:block/models/machines/catalytic_cracker","normalize":false,"translate":[0.5,0.0,0.5]}

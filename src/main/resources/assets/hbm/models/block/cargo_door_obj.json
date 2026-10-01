@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/pheodoors/cargo_door.obj","texture":"hbm:block/models/pheodoors/cargo_door","normalize":false,"parts":["DoorBot","DoorTop","Frame"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/pheodoors/cargo_door.obj","texture":"hbm:block/models/pheodoors/cargo_door","normalize":false,"parts":["DoorBot","DoorTop","Frame"],"translate":[0.5,0.0,0.5]}

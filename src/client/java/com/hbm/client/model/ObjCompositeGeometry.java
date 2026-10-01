@@ -26,10 +26,12 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 
 	private final List<Layer> layers;
 	private final Transparency transparency;
+	private final Vector3f translate;
 
-	public ObjCompositeGeometry(List<Layer> layers, Transparency transparency) {
+	public ObjCompositeGeometry(List<Layer> layers, Transparency transparency, Vector3f translate) {
 		this.layers = layers;
 		this.transparency = transparency;
+		this.translate = translate;
 	}
 
 	private static Direction direction(ObjModel.Face face) {
@@ -49,8 +51,8 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 		return normal.z > 0.0F ? Direction.SOUTH : Direction.NORTH;
 	}
 
-	private static Vector3f scale(Vector3f p, float factor) {
-		return factor == 1.0F ? p : new Vector3f(p.x * factor, p.y * factor, p.z * factor);
+	private Vector3f place(Vector3f p, float factor) {
+		return new Vector3f(p.x * factor + translate.x, p.y * factor + translate.y, p.z * factor + translate.z);
 	}
 
 	@Override
@@ -67,7 +69,7 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 				}
 				Direction faceDirection = direction(face);
 				builder.addCulledFace(faceDirection, new BakedQuad(
-						scale(face.p0(), factor), scale(face.p1(), factor), scale(face.p2(), factor), scale(face.p3(), factor),
+						place(face.p0(), factor), place(face.p1(), factor), place(face.p2(), factor), place(face.p3(), factor),
 						UVPair.pack(sprite.getU(face.u0()), sprite.getV(face.v0())),
 						UVPair.pack(sprite.getU(face.u1()), sprite.getV(face.v1())),
 						UVPair.pack(sprite.getU(face.u2()), sprite.getV(face.v2())),

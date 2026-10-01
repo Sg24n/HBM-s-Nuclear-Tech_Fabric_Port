@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/condenser.obj","texture":"hbm:block/models/machines/condenser","normalize":false}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/condenser.obj","texture":"hbm:block/models/machines/condenser","normalize":false,"translate":[0.5,0.0,0.5]}

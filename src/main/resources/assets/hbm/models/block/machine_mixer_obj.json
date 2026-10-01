@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/mixer.obj","texture":"hbm:block/models/machines/mixer","normalize":false,"parts":["Main","Mixer"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/mixer.obj","texture":"hbm:block/models/machines/mixer","normalize":false,"parts":["Main","Mixer"],"translate":[0.5,0.0,0.5]}

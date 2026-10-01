@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","obj":"hbm:models/machines/vending_machine.obj","texture":"hbm:block/models/machines/vending_machine","normalize":false,"parts":["Obamna"]}
+{"fabric:type":"hbm:obj","obj":"hbm:models/machines/vending_machine.obj","texture":"hbm:block/models/machines/vending_machine","normalize":false,"parts":["Obamna"],"translate":[0.5,0.0,0.5]}

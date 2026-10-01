@@ -1,1 +1,1 @@
-{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/fluidtank.obj","texture":"hbm:block/models/tank","parts":["Frame"]},{"obj":"hbm:models/fluidtank.obj","texture":"hbm:block/models/tank/tank_none","parts":["Tank"]}]}
+{"fabric:type":"hbm:obj","normalize":false,"layers":[{"obj":"hbm:models/fluidtank.obj","texture":"hbm:block/models/tank","parts":["Frame"]},{"obj":"hbm:models/fluidtank.obj","texture":"hbm:block/models/tank/tank_none","parts":["Tank"]}],"translate":[0.5,0.0,0.5]}

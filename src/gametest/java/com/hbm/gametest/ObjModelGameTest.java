@@ -109,6 +109,11 @@ public class ObjModelGameTest implements FabricClientGameTest {
 			world.getServer().runCommand("execute at @a run setblock ^2 ^1 ^4 hbm:snowglobe__1[facing=south] replace");
 			context.waitTicks(40);
 			context.takeScreenshot("trinkets_close");
+
+			world.getServer().runCommand("execute at @a run setblock ^-1 ^1 ^6 hbm:machine_press[facing=north] replace");
+			world.getServer().runCommand("execute at @a run setblock ^2 ^1 ^6 hbm:machine_press[facing=east] replace");
+			context.waitTicks(40);
+			context.takeScreenshot("facing_test");
 		}
 	}
 

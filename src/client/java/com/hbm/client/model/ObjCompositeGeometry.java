@@ -34,8 +34,8 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 		this.translate = translate;
 	}
 
-	private static Direction direction(ObjModel.Face face) {
-		Vector3f normal = new Vector3f(face.p1()).sub(face.p0()).cross(new Vector3f(face.p2()).sub(face.p0()));
+	private static Direction direction(Vector3f p0, Vector3f p1, Vector3f p2) {
+		Vector3f normal = new Vector3f(p1).sub(p0).cross(new Vector3f(p2).sub(p0));
 		float x = Math.abs(normal.x);
 		float y = Math.abs(normal.y);
 		float z = Math.abs(normal.z);
@@ -57,6 +57,7 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 
 	@Override
 	public QuadCollection bake(TextureSlots slots, ModelBaker baker, ModelState state, ModelDebugName name) {
+		org.joml.Matrix4fc matrix = state.transformation().getMatrix();
 		QuadCollection.Builder builder = new QuadCollection.Builder();
 		for (Layer layer : layers) {
 			Material.Baked baked = baker.materials().get(new Material(layer.texture()), name);
@@ -67,9 +68,12 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 				if (!layer.parts().isEmpty() && !layer.parts().contains(face.group())) {
 					continue;
 				}
-				Direction faceDirection = direction(face);
-				builder.addCulledFace(faceDirection, new BakedQuad(
-						place(face.p0(), factor), place(face.p1(), factor), place(face.p2(), factor), place(face.p3(), factor),
+				Vector3f p0 = matrix.transformPosition(place(face.p0(), factor), new Vector3f());
+				Vector3f p1 = matrix.transformPosition(place(face.p1(), factor), new Vector3f());
+				Vector3f p2 = matrix.transformPosition(place(face.p2(), factor), new Vector3f());
+				Vector3f p3 = matrix.transformPosition(place(face.p3(), factor), new Vector3f());
+				Direction faceDirection = direction(p0, p1, p2);
+				builder.addUnculledFace(new BakedQuad(p0, p1, p2, p3,
 						UVPair.pack(sprite.getU(face.u0()), sprite.getV(face.v0())),
 						UVPair.pack(sprite.getU(face.u1()), sprite.getV(face.v1())),
 						UVPair.pack(sprite.getU(face.u2()), sprite.getV(face.v2())),

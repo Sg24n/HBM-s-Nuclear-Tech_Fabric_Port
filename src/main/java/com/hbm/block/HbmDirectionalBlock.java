@@ -8,6 +8,7 @@ import net.minecraft.world.level.block.HorizontalDirectionalBlock;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.block.state.StateDefinition;
 import net.minecraft.world.phys.shapes.CollisionContext;
+import net.minecraft.world.phys.shapes.Shapes;
 import net.minecraft.world.phys.shapes.VoxelShape;
 
 /** A horizontal-facing block with an optional custom collision shape. */
@@ -46,6 +47,11 @@ public class HbmDirectionalBlock extends HorizontalDirectionalBlock {
 	@Override
 	protected int getLightDampening(BlockState state) {
 		return 0;
+	}
+
+	@Override
+	protected VoxelShape getOcclusionShape(BlockState state) {
+		return Shapes.empty();
 	}
 
 	@Override

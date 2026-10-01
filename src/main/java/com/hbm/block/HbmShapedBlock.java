@@ -5,6 +5,7 @@ import net.minecraft.world.level.BlockGetter;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.phys.shapes.CollisionContext;
+import net.minecraft.world.phys.shapes.Shapes;
 import net.minecraft.world.phys.shapes.VoxelShape;
 
 /** A block with a custom (non full-cube) collision shape. */
@@ -38,5 +39,10 @@ public class HbmShapedBlock extends Block {
 	@Override
 	protected boolean propagatesSkylightDown(BlockState state) {
 		return true;
+	}
+
+	@Override
+	protected VoxelShape getOcclusionShape(BlockState state) {
+		return Shapes.empty();
 	}
 }

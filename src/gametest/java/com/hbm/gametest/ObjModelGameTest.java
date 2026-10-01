@@ -105,12 +105,27 @@ public class ObjModelGameTest implements FabricClientGameTest {
 			context.waitTicks(40);
 			context.takeScreenshot("special_blocks_placed");
 
-			world.getServer().runCommand("fill ^-9 ^-1 ^-6 ^9 ^-1 ^10 minecraft:light_gray_concrete replace");
-			world.getServer().runCommand("execute at @a run setblock ^-4 ^ ^3 hbm:block_steel replace");
-			world.getServer().runCommand("execute at @a run setblock ^-2 ^ ^3 hbm:bobblehead__1 replace");
-			world.getServer().runCommand("execute at @a run setblock ^2 ^ ^3 hbm:snowglobe__1 replace");
-			context.waitTicks(40);
-			context.takeScreenshot("trinkets_on_floor");
+			world.getServer().runCommand("time set noon");
+			world.getServer().runCommand("weather clear");
+			world.getServer().runCommand("fill ^-8 ^-1 ^0 ^8 ^-1 ^8 minecraft:light_gray_concrete replace");
+			world.getServer().runCommand("execute at @a run setblock ^-4 ^ ^4 hbm:block_steel replace");
+			world.getServer().runCommand("execute at @a run setblock ^-2 ^ ^4 hbm:bobblehead__1 replace");
+			world.getServer().runCommand("execute at @a run setblock ^0 ^ ^4 hbm:snowglobe__1 replace");
+			world.getServer().runCommand("execute at @a run setblock ^2 ^ ^4 minecraft:dandelion replace");
+			world.getServer().runCommand("tp @a 0 -58 4 0 80");
+			world.getServer().computeOnServer(server -> {
+				var level = server.overworld();
+				for (int x = -2; x <= 0; x += 2) {
+					var pos = new net.minecraft.core.BlockPos(x, -60, 4);
+					var state = level.getBlockState(pos);
+					if (state.isCollisionShapeFullBlock(level, pos) || state.isSolidRender()) {
+						throw new IllegalStateException("shaped block " + state + " still counts as a full/occluding cube");
+					}
+				}
+				return null;
+			});
+			context.waitTicks(60);
+			context.takeScreenshot("trinket_shadow");
 
 			world.getServer().runCommand("execute at @a run setblock ^-1 ^ ^6 hbm:machine_press[facing=north] replace");
 			world.getServer().runCommand("execute at @a run setblock ^2 ^ ^6 hbm:machine_press[facing=east] replace");

@@ -110,11 +110,11 @@ public final class ItemRegistry {
 				} else {
 					block = new Block(behaviour);
 				}
-				Registry.register(BuiltInRegistries.BLOCK, blockKey, block);
 				List<AABB> boxes = BLOCK_SHAPES.get(parts[0]);
 				if (boxes != null) {
 					HbmBlockShapes.put(block, boxes);
 				}
+				Registry.register(BuiltInRegistries.BLOCK, blockKey, block);
 				ResourceKey<Item> itemKey = ResourceKey.create(Registries.ITEM, id);
 				BlockItem item = new BlockItem(block, new Item.Properties().setId(itemKey));
 				Registry.register(BuiltInRegistries.ITEM, itemKey, item);

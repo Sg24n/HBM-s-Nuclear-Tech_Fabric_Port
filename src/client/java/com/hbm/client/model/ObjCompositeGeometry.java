@@ -51,8 +51,9 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 		return normal.z > 0.0F ? Direction.SOUTH : Direction.NORTH;
 	}
 
-	private Vector3f place(Vector3f p, float factor) {
-		return new Vector3f(p.x * factor + translate.x, p.y * factor + translate.y, p.z * factor + translate.z);
+	private Vector3f place(Vector3f p, float factor, org.joml.Matrix4fc matrix) {
+		Vector3f rotated = matrix.transformPosition(new Vector3f(p.x * factor, p.y * factor, p.z * factor), new Vector3f());
+		return new Vector3f(rotated.x + translate.x, rotated.y + translate.y, rotated.z + translate.z);
 	}
 
 	@Override
@@ -68,10 +69,10 @@ public final class ObjCompositeGeometry implements UnbakedGeometry {
 				if (!layer.parts().isEmpty() && !layer.parts().contains(face.group())) {
 					continue;
 				}
-				Vector3f p0 = matrix.transformPosition(place(face.p0(), factor), new Vector3f());
-				Vector3f p1 = matrix.transformPosition(place(face.p1(), factor), new Vector3f());
-				Vector3f p2 = matrix.transformPosition(place(face.p2(), factor), new Vector3f());
-				Vector3f p3 = matrix.transformPosition(place(face.p3(), factor), new Vector3f());
+				Vector3f p0 = place(face.p0(), factor, matrix);
+				Vector3f p1 = place(face.p1(), factor, matrix);
+				Vector3f p2 = place(face.p2(), factor, matrix);
+				Vector3f p3 = place(face.p3(), factor, matrix);
 				Direction faceDirection = direction(p0, p1, p2);
 				builder.addUnculledFace(new BakedQuad(p0, p1, p2, p3,
 						UVPair.pack(sprite.getU(face.u0()), sprite.getV(face.v0())),

@@ -29,17 +29,18 @@ import net.minecraft.resources.Identifier;
 public final class ObjUnbakedModel implements UnbakedModel {
 
 	private static final Map<String, ObjModel> CACHE = new ConcurrentHashMap<>();
-	private static final ItemTransforms TRANSFORMS = defaultTransforms();
 
 	private final List<ObjCompositeGeometry.Layer> layers;
 	private final com.mojang.blaze3d.platform.Transparency transparency;
 	private final Vector3f translate;
+	private final ItemTransforms transforms;
 
 	public ObjUnbakedModel(List<ObjCompositeGeometry.Layer> layers, com.mojang.blaze3d.platform.Transparency transparency,
-			Vector3f translate) {
+			Vector3f translate, ItemTransforms transforms) {
 		this.layers = layers;
 		this.transparency = transparency;
 		this.translate = translate;
+		this.transforms = transforms;
 	}
 
 	@Override
@@ -59,7 +60,7 @@ public final class ObjUnbakedModel implements UnbakedModel {
 
 	@Override
 	public ItemTransforms transforms() {
-		return TRANSFORMS;
+		return transforms;
 	}
 
 	private static ItemTransform transform(float rx, float ry, float rz, float tx, float ty, float tz, float scale) {
@@ -75,6 +76,44 @@ public final class ObjUnbakedModel implements UnbakedModel {
 		ItemTransform ground = transform(0.0F, 0.0F, 0.0F, 0.0F, 3.0F, 0.0F, 0.25F);
 		ItemTransform fixed = transform(0.0F, 180.0F, 0.0F, 0.0F, 0.0F, 0.0F, 0.5F);
 		return new ItemTransforms(thirdPerson, thirdPerson, firstPerson, firstPerson, head, gui, ground, fixed, fixed);
+	}
+
+	private static ItemTransforms display(JsonObject json) {
+		ItemTransforms defaults = defaultTransforms();
+		if (!json.has("display")) {
+			return defaults;
+		}
+		JsonObject display = json.getAsJsonObject("display");
+		ItemTransform thirdRight = context(display, "thirdperson_righthand", defaults.thirdPersonRightHand());
+		ItemTransform thirdLeft = context(display, "thirdperson_lefthand", defaults.thirdPersonLeftHand());
+		ItemTransform firstRight = context(display, "firstperson_righthand", defaults.firstPersonRightHand());
+		ItemTransform firstLeft = context(display, "firstperson_lefthand", defaults.firstPersonLeftHand());
+		ItemTransform head = context(display, "head", defaults.head());
+		ItemTransform gui = context(display, "gui", defaults.gui());
+		ItemTransform ground = context(display, "ground", defaults.ground());
+		ItemTransform fixed = context(display, "fixed", defaults.fixed());
+		ItemTransform fixedBottom = context(display, "fixed_from_bottom", defaults.fixedFromBottom());
+		return new ItemTransforms(thirdLeft, thirdRight, firstLeft, firstRight, head, gui, ground, fixed, fixedBottom);
+	}
+
+	private static ItemTransform context(JsonObject display, String name, ItemTransform fallback) {
+		if (!display.has(name)) {
+			return fallback;
+		}
+		JsonObject value = display.getAsJsonObject(name);
+		Vector3f rotation = vector(value, "rotation", fallback.rotation(), 1.0F);
+		Vector3f translation = vector(value, "translation", fallback.translation(), 1.0F / 16.0F);
+		Vector3f scale = vector(value, "scale", fallback.scale(), 1.0F);
+		return new ItemTransform(rotation, translation, scale);
+	}
+
+	private static Vector3f vector(JsonObject value, String key, org.joml.Vector3fc fallback, float factor) {
+		if (!value.has(key)) {
+			return new Vector3f(fallback);
+		}
+		JsonArray array = value.getAsJsonArray(key);
+		return new Vector3f(array.get(0).getAsFloat() * factor, array.get(1).getAsFloat() * factor,
+				array.get(2).getAsFloat() * factor);
 	}
 
 	public static ObjModel load(String path, boolean normalize) {
@@ -125,7 +164,7 @@ public final class ObjUnbakedModel implements UnbakedModel {
 						Identifier.parse(json.get("texture").getAsString()),
 						List.copyOf(readParts(json)), defaultScale));
 			}
-			return new ObjUnbakedModel(List.copyOf(layers), transparency(json), translate(json));
+			return new ObjUnbakedModel(List.copyOf(layers), transparency(json), translate(json), display(json));
 		}
 	}
 

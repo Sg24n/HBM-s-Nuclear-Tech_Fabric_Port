@@ -1,1 +1,1 @@
-{"variants":{"":{"model":"hbm:block/radio_autocal_obj"}}}
+{"variants":{"facing=north":{"model":"hbm:block/radio_autocal_obj","y":0},"facing=east":{"model":"hbm:block/radio_autocal_obj","y":90},"facing=south":{"model":"hbm:block/radio_autocal_obj","y":180},"facing=west":{"model":"hbm:block/radio_autocal_obj","y":270}}}

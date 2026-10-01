@@ -104,9 +104,9 @@ public final class ItemRegistry {
 				}
 				Block block;
 				if (properties[1] == 1) {
-					block = new HbmDirectionalBlock(behaviour);
+					block = new HbmDirectionalBlock(behaviour.noOcclusion());
 				} else if (BLOCK_SHAPES.containsKey(parts[0])) {
-					block = new HbmShapedBlock(behaviour);
+					block = new HbmShapedBlock(behaviour.noOcclusion());
 				} else {
 					block = new Block(behaviour);
 				}

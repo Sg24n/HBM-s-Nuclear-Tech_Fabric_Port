@@ -3,6 +3,7 @@ blast_door	0	1	0
 block_meteor_molten	11	0	0
 block_pu238	5	0	0
 boat	0	1	0
+bobblehead	0	1	0
 bomb_multi	0	1	0
 boxcar	0	1	0
 brick_jungle_lava	5	0	0
@@ -175,6 +176,7 @@ pa_rfc	0	1	90
 pa_source	0	1	90
 pile_device	0	1	0
 pipe_anchor	0	1	0
+plushie	0	1	0
 pump_electric	0	1	0
 pump_steam	0	1	0
 qe_containment	0	1	0
@@ -203,6 +205,7 @@ silo_hatch	0	1	0
 silo_hatch_large	0	1	0
 sliding_blast_door	0	1	0
 sliding_seal_door	0	1	0
+snowglobe	0	1	0
 solar_mirror	0	1	0
 soyuz_capsule	0	1	0
 struct_icf_core	15	0	0

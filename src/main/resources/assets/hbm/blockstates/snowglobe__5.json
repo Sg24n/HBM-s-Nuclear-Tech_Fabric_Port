@@ -1,1 +1,1 @@
-{"variants":{"":{"model":"hbm:block/snowglobe__5_obj"}}}
+{"variants":{"facing=north":{"model":"hbm:block/snowglobe__5_obj","y":0},"facing=east":{"model":"hbm:block/snowglobe__5_obj","y":90},"facing=south":{"model":"hbm:block/snowglobe__5_obj","y":180},"facing=west":{"model":"hbm:block/snowglobe__5_obj","y":270}}}

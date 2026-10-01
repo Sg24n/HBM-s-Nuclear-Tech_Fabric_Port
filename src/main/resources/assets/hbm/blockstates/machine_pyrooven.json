@@ -1,1 +1,1 @@
-{"variants":{"":{"model":"hbm:block/machine_pyrooven_obj"}}}
+{"variants":{"facing=north":{"model":"hbm:block/machine_pyrooven_obj","y":180},"facing=east":{"model":"hbm:block/machine_pyrooven_obj","y":270},"facing=south":{"model":"hbm:block/machine_pyrooven_obj","y":0},"facing=west":{"model":"hbm:block/machine_pyrooven_obj","y":90}}}

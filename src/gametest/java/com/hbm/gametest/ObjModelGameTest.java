@@ -18,6 +18,7 @@ public class ObjModelGameTest implements FabricClientGameTest {
 	@Override
 	public void runTest(ClientGameTestContext context) {
 		try (TestSingleplayerContext world = context.worldBuilder().create()) {
+			context.runOnClient(client -> client.options.ambientOcclusion().set(true));
 			world.getServer().runCommand("gamemode creative @a");
 			context.waitTicks(60);
 			world.getServer().runCommand("give @a " + PRESS);
@@ -104,14 +105,15 @@ public class ObjModelGameTest implements FabricClientGameTest {
 			context.waitTicks(40);
 			context.takeScreenshot("special_blocks_placed");
 
-			world.getServer().runCommand("execute at @a run setblock ^-2 ^1 ^4 hbm:bobblehead__1[facing=north] replace");
-			world.getServer().runCommand("execute at @a run setblock ^0 ^1 ^4 hbm:bobblehead__1[facing=east] replace");
-			world.getServer().runCommand("execute at @a run setblock ^2 ^1 ^4 hbm:snowglobe__1[facing=south] replace");
+			world.getServer().runCommand("fill ^-9 ^-1 ^-6 ^9 ^-1 ^10 minecraft:light_gray_concrete replace");
+			world.getServer().runCommand("execute at @a run setblock ^-4 ^ ^3 hbm:block_steel replace");
+			world.getServer().runCommand("execute at @a run setblock ^-2 ^ ^3 hbm:bobblehead__1 replace");
+			world.getServer().runCommand("execute at @a run setblock ^2 ^ ^3 hbm:snowglobe__1 replace");
 			context.waitTicks(40);
-			context.takeScreenshot("trinkets_close");
+			context.takeScreenshot("trinkets_on_floor");
 
-			world.getServer().runCommand("execute at @a run setblock ^-1 ^1 ^6 hbm:machine_press[facing=north] replace");
-			world.getServer().runCommand("execute at @a run setblock ^2 ^1 ^6 hbm:machine_press[facing=east] replace");
+			world.getServer().runCommand("execute at @a run setblock ^-1 ^ ^6 hbm:machine_press[facing=north] replace");
+			world.getServer().runCommand("execute at @a run setblock ^2 ^ ^6 hbm:machine_press[facing=east] replace");
 			context.waitTicks(40);
 			context.takeScreenshot("facing_test");
 		}
